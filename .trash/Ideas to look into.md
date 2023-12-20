@@ -1,0 +1,2 @@
+- note taking/organization
+- mind palace

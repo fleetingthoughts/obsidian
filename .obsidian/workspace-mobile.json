@@ -1,0 +1,469 @@
+{
+  "main": {
+    "id": "ef8103797fc4c1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b13a694b0cb89ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9c31017ac8f1b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbe68e854ccebaef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "c9806babfe7d3c56"
+          },
+          {
+            "id": "dd6b5f08f93c5464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7239f95f77721678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "storage/emulated/0/Download/How-to-Take-Smart-Notes-by-Sönke-Ahrens-40zol.pdf.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "2d7affbd2dbe64e0"
+          },
+          {
+            "id": "cdab5561bf73c096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91a5b6948cd7f1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "29951e96c74ec94b"
+          },
+          {
+            "id": "5231f24aa7bf1081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects to look into.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccb9c279f1cbec3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python books.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "17f45465bbe4a6b1"
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "08406a3f13ebc7b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c1e3a15d4a5773",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "PARA.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.175131784825176,
+                  "close": false
+                }
+              }
+            },
+            "group": "29951e96c74ec94b"
+          }
+        ]
+      },
+      {
+        "id": "cee7d742f4f1519b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e48f6dbb370be09",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "storage/emulated/0/Download/How-to-Take-Smart-Notes-by-Sönke-Ahrens-40zol.pdf.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.24698988970588,
+                  "lineSizeMultiplier": 1.16463694852941,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.65550605512771,
+                  "close": true
+                }
+              }
+            },
+            "group": "2d7affbd2dbe64e0"
+          }
+        ]
+      },
+      {
+        "id": "36520744735c8cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e71750627ed5814c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_Fleeting.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2075298987387664,
+                  "close": false
+                }
+              }
+            },
+            "group": "c9806babfe7d3c56"
+          }
+        ]
+      },
+      {
+        "id": "7252f1e61d963368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a72edb197a574b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_Fleeting.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "c9806babfe7d3c56"
+          }
+        ]
+      },
+      {
+        "id": "60aaa9ebae3326d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d502097f9fe81b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Python books.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2821690482360302,
+                  "close": true
+                }
+              }
+            },
+            "group": "17f45465bbe4a6b1"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96a922e392c34169",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1bfbd7359b68a91d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d1c45acbce9e7d69",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f5dc939c3946ad67",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ce9cc26ea2c6d196",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b81c389eb4d85afb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e11844ffa8492e8e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Python books.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "efadbc2fd1c062f7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Python books.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "62849804be6d931b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Python books.md"
+          }
+        }
+      },
+      {
+        "id": "329565fd64cb2d55",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "828bc6668f9ea84f",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ccb9c279f1cbec3c",
+  "lastOpenFiles": [
+    "Resources.md",
+    "README.md",
+    "Python books.md",
+    "_Fleeting.md",
+    "Subjects to look into.md",
+    "___Home.md",
+    "Trips.md",
+    "Japan.md",
+    "Physical training.md",
+    "Mental training.md",
+    "Zettalkasten.md",
+    "storage/emulated/0/Download/How-to-Take-Smart-Notes-by-Sönke-Ahrens-40zol.pdf.md",
+    "Documentaries.md",
+    "storage/emulated/0",
+    "storage/emulated",
+    "storage",
+    "storage/emulated/0/Download",
+    "Japan food.md",
+    "PARA.md",
+    "Ideas to look into.md",
+    "Untitled"
+  ]
+}
