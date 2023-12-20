@@ -11,8 +11,12 @@
             "id": "28ecaf81b836e518",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Resources.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Resources.md"
+              }
             }
           }
         ]
@@ -139,5 +148,8 @@
     }
   },
   "active": "28ecaf81b836e518",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Python books.md",
+    "___Home.md"
+  ]
 }
