@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Python books.md",
                 "mode": "preview",
                 "source": true
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources.md",
+                "file": "Python books.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,7 +380,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Resources.md",
+            "file": "Python books.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -397,7 +397,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Resources.md",
+            "file": "Python books.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -409,7 +409,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Resources.md"
+            "file": "Python books.md"
           }
         }
       },
@@ -444,8 +444,10 @@
   },
   "active": "ccb9c279f1cbec3c",
   "lastOpenFiles": [
-    "Python books.md",
     "Resources.md",
+    "/Resources.md",
+    "/Python books.md",
+    "Python books.md",
     "README.md",
     "_Fleeting.md",
     "Subjects to look into.md",
