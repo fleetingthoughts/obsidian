@@ -10,16 +10,43 @@
           {
             "id": "11c26ea121a15ec3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "___Home.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a084736738e8100b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae98ade5e4b511b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "___Home.md",
+                "file": "_Fleeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "___Home.md",
+                "file": "_Fleeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___Home.md"
+                "file": "_Fleeting.md"
               }
             }
           }
@@ -147,17 +174,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11c26ea121a15ec3",
+  "active": "a084736738e8100b",
   "lastOpenFiles": [
+    "Math.md",
+    "_Fleeting.md",
+    "Resources.md",
+    "___Home.md",
+    "2023-12-21.md",
     "Engineering.md",
     "Physics.md",
-    "Resources.md",
     "conflict-files-obsidian-git.md",
     "Python books.md",
     "Sententia.md",
     "Neils Heinrich Abel.md",
-    "Math.md",
-    "___Home.md",
     "2023-12-20.md"
   ]
 }
