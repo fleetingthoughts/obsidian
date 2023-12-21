@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89520be2df64cb7c",
+        "id": "e40cccc6b1395196",
         "type": "tabs",
         "children": [
           {
-            "id": "28ecaf81b836e518",
+            "id": "e3b23f11f5376dbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28ecaf81b836e518",
+  "active": "e3b23f11f5376dbb",
   "lastOpenFiles": [
-    "Python books.md",
-    "___Home.md"
+    "___Home.md",
+    "2023-12-20.md",
+    "Resources.md",
+    "Python books.md"
   ]
 }
