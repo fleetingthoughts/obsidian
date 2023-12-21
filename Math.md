@@ -5,6 +5,8 @@
 ### Calculus
 - [A Course of Pure Mathematics - G.H. Hardy](https://en.m.wikipedia.org/wiki/A_Course_of_Pure_Mathematics)
 - [Differential and Integral Calculus- Richard Courant](https://en.m.wikipedia.org/wiki/Richard_Courant)
+### Statistics
+
 
 ### Applied
 - [Methoden der mathematischen Physik - Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)
