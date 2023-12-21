@@ -96,8 +96,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
-                "mode": "preview",
+                "file": "Physics.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -284,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math.md",
+                "file": "Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,7 +380,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Math.md",
+            "file": "Physics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -397,7 +397,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Math.md",
+            "file": "Physics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -409,7 +409,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Math.md"
+            "file": "Physics.md"
           }
         }
       },
@@ -447,10 +447,12 @@
     "Resources.md",
     "___Home.md",
     "Japan.md",
+    "Physics.md",
+    "Sententia.md",
+    "Neils Heinrich Abel.md",
+    "Math.md",
     "Trips.md",
     "_Fleeting.md",
-    "Math.md",
-    "Physics.md",
     "Zettalkasten.md",
     "PARA.md",
     "Subjects to look into.md",
