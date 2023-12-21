@@ -4,3 +4,4 @@
 [[Mental training]]
 [[Physical training]]
 [[Resources]]
+[[Sententia]]

@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c918b7bfa947927c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb41af09eaf5677b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ad40cb201f38b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python books.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python books.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python books.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,13 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3b23f11f5376dbb",
+  "active": "f2ad40cb201f38b8",
   "lastOpenFiles": [
+    "Physics.md",
+    "conflict-files-obsidian-git.md",
+    "Python books.md",
+    "Sententia.md",
+    "Neils Heinrich Abel.md",
     "Resources.md",
     "Math.md",
-    "Physics.md",
     "___Home.md",
-    "2023-12-20.md",
-    "Python books.md"
+    "2023-12-20.md"
   ]
 }
