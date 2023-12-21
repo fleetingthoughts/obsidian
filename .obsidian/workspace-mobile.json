@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Math.md",
                 "mode": "preview",
                 "source": true
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources.md",
+                "file": "Math.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -380,7 +380,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Resources.md",
+            "file": "Math.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -397,7 +397,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Resources.md",
+            "file": "Math.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -409,7 +409,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Resources.md"
+            "file": "Math.md"
           }
         }
       },
@@ -444,17 +444,22 @@
   },
   "active": "ccb9c279f1cbec3c",
   "lastOpenFiles": [
-    "Python books.md",
     "Resources.md",
-    "README.md",
-    "_Fleeting.md",
-    "Subjects to look into.md",
     "___Home.md",
-    "Trips.md",
     "Japan.md",
+    "Trips.md",
+    "_Fleeting.md",
+    "Math.md",
+    "Physics.md",
+    "Zettalkasten.md",
+    "PARA.md",
+    "Subjects to look into.md",
+    "Python books.md",
+    "/Resources.md",
+    "/Python books.md",
+    "README.md",
     "Physical training.md",
     "Mental training.md",
-    "Zettalkasten.md",
     "storage/emulated/0/Download/How-to-Take-Smart-Notes-by-Sönke-Ahrens-40zol.pdf.md",
     "Documentaries.md",
     "storage/emulated/0",
@@ -462,7 +467,6 @@
     "storage",
     "storage/emulated/0/Download",
     "Japan food.md",
-    "PARA.md",
     "Ideas to look into.md",
     "Untitled"
   ]
