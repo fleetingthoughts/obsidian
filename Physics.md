@@ -1,5 +1,5 @@
 [Resources](Resources.md)
-[Physics stack exchange resource recommendqtions](https://physics.stackexchange.com/questions/12175/resource-recommendations)
+[Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
 [Roadmap by Gerard T'hooft](https://www.goodtheorist.science/)
 [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
 
@@ -15,4 +15,5 @@
 
 ### Miscellaneous
 - [Lessons in Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/)
+- Error Analysis - John R. Taylor
 
