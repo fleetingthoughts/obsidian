@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Python books.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Python books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Python books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md"
+                "file": "Python books.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "e3b23f11f5376dbb",
   "lastOpenFiles": [
+    "Resources.md",
+    "Math.md",
+    "Physics.md",
     "___Home.md",
     "2023-12-20.md",
-    "Resources.md",
     "Python books.md"
   ]
 }

@@ -8,3 +8,4 @@
 
 ### Miscellaneous
 [Lessons in Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/)
+Error Analysis - John R. Taylor

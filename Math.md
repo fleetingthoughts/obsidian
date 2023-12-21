@@ -11,11 +11,11 @@
 - 
 ### Linear Algebra and numerical methods
 
-- [numerical methods for scientists and engineers-Richard Hamming](https://en.m.wikipedia.org/wiki/Richard_Hamming)
+- [Numerical Methods for Scientists and Engineers-Richard Hamming](https://en.m.wikipedia.org/wiki/Richard_Hamming)
     
-- [linear algebra - Gilbert Strang](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
+- [Linear Algebra - Gilbert Strang](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
     
-- [linear algebra done right-Axler Sheldon](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
+- [Linear Algebra Done Right-Axler Sheldon](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
     
 - Numerical linear algebra - Trefethen
     
