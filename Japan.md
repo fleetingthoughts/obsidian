@@ -10,6 +10,16 @@ parent:: [[_Fleeting]]
 - surprisingly clean amenities
 - train operators face inwards and bow(?) when leaving a carriage. Similar to tea ceremony etiquette?
 
+### Hakone
+- mercaptans from volcano
+- black volcano egg
+- city on a volcano
+- 
+### Karuizawa
+- Alexander Croft Shaw. Missionary.
+- hot spring town
+- mountain and cold
+- 
 
 
 
