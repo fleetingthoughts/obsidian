@@ -1,11 +1,14 @@
 [Resources](Resources.md)
 [Chicago undergraduate bibliography](https://github.com/ystael/chicago-ug-math-bib)
 - [Older version of undergrad math bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
-
+[Stackexchange link on ideal statistics self-study book](https://stats.stackexchange.com/questions/160261/path-to-mathematical-statistics-without-analysis-background-ideal-textbook-for)
 ### Calculus
 - [A Course of Pure Mathematics - G.H. Hardy](https://en.m.wikipedia.org/wiki/A_Course_of_Pure_Mathematics)
 - [Differential and Integral Calculus- Richard Courant](https://en.m.wikipedia.org/wiki/Richard_Courant)
-### Statistics
+### Statistics and Probability
+
+- [An Introduction to Probability Theory and its Applications, Volume I and II - Feller](https://en.wikipedia.org/wiki/William_Feller)
+	- Feller pioneered probability theory
 
 
 ### Applied
