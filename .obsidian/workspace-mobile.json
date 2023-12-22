@@ -97,14 +97,26 @@
               "type": "markdown",
               "state": {
                 "file": "Math.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
             "group": "17f45465bbe4a6b1"
+          },
+          {
+            "id": "9e313fb77e7f4f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "08406a3f13ebc7b7",
@@ -442,8 +454,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccb9c279f1cbec3c",
+  "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Math.md",
     "Resources.md",
     "___Home.md",
     "Physics.md",
@@ -460,7 +474,6 @@
     "Japan.md",
     "Sententia.md",
     "Neils Heinrich Abel.md",
-    "Math.md",
     "Trips.md",
     "_Fleeting.md",
     "Zettalkasten.md",
@@ -469,7 +482,6 @@
     "Python books.md",
     "/Python books.md",
     "README.md",
-    "Physical training.md",
     "storage/emulated/0",
     "storage/emulated",
     "storage",

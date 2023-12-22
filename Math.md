@@ -10,7 +10,6 @@
 
 ### Applied
 - [Methoden der mathematischen Physik - Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)
-- 
 ### Linear Algebra and numerical methods
 
 - [Numerical Methods for Scientists and Engineers-Richard Hamming](https://en.m.wikipedia.org/wiki/Richard_Hamming)
