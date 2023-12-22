@@ -6,7 +6,7 @@
 - [A Course of Pure Mathematics - G.H. Hardy](https://en.m.wikipedia.org/wiki/A_Course_of_Pure_Mathematics)
 - [Differential and Integral Calculus- Richard Courant](https://en.m.wikipedia.org/wiki/Richard_Courant)
 ### Statistics
-
+[Theory of statistics](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians)
 
 ### Applied
 - [Methoden der mathematischen Physik - Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)
