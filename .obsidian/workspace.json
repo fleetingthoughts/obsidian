@@ -22,55 +22,19 @@
             }
           },
           {
-            "id": "a084736738e8100b",
+            "id": "bda3cc7dc2f2261a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae98ade5e4b511b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffeca4844cc4574c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90370d8ebc2aa4d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Fleeting.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Fleeting.md"
+                "file": "Physics.md"
               }
             }
           }
@@ -198,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90370d8ebc2aa4d8",
+  "active": "bda3cc7dc2f2261a",
   "lastOpenFiles": [
-    "___Home.md",
-    "_Fleeting.md",
-    "Math.md",
     "Resources.md",
+    "___Home.md",
+    "Math.md",
+    "_Fleeting.md",
     "2023-12-21.md",
     "Engineering.md",
     "Physics.md",
