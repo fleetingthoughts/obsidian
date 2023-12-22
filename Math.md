@@ -8,7 +8,7 @@
 ### Statistics and Probability
 
 - [An Introduction to Probability Theory and its Applications, Volume I and II - Feller](https://en.wikipedia.org/wiki/William_Feller)
-	- Feller pioneered probability theory
+	- Feller pioneered probability theory as a branch of mathematics
 
 
 ### Applied
