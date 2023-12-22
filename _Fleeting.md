@@ -10,9 +10,9 @@
 - 
 
 Mon: Calc/Python
-Tues: Lin alg/ Mechanics
-Wed: calc/Python
-Thurs: lin alg/mechanics
-Fri: calc/Python
-Sat: thermo/numerical methods/statistics
-Sun: Statistics
+Tues: Statistics / Mechanics
+Wed: calc/Python/thermo
+Thurs: Statistics /mechanics
+Fri: calc/Python/probability
+Sat: thermo/numerical methods/lin alg
+Sun: Probability

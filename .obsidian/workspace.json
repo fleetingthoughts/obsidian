@@ -52,13 +52,25 @@
               "type": "markdown",
               "state": {
                 "file": "Math.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90370d8ebc2aa4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math.md",
+                "file": "_Fleeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math.md",
+                "file": "_Fleeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math.md"
+                "file": "_Fleeting.md"
               }
             }
           }
@@ -186,12 +198,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffeca4844cc4574c",
+  "active": "90370d8ebc2aa4d8",
   "lastOpenFiles": [
-    "Resources.md",
     "___Home.md",
     "_Fleeting.md",
     "Math.md",
+    "Resources.md",
     "2023-12-21.md",
     "Engineering.md",
     "Physics.md",
