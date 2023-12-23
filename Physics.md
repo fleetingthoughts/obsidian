@@ -7,6 +7,10 @@ Parent: [Resources](Resources.md)
 ### Classical Mechanics
 - [Classical Mechanics - John R. Taylor](https://en.m.wikipedia.org/wiki/John_R._Taylor)
 
+### Thermodynamics and Statistical Mechanics
+- Thermodynamics and introduction to Thermostatistics - Herbert Callen
+	- [It's got its own Wikipedia page](https://en.wikipedia.org/wiki/Thermodynamics_and_an_Introduction_to_Thermostatistics). Herbert Callen was a Manhattan Project alumni
+
 ### Electromagnetism
 
 

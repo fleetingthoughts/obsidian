@@ -15,26 +15,26 @@
               "type": "markdown",
               "state": {
                 "file": "___Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "a084736738e8100b",
+            "id": "bda3cc7dc2f2261a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae98ade5e4b511b4",
+            "id": "395af2bc05267ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Fleeting.md"
+                "file": "Physics.md"
               }
             }
           }
@@ -174,15 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a084736738e8100b",
+  "active": "bda3cc7dc2f2261a",
   "lastOpenFiles": [
     "Math.md",
-    "_Fleeting.md",
     "Resources.md",
     "___Home.md",
+    "Physics.md",
+    "_Fleeting.md",
     "2023-12-21.md",
     "Engineering.md",
-    "Physics.md",
     "conflict-files-obsidian-git.md",
     "Python books.md",
     "Sententia.md",
