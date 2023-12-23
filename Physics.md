@@ -6,6 +6,7 @@ Parent: [Resources](Resources.md)
 
 ### Classical Mechanics
 [Wikipedia Resources](https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics)
+[Stack Exchange resources on Hamiltonian and Lagrangian Mechanics](https://physics.stackexchange.com/questions/135726/any-good-resources-for-lagrangian-and-hamiltonian-dynamics)
 - [Classical Mechanics - John R. Taylor](https://en.m.wikipedia.org/wiki/John_R._Taylor)
 
 ### Thermodynamics and Statistical Mechanics
