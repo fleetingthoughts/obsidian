@@ -15,4 +15,4 @@ Wed: calc/Python
 Thurs: Statistics/mechanics
 Fri: calc/Python
 Sat: thermo/numerical methods/Lin Alg
-Sun: Python/Probabibility/
+Sun: Python/Probabibility/Lin Alg
