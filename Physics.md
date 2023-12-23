@@ -5,9 +5,11 @@ Parent: [Resources](Resources.md)
 [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
 
 ### Classical Mechanics
+[Wikipedia Resources](https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics)
 - [Classical Mechanics - John R. Taylor](https://en.m.wikipedia.org/wiki/John_R._Taylor)
 
 ### Thermodynamics and Statistical Mechanics
+[Wikipedia list of books](https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics) on Thermodynamics and Statistical Mechanics
 - Thermodynamics and introduction to Thermostatistics - Herbert Callen
 	- [It's got its own Wikipedia page](https://en.wikipedia.org/wiki/Thermodynamics_and_an_Introduction_to_Thermostatistics). Herbert Callen was a Manhattan Project alumni
 
