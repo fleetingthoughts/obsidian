@@ -1,7 +1,7 @@
 [Resources](Resources.md)
-[Chicago undergraduate bibliography](https://github.com/ystael/chicago-ug-math-bib)
-- [Older version of undergrad math bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
-
+- [Chicago undergraduate bibliography](https://github.com/ystael/chicago-ug-math-bib)
+	- [Older version of undergrad math bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+- [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
 ### Calculus
 - [A Course of Pure Mathematics - G.H. Hardy](https://en.m.wikipedia.org/wiki/A_Course_of_Pure_Mathematics)
 - [Differential and Integral Calculus- Richard Courant](https://en.m.wikipedia.org/wiki/Richard_Courant)

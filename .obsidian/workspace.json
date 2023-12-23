@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,14 +39,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
+                "file": "Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cb2b55aacc76fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5e03c7a608a8a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,17 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda3cc7dc2f2261a",
+  "active": "395af2bc05267ca7",
   "lastOpenFiles": [
-    "Math.md",
     "Resources.md",
-    "___Home.md",
+    "Math.md",
     "Physics.md",
+    "___Home.md",
+    "Python books.md",
     "_Fleeting.md",
     "2023-12-21.md",
     "Engineering.md",
     "conflict-files-obsidian-git.md",
-    "Python books.md",
     "Sententia.md",
     "Neils Heinrich Abel.md",
     "2023-12-20.md"
