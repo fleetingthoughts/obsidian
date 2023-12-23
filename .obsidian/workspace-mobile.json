@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering.md",
+                "file": "___Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Engineering.md",
+            "file": "___Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Engineering.md",
+            "file": "___Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Engineering.md"
+            "file": "___Home.md"
           }
         }
       },
@@ -454,10 +454,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e313fb77e7f4f55",
+  "active": "1bfbd7359b68a91d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Sententia.md",
+    "Math.md",
+    "Resources.md",
+    "___Home.md",
     "Engineering.md",
+    "conflict-files-obsidian-git.md",
     "/Engineering.md",
     "2023-12-21.md",
     "2023-12-20.md",
@@ -466,15 +470,11 @@
     "/2023-12-20.md",
     "_.obsidian",
     "Documentaries.md",
-    "Math.md",
-    "Resources.md",
-    "___Home.md",
     "Physics.md",
     "/_Fleeting.md",
     "/Resources.md",
     "/Physics.md",
     "Japan.md",
-    "Sententia.md",
     "Neils Heinrich Abel.md",
     "Trips.md",
     "_Fleeting.md",
