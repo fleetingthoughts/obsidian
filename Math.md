@@ -14,6 +14,14 @@
 
 [Theory of statistics](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians)
 
+### Discrete mathematics
+- concrete mathematics-knuth
+
+### Real Analysis
+- Apostol
+- Baby Rudin
+
+### Complex Analysis
 
 ### Applied
 - [Methoden der mathematischen Physik - Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)
