@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___Home.md",
+                "file": "Physics.md",
                 "mode": "preview",
                 "source": false
               }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "___Home.md",
+            "file": "Physics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "___Home.md",
+            "file": "Physics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "___Home.md"
+            "file": "Physics.md"
           }
         }
       },
@@ -456,10 +456,11 @@
   },
   "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
-    "Sententia.md",
-    "Math.md",
     "Resources.md",
     "___Home.md",
+    "X",
+    "Sententia.md",
+    "Math.md",
     "Engineering.md",
     "conflict-files-obsidian-git.md",
     "/Engineering.md",
