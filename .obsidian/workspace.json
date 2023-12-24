@@ -15,14 +15,38 @@
               "type": "markdown",
               "state": {
                 "file": "___Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "a084736738e8100b",
+            "id": "bda3cc7dc2f2261a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eead6a1745ab2fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0e6e3cb172f82f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,21 +56,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae98ade5e4b511b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,17 +186,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a084736738e8100b",
+  "active": "9a0e6e3cb172f82f",
   "lastOpenFiles": [
-    "Math.md",
-    "_Fleeting.md",
-    "Resources.md",
     "___Home.md",
-    "2023-12-21.md",
-    "Engineering.md",
     "Physics.md",
-    "conflict-files-obsidian-git.md",
+    "Resources.md",
+    "Engineering.md",
+    "Math.md",
     "Python books.md",
+    "_Fleeting.md",
+    "2023-12-21.md",
+    "conflict-files-obsidian-git.md",
     "Sententia.md",
     "Neils Heinrich Abel.md",
     "2023-12-20.md"
