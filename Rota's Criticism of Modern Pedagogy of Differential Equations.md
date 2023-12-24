@@ -1,0 +1,1 @@
+Rota wrote an article "Ten Lessons I wish I learned before teaching differential equations" where he laments how the typical lecture in ODEs has become a bag of tricks with no concepts. He harps on integrating factors and presents a more rigorous approach to it as opposed to the informal use of differentials

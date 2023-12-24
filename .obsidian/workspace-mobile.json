@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
+                "file": "2023-12-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Math.md",
+            "file": "2023-12-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Math.md",
+            "file": "2023-12-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Math.md"
+            "file": "2023-12-24.md"
           }
         }
       },
@@ -456,9 +456,17 @@
   },
   "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
-    "Resources.md",
-    "___Home.md",
+    "The slipbox.md",
+    "2023-12-24.md",
+    "Zettalkasten.md",
     "_Fleeting.md",
+    "Mental training.md",
+    "Notetaking.md",
+    "___Home.md",
+    "Physical training.md",
+    "Resources.md",
+    "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
+    "Math.md",
     "Physics.md",
     "/_Fleeting.md",
     "/Physics.md",
@@ -466,7 +474,6 @@
     "/Engineering.md",
     "X",
     "Sententia.md",
-    "Math.md",
     "Engineering.md",
     "conflict-files-obsidian-git.md",
     "2023-12-21.md",
@@ -477,12 +484,6 @@
     "Documentaries.md",
     "/Resources.md",
     "Japan.md",
-    "Neils Heinrich Abel.md",
-    "Trips.md",
-    "Zettalkasten.md",
-    "PARA.md",
-    "Subjects to look into.md",
-    "Python books.md",
     "storage/emulated/0",
     "storage/emulated",
     "storage",

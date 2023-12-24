@@ -13,6 +13,7 @@
 - 
 [Theory of statistics](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians)
 ### ODE
+[[Rota's Criticism of Modern Pedagogy of Differential Equations]]
 - Differential Equations, Dynamical Systems, and Linear Algebra
 - [Differential Equations-Hartman](https://math.stackexchange.com/questions/175908/ode-book-recommendation)
 - ordinary differential equations-Morris and Tennenbaum
