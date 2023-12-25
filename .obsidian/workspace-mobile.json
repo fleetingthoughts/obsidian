@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "Math.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -456,9 +456,13 @@
   },
   "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
+    "Stack exchange collated highest rates books.md",
+    "Math.md",
     "Resources.md",
-    "___Home.md",
+    "Physics.md",
     "2023-12-24.md",
+    "2023-12-20.md",
+    "___Home.md",
     "The slipbox.md",
     "Zettalkasten.md",
     "_Fleeting.md",
@@ -466,8 +470,6 @@
     "Notetaking.md",
     "Physical training.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
-    "Math.md",
-    "Physics.md",
     "/_Fleeting.md",
     "/Physics.md",
     "/Math.md",
@@ -477,13 +479,11 @@
     "Engineering.md",
     "conflict-files-obsidian-git.md",
     "2023-12-21.md",
-    "2023-12-20.md",
     "/2023-12-21.md",
     "/2023-12-20.md",
     "_.obsidian",
     "Documentaries.md",
     "/Resources.md",
-    "Japan.md",
     "storage/emulated/0",
     "storage/emulated",
     "storage",
