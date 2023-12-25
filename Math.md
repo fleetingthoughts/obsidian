@@ -14,7 +14,10 @@
 [Theory of statistics](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians)
 ### ODE
 [[Rota's Criticism of Modern Pedagogy of Differential Equations]]
-- Differential Equations, Dynamical Systems, and Linear Algebra
+[Pretty representative summary of what I've seen for review of ODE books](https://math.stackexchange.com/questions/4119586/looking-for-a-2nd-book-on-ordinary-differential-equations). People really like Hirsch and Coddington. Should probably look at both
+- Differential Equations, Dynamical Systems, and Linear Algebra - Hirsch
+- Theory of ordinary differential equations-Coddington
+
 - [Differential Equations-Hartman](https://math.stackexchange.com/questions/175908/ode-book-recommendation)
 - ordinary differential equations-Morris and Tennenbaum
 - Differential Equations with Applications and Historical Notes- George Simmons

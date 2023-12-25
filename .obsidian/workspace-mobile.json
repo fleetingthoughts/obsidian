@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-24.md",
+                "file": "Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-12-24.md",
+            "file": "Math.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-12-24.md",
+            "file": "Math.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-12-24.md"
+            "file": "Math.md"
           }
         }
       },
@@ -456,15 +456,15 @@
   },
   "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
-    "The slipbox.md",
+    "Resources.md",
+    "___Home.md",
     "2023-12-24.md",
+    "The slipbox.md",
     "Zettalkasten.md",
     "_Fleeting.md",
     "Mental training.md",
     "Notetaking.md",
-    "___Home.md",
     "Physical training.md",
-    "Resources.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
     "Math.md",
     "Physics.md",
