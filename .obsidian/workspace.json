@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,14 +136,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "___Home.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Math.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "___Home.md",
+                "file": "Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,16 +176,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___Home.md"
+                "file": "Math.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +197,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11c26ea121a15ec3",
+  "active": "968d44155296dc34",
   "lastOpenFiles": [
+    "X",
+    "The slipbox.md",
+    "Stack exchange collated highest rates books.md",
+    "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
+    "Notetaking.md",
+    "Physics.md",
+    "Untitled.md",
+    "___Home.md",
     "Engineering.md",
     "_Fleeting.md",
-    "___Home.md",
-    "Physics.md",
     "2023-12-24.md",
     "Resources.md",
     "Math.md",
