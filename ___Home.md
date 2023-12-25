@@ -3,5 +3,5 @@
 [[_Fleeting]]
 [[Mental training]]
 [[Physical training]]
-[[Resources]]
+[Resources](Resources.md)
 [[Sententia]]

@@ -1,0 +1,103 @@
+* [33mcommit 3febd7a81733361fa6f61f702ac86631c4afadbd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: MJ <mingxing.j@outlook.com>
+[31m|[m Date:   Sat Dec 23 14:46:42 2023 +0900
+[31m|[m 
+[31m|[m     vault backup: 2023-12-23 14:46:42
+[31m|[m   
+*   [33mcommit afad21fa10bcc28fc6eb639b9e9e4e1aba78b04e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m[33m\[m  Merge: 0a21d0a 91ae272
+[32m|[m [33m|[m Author: MJ <mingxing.j@outlook.com>
+[32m|[m [33m|[m Date:   Sat Dec 23 11:45:15 2023 +0900
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     vault backup: 2023-12-23 11:45:15
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 91ae272f1eb5f7446776a002ad32bde70ff9c524[m
+[32m|[m [33m|[m Author: MJ <mingxing.j@outlook.com>
+[32m|[m [33m|[m Date:   Fri Dec 22 00:52:23 2023 -0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     vault backup: 2023-12-22 00:52:23
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 9ab4d93d6398b15ec35329cccd30bd3731743c7f[m
+[32m|[m [33m|[m Author: MJ <mingxing.j@outlook.com>
+[32m|[m [33m|[m Date:   Thu Dec 21 22:52:23 2023 -0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     vault backup: 2023-12-21 22:52:23
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 0a21d0a505f2f3c6d801d6d3f244f4867435ffc0[m
+[34m|[m[33m\[m[33m|[m Merge: 3aad665 46b3655
+[34m|[m [33m|[m Author: MJ <mingxing.j@outlook.com>
+[34m|[m [33m|[m Date:   Fri Dec 22 17:15:53 2023 +0900
+[34m|[m [33m|[m 
+[34m|[m [33m|[m     vault backup: 2023-12-22 17:15:53
+[34m|[m [33m|[m 
+[34m|[m * [33mcommit 46b3655ca3d777b4a9be8b7df41789f596d00797[m
+[34m|[m [35m|[m Author: MJ <mingxing.j@outlook.com>
+[34m|[m [35m|[m Date:   Thu Dec 21 18:50:23 2023 -0800
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     vault backup: 2023-12-21 18:50:23
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit e4465ea35a1c656faae02f5303e95d371fcd731d[m
+[34m|[m [35m|[m Author: MJ <mingxing.j@outlook.com>
+[34m|[m [35m|[m Date:   Thu Dec 21 17:49:23 2023 -0800
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     vault backup: 2023-12-21 17:49:23
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit d2a9663ab153f78e0c3bdffd583186afc8de6972[m
+[34m|[m [35m|[m Author: MJ <mingxing.j@outlook.com>
+[34m|[m [35m|[m Date:   Thu Dec 21 16:49:23 2023 -0800
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     vault backup: 2023-12-21 16:49:23
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit 3aad665900c642a860108022dd3af324ea8b7b48[m
+[35m|[m[35m/[m  Author: MJ <mingxing.j@outlook.com>
+[35m|[m   Date:   Fri Dec 22 15:28:57 2023 +0900
+[35m|[m   
+[35m|[m       vault backup: 2023-12-22 15:28:57
+[35m|[m 
+* [33mcommit aaa135347c58425b6813a324ef629fcaf380a567[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Fri Dec 22 07:49:37 2023 +0900
+[35m|[m 
+[35m|[m     vault backup: 2023-12-22 07:49:37
+[35m|[m 
+* [33mcommit f65f98c9b1ee23fcceaae69af09916910c18e0ad[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Thu Dec 21 06:48:23 2023 -0800
+[35m|[m 
+[35m|[m     vault backup: 2023-12-21 06:48:23
+[35m|[m 
+* [33mcommit d1d4d0f9a253fd7fe711e0916153634a1fee7ad8[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Thu Dec 21 05:48:23 2023 -0800
+[35m|[m 
+[35m|[m     vault backup: 2023-12-21 05:48:23
+[35m|[m 
+* [33mcommit 8d8837ea321762b42fdacdf3750a8acafafc1c99[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Thu Dec 21 03:47:23 2023 -0800
+[35m|[m 
+[35m|[m     vault backup: 2023-12-21 03:47:23
+[35m|[m 
+* [33mcommit ac5576ae450d8e650c18435d18c670761f14c39f[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Thu Dec 21 20:44:50 2023 +0900
+[35m|[m 
+[35m|[m     vault backup: 2023-12-21 20:44:50
+[35m|[m 
+* [33mcommit 45f61fe0e38222f1b83c237ff4f0d9d3fc3d48bc[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Thu Dec 21 02:46:23 2023 -0800
+[35m|[m 
+[35m|[m     vault backup: 2023-12-21 02:46:23
+[35m|[m 
+* [33mcommit e1bc1ad01d1ee46fd6226292e95ccddb01640bdd[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Thu Dec 21 01:45:23 2023 -0800
+[35m|[m 
+[35m|[m     vault backup: 2023-12-21 01:45:23
+[35m|[m 
+* [33mcommit 780000dc766d8d87cfaa32acfd8a49ce96aadc53[m
+[35m|[m Author: MJ <mingxing.j@outlook.com>
+[35m|[m Date:   Wed Dec 20 23:44:23 2023 -0800
+[35m|[m 
+[35m|[m     vault backup: 2023-12-20 23:44:23
