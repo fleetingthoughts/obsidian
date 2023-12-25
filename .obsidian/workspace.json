@@ -51,14 +51,25 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2023-12-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88688e67a416a6a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "___Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "___Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Fleeting.md"
+                "file": "___Home.md"
               }
             }
           }
@@ -186,15 +197,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a0e6e3cb172f82f",
+  "active": "11c26ea121a15ec3",
   "lastOpenFiles": [
+    "Engineering.md",
+    "_Fleeting.md",
     "___Home.md",
     "Physics.md",
+    "2023-12-24.md",
     "Resources.md",
-    "Engineering.md",
     "Math.md",
     "Python books.md",
-    "_Fleeting.md",
     "2023-12-21.md",
     "conflict-files-obsidian-git.md",
     "Sententia.md",
