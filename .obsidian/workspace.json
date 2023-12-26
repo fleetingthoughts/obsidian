@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trips.md",
+                "file": "The slipbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trips.md",
+                "file": "The slipbox.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trips.md",
+                "file": "The slipbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trips.md"
+                "file": "The slipbox.md"
               }
             }
           }
@@ -199,6 +199,8 @@
   },
   "active": "9a0e6e3cb172f82f",
   "lastOpenFiles": [
+    "Trips.md",
+    "[Stack.md",
     "Ahren.md",
     "Engineering.md",
     "Math.md",
