@@ -37,6 +37,7 @@
 - Introduction to the Theory of Numbers - Hardy
 - Classical Introduction to Modern Number Theory by Ireland and Rosen
     - Review on relative difficulty of the books [here](https://math.stackexchange.com/questions/2313176/number-theory-book-recommendation)
+    - [Some review on the pedagogical effectiveness](https://matheducators.stackexchange.com/questions/6074/differences-between-hardywright-and-irelandrosen-for-number-theory-course). Suggests 
 ### Algebra
 - Abstract Algebra - Dummit and Foote
     - highly regarded undergraduate book mentioned frequently [On StackExhange](https://math.stackexchange.com/questions/54839/good-abstract-algebra-books-for-self-study?noredirect=1&lq=1)
