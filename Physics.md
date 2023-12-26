@@ -1,8 +1,8 @@
 Parent: [Resources](Resources.md)
 
-[Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
+[Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)^3e6c0e
 [Roadmap by Gerard T'hooft](https://www.goodtheorist.science/)
-[Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
+[Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate) 
 
 ### Classical Mechanics
 [Wikipedia Resources](https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics)
@@ -15,13 +15,12 @@ Parent: [Resources](Resources.md)
 	- [It's got its own Wikipedia page](https://en.wikipedia.org/wiki/Thermodynamics_and_an_Introduction_to_Thermostatistics). Herbert Callen was a Manhattan Project alumni
 
 ### Electromagnetism
-
-
-
+Two texts below seem to be ubiquitous with a preference for Griffiths. Refer to Electromagnetism section of the [StackExchange resource recommendation](Physics.md#^3e6c0e)
+- Introduction to Electrodynamics - Griffiths
+- Electricity and Magnetism - Purcell
 ### Math
 - [Richard and David Hilbert](Math#^0f5907)
-
-### Control Theory
+#### Control Theory
 - Error Analysis - John R. Taylor
 ### Miscellaneous
 - [Lessons in Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/)

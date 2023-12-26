@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The slipbox.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The slipbox.md",
+                "file": "Physics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The slipbox.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The slipbox.md"
+                "file": "Physics.md"
               }
             }
           }
@@ -199,20 +199,22 @@
   },
   "active": "9a0e6e3cb172f82f",
   "lastOpenFiles": [
+    "Ahren.md",
+    "Physics.md",
+    "Documentaries.md",
+    "_Fleeting.md",
+    "Math.md",
+    "Subjects to look into.md",
+    "The slipbox.md",
     "Trips.md",
     "[Stack.md",
-    "Ahren.md",
     "Engineering.md",
-    "Math.md",
     "X",
-    "The slipbox.md",
     "Stack exchange collated highest rates books.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
     "Notetaking.md",
-    "Physics.md",
     "Untitled.md",
     "___Home.md",
-    "_Fleeting.md",
     "Resources.md",
     "Python books.md",
     "2023-12-21.md",
