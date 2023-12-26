@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "Math.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics.md"
+                "file": "Math.md"
               }
             }
           }
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a0e6e3cb172f82f",
+  "active": "eead6a1745ab2fba",
   "lastOpenFiles": [
-    "Ahren.md",
     "Physics.md",
+    "Ahren.md",
     "Documentaries.md",
     "_Fleeting.md",
     "Math.md",
