@@ -8,6 +8,7 @@
 ### Calculus
 - [A Course of Pure Mathematics - G.H. Hardy](https://en.m.wikipedia.org/wiki/A_Course_of_Pure_Mathematics)
 - [Differential and Integral Calculus- Richard Courant](https://en.m.wikipedia.org/wiki/Richard_Courant)
+    - Apostol is more thorough then Courant but less discussion on applications. Apostol seems to be the more popular one among mathematicians
 ### Statistics and Probability
 - Statistical Inference - Casella and Berger
 - Introduction to Probability- William Feller
@@ -27,8 +28,12 @@
 - concrete mathematics-knuth
 
 ### Real Analysis
-- Apostol
-- Baby Rudin
+- Understanding Analysis - Abbot
+    -  A junior undergraduate book that's highly rated. Should read before Baby Rudin or Folland
+- Principles of Mathematical Analysis (Baby Rudin)
+    - More of a senior book
+- Real analysis: Modern Techniques and their Application- Folland
+    + More of a senior book
 
 ### Complex Analysis
 

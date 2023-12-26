@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Math.md",
                 "mode": "preview",
                 "source": false
               }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physics.md",
+            "file": "Math.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physics.md",
+            "file": "Math.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physics.md"
+            "file": "Math.md"
           }
         }
       },
@@ -454,12 +454,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bfbd7359b68a91d",
+  "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
+    "Physics.md",
+    "Ahren.md",
+    "/Ahren.md",
     "Math.md",
     "Stack exchange collated highest rates books.md",
     "Resources.md",
-    "Physics.md",
     "2023-12-24.md",
     "2023-12-20.md",
     "___Home.md",
@@ -482,8 +484,6 @@
     "/2023-12-21.md",
     "/2023-12-20.md",
     "_.obsidian",
-    "Documentaries.md",
-    "/Resources.md",
     "storage/emulated/0",
     "storage/emulated",
     "storage",
