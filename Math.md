@@ -20,13 +20,11 @@
 [Pretty representative summary of what I've seen for review of ODE books](https://math.stackexchange.com/questions/4119586/looking-for-a-2nd-book-on-ordinary-differential-equations). People really like Hirsch and Coddington. Should probably look at both
 - Differential Equations, Dynamical Systems, and Linear Algebra - Hirsch
 - Theory of ordinary differential equations-Coddington
-
 - [Differential Equations-Hartman](https://math.stackexchange.com/questions/175908/ode-book-recommendation)
 - ordinary differential equations-Morris and Tennenbaum
 - Differential Equations with Applications and Historical Notes- George Simmons
 ### Discrete mathematics
 - concrete mathematics-knuth
-
 ### Real Analysis
 - Understanding Analysis - Abbot
     -  A junior undergraduate book that's highly rated. Should read before Baby Rudin or Folland
@@ -34,16 +32,14 @@
     - More of a senior book
 - Real analysis: Modern Techniques and their Application- Folland
     + More of a senior book
-
 ### Complex Analysis
-
+### Algebra
+- Abstract Algebra - Dummit and Foote
+    - highly regarded undergraduate book mentioned frequently [On StackExhange](https://math.stackexchange.com/questions/54839/good-abstract-algebra-books-for-self-study?noredirect=1&lq=1)
 ### Topology
-
-
 ### Applied
 - [Methoden der mathematischen Physik - Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)
 ### Linear Algebra and numerical methods
-
 - [Numerical Methods for Scientists and Engineers-Richard Hamming](https://en.m.wikipedia.org/wiki/Richard_Hamming)
 - [Linear Algebra - Gilbert Strang](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
 - [Linear Algebra Done Right-Axler Sheldon](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
