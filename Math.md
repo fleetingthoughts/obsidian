@@ -4,7 +4,7 @@
 - [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
 - [another good collection of topics and roadmaps](https://www.neilwithdata.com/mathematics-self-learner) ^84322d
 - [Stackexhange reference request](https://math.stackexchange.com/questions/94827/what-books-must-every-math-undergraduate-read)
-- [Stackexhange highest rated books](https://bookinsider.gitlab.io/2018/12/01/top-books-on-math/)
+- [Stackexhange highest rated books](https://bookinsider.gitlab.io/2018/12/01/top-books-on-math/) ^0fdb2c
 ### Calculus
 - [A Course of Pure Mathematics - G.H. Hardy](https://en.m.wikipedia.org/wiki/A_Course_of_Pure_Mathematics)
 - [Differential and Integral Calculus- Richard Courant](https://en.m.wikipedia.org/wiki/Richard_Courant)
@@ -23,9 +23,19 @@
 - [Differential Equations-Hartman](https://math.stackexchange.com/questions/175908/ode-book-recommendation)
 - ordinary differential equations-Morris and Tennenbaum
 - Differential Equations with Applications and Historical Notes- George Simmons
+### PDE
+
+- Partial Differential Equations - Laurence Evans
+	- Advanced but highly regarded
+The following are easier books than Evans that were pretty [well regarded as an intermediate](https://mathoverflow.net/questions/72318/textbooks-for-pde-between-strauss-and-folland). Math StackExchange itself doesn't seem too keen on PDEs
+- Partial Differential Equations - Strauss
+	- Very basic
+- Partial Differential Equations - John Fritz
+	- Of calculus with Courant. I did like that particular textbook because of its applications
 ### Discrete mathematics
 - concrete mathematics-knuth
 ### Real Analysis
+Abbott, Rudin, and Folland are highly rated on Stackexchange. Abbott seems to be the better introduction
 - Understanding Analysis - Abbot
     -  A junior undergraduate book that's highly rated. Should read before Baby Rudin or Folland
 - Principles of Mathematical Analysis (Baby Rudin)
@@ -41,7 +51,13 @@
 ### Algebra
 - Abstract Algebra - Dummit and Foote
     - highly regarded undergraduate book mentioned frequently [On StackExhange](https://math.stackexchange.com/questions/54839/good-abstract-algebra-books-for-self-study?noredirect=1&lq=1). Main criticisms is it is rather long and perhaps should be used more as a reference instead of as a primary text
+The following seem more concise than Dummit and Foote
+-  First Course in Abstract Algebra - Fraleigh
+	- Highly regarded on  [Stackexchange](Math.md#^0fdb2c)
+- A Book of Abstract Algebra - Pinter
+	- Highly regarded on  [Stackexchange](Math.md#^0fdb2c)
 - Topics in Algebra - Herstein
+	- [Seems like a better introductory book than Dummit and Foote due to being more concise](https://math.stackexchange.com/questions/198373/choosing-an-abstract-algebra-text)
 ### Geometry
 - Foundations of Geometry - David Hilbert
 	- One of the reformulations of Euclidean geometry on a modern axiomatic basis
