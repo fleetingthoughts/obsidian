@@ -2,7 +2,7 @@
 - [Chicago undergraduate bibliography](https://github.com/ystael/chicago-ug-math-bib)
 	- [Older version of undergrad math bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 - [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
-- [another good collection of topics and roadmaps](https://www.neilwithdata.com/mathematics-self-learner)
+- [another good collection of topics and roadmaps](https://www.neilwithdata.com/mathematics-self-learner) ^84322d
 - [Stackexhange reference request](https://math.stackexchange.com/questions/94827/what-books-must-every-math-undergraduate-read)
 - [Stackexhange highest rated books](https://bookinsider.gitlab.io/2018/12/01/top-books-on-math/)
 ### Calculus
@@ -33,10 +33,16 @@
 - Real analysis: Modern Techniques and their Application- Folland
     + More of a senior book
 ### Complex Analysis
+### Number Theory
+- Introduction to the Theory of Numbers - Hardy
+- Classical Introduction to Modern Number Theory by Ireland and Rosen
+    - Review on relative difficulty of the books [here](https://math.stackexchange.com/questions/2313176/number-theory-book-recommendation)
 ### Algebra
 - Abstract Algebra - Dummit and Foote
     - highly regarded undergraduate book mentioned frequently [On StackExhange](https://math.stackexchange.com/questions/54839/good-abstract-algebra-books-for-self-study?noredirect=1&lq=1)
 ### Topology
+Topology - Munkres
+    - acknowledged as a good intro to the topic [here](Math#^84322d)
 ### Applied
 - [Methoden der mathematischen Physik - Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)
 ### Linear Algebra and numerical methods

@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "Math.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -457,9 +457,10 @@
   "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
     "Physics.md",
+    "[Stack.md",
+    "Math.md",
     "Ahren.md",
     "/Ahren.md",
-    "Math.md",
     "Stack exchange collated highest rates books.md",
     "Resources.md",
     "2023-12-24.md",
@@ -482,7 +483,6 @@
     "conflict-files-obsidian-git.md",
     "2023-12-21.md",
     "/2023-12-21.md",
-    "/2023-12-20.md",
     "_.obsidian",
     "storage/emulated/0",
     "storage/emulated",

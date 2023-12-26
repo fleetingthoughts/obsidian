@@ -2,7 +2,7 @@ Parent: [Resources](Resources.md)
 
 [Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
 [Roadmap by Gerard T'hooft](https://www.goodtheorist.science/)
-[Stack exchange roadmap]([Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate))
+[Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
 
 ### Classical Mechanics
 [Wikipedia Resources](https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics)
