@@ -3,6 +3,7 @@ Parent: [Resources](Resources.md)
 [Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)^3e6c0e
 [Roadmap by Gerard T'hooft](https://www.goodtheorist.science/)
 [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate) 
+[A meta analysis of Stackexchange books](https://bookinsider.gitlab.io/2018/12/01/top-books-on-physics/)
 
 ### Classical Mechanics
 [Wikipedia Resources](https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics)
@@ -19,7 +20,9 @@ Two texts below seem to be ubiquitous with a preference for Griffiths. Refer to 
 - Introduction to Electrodynamics - Griffiths
 - Electricity and Magnetism - Purcell
 ### Math
-- [Richard and David Hilbert](Math#^0f5907)
+- [Methods of Mathematical Physics](Math.md#^m123)
+- _**Mathematical Methods of Classical Mechanics**_ - V.I. Arnold
+- 
 #### Control Theory
 - Error Analysis - John R. Taylor
 ### Miscellaneous

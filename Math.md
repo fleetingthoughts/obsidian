@@ -42,6 +42,8 @@ Per [Stackexchange review](https://stats.stackexchange.com/questions/1815/recomm
 - _**Experimental and Quasi-Experimental Designs for Generalized Causal Inference**_- William R. Shadish and Thomas D. Cook
     - This one is apparantly a classic per [this review on Stackexhange](https://stats.stackexchange.com/questions/173682/textbooks-readings-on-what-to-do-when-you-cant-create-an-ideal-experiment) and this [review as well](https://academia.stackexchange.com/questions/4784/ref-request-book-or-survey-about-conducting-experimental-studies)
 ### Sampling
+- _**Sampling: Design and Analysis**_ -Sharon Lohr 
+	- This is highly rated on the Stackexchange [Meta-Analysis](Math.md#^eec26e)
 - _**Sampling techniques**_ - Cochran
     - more mathematical and rigorous per this [review on Stackexhange](https://stats.stackexchange.com/questions/164420/introductory-graduate-level-survey-sampling-textbook) compared to Sharon Lohr that also gets recommended a lot. It's also by Cochran of all people. 
 - _**Survey Sampling**_ - Kish
@@ -77,7 +79,6 @@ Take some time to leaf through this [review](https://math.stackexchange.com/ques
 	- Is mentioned to be relevant to Bayes Statistics per [Stackexchange](https://mathoverflow.net/questions/100288/bayesian-statistics-for-pure-mathematicians)
 - _**Introduction to statistical decision theory**_ - John Pratt
 	- Required reading for doctoral Harvard Business School students
-
 
 ## ODE
 [[Rota's Criticism of Modern Pedagogy of Differential Equations]]
@@ -136,17 +137,17 @@ The following seem more concise than Dummit and Foote
 _**Topology**_ - Munkres
     - acknowledged as a good intro to the topic [here](Math#^84322d)
 ## Applied
-- [_**Methoden der mathematischen Physik **__- Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)
+- [_**Methoden der mathematischen Physik**_- Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)^m123
 ## Linear Algebra and numerical methods
-- [_**Numerical Methods for Scientists and Engineers**_-Richard Hamming](https://en.m.wikipedia.org/wiki/Richard_Hamming)
 - [_**Linear Algebra**_ - Gilbert Strang](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
-- [_**Linear Algebra Done Right**_-Axler Sheldon](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
 - _**Linear Algebra**_ - Friedberg and Insel
+- [_**Linear Algebra Done Right**_-Axler Sheldon](https://scicomp.stackexchange.com/questions/1040/which-linear-algebra-texts-should-i-read-before-learning-numerical-linear-algebr)
 - _**Linear Algebra**_-Hoffman and Kunze 
      - this one is fairly advanced
-- _**Numerical linear algebra**_ - Trefethen
 ## Numerical Methods
 - [_**Numerical Methods in Engineering with Python 3**_](https://books.google.co.jp/books/about/Numerical_Methods_in_Engineering_with_Py.html?id=aJkXoxxoCoUC&redir_esc=y)
 - [_**Python For Data Analysis: Data Wrangling With Pandas, Numpy, and Jupyter**_ by Wes McKinney](https://pythonbooks.org/topical-books/numeric-and-big-data/)
+- [_**Numerical Methods for Scientists and Engineers**_-Richard Hamming](https://en.m.wikipedia.org/wiki/Richard_Hamming)
+- _**Numerical linear algebra**_ - Trefethen
 - _**Coding The Matrix: Linear Algebra Through Computer Science Applications**_
     
