@@ -24,6 +24,16 @@ Only seen one [recommendation](https://stats.stackexchange.com/questions/248311/
 	- More theoretical of the two Hedges books
 - Introduction to Meta Analysis - Borenstein and Hedges
 	- The more practical of the two books
+##### Design of Experiment
+- Delaney
+- cox
+- Cochrane
+- Hinkelmann and kempthorne
+- 
+
+
+
+##### General
 Should especially look to read applied statistics and read the father of statistics Ronald Fischer and George EP Box:
 - _Design of Experiment_
 	-  Introduced the Null hypothesis
