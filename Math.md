@@ -18,7 +18,12 @@ Advanced Multivariable Calculus reference request on [Stackexchange](https://mat
 	- Feller was one of the masters and pioneered the probability as a field in mathematics. [Remember Abel](Neils%20Heinrich%20Abel.md)
 - _Probability Theory: A Comprehensive Course_ - Klenke
 	- For Grad Students. Advanced per the preface
-
+##### Meta Analysis
+Only seen one [recommendation](https://stats.stackexchange.com/questions/248311/which-is-the-best-book-to-learn-meta-analysis) and Hedges seems to appear a lot in meta analysis 
+- _Statistical Methods for Meta Analysis_ - Olkin and Hedges
+	- More theoretical of the two Hedges books
+- Introduction to Meta Analysis - Borenstein and Hedges
+	- The more practical of the two books
 Should especially look to read applied statistics and read the father of statistics Ronald Fischer and George EP Box:
 - _Design of Experiment_
 	-  Introduced the Null hypothesis
