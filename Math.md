@@ -18,6 +18,21 @@ Advanced Multivariable Calculus reference request on [Stackexchange](https://mat
 	- Feller was one of the masters and pioneered the probability as a field in mathematics. [Remember Abel](Neils%20Heinrich%20Abel.md)
 - _Probability Theory: A Comprehensive Course_ - Klenke
 	- For Grad Students. Advanced per the preface
+
+Should especially look to read applied statistics and read the father of statistics Ronald Fischer and George EP Box:
+- _Design of Experiment_
+	-  Introduced the Null hypothesis
+- _Statistical Methods for Research Workers_
+- _Statistics for Experimenters_ (2nd ed., 2005), 
+- _Time Series Analysis: Forecasting and Control_
+- _An Introduction to Multivariate Statistical Analysis_
+- _**Bayesian Inference in Statistical Analysis**_
+	-  Can be my first Bayesian statistics book
+Seems to be one of the more mathemtical and classic treatments of multivariate statistics  per [Stackexchange](https://stats.stackexchange.com/questions/67146/recommendations-for-mathematical-multivariate-statistics-with-exercises) But the preface does mention its for graduates
+
+Statistics doesn't seem to generate much buzz with mathematicians, but here are some recommended advanced works after Casella from [Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics)
+- _Combinatorics of Experimental Design_ - Anne Street
+	- Connects Statistics to combinatorics
 [_Theory of statistics_](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians)
 ### ODE
 [[Rota's Criticism of Modern Pedagogy of Differential Equations]]
