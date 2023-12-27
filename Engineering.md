@@ -9,8 +9,13 @@ Separation Process Principles - Seader and Henley
 - [Transport Phenomena -BSL](https://en.wikipedia.org/wiki/Transport_Phenomena_(book))
 	- One of the first textbooks that created the subject of "Transport Phenomena". Geared for Chemical Engineering
 ## Control Theory
+General Control Theory books from the [subreddit](https://www.reddit.com/r/ControlTheory/wiki/bookssnc/). Should look into Richard Murray as he even created a [Python Library](https://sourceforge.net/p/python-control/wiki/Home/) for Control Systems ^1541ca
+
+Nise, Ogata, or Richard Murray seem to be recommended a lot for begineers. Richard Murray created a PYthon Library so he's my goat
 - _**Feedback Systems: an introduction for Scientists and Engineers**_ - Astrom and Richard Murray
-	- Richard Murray (https://en.wikipedia.org/wiki/Richard_M._Murray)
+	- Richard Murray has a [Wikipedia page](https://en.wikipedia.org/wiki/Richard_M._Murray) and created a [Python Library](https://sourceforge.net/p/python-control/wiki/Home/) for control systems. Also recommended a lot on [Stackexchange](https://math.stackexchange.com/questions/3949449/book-suggestions-on-classic-control) and talks about how it focuses more on applications than Ogata
+- _**Mathematical Control Theory - Deterministic finite-dimensional systems**_ - Sontag
+	- This is more mathematical. Recommended on a couple different [Stackexchange](https://math.stackexchange.com/questions/1248957/what-is-a-good-source-for-learning-control-theory) posts and it has a pdf online from same link
 ### Miscellaneous
 
 - [What Every Engineer Should Know About Project Management](https://www.amazon.ca/Engineer-Should-Project-Management-Second/dp/0824789539/ref=sr_1_2?crid=X484WCLFZI9N&keywords=What+Engineers+Know+and+How+they+Know+It%3A+Analytical+Studies+from+Aeronautical+History&qid=1703152236&sprefix=what+engineers+know+and+how+they+know+it+analytical+studies+from+aeronautical+history%2Caps%2C756&sr=8-2)

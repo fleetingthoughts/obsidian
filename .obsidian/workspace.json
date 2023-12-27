@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering.md",
+                "file": "Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,9 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eead6a1745ab2fba",
+  "active": "bda3cc7dc2f2261a",
   "lastOpenFiles": [
     "Math.md",
+    "Engineering.md",
     "Physics.md",
     "Ahren.md",
     "Documentaries.md",
@@ -208,7 +209,6 @@
     "The slipbox.md",
     "Trips.md",
     "[Stack.md",
-    "Engineering.md",
     "X",
     "Stack exchange collated highest rates books.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
