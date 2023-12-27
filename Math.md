@@ -13,54 +13,72 @@
 	- More suited as a 2nd course in calculus per [Stackexchange](https://math.stackexchange.com/questions/1190170/munkres-analysis-on-manifolds-and-differential-geometry)
 Advanced Multivariable Calculus reference request on [Stackexchange](https://math.stackexchange.com/questions/44522/theoretical-multivariable-calculus-textbooks)
 ## Statistics and Probability
+Meta analysis of Stackexchange books [here](https://bookinsider.gitlab.io/2018/12/01/top-books-on-stats/) ^eec26e
+
+Also a compilation of books on [reddit](https://www.reddit.com/r/statistics/comments/2le25z/what_books_or_papers_are_must_reads_for_every/)
+List of important publications [Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics) ^6bb376
 - _**Statistical Inference**_ - Casella and Berger
 - _**Introduction to Probability**_- William Feller
 	- Feller was one of the masters and pioneered the probability as a field in mathematics. [Remember Abel](Neils%20Heinrich%20Abel.md)
 - _**Probability Theory: A Comprehensive Course**_ - Klenke
-	- For Grad Students. Advanced per the preface
+	- For Grad Students. Advanced per the preface and is highly regarded per meta-analysis of [Stackexchange](Math.md#^0fdb2c)
 ### Meta Analysis
-Only seen one [recommendation](https://stats.stackexchange.com/questions/248311/which-is-the-best-book-to-learn-meta-analysis) and Hedges seems to appear a lot in meta analysis 
+Only seen one [recommendation](https://stats.stackexchange.com/questions/248311/which-is-the-best-book-to-learn-meta-analysis) and Hedges seems to appear a lot in meta analysis. Borenstein is also liked on [reddit](https://www.reddit.com/r/statistics/comments/8ebggf/request_a_overviewintroduction_to_meta_analysis/)
 - _**Statistical Methods for Meta Analysis**_ - Olkin and Hedges
 	- More theoretical of the two Hedges books
 - _**Introduction to Meta Analysis** - Borenstein and Hedges
 	- The more practical of the two books
 ### Design of Experiment
-Per [Stackexchange review](https://stats.stackexchange.com/questions/1815/recommended-books-on-experiment-design), Delaney and E.P. Box are highly regarded
-- _**Designing Experiments and Analyzing Data: A Model Comparison Perspective**_ - Delaney
+Per [Stackexchange review](https://stats.stackexchange.com/questions/1815/recommended-books-on-experiment-design), Delaney and E.P. Box are highly regarded. Should probably look at the Cochran books into Hinkelmann as they are more brief and Cochran is a pioneer on the subject.
 - _**Experimental Design**_ - Cox and Cochran
+	- Both Cochran books are highly regarded on [Stackexchange](https://stats.stackexchange.com/questions/179067/what-should-a-graduate-course-in-experimental-design-cover). This is the less mathematical of the two
 - _**Theory of the Design of Experiments**_ - Cochran
 	- This is the more mathematical compared to _**Experimental Design**_ by the same Cochran per this [review](https://stats.stackexchange.com/questions/179067/what-should-a-graduate-course-in-experimental-design-cover)
 - Statistical Design - Casella
-- #Design and Analysis of Experiments: Advanced Experimental DesignHinkelmann and kempthorne
+- _**Design and Analysis of Experiments**_ (2 volumes) - Hinkelmann and Kempthorne
+	- Considered a DOE bible on [reddit](https://www.reddit.com/r/statistics/comments/t7qics/q_whats_the_best_book_on_experimental_design_im/). Note this has 2 volumes
+-  _**Designing Experiments and Analyzing Data: A Model Comparison Perspective**_ - Delaney
 ### Quasi-Experimental
 - _**Experimental and Quasi-Experimental Designs for Generalized Causal Inference**_- William R. Shadish and Thomas D. Cook
     - This one is apparantly a classic per [this review on Stackexhange](https://stats.stackexchange.com/questions/173682/textbooks-readings-on-what-to-do-when-you-cant-create-an-ideal-experiment) and this [review as well](https://academia.stackexchange.com/questions/4784/ref-request-book-or-survey-about-conducting-experimental-studies)
 ### Sampling
 - _**Sampling techniques**_ - Cochran
-    - more mathematical and rigorous per this [review on Stackexhange](https://stats.stackexchange.com/questions/164420/introductory-graduate-level-survey-sampling-textbook)
+    - more mathematical and rigorous per this [review on Stackexhange](https://stats.stackexchange.com/questions/164420/introductory-graduate-level-survey-sampling-textbook) compared to Sharon Lohr that also gets recommended a lot. It's also by Cochran of all people. 
 - _**Survey Sampling**_ - Kish
     - also well regarded per same reviewer above
+### Survival
+- The Statistical Analysis of Failure Time Data - Kalbfleish
+	- Recommended as an important publication on [Wikipedia and Reddit](Math.md#^6bb376). One of the first treatments on survival analysis
 ### General
 Should especially look to read applied statistics and read the father of statistics Ronald Fischer and George EP Box:
 - _**Design of Experiment**_ - Fischer
 	-  Introduced the Null hypothesis
 - _**Statistical Methods for Research Workers**_ - Donald Fischer
 - _**Statistics for Experimenters**_ (2nd ed., 2005), - E. P. Box
-### Multivariate Statistics
-- _**An Introduction to Multivariate Statistical Analysis**_ - Anderson
-### Categorical Statistics
-- _**Categorical Data Analysis**_ - Agresti
-### Time Series
-- _**Time Series Analysis: Forecasting and Control**_ - E. P. Box
-### Bayes
-- _**Bayesian Inference in Statistical Analysis**_
-	-  Can be my first Bayesian statistics book
-Seems to be one of the more mathemtical and classic treatments of multivariate statistics  per [Stackexchange](https://stats.stackexchange.com/questions/67146/recommendations-for-mathematical-multivariate-statistics-with-exercises) But the preface does mention its for graduates
-
 Statistics doesn't seem to generate much buzz with mathematicians, but here are some recommended advanced works after Casella from [Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics)
 - _**Combinatorics of Experimental Design**_ - Anne Street
 	- Connects Statistics to combinatorics
-[_Theory of statistics_](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians)
+### Multivariate Statistics
+- _**An Introduction to Multivariate Statistical Analysis**_ - Anderson
+	- Seems to be one of the more mathemtical and classic treatments of multivariate statistics  per [Stackexchange](https://stats.stackexchange.com/questions/67146/recommendations-for-mathematical-multivariate-statistics-with-exercises) But the preface does mention its for graduates
+### Categorical Statistics
+- _**Categorical Data Analysis**_ - Agresti
+	- This is highly rated on stackexchange[ meta analysis](Math.md#^eec26e)
+### Time Series
+- _**Time Series Analysis: Forecasting and Control**_ - E. P. Box
+	- On list of important publications per [Wikipedia](Math.md#^6bb376)
+Take some time to leaf through this [review](https://math.stackexchange.com/questions/3993990/book-recommendation-on-time-series-statistics) for books used by economists/finance for time series analysis
+### Bayes
+- Bayesian Data Analysis - Gelman
+	- This is highly recommended on [Stackexchange](https://math.stackexchange.com/questions/133230/books-for-understanding-bayesian-probability-from-the-beginning) and also liked on [reddit](Math.md#^6bb376) and is highly rated on the Stackexchage [meta analysis](Math.md#^eec26e). Note that this title is for the newer version of this  [older version](https://www.amazon.co.jp/dp/052168689X)
+- _**Bayesian Inference in Statistical Analysis**_ - George Box
+	-  Can be my first Bayesian statistics book. That was listed as a historic publication on [Wikipedia](Math.md#^6bb376)
+- [_Theory of statistics_](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians) -Schirvish
+	- Is mentioned to be relevant to Bayes Statistics per [Stackexchange](https://mathoverflow.net/questions/100288/bayesian-statistics-for-pure-mathematicians)
+- _**Introduction to statistical decision theory**_ - John Pratt
+	- Required reading for doctoral Harvard Business School students
+
+
 ## ODE
 [[Rota's Criticism of Modern Pedagogy of Differential Equations]]
 [Pretty representative summary of what I've seen for review of ODE books](https://math.stackexchange.com/questions/4119586/looking-for-a-2nd-book-on-ordinary-differential-equations). People really like Hirsch and Coddington. Should probably look at both
