@@ -25,10 +25,13 @@ Only seen one [recommendation](https://stats.stackexchange.com/questions/248311/
 - _**Introduction to Meta Analysis** - Borenstein and Hedges
 	- The more practical of the two books
 ### Design of Experiment
-- Delaney
+Per [Stackexchange review](https://stats.stackexchange.com/questions/1815/recommended-books-on-experiment-design), Delaney and E.P. Box are highly regarded
+- _**Designing Experiments and Analyzing Data: A Model Comparison Perspective**_ - Delaney
 - _**Experimental Design**_ - Cox and Cochran
-- 
-- Hinkelmann and kempthorne
+- _**Theory of the Design of Experiments**_ - Cochran
+	- This is the more mathematical compared to _**Experimental Design**_ by the same Cochran per this [review](https://stats.stackexchange.com/questions/179067/what-should-a-graduate-course-in-experimental-design-cover)
+- Statistical Design - Casella
+- #Design and Analysis of Experiments: Advanced Experimental DesignHinkelmann and kempthorne
 ### Quasi-Experimental
 - _**Experimental and Quasi-Experimental Designs for Generalized Causal Inference**_- William R. Shadish and Thomas D. Cook
     - This one is apparantly a classic per [this review on Stackexhange](https://stats.stackexchange.com/questions/173682/textbooks-readings-on-what-to-do-when-you-cant-create-an-ideal-experiment) and this [review as well](https://academia.stackexchange.com/questions/4784/ref-request-book-or-survey-about-conducting-experimental-studies)
