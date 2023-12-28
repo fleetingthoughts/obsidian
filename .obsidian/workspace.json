@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering.md",
+                "file": "Notetaking.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering.md",
+                "file": "Notetaking.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering.md",
+                "file": "Notetaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering.md"
+                "file": "Notetaking.md"
               }
             }
           }
@@ -199,28 +199,31 @@
   },
   "active": "bda3cc7dc2f2261a",
   "lastOpenFiles": [
-    "Math.md",
-    "Engineering.md",
-    "Physics.md",
+    "Mental training.md",
+    "___Home.md",
+    "Notetaking.md",
     "Ahren.md",
-    "Documentaries.md",
     "_Fleeting.md",
-    "Subjects to look into.md",
-    "The slipbox.md",
+    "Neils Heinrich Abel.md",
     "Trips.md",
+    "Zettalkasten.md",
+    "Sententia.md",
+    "The slipbox.md",
+    "PARA.md",
+    "Engineering.md",
+    "Math.md",
+    "Physics.md",
+    "Documentaries.md",
+    "Subjects to look into.md",
     "[Stack.md",
     "X",
     "Stack exchange collated highest rates books.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
-    "Notetaking.md",
     "Untitled.md",
-    "___Home.md",
     "Resources.md",
     "Python books.md",
     "2023-12-21.md",
     "conflict-files-obsidian-git.md",
-    "Sententia.md",
-    "Neils Heinrich Abel.md",
     "2023-12-20.md"
   ]
 }
