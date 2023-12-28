@@ -10,10 +10,10 @@
 - [_**Differential and Integral Calculus**_- Richard Courant](https://en.m.wikipedia.org/wiki/Richard_Courant)
     - Apostol is more thorough but less discussion on applications when compared to [Fritz and Courant](https://math.stackexchange.com/questions/63504/suggest-textbook-on-calculus). Apostol seems to be the more popular one among mathematicians
 - _**Analysis on Manifolds**_ by James Munkres
-	- More suited as a 2nd course in calculus per [Stackexchange](https://math.stackexchange.com/questions/1190170/munkres-analysis-on-manifolds-and-differential-geometry)
+	- More suited as a 2nd course in calculus per [Stackexchange](https://math.stackexchange.com/questions/1190170/munkres-analysis-on-manifolds-and-differential-geometry)and used as as a second advanced calculus course at MIT
 Advanced Multivariable Calculus reference request on [Stackexchange](https://math.stackexchange.com/questions/44522/theoretical-multivariable-calculus-textbooks)
 ### Calculus of Variations
-- _**Calculus of Variations** - Gelfand and Fomin
+- _**Calculus of Variations**_ - Gelfand and Fomin
 	- Recommended several times on [Stackexchange](https://mathoverflow.net/questions/129122/good-book-on-calculus-of-variations) and also used in Control theory [subreddit](Engineering.md#^1541ca) 
 ## Statistics and Probability
 Meta analysis of Stackexchange books [here](https://bookinsider.gitlab.io/2018/12/01/top-books-on-stats/) ^eec26e

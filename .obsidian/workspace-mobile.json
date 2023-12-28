@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
-                "mode": "preview",
+                "file": "Japan food.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Math.md",
+            "file": "Japan food.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Math.md",
+            "file": "Japan food.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Math.md"
+            "file": "Japan food.md"
           }
         }
       },
@@ -454,35 +454,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e313fb77e7f4f55",
+  "active": "1bfbd7359b68a91d",
   "lastOpenFiles": [
+    "_Fleeting.md",
+    "Subjects to look into.md",
+    "Stack exchange collated highest rates books.md",
+    "The slipbox.md",
+    "Math.md",
+    "Resources.md",
+    "___Home.md",
     "/Physics.md",
     "/Math.md",
+    "/Engineering.md",
     "Physics.md",
     "[Stack.md",
-    "Math.md",
     "Ahren.md",
     "/Ahren.md",
-    "Stack exchange collated highest rates books.md",
-    "Resources.md",
     "2023-12-24.md",
     "2023-12-20.md",
-    "___Home.md",
-    "The slipbox.md",
     "Zettalkasten.md",
-    "_Fleeting.md",
     "Mental training.md",
     "Notetaking.md",
     "Physical training.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
     "/_Fleeting.md",
-    "/Engineering.md",
     "X",
     "Sententia.md",
     "Engineering.md",
     "conflict-files-obsidian-git.md",
     "2023-12-21.md",
-    "/2023-12-21.md",
     "_.obsidian",
     "storage/emulated/0",
     "storage/emulated",
