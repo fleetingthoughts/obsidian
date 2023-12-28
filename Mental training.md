@@ -1,3 +1,3 @@
 This note is for models/techniques to improve mental productivity
 
-[[Notetaking]]
+[[Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that.]]

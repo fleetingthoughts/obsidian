@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
-                "mode": "preview",
+                "file": "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Math.md",
+            "file": "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Math.md",
+            "file": "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Math.md"
+            "file": "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md"
           }
         }
       },
@@ -454,35 +454,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bfbd7359b68a91d",
+  "active": "9e313fb77e7f4f55",
   "lastOpenFiles": [
+    "Ahrens Chapter 6 - Keep the notes simple.md",
+    "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
+    "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
+    "Ahren Chapter 5 - Writing is the objective.md",
+    "Ahren - Chapters 1-3 intro to zettalskan.md",
+    "_Fleeting.md",
+    "Resources.md",
+    "Zettalkasten.md",
+    "Math.md",
     "The slipbox.md",
     "Stack exchange collated highest rates books.md",
     "Subjects to look into.md",
-    "_Fleeting.md",
     "Japan food.md",
-    "Math.md",
-    "Resources.md",
     "___Home.md",
     "/Physics.md",
     "/Math.md",
     "/Engineering.md",
     "Physics.md",
     "[Stack.md",
-    "Ahren.md",
     "/Ahren.md",
     "2023-12-24.md",
     "2023-12-20.md",
-    "Zettalkasten.md",
     "Mental training.md",
-    "Notetaking.md",
     "Physical training.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
     "/_Fleeting.md",
     "X",
-    "Sententia.md",
-    "Engineering.md",
-    "conflict-files-obsidian-git.md",
     "_.obsidian",
     "storage/emulated/0",
     "storage/emulated",
