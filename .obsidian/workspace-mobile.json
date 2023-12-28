@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan food.md",
-                "mode": "source",
+                "file": "Math.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -392,7 +392,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Japan food.md",
+            "file": "Math.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Japan food.md",
+            "file": "Math.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -421,7 +421,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Japan food.md"
+            "file": "Math.md"
           }
         }
       },
@@ -456,10 +456,11 @@
   },
   "active": "1bfbd7359b68a91d",
   "lastOpenFiles": [
-    "_Fleeting.md",
-    "Subjects to look into.md",
-    "Stack exchange collated highest rates books.md",
     "The slipbox.md",
+    "Stack exchange collated highest rates books.md",
+    "Subjects to look into.md",
+    "_Fleeting.md",
+    "Japan food.md",
     "Math.md",
     "Resources.md",
     "___Home.md",
@@ -482,7 +483,6 @@
     "Sententia.md",
     "Engineering.md",
     "conflict-files-obsidian-git.md",
-    "2023-12-21.md",
     "_.obsidian",
     "storage/emulated/0",
     "storage/emulated",
