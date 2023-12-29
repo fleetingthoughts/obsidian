@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Ahren - Chapters 1-3 intro to zettalskan.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Ahren - Chapters 1-3 intro to zettalskan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Ahren - Chapters 1-3 intro to zettalskan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,11 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Fleeting.md"
+                "file": "Ahren - Chapters 1-3 intro to zettalskan.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,16 +199,18 @@
   },
   "active": "bda3cc7dc2f2261a",
   "lastOpenFiles": [
+    "ahrensHowTakeSmart2017.md",
+    "___Home.md",
     "Ahren - Chapters 1-3 intro to zettalskan.md",
+    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "_Fleeting.md",
+    "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
+    "Ahrens Chapter 6 - Keep the notes simple.md",
     "Mental training.md",
     "conflict-files-obsidian-git.md",
     "Notetaking.md",
-    "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
-    "Ahrens Chapter 6 - Keep the notes simple.md",
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
     "Ahren Chapter 5 - Writing is the objective.md",
-    "___Home.md",
     "Ahren.md",
     "Neils Heinrich Abel.md",
     "Trips.md",
@@ -222,8 +225,6 @@
     "Subjects to look into.md",
     "[Stack.md",
     "X",
-    "Stack exchange collated highest rates books.md",
-    "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
-    "Untitled.md"
+    "Stack exchange collated highest rates books.md"
   ]
 }
