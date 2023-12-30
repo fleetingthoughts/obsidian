@@ -28,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ahren - Chapters 1-3 Intro to Zettalskan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d341739faed8013c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Ahrens Chapter 9 Compartmentalize your thinking and focus.md"
               }
             }
           }
@@ -176,10 +163,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d341739faed8013c",
+  "active": "1561da77844a1ffb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ahrensHowTakeSmart_2023-12-30 04 - 50.md",
+    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
+    "Sonke Ahrens on How to take Smarter notes.md",
     "Ahren - Chapters 1-3 Intro to Zettalskan.md",
+    "ahrensHowTakeSmart2023-12-30 04 - 46.md",
+    "ahrensHowTakeSmart.md",
+    "zotero_annotations/ahrensHowTakeSmart.md",
+    "Untitled 1.md",
+    "citations_template/citation_template_abridged.md",
+    "citations_template/citation_template_abridged.md.txt",
+    "citations_template/citation_template.md",
+    "citations_template/ahrensHowTakeSmart2017.md",
+    "citations_template",
+    "citations/citation_template.md",
+    "Untitled.md",
+    "zotero_annotations",
     "ahrensHowTakeSmart2017.md",
     "citation_template.md",
     "citations/ahrensHowTakeSmart2017.md",
@@ -191,20 +192,9 @@
     "Resources.md",
     "Physics.md",
     "Python books.md",
-    "Sonke Ahrens on How to take Smarter notes.md",
     "Mental training MOC.md",
     "Math.md",
     "Japan.md",
-    "Neils Heinrich Abel.md",
-    "Trips.md",
-    "Japan food.md",
-    "Ahren Chapter 5 - Writing is the objective.md",
-    "Ahrens Chapter 6 - Keep the notes simple.md",
-    "Physical training.md",
-    "Engineering.md",
-    "Subjects to look into.md",
-    "Stack exchange collated highest rates books.md",
-    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "X"
   ]
 }

@@ -7,16 +7,22 @@
   "citeFormats": [],
   "exportFormats": [
     {
-      "name": "Import Annotations",
-      "outputPathTemplate": "zotero_annotations/{{citekey}}.md",
+      "name": "import annotations (abridged)",
+      "outputPathTemplate": "{{citekey}}_{{importDate | format(\"YYYY-MM-DD HH::mm\")}}.md",
       "imageOutputPathTemplate": "zotero_attachments/{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "cslStyle": "chicago-author-date",
-      "templatePath": "citation_template.md"
+      "templatePath": "citations_template/citation_template_abridged.md"
+    },
+    {
+      "name": "import annotations (full)",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "zotero_attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "citations_template/citation_template.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
+  "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note",
   "shouldConcat": true
 }
