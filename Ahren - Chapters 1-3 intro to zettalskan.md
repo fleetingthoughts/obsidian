@@ -1,3 +1,5 @@
+Parent::[Sonke Ahrens on How to take Smarter notes](Sonke%20Ahrens%20on%20How%20to%20take%20Smarter%20notes.md)
+
 The slip box
 - temporary notes
 - literature notes with rewording and references

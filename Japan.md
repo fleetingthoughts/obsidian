@@ -1,5 +1,4 @@
-parent:: [[_Fleeting]]
-[[Japan food]]
+Parent::[Trips](Trips.md)
 
 - Cups with ice filling drinks
 - Wordy ads. Not minimalistic

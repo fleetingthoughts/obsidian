@@ -1,7 +1,5 @@
 
-
-[[_Fleeting]]
-[[Mental training]]
-[[Physical training]]
-[Resources](Resources.md)
-[[Sententia]]
+## Intellectual Interests
+```dataview
+list from [[]] and !outgoing([[]])
+```

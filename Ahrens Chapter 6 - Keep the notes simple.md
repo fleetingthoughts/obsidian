@@ -1,3 +1,5 @@
+Parent::[Sonke Ahrens on How to take Smarter notes](Sonke%20Ahrens%20on%20How%20to%20take%20Smarter%20notes.md)
+
 The slip box should be like a shipping container. Focus on the objective of carrying ideas from beginning to end. 
 
 How can we keep things simple, by not letting notes exceed critical mass. Avoid:

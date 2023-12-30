@@ -4,8 +4,21 @@
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
-  "citeFormats": [],
-  "exportFormats": [],
+  "citeFormats": [
+    {
+      "name": "Default",
+      "format": "latex",
+      "command": "Cite"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": false,
   "whichNotesToOpenAfterImport": "first-imported-note"
