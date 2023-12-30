@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Mental Training MOC",
+      "query": "MOC",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -17,14 +17,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 1,
+  "nodeSizeMultiplier": 1.4015625,
+  "lineSizeMultiplier": 2.090625,
   "collapse-forces": false,
-  "centerStrength": 0.125,
-  "repelStrength": 6.35416666666667,
+  "centerStrength": 1,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.28570863015875864,
+  "scale": 0.7873204038733282,
   "close": false
 }
