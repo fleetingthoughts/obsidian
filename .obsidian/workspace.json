@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___Home.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "___Home.md",
+                "file": "Resources.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "___Home.md",
+                "file": "Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___Home.md"
+                "file": "Resources.md"
               }
             }
           }
@@ -165,22 +165,23 @@
   },
   "active": "1561da77844a1ffb",
   "lastOpenFiles": [
+    "Physics.md",
+    "Python books.md",
+    "Sonke Ahrens on How to take Smarter notes.md",
+    "Mental training MOC.md",
+    "___Home.md",
     "_Fleeting.md",
     "Sententia.md",
-    "___Home.md",
     "Math.md",
     "Japan.md",
     "Neils Heinrich Abel.md",
     "Trips.md",
     "Japan food.md",
-    "Mental training MOC.md",
-    "Sonke Ahrens on How to take Smarter notes.md",
     "Ahren Chapter 5 - Writing is the objective.md",
     "Resources.md",
     "Ahrens Chapter 6 - Keep the notes simple.md",
     "Physical training.md",
     "Ahren - Chapters 1-3 Intro to Zettalskan.md",
-    "Physics.md",
     "Engineering.md",
     "Subjects to look into.md",
     "Stack exchange collated highest rates books.md",
@@ -190,7 +191,6 @@
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
     "conflict-files-obsidian-git.md",
     "Notetaking.md",
-    "Ahren.md",
     "X"
   ]
 }
