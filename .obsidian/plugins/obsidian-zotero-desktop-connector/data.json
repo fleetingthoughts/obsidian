@@ -4,22 +4,19 @@
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
-  "citeFormats": [
-    {
-      "name": "Default",
-      "format": "latex",
-      "command": "Cite"
-    }
-  ],
+  "citeFormats": [],
   "exportFormats": [
     {
-      "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "name": "Import Annotations",
+      "outputPathTemplate": "zotero_annotations/{{citekey}}.md",
+      "imageOutputPathTemplate": "zotero_attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "chicago-author-date",
+      "templatePath": "citation_template.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": false,
-  "whichNotesToOpenAfterImport": "first-imported-note"
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
 }
