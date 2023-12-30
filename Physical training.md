@@ -1,3 +1,4 @@
+Parent::[___Home](___Home.md)
 ## Legs
 - squat
 - jumping squat

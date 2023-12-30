@@ -1,3 +1,4 @@
+Parent:: [Trips](Trips.md)
 - sukimen
 - obanzai
 - yakitori

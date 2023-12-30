@@ -1,1 +1,3 @@
-[[Japan]]
+``` dataview
+list from [[]] and !outgoing([[]])
+```
