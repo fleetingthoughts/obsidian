@@ -1,1 +1,3 @@
-[[Neils Heinrich Abel]]
+```dataview
+list from [[]] and !outgoing([[]])
+```

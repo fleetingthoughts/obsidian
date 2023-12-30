@@ -1,5 +1,5 @@
 
-## Intellectual Interests
+## Interests
 ```dataview
 list from [[]] and !outgoing([[]])
 ```

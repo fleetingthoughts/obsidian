@@ -1,5 +1,7 @@
 
-[[Trips]]
+```dataview
+list from [[]] and !outgoing([[]])
+```
 
 
 
