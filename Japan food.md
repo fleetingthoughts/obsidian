@@ -1,4 +1,5 @@
-Parent:: [Trips](Trips.md)
+Parent:: [_Fleeting MOC](_Fleeting%20MOC.md)
+
 - sukimen
 - obanzai
 - yakitori

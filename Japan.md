@@ -1,4 +1,5 @@
-Parent::[Trips](Trips.md)
+Parent::[_Fleeting MOC](_Fleeting%20MOC.md)
+
 
 - Cups with ice filling drinks
 - Wordy ads. Not minimalistic
@@ -20,5 +21,6 @@ Parent::[Trips](Trips.md)
 - mountain and cold
 - 
 
+Tokyo
 
 

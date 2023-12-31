@@ -4,25 +4,22 @@
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
-  "citeFormats": [],
+  "citeFormats": [
+    {
+      "name": "Default",
+      "format": "latex",
+      "command": "Cite"
+    }
+  ],
   "exportFormats": [
     {
-      "name": "import annotations (abridged)",
-      "outputPathTemplate": "{{citekey}}_{{importDate | format(\"YYYY-MM-DD HH::mm\")}}.md",
-      "imageOutputPathTemplate": "zotero_attachments/{{citekey}}/",
-      "imageBaseNameTemplate": "image",
-      "templatePath": "citations_template/citation_template_abridged.md"
-    },
-    {
-      "name": "import annotations (full)",
+      "name": "Import #1",
       "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "zotero_attachments/{{citekey}}/",
-      "imageBaseNameTemplate": "image",
-      "templatePath": "citations_template/citation_template.md"
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": true,
-  "whichNotesToOpenAfterImport": "first-imported-note",
-  "shouldConcat": true
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
 }
