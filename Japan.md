@@ -19,8 +19,11 @@ Parent::[_Fleeting MOC](_Fleeting%20MOC.md)
 - Alexander Croft Shaw. Missionary.
 - hot spring town
 - mountain and cold
-- 
+- acidic water
 
-Tokyo
+## Tokyo
+- long waits at comiket
+- tsukemen 
+
 
 
