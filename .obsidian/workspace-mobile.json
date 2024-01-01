@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ahren chapter 10 how to read a book.md",
+                "file": "Ahrens Chapter 11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ahren chapter 10 how to read a book.md",
+                "file": "Ahrens Chapter 11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ahren chapter 10 how to read a book.md",
+                "file": "Ahrens Chapter 11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -343,7 +343,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ahren chapter 10 how to read a book.md",
+            "file": "Ahrens Chapter 11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -360,7 +360,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ahren chapter 10 how to read a book.md",
+            "file": "Ahrens Chapter 11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -372,7 +372,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ahren chapter 10 how to read a book.md"
+            "file": "Ahrens Chapter 11.md"
           }
         }
       },
@@ -405,10 +405,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3e356529c52c0c4",
+  "active": "1bfbd7359b68a91d",
   "lastOpenFiles": [
-    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "Ahren chapter 10 how to read a book.md",
+    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
+    "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
+    "Ahren - Chapters 1-3 intro to zettalskan.md",
+    "Ahrens Chapter 11.md",
     "Japan food.md",
     "_Fleeting MOC.md",
     "Japan.md",
@@ -430,9 +433,6 @@
     "/Mental training MOC.md",
     "/Japan.md",
     "/Japan food.md",
-    "/Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
-    "/Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
-    "/Ahrens Chapter 6 - Keep the notes simple.md",
     "X",
     "_.obsidian",
     "storage/emulated/0",
