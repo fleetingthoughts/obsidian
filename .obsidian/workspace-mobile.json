@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan food.md",
+                "file": "Ahren chapter 10 how to read a book.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Japan food.md",
+                "file": "Ahren chapter 10 how to read a book.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Japan food.md",
+                "file": "Ahren chapter 10 how to read a book.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -343,7 +343,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Japan food.md",
+            "file": "Ahren chapter 10 how to read a book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -360,7 +360,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Japan food.md",
+            "file": "Ahren chapter 10 how to read a book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -372,7 +372,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Japan food.md"
+            "file": "Ahren chapter 10 how to read a book.md"
           }
         }
       },
@@ -407,12 +407,13 @@
   },
   "active": "f3e356529c52c0c4",
   "lastOpenFiles": [
-    "_Fleeting MOC.md",
+    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
+    "Ahren chapter 10 how to read a book.md",
     "Japan food.md",
+    "_Fleeting MOC.md",
     "Japan.md",
     "conflict-files-obsidian-git.md",
     "Trips.md",
-    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "___Home.md",
     "Ahren Chapter 5 - Writing is the objective.md",
     "/_Fleeting MOC.md",
@@ -432,7 +433,6 @@
     "/Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "/Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
     "/Ahrens Chapter 6 - Keep the notes simple.md",
-    "/Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
     "X",
     "_.obsidian",
     "storage/emulated/0",
