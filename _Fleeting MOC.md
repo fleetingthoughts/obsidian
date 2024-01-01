@@ -6,8 +6,13 @@ list from [[]] and !outgoing([[]])
 
 
 ## To Do
+- navy blue pants
+- shirts
+- Stan Smith
 - 
-- buy Zojirushi thermos
+
+
+- buy Zojirushi ther
 - 
 
 Mon: Calc/Python

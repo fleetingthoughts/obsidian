@@ -25,5 +25,13 @@ Parent::[_Fleeting MOC](_Fleeting%20MOC.md)
 - long waits at comiket
 - tsukemen 
 
+   ### Ikebukuro
+    - Ike bus
+    ### Shibuya
+    - hachiko dog
+    - Shibuya crossing lots of phones
+    - shops closed and cordoned off for new years
+    -
+
 
 
