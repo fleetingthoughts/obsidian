@@ -6,13 +6,14 @@ list from [[]] and !outgoing([[]])
 
 
 ## To Do
+- haircut Jin
 - navy blue pants
 - shirts
 - Stan Smith
-- 
+- gazelle
 
 
-- buy Zojirushi ther
+-
 - 
 
 Mon: Calc/Python

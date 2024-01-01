@@ -10,5 +10,6 @@ Parent:: [_Fleeting MOC](_Fleeting%20MOC.md)
 - White lover
 - Hamburg steak
 - yoriya beef bowl
+- self blend slushi
 - 
 

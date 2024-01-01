@@ -1,5 +1,6 @@
 Parent::[_Fleeting MOC](_Fleeting%20MOC.md)
 
+Convoluted train system with multiple lines with local and express versions. Google assumes your a local
 
 - Cups with ice filling drinks
 - Wordy ads. Not minimalistic
@@ -14,12 +15,14 @@ Parent::[_Fleeting MOC](_Fleeting%20MOC.md)
 - mercaptans from volcano
 - black volcano egg
 - city on a volcano
-- 
+- evangelion
 ### Karuizawa
 - Alexander Croft Shaw. Missionary.
 - hot spring town
 - mountain and cold
 - acidic water
+
+Macau monkey onsen about a 1-2 hour drive away.
 
 ## Tokyo
 - long waits at comiket
@@ -31,7 +34,7 @@ Parent::[_Fleeting MOC](_Fleeting%20MOC.md)
     - hachiko dog
     - Shibuya crossing lots of phones
     - shops closed and cordoned off for new years
-    -
+    - 
 
 
 
