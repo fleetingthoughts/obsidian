@@ -1,3 +1,5 @@
+Parent::[Sonke Ahrens on How to take Smarter notes](Sonke%20Ahrens%20on%20How%20to%20take%20Smarter%20notes.md)
+
 Ahrens discusses the way links can be generated to ease navigation of the zettalkasten in a way that is conducive to thinking and understanding.
 
 I think his line of thinking is similar and improved with the MOC

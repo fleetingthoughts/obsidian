@@ -1,4 +1,1 @@
-"# obsidian" 
-"# obsidian" 
-"# obsidian" 
-"# obsidian" 
+"# My personal obsidian vault" 

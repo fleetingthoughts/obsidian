@@ -13,13 +13,15 @@
   ],
   "exportFormats": [
     {
-      "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
+      "name": "Abridge import annotation",
+      "outputPathTemplate": "{{citekey}}{{importDate | format(\"YYYY-MM-DD HH:mm\")}}*.md",
       "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "zotero_template/abridged_citation_template.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
-  "whichNotesToOpenAfterImport": "first-imported-note"
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "last-imported-note",
+  "shouldConcat": true
 }
