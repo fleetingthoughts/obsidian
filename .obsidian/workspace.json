@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sonke Ahrens on How to take Smarter notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sonke Ahrens on How to take Smarter notes.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sonke Ahrens on How to take Smarter notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sonke Ahrens on How to take Smarter notes.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,38 +173,35 @@
   },
   "active": "cf0a509872ffed20",
   "lastOpenFiles": [
-    "Ahren - Chapters 1-3 intro to zettalskan.md",
-    "Engineering.md",
-    "Ahrens Chapter 12.md",
-    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
-    "ahrensHowTakeSmart2024-01-02 06 - 01.md",
-    "README.md",
-    "ahrensHowTakeSmart2024-01-02 06 - 00.md",
-    "ahrensHowTakeSmart_2024-01-02 05 - 59.md",
-    "Untitled.md",
-    "___Home.md",
     "zotero_template/citation_template.md",
     "zotero_template/abridged_citation_template.md",
-    "zotero_template/abridged_citation_template.txt",
-    "zotero_template/citation_template.txt",
     "zotero_template",
-    "New folder",
+    "Ahrens Chapter 12.md",
     "Ahrens Chapter 11.md",
-    "Sonke Ahrens on How to take Smarter notes.md",
-    "Ahren Chapter 5 - Writing is the objective.md",
-    "Ahrens Chapter 6 - Keep the notes simple.md",
-    "test.md",
+    "Ahren chapter 10 how to read a book.md",
     "Physics.md",
+    "README.md",
+    "Sonke Ahrens on How to take Smarter notes.md",
     "Rota's Criticism of Modern Pedagogy of Differential Equations.md",
+    "Ahrens Chapter 6 - Keep the notes simple.md",
     "_Fleeting MOC.md",
     "Ahren - Chapters 1-3 Intro to Zettalskan.md",
+    "Ahren Chapter 5 - Writing is the objective.md",
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
     "Ahrens Chapter 8 the slip box as a feedback mechanism for motivation.md",
+    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
+    "___Home.md",
     "ahrensHowTakeSmart_2023-12-30 04 - 50.md",
     "ahrensHowTakeSmart2023-12-30 04 - 46.md",
     "ahrensHowTakeSmart.md",
+    "zotero_annotations/ahrensHowTakeSmart.md",
+    "Untitled 1.md",
+    "citations_template/citation_template_abridged.md",
     "citations_template/citation_template_abridged.md.txt",
+    "citations_template/citation_template.md",
+    "citations_template/ahrensHowTakeSmart2017.md",
     "citations_template",
+    "citations/citation_template.md",
     "zotero_annotations",
     "citations",
     "X"
