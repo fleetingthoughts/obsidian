@@ -14,8 +14,6 @@ list from [[]] and !outgoing([[]])
 - Top of the Chain - Shaving (Stirling)
 
 
--
-- 
 
 Mon: Calc/Python
 Tues: Statistics/ Mechanics
