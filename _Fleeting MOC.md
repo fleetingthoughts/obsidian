@@ -13,7 +13,13 @@ list from [[]] and !outgoing([[]])
 - gazelle
 - Top of the Chain - Shaving (Stirling)
 
-
+Glute bridge (both variants)
+jumping squat
+glute bridge
+situp
+jumping squat
+glute bridge
+pushup
 
 Mon: Calc/Python
 Tues: Statistics/ Mechanics
