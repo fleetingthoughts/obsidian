@@ -12,6 +12,8 @@ list from [[]] and !outgoing([[]])
 - Stan Smith
 - gazelle
 - Top of the Chain - Shaving (Stirling)
+- Michaels - art
+- 
 
 Glute bridge (both variants)
 jumping squat
