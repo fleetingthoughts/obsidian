@@ -26,14 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investment.md",
+                "file": "Personal Finance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7b2afd6cb3d079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dollar-Cost Averaging (DCA).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "___Home.md",
+                "file": "Dollar-Cost Averaging (DCA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "___Home.md",
+                "file": "Dollar-Cost Averaging (DCA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___Home.md"
+                "file": "Dollar-Cost Averaging (DCA).md"
               }
             }
           }
@@ -161,12 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb4d525447b1641c",
+  "active": "4d7b2afd6cb3d079",
   "lastOpenFiles": [
-    "Investment.md",
+    "Dollar-Cost Averaging (DCA).md",
+    "Personal Finance.md",
     "___Home.md",
-    "Physical training.md",
     "_Fleeting MOC.md",
+    "Physical training.md",
     "zotero_template/abridged_citation_template.txt",
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md"
   ]
