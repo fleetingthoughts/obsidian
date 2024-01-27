@@ -34,12 +34,38 @@
             }
           },
           {
-            "id": "4d7b2afd6cb3d079",
+            "id": "8927df5d0478cc0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dollar-Cost Averaging (DCA).md",
+                "file": "Dollar-Cost Averaging (DCA) vs Lump Sum Investment (LSI).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab54cc7da23a16fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "328c16fb12617706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dollar-Cost Averaging (DCA).md",
+                "file": "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dollar-Cost Averaging (DCA).md",
+                "file": "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dollar-Cost Averaging (DCA).md"
+                "file": "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md"
               }
             }
           }
@@ -175,11 +201,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d7b2afd6cb3d079",
+  "active": "ab54cc7da23a16fc",
   "lastOpenFiles": [
-    "Dollar-Cost Averaging (DCA).md",
+    "Untitled.md",
     "Personal Finance.md",
+    "Dollar-Cost Averaging (DCA) vs Lump Sum Investment (LSI).md",
+    "Math.md",
+    "Resources.md",
+    "Physics.md",
+    "Python books.md",
     "___Home.md",
+    "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
+    "shtekhmanDollarcostAveragingJust20122024-01-27 13 - 36.md",
+    "shtekhmanDollarcostAveragingJust2012.md",
+    "shtekhmanDollarcostAveragingJust20122024-01-27 14 - 01.md",
+    "shtekhmanDollarcostAveragingJust20122024-01-27 14 - 00.md",
+    "Dollar-Cost Averaging (DCA).md",
     "_Fleeting MOC.md",
     "Physical training.md",
     "zotero_template/abridged_citation_template.txt",

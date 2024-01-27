@@ -1,6 +1,6 @@
 Parent: [Resources](Resources.md)
 
-[Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)^3e6c0e
+[Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
 [Roadmap by Gerard T'hooft](https://www.goodtheorist.science/)
 [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate) 
 [A meta analysis of Stackexchange books](https://bookinsider.gitlab.io/2018/12/01/top-books-on-physics/)
