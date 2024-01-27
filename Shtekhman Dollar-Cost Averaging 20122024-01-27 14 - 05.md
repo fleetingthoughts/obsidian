@@ -6,7 +6,10 @@ Vanguard Research produced a 2012 article reviewing the historic performance of 
 The research looked at the historical performance of the LSI and DCA methodology on the following factors:
 - Asset allocation
 - DCA investment period
-- 
+- Currency and market available to the retail investor (UK/US/Australia)
+- 10-year rolling periods
+Even when risk-adjusted it shows that LSI has outperformed DCA, and the article provides the percentile distribution of the difference in the two portfolios from their analysis.
+
 
 
 

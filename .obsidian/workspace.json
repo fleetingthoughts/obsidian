@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Finance.md",
+                "file": "Personal Finance MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dollar-Cost Averaging (DCA) vs Lump Sum Investment (LSI).md",
+                "file": "Personal Finance MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
+                "file": "Math MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
+                "file": "Personal Finance MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
+                "file": "Personal Finance MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md"
+                "file": "Personal Finance MOC.md"
               }
             }
           }
@@ -201,17 +201,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab54cc7da23a16fc",
+  "active": "8927df5d0478cc0e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Personal Finance.md",
-    "Dollar-Cost Averaging (DCA) vs Lump Sum Investment (LSI).md",
-    "Math.md",
-    "Resources.md",
-    "Physics.md",
-    "Python books.md",
     "___Home.md",
+    "Resources.md",
+    "Math MOC.md",
+    "Physics MOC.md",
+    "Personal Finance MOC.md",
+    "Dollar-Cost Averaging (DCA) vs Lump Sum Investment (LSI).md",
     "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
+    "Untitled.md",
+    "Python books.md",
     "shtekhmanDollarcostAveragingJust20122024-01-27 13 - 36.md",
     "shtekhmanDollarcostAveragingJust2012.md",
     "shtekhmanDollarcostAveragingJust20122024-01-27 14 - 01.md",
