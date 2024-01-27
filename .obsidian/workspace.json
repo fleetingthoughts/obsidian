@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting MOC.md",
+                "file": "___Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11b02556c2ad57cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Fleeting MOC.md",
+                "file": "___Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Fleeting MOC.md",
+                "file": "___Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Fleeting MOC.md"
+                "file": "___Home.md"
               }
             }
           }
@@ -150,6 +163,10 @@
   },
   "active": "cb4d525447b1641c",
   "lastOpenFiles": [
+    "Investment.md",
+    "___Home.md",
+    "Physical training.md",
+    "_Fleeting MOC.md",
     "zotero_template/abridged_citation_template.txt",
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md"
   ]
