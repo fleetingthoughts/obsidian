@@ -21,77 +21,12 @@
             }
           },
           {
-            "id": "11b02556c2ad57cd",
+            "id": "82e6dd006622899e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Personal Finance MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b09b586e990dfcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06064201e964828a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3 The value of Asset Allocation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95c96506f470c7a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foreign Withholding Tax.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "381e890590ac22be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mutual Funds vs ETFs vs Index funds.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73943a2040411ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commission types.md",
+                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mutual Funds vs ETFs vs Index funds.md",
+                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mutual Funds vs ETFs vs Index funds.md",
+                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mutual Funds vs ETFs vs Index funds.md"
+                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md"
               }
             }
           }
@@ -227,21 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "381e890590ac22be",
+  "active": "82e6dd006622899e",
   "lastOpenFiles": [
-    "Commission types.md",
-    "Mutual Funds vs ETFs vs Index funds.md",
+    "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
+    "___Home.md",
     "Foreign Withholding Tax.md",
-    "Chapter 4 What Assets Classes to add to your allocation.md",
+    "Chapter 4b What Fixed income assets to add to your portfolio.md",
     "Chapter 3 The value of Asset Allocation.md",
     "Math MOC.md",
+    "GICs vs Bonds.md",
+    "Chapter 4a What Equity Assets Classes to add to your allocation.md",
+    "Reboot your Portfolio by Bortolloti.md",
+    "_Personal Finance MOC.md",
+    "Ahren - Chapters 1-3 intro to zettalskan.md",
+    "Commission types.md",
+    "Mutual Funds vs ETFs vs Index funds.md",
     "Resources.md",
-    "___Home.md",
     "_Fleeting MOC.md",
     "Sonke Ahrens on How to take Smarter notes.md",
     "Mental training MOC.md",
-    "_Personal Finance MOC.md",
-    "Reboot your Portfolio by Bortolloti.md",
     "Chapter 1 Evaluating the Alternatives To passive ETF investing.md",
     "Ahrens Chapter 11.md",
     "Ahrens Chapter 6 - Keep the notes simple.md",
@@ -251,10 +190,6 @@
     "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
     "Canada - Finanacial Planner vs Financial Advisor vs Investment Advisor.md",
     "Question - How Does WealthSimple make money.md",
-    "Pre-authorized Cash Contribution on ETFs.md",
-    "Physics MOC.md",
-    "Dollar-Cost Averaging (DCA) vs Lump Sum Investment (LSI).md",
-    "Python books.md",
     "zotero_template/abridged_citation_template.txt"
   ]
 }
