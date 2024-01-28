@@ -11,7 +11,4 @@ list from [[]] and !outgoing([[]])
 
 ## Academic
 - [Resources](Resources.md)
-- [Personal Financing](Personal%20Finance%20MOC.md)
-- 
-- )
-- 
+- [Personal Financing](_Personal%20Finance%20MOC.md)
