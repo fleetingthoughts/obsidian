@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e6dd006622899e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
+                "file": "Mutual Funds vs ETFs vs Index funds.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
+                "file": "Mutual Funds vs ETFs vs Index funds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
+                "file": "Mutual Funds vs ETFs vs Index funds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md"
+                "file": "Mutual Funds vs ETFs vs Index funds.md"
               }
             }
           }
@@ -162,10 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82e6dd006622899e",
+  "active": "cb4d525447b1641c",
   "lastOpenFiles": [
-    "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
+    "_Personal Finance MOC.md",
+    "_Fleeting MOC.md",
     "___Home.md",
+    "Mutual Funds vs ETFs vs Index funds.md",
+    "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
     "Foreign Withholding Tax.md",
     "Chapter 4b What Fixed income assets to add to your portfolio.md",
     "Chapter 3 The value of Asset Allocation.md",
@@ -173,12 +162,9 @@
     "GICs vs Bonds.md",
     "Chapter 4a What Equity Assets Classes to add to your allocation.md",
     "Reboot your Portfolio by Bortolloti.md",
-    "_Personal Finance MOC.md",
     "Ahren - Chapters 1-3 intro to zettalskan.md",
     "Commission types.md",
-    "Mutual Funds vs ETFs vs Index funds.md",
     "Resources.md",
-    "_Fleeting MOC.md",
     "Sonke Ahrens on How to take Smarter notes.md",
     "Mental training MOC.md",
     "Chapter 1 Evaluating the Alternatives To passive ETF investing.md",
