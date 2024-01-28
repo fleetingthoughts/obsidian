@@ -71,9 +71,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70a4b36e8ab05c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canada - Finanacial Planner vs Financial Advisor vs Investment Advisor.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45bfaef5a94bd1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-authorized Cash Contribution on ETFs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -139,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Finance MOC.md",
+                "file": "Pre-authorized Cash Contribution on ETFs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Finance MOC.md",
+                "file": "Pre-authorized Cash Contribution on ETFs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Finance MOC.md"
+                "file": "Pre-authorized Cash Contribution on ETFs.md"
               }
             }
           }
@@ -201,13 +227,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8927df5d0478cc0e",
+  "active": "45bfaef5a94bd1be",
   "lastOpenFiles": [
+    "Pre-authorized Cash Contribution on ETFs.md",
+    "Math MOC.md",
+    "Canada - Finanacial Planner vs Financial Advisor vs Investment Advisor.md",
+    "Personal Finance MOC.md",
     "___Home.md",
     "Resources.md",
-    "Math MOC.md",
     "Physics MOC.md",
-    "Personal Finance MOC.md",
     "Dollar-Cost Averaging (DCA) vs Lump Sum Investment (LSI).md",
     "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
     "Untitled.md",
