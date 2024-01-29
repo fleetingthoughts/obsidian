@@ -13,7 +13,7 @@
   ],
   "exportFormats": [
     {
-      "name": "Abridge import annotation",
+      "name": "my custom abridged import",
       "outputPathTemplate": "{{citekey}}{{importDate | format(\"YYYY-MM-DD HH:mm\")}}*.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
