@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETF Taxable events.md",
+                "file": "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "a14a5dbaa91038ec",
+            "id": "7f7e323456e18ad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chapter 5 Selecting the appropriate index ETF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chapter 5 Selecting the appropriate index ETF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chapter 5 Selecting the appropriate index ETF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Chapter 5 Selecting the appropriate index ETF.md"
               }
             }
           }
@@ -175,17 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a14a5dbaa91038ec",
+  "active": "7f7e323456e18ad5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Indices used to Track the market.md",
+    "Chapter 5 Selecting the appropriate index ETF.md",
     "Chapter 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
+    "Mutual Funds vs ETFs vs Index funds.md",
+    "Commission types.md",
+    "ETF tax and trading efficiencies.md",
+    "ETF Taxable events.md",
+    "ETF.md",
     "_Personal Finance MOC.md",
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
-    "ETF Taxable events.md",
-    "ETF tax efficiencies.md",
-    "Mutual Funds vs ETFs vs Index funds.md",
-    "ETF.md",
-    "Commission types.md",
     "_Fleeting MOC.md",
     "___Home.md",
     "Foreign Withholding Tax.md",
@@ -202,7 +203,6 @@
     "Chapter 1 Evaluating the Alternatives To passive ETF investing.md",
     "Ahrens Chapter 11.md",
     "Ahrens Chapter 6 - Keep the notes simple.md",
-    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "zotero_template/abridged_citation_template.txt"
   ]
 }
