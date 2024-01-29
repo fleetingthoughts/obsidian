@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "Mutual fund",
+      "query": "reddit",
       "color": {
         "a": 1,
         "rgb": 5396192
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.40055861322961855,
-  "close": false
+  "close": true
 }
