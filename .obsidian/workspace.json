@@ -96,25 +96,12 @@
             }
           },
           {
-            "id": "b37e3deda11a3b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tax Loss Harvesting and Wash sale.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfe0770f2cba6f83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tax deduction vs Tax credit.md",
+                "file": "Tax Loss Harvesting and Wash sale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -250,13 +237,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b37e3deda11a3b17",
+  "active": "bfe0770f2cba6f83",
   "lastOpenFiles": [
     "Tax deduction vs Tax credit.md",
+    "Dividend reinvestment plan (DRIP).md",
+    "ETF Taxable events and the impacts on ACB.md",
     "Tax Loss Harvesting and Wash sale.md",
     "Bookkeeping of ACB.md",
-    "ETF Taxable events and the impacts on ACB.md",
-    "Dividend reinvestment plan (DRIP).md",
     "ETF capital gains distribution practices and tax loss harvesting.md",
     "Ahren - Chapters 1-3 intro to zettalskan.md",
     "_Fleeting MOC.md",
