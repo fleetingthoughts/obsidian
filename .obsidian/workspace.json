@@ -107,6 +107,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfe0770f2cba6f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tax deduction vs Tax credit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 7
@@ -239,6 +252,7 @@
   },
   "active": "b37e3deda11a3b17",
   "lastOpenFiles": [
+    "Tax deduction vs Tax credit.md",
     "Tax Loss Harvesting and Wash sale.md",
     "Bookkeeping of ACB.md",
     "ETF Taxable events and the impacts on ACB.md",
@@ -264,7 +278,6 @@
     "Commission types.md",
     "ETF.md",
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
-    "Foreign Withholding Tax.md",
     "zotero_template/abridged_citation_template.txt"
   ]
 }
