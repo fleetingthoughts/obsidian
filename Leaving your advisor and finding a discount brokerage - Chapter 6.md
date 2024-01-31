@@ -18,7 +18,9 @@ The last portion of the chapter talks about the more practical aspect of leaving
 	- You may be forced to transfer in-cash if there are proprietary assets that the discount brokerage cannot hold
 	- Assets with very large number of individual stocks may incur high trading costs compared to the capital gains. In this case, it may be better to transfer by cash It appears trading costs are incurred on each kind of stock and you can't do a batch trade of different kinds of stocks.
 - There are predatory practices with mutual funds that may make it difficult for you to leave by incurring charges when an investor leaves:
-	- Deferred Sale 
+	- Deferred Sale Charge (DSC): a penalty paid if a mutual fund is withdrawn before a specified period. Typically 5-6% that declines by 1% each year (i.e. force you to hold for 5-6 years).
+	- [load funds](Loads.%20A%20type%20of%20commission.md) are just a slightly better version of DSC. In this case it would be a back-end load to withdraw
+A useful trick to avoid the penalties of leaving a fund is to transfer the account within a firm to a cheaper, more conservative account with less penalties that you can take out later. Typically in-firm transfer are free.
 
 # Key Terms
 - robo-advisor
@@ -28,3 +30,5 @@ The last portion of the chapter talks about the more practical aspect of leaving
 - RRSP
 - Administrative fees
 - trading fees
+- deferred sale charge (DSC)
+- load funds - funds that charge loads

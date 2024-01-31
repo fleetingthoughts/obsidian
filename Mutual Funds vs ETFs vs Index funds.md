@@ -15,7 +15,7 @@ Mutual funds typically have to reserve cash to pay out withdrawals, but if they 
 ## Operating Expenses 
 ETFs have no 12b1 fees more tax efficient due to their [Shareholder redemption process](ETF%20tax%20and%20trading%20efficiencies%20compared%20to%20actively%20managed%20mutual%20funds%20and%20index%20funds.md) in the US and can be traded throughout the day. Mutual funds HAVE the 12b1 fees and orders can only be placed after market hours. Mutual fund managers may make realized capital gains causing all their shareholders to pay a capital gains tax. ETFs can be held like a stock. **12b1 fee** named after a section of the 1940 Investment act which let mutual funds market their funds the rationale being that it was better for the investor that the fund be marketed as more contributions are made.
 
-ETFs are traded just like stocks so they are subject to the transaction fees of your national security exchange (such as US exchanges must pay a small amount to the SEC per the SEC act of 1934) while mutual funds can be bought commission-free but some may come with [loads](Commission%20types.md)  (but they still come with heft MERs)
+ETFs are traded just like stocks so they are subject to the transaction fees of your national security exchange (such as US exchanges must pay a small amount to the SEC per the SEC act of 1934) while mutual funds can be bought commission-free but some may come with [loads](Loads.%20A%20type%20of%20commission.md)  (but they still come with heft MERs)
 
 Why the distinction? The rationale is that ETFs are better in efficient markets and mutual funds are better in inefficient markets, but this really only applies to index ETFs.  In practicality, the ETF can be exactly identical to mutual funds except in how they are traded.
 
