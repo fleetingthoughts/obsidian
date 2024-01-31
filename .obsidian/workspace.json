@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+                "file": "Tax Loss Harvesting and Wash sale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+                "file": "Tax Loss Harvesting and Wash sale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+                "file": "Tax Loss Harvesting and Wash sale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md"
+                "file": "Tax Loss Harvesting and Wash sale.md"
               }
             }
           }
@@ -187,20 +187,22 @@
   },
   "active": "76bc8ea84452843a",
   "lastOpenFiles": [
-    "Bookkeeping of ACB.md",
+    "Tax deduction vs Tax credit.md",
+    "ETF Distributions and the impacts on ACB.md",
     "ETF capital gains distribution practices.md",
+    "Foreign Withholding Tax.md",
+    "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+    "Engineering.md",
+    "Bookkeeping of ACB.md",
     "Dividend reinvestment plan (DRIP).md",
     "Tax Loss Harvesting and Wash sale.md",
-    "ETF Distributions and the impacts on ACB.md",
     "Ahren - Chapters 1-3 intro to zettalskan.md",
-    "Tax deduction vs Tax credit.md",
     "_Fleeting MOC.md",
     "{{annot.imageRelativePath}}.md",
     "zotero_template/abridged_citation_template.md",
     "Sonke Ahrens on How to take Smarter notes.md",
     "shtekhmanDollarcostAveragingJust20122024-01-29 00 - 26.md",
     "Shtekhman Dollar-Cost Averaging 20122024-01-27 14 - 05.md",
-    "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
     "README.md",
     "Trips.md",
     "___Home.md",
@@ -211,8 +213,6 @@
     "Indices used to Track the market.md",
     "Mutual Funds vs ETFs vs Index funds.md",
     "Commission types.md",
-    "ETF.md",
-    "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md",
     "zotero_template/abridged_citation_template.txt"
   ]
 }

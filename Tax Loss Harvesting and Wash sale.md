@@ -10,6 +10,12 @@ But while the buyback of individual stocks can be deemed a superficial loss usin
 
 The strategy can go one step further and take advantage of the fact that equities held for varying lengths are taxed at different rates depending on your income. Equities held for a longer time and sold are taxed less to encourage more investors, while shorter held equities are taxed higher. In other words, short terms gains are taxed higher than long-term gains. This becomes useful for a fund that holds the same stock of varying holding periods where you can offset the gains of short-term capital gains with long-term capital losses. In this case, you're reducing the tax paid and deferring it. You can also employ the same tactic if you expect to be at a lower income bracket in the future so that you defer your loss to a more preferable tax bracket. Also as the capital gains tax rate is dependent on your marginal income, you can also carry back capital losses to years when you had high income. ^2114c8
 
+In summary, tax loss harvesting makes sense when:
+1) You had past or current investments subject to capital gains
+2) You can defer the tax until the long term so you put the tax saving to work for a long time to outweight the potential loss from your sold asset appreciating in value and incurring capital gains on your reduced ACB
+3) Your tax bracket is changing. 
+4) You invest in individual stocks.
+
 Tax loss harvesting has no use in tax-sheltered accounts, but in non-registered accounts, but in non-registered accounts, it lets you reclaim losses in capital gains tax from [phantom distributions](ETF%20Distributions%20and%20the%20impacts%20on%20ACB.md#^6d9d46). 
 
 Mathematically, say you got capital distribution from phantom distributions, the impact on your ACB and the cash that you would reinvest like a smart Boglehead would be:
