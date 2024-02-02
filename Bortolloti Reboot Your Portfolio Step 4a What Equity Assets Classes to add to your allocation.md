@@ -11,7 +11,7 @@ U.S equity has a negative correlation with the rest of the market and they are a
 
 Bortolloti argues that a Canadian portfolio should be overweighted in the Canadian market relative to its global market share. Vanguard research has shown that although the Canadian market makes up for ~3% of the global market, portfolios with 20-40% Canadian stocks had less volatility (Investment Funds Institute of Canada). There is a more practical reason for a Canadian investor to allocate more to Canadian stocks: Canadian Index funds are often ~0.2% less in fees and dividends from foreign stocks are subject to [[Foreign Withholding Tax]] even in tax-sheltered accounts like the TFSA and RRSP.
 
-Go to [[Chapter 4b What Fixed income assets to add to your portfolio]]
+Go to [[Bortolloti Reboot Your Portfolio Step 4b What Fixed income assets to add to your portfolio]]
 
 Key Terms:
 - Asset Class
