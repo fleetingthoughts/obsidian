@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "df86b0605e07a131",
+            "id": "4d193601265c8060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio step 7 - making ETF trades.md",
+                "file": "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,38 +31,12 @@
             }
           },
           {
-            "id": "2883112cf1f5468a",
+            "id": "f2778abdfcccf114",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio Step 5 Selecting the appropriate index ETF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "274e6b1df6d69442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bortolloti Reboot Your Portfolio Step 6 - leaving your advisor and finding a discount brokerage.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba6ae113129e83fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+                "file": "ETF Distributions and the impacts on ACB.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio step 7 - making ETF trades.md",
+                "file": "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio step 7 - making ETF trades.md",
+                "file": "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio step 7 - making ETF trades.md"
+                "file": "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md"
               }
             }
           }
@@ -198,12 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df86b0605e07a131",
+  "active": "4d193601265c8060",
   "lastOpenFiles": [
-    "Bortolloti Reboot Your Portfolio Step 5 Selecting the appropriate index ETF.md",
-    "Bortolloti Reboot Your Portfolio Step 6 - leaving your advisor and finding a discount brokerage.md",
+    "ETF Distributions and the impacts on ACB.md",
+    "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
     "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+    "Bortolloti Reboot Your Portfolio Step 6 - leaving your advisor and finding a discount brokerage.md",
     "Bortolloti Reboot Your Portfolio step 7 - making ETF trades.md",
+    "Bortolloti Reboot Your Portfolio Step 5 Selecting the appropriate index ETF.md",
     "The creation and redemption structure of ETFs that minimizes the bid-ask spread.md",
     "Reboot your Portfolio by Bortolloti.md",
     "Bortolloti Reboot Your Portfolio Step 4a What Equity Assets Classes to add to your allocation.md",
@@ -215,7 +191,6 @@
     "Loads. A type of commission.md",
     "Tax Loss Harvesting and Wash sale.md",
     "Tax deduction vs Tax credit.md",
-    "ETF Distributions and the impacts on ACB.md",
     "ETF capital gains distribution practices.md",
     "Foreign Withholding Tax.md",
     "Engineering.md",
@@ -225,7 +200,6 @@
     "{{annot.imageRelativePath}}.md",
     "zotero_template/abridged_citation_template.md",
     "Sonke Ahrens on How to take Smarter notes.md",
-    "shtekhmanDollarcostAveragingJust20122024-01-29 00 - 26.md",
     "zotero_template/abridged_citation_template.txt"
   ]
 }
