@@ -42,9 +42,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "673278a5dcc1f2c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Market Impact Costs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57646d9bcaec9710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a87c27cbf020fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETF Redemption and Creation structure.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
+                "file": "ETF Redemption and Creation structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
+                "file": "ETF Redemption and Creation structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md"
+                "file": "ETF Redemption and Creation structure.md"
               }
             }
           }
@@ -172,11 +211,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d193601265c8060",
+  "active": "6a87c27cbf020fdc",
   "lastOpenFiles": [
+    "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+    "ETF Redemption and Creation structure.md",
+    "Market Impact Costs.md",
+    "Pasted image 20240202215431.png",
+    "Pasted image 20240202215236.png",
+    "Pasted image 20240202215230.png",
     "ETF Distributions and the impacts on ACB.md",
     "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
-    "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
+    "Tax Loss Harvesting and Wash sale.md",
     "Bortolloti Reboot Your Portfolio Step 6 - leaving your advisor and finding a discount brokerage.md",
     "Bortolloti Reboot Your Portfolio step 7 - making ETF trades.md",
     "Bortolloti Reboot Your Portfolio Step 5 Selecting the appropriate index ETF.md",
@@ -189,7 +234,6 @@
     "Bortolotti Reboot Your Portfolio step 3 - the value of asset allocation.md",
     "Bookkeeping of ACB.md",
     "Loads. A type of commission.md",
-    "Tax Loss Harvesting and Wash sale.md",
     "Tax deduction vs Tax credit.md",
     "ETF capital gains distribution practices.md",
     "Foreign Withholding Tax.md",
@@ -197,9 +241,6 @@
     "Dividend reinvestment plan (DRIP).md",
     "Ahren - Chapters 1-3 intro to zettalskan.md",
     "_Fleeting MOC.md",
-    "{{annot.imageRelativePath}}.md",
-    "zotero_template/abridged_citation_template.md",
-    "Sonke Ahrens on How to take Smarter notes.md",
     "zotero_template/abridged_citation_template.txt"
   ]
 }
