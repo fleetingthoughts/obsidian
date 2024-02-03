@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "redemption ",
+      "query": "creation",
       "color": {
         "a": 1,
         "rgb": 5396192
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4005586132296187,
+  "scale": 0.4005586132296194,
   "close": false
 }
