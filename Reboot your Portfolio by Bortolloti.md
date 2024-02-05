@@ -1,3 +1,4 @@
+tag: #book 
 parent:: [_Personal Finance MOC](_Personal%20Finance%20MOC.md)
 
 ```dataview

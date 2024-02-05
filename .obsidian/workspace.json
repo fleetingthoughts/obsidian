@@ -55,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddac02c5fdc106be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reboot your Portfolio by Bortolloti.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETF Redemption and Creation structure and does it add more middleman thus increasing the bid-ask spread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETF Redemption and Creation structure and does it add more middleman thus increasing the bid-ask spread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ETF Redemption and Creation structure and does it add more middleman thus increasing the bid-ask spread.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,17 +193,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8d9fb0842c73e6",
+  "active": "0d8a088ce76fff6a",
   "lastOpenFiles": [
-    "Question - How Does WealthSimple make money.md",
     "Pre-authorized Cash Contribution on ETFs.md",
+    "Question - How Does WealthSimple make money.md",
+    "Reboot your Portfolio by Bortolloti.md",
+    "ETF Redemption and Creation structure and does it add more middleman thus increasing the bid-ask spread.md",
     "How.md",
     "The creation and redemption structure of ETFs that minimizes the bid-ask spread.md",
     "Bortolloti Reboot Your Portfolio Step 8 - balancing your portfolio and the value of asset allocation ETFs.md",
     "ETF Distributions and the impacts on ACB.md",
     "Market Impact Costs.md",
     "ETF tax and trading efficiencies compared to actively managed mutual funds and index funds.md",
-    "ETF Redemption and Creation structure and does it add more middleman thus increasing the bid-ask spread.md",
     "Pasted image 20240202215431.png",
     "Pasted image 20240202215236.png",
     "Pasted image 20240202215230.png",
@@ -203,7 +212,6 @@
     "Bortolloti Reboot Your Portfolio Step 6 - leaving your advisor and finding a discount brokerage.md",
     "Bortolloti Reboot Your Portfolio step 7 - making ETF trades.md",
     "Bortolloti Reboot Your Portfolio Step 5 Selecting the appropriate index ETF.md",
-    "Reboot your Portfolio by Bortolloti.md",
     "Bortolloti Reboot Your Portfolio Step 4a What Equity Assets Classes to add to your allocation.md",
     "Bortolloti Reboot Your Portfolio Step 4b What Fixed income assets to add to your portfolio.md",
     "Bortolloti Reboot Your Portfolio Step 4c - Asset classes that should be excluded from a Canadian Portfolio.md",
