@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting MOC.md",
+                "file": "___Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Fleeting MOC.md",
+                "file": "___Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Fleeting MOC.md",
+                "file": "___Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Fleeting MOC.md"
+                "file": "___Home.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "cb4d525447b1641c",
   "lastOpenFiles": [
+    "Resources.md",
+    "Sententia.md",
+    "Sonke Ahrens on How to take Smarter notes.md",
+    "_Fleeting MOC.md",
     "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md"
   ]
 }
