@@ -1,0 +1,19 @@
+![](Pasted%20image%2020240202215431.png)
+
+The above diagram illustrates how the ETFs are created for buyers and redeemed for underlying stocks when sold. I have talked before about [ETF tax and trading efficiencies compared to actively managed mutual funds and index funds](ETF%20tax%20and%20trading%20efficiencies%20compared%20to%20actively%20managed%20mutual%20funds%20and%20index%20funds.md) in which the APs can adjust the supply of the ETF so that buyers and sellers will ALWAYS have a buyer and/or seller in the form of the AP which minimizes [Market Impact Costs](Market%20Impact%20Costs.md) and large bid-ask spreads. 
+
+But reviewing it again, while the AP structure inherently put a cap on how big a spread can beecause ETFs effectively add another middle man, does this raise the floor on those spread? That would be the case if regular market makers get their ETF from the AP as both (B) and (D) what their premium, but this only happens when the bid-ask spread is going to be large anyways due to perhaps a market impact from a large order. 
+
+The liquidity, of the ETF will depend on the liquidity of the underlying assets. It'll be difficult to assemble the ETF if the underlying assets aren't trading. Though the ETF consists of small purchases of several stocks, there is never a market impact with the ETF creation process and as it is composed of a large number of assets, that reduces the range of liquidity we're dealing with. The AP (D) will make money when the bid/ask of the ETF is over/under the NAV (price of the underlying assets) of the ETF. This premium that the AP gets will be baked into the spread on top of whatever spread the market makers make and is referred to as the  RISK PREMIUM. There is no such risk premium for the mutual funds as they have no APs who arbitrage, but rather, investors trade with the funds themselves and so will only trade strictly at the [NAV once a day](ETF%20tax%20and%20trading%20efficiencies%20compared%20to%20actively%20managed%20mutual%20funds%20and%20index%20funds.md). But remember that the AP still caps the spread.  The AP really shines enough of a difference between the market price of the ETF and the NAV resulting from a large order and ensures the buyer/seller always has an order, otherwise the buyer/sell can still make small purchases between other seller/buyers with the regular spread that. In this sense, the AP acts as another regular market working in competition with other market makers to reduce the spread but they have the added bonus of being able to generate or diminish the ETF supply to make sure the spread doesn't get too large.
+
+In sumamary are two scenarios for the AP and how they impact the bid/ask spread and both are wins for the buyer/seller
+1) no large market impact orders. AP competes with other market makers to fulfil orders thus reducing the day-to-day bid/ask spread
+2) Large market impact orders. This results in a  risk premium that will result in a large bid-ask spread for a regular stock. In this case, the AP will step in and increase/decrease the ETF supply. Of course there is a premium as both (B) and (D) will take a slice of the pie, but it is still far smaller compared to a stock where you may have issues finding a buyer/seller and have to pay an even higher premium. APs can step in to create that market for the ETF and be the buyer/seller. There are no such risk premiums with mutual funds as they trade at the NAV once a day only
+
+ETFs while they can minimize bid/ask spreads on a day-to-day basis and for large market orders, they still ultimately want more trading volume to minimize the amount of times scenario 2 happens otherwise it'll end up more expensive than a stock with a high trading volume.
+
+# Key Terms
+- Authorized Participant
+- Volatility risk premium
+- bid-ask spread
+- NAV

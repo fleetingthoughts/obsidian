@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-tag: #hidden  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,14 +8,35 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "MOC",
+      "query": "file:MOC",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "file:Personal Finance",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file:Math",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "creation",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 1,
   "nodeSizeMultiplier": 1.4015625,
@@ -25,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7873204038733282,
-  "close": true
+  "scale": 0.5615763253048384,
+  "close": false
 }

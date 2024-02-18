@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "431993769a74c578",
+    "id": "e37f9c2fd5f7af79",
     "type": "split",
     "children": [
       {
-        "id": "0a3ee11a5eab9af4",
+        "id": "7627f88489f82f15",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4d525447b1641c",
+            "id": "16dd019ca3ecfebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e8a52afc3c4df29",
+    "id": "bdb0346acf7f44f8",
     "type": "split",
     "children": [
       {
-        "id": "381b5ada72a82eb2",
+        "id": "8d78c2ab71d66cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "62d6f24d1aa338e4",
+            "id": "4b26ea1fd9fdea73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "27bddb0beda80b52",
+            "id": "f768e3ea0ac9e518",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "91dd07da8bece78b",
+            "id": "91337b29e5a51e0c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,20 +73,20 @@
     "width": 300
   },
   "right": {
-    "id": "f66357449e9cb8a2",
+    "id": "2703065a526cd8d6",
     "type": "split",
     "children": [
       {
-        "id": "55816decf4f7bb20",
+        "id": "b5507c8b38b19bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ce03995899aa66",
+            "id": "a3a75665801ba708",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "___Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +98,19 @@
             }
           },
           {
-            "id": "90f7e9bbe2d2627b",
+            "id": "64d5a647c3561513",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "___Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a6cc90523f0fabf5",
+            "id": "fd6d75039d4de503",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +121,12 @@
             }
           },
           {
-            "id": "b4e6daf5d3776b28",
+            "id": "aac0c68fdfb2f183",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "___Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,12 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb4d525447b1641c",
+  "active": "16dd019ca3ecfebb",
   "lastOpenFiles": [
-    "Resources.md",
-    "Sententia.md",
-    "Sonke Ahrens on How to take Smarter notes.md",
-    "_Fleeting MOC.md",
-    "Ahren Chapter 7 - thinking is nonlinear and our repository should reflect that..md"
+    "conflict-files-obsidian-git.md",
+    "{{annot.imageRelativePath}}.md"
   ]
 }

@@ -1,6 +1,6 @@
 Parent: [Resources](Resources.md)
 
-[Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)^3e6c0e
+[Physics stack exchange resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
 [Roadmap by Gerard T'hooft](https://www.goodtheorist.science/)
 [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate) 
 [A meta analysis of Stackexchange books](https://bookinsider.gitlab.io/2018/12/01/top-books-on-physics/)
@@ -16,11 +16,11 @@ Parent: [Resources](Resources.md)
 	- [It's got its own Wikipedia page](https://en.wikipedia.org/wiki/Thermodynamics_and_an_Introduction_to_Thermostatistics). Herbert Callen was a Manhattan Project alumni
 
 ### Electromagnetism
-Two texts below seem to be ubiquitous with a preference for Griffiths. Refer to Electromagnetism section of the [StackExchange resource recommendation](Physics.md#^3e6c0e)
+Two texts below seem to be ubiquitous with a preference for Griffiths. Refer to Electromagnetism section of the [StackExchange resource recommendation](Physics%20MOC.md#^3e6c0e)
 - Introduction to Electrodynamics - Griffiths
 - Electricity and Magnetism - Purcell
 ### Math
-- [Methods of Mathematical Physics](Math.md#^m123)
+- [Methods of Mathematical Physics](Math%20MOC.md#^m123)
 - _**Mathematical Methods of Classical Mechanics**_ - V.I. Arnold
 - 
 #### Control Theory
