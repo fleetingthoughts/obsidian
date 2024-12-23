@@ -17,10 +17,28 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "___Home"
+            }
+          },
+          {
+            "id": "a00581d8c4f36ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ahrens Chapter 11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ahrens Chapter 11"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "___Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -103,10 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "___Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -117,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,9 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "___Home.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -148,8 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "397616e6fea3103b",
+  "active": "a00581d8c4f36ca0",
   "lastOpenFiles": [
+    "_Fleeting MOC.md",
+    "Pasted image 20240202215431.png",
+    "Pasted image 20240202215236.png",
+    "Neils Heinrich Abel.md",
+    "Pasted image 20240202215230.png",
+    "Ahrens Chapter 6 - Keep the notes simple.md",
     "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "conflict-files-obsidian-git.md",
     "{{annot.imageRelativePath}}.md"
