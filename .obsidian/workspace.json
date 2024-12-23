@@ -11,8 +11,13 @@
             "id": "397616e6fea3103b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "___Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "___Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "___Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "___Home.md"
+              }
             }
           }
         ]
@@ -141,6 +150,7 @@
   },
   "active": "397616e6fea3103b",
   "lastOpenFiles": [
+    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "conflict-files-obsidian-git.md",
     "{{annot.imageRelativePath}}.md"
   ]
