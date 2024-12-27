@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ahrens Chapter 11.md",
+                "file": "Sonke Ahrens on How to take Smarter notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ahrens Chapter 11"
+              "title": "Sonke Ahrens on How to take Smarter notes"
             }
           }
         ],
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2703065a526cd8d6",
@@ -178,13 +179,15 @@
   },
   "active": "a00581d8c4f36ca0",
   "lastOpenFiles": [
+    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
+    "Sonke Ahrens on How to take Smarter notes.md",
+    "Ahrens Chapter 11.md",
     "_Fleeting MOC.md",
     "Pasted image 20240202215431.png",
     "Pasted image 20240202215236.png",
     "Neils Heinrich Abel.md",
     "Pasted image 20240202215230.png",
     "Ahrens Chapter 6 - Keep the notes simple.md",
-    "Ahrens Chapter 9 Compartmentalize your thinking and focus.md",
     "conflict-files-obsidian-git.md",
     "{{annot.imageRelativePath}}.md"
   ]
