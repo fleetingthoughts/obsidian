@@ -11,11 +11,34 @@
             "id": "397616e6fea3103b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bortolloti Reboot Your Portfolio Step 4a What Equity Assets Classes to add to your allocation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bortolloti Reboot Your Portfolio Step 4a What Equity Assets Classes to add to your allocation"
+            }
+          },
+          {
+            "id": "41080ee690a9c834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCG Japan Trip Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "OCG Japan Trip Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,8 +57,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +76,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OCG Japan Trip Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +119,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OCG Japan Trip Plan"
             }
           },
           {
@@ -97,9 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OCG Japan Trip Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OCG Japan Trip Plan"
             }
           },
           {
@@ -109,8 +145,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +158,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OCG Japan Trip Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OCG Japan Trip Plan"
             }
           }
         ]
@@ -139,9 +186,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "397616e6fea3103b",
+  "active": "41080ee690a9c834",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "{{annot.imageRelativePath}}.md"
+    "OCG Japan Trip Plan.md",
+    "Bortolloti Reboot Your Portfolio Step 4a What Equity Assets Classes to add to your allocation.md",
+    "_Fleeting MOC.md",
+    "Untitled",
+    "___Home.md",
+    "Mental training MOC.md",
+    "Sonke Ahrens on How to take Smarter notes.md",
+    "Ahren - Chapters 1-3 intro to zettalskan.md",
+    "Japan food.md",
+    "{{annot.imageRelativePath}}.md",
+    "Pasted image 20240202215431.png",
+    "Neils Heinrich Abel.md",
+    "Pasted image 20240202215236.png",
+    "Pasted image 20240202215230.png",
+    "conflict-files-obsidian-git.md"
   ]
 }
