@@ -1,3 +1,4 @@
+tag: #math 
 [Math and Science Resources](Math%20and%20Science%20Resources.md)
 - [Chicago undergraduate bibliography](https://github.com/ystael/chicago-ug-math-bib)
 	- [Older version of undergrad math bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
