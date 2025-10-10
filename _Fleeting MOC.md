@@ -1,4 +1,6 @@
 tags: #hidden 
+parent:[___Home](___Home.md)
+
 
 ```dataview
 list from [[]] and !outgoing([[]])
@@ -21,10 +23,10 @@ jumping squat
 glute bridge
 pushup
 
-Mon: Calc/Python
-Tues: Statistics/ Mechanics
-Wed: calc/Python
-Thurs: Statistics/mechanics
-Fri: lin alg/Python
-Sat: thermo/numerical methods/calc
-Sun: Python/Probabibility/Lin Alg
+Mon: Calc
+Tues: Statistics/analysis
+Wed: calc/lin alg
+Thurs: Statistics
+Fri: lin alg/analysis
+Sat: analysis/proof/calc
+Sun: Lin Alg
