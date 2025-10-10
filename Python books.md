@@ -1,4 +1,4 @@
-[Resources](Resources.md)
+[Math and Science Resources](Math%20and%20Science%20Resources.md)
 [Recommendations](https://pythonbooks.org/)
 
 ## Beginner

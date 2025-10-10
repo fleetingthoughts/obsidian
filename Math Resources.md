@@ -1,4 +1,4 @@
-[Resources](Resources.md)
+[Math and Science Resources](Math%20and%20Science%20Resources.md)
 - [Chicago undergraduate bibliography](https://github.com/ystael/chicago-ug-math-bib)
 	- [Older version of undergrad math bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 - [Stack exchange roadmap](https://math.stackexchange.com/questions/1082433/learning-roadmap-request-compiling-a-mathematics-stack-exchange-undergraduate)
@@ -24,7 +24,7 @@ List of important publications [Wikipedia](https://en.wikipedia.org/wiki/List_of
 - _**Introduction to Probability**_- William Feller
 	- Feller was one of the masters and pioneered the probability as a field in mathematics. [Remember Abel](Neils%20Heinrich%20Abel.md)
 - _**Probability Theory: A Comprehensive Course**_ - Klenke
-	- For Grad Students. Advanced per the preface and is highly regarded per meta-analysis of [Stackexchange](Math%20MOC.md#^0fdb2c)
+	- For Grad Students. Advanced per the preface and is highly regarded per meta-analysis of [Stackexchange](Math%20Resources.md#^0fdb2c)
 ### Meta Analysis
 Only seen one [recommendation](https://stats.stackexchange.com/questions/248311/which-is-the-best-book-to-learn-meta-analysis) and Hedges seems to appear a lot in meta analysis. Borenstein is also liked on [reddit](https://www.reddit.com/r/statistics/comments/8ebggf/request_a_overviewintroduction_to_meta_analysis/)
 - _**Statistical Methods for Meta Analysis**_ - Olkin and Hedges
@@ -46,14 +46,14 @@ Per [Stackexchange review](https://stats.stackexchange.com/questions/1815/recomm
     - This one is apparantly a classic per [this review on Stackexhange](https://stats.stackexchange.com/questions/173682/textbooks-readings-on-what-to-do-when-you-cant-create-an-ideal-experiment) and this [review as well](https://academia.stackexchange.com/questions/4784/ref-request-book-or-survey-about-conducting-experimental-studies)
 ### Sampling
 - _**Sampling: Design and Analysis**_ -Sharon Lohr 
-	- This is highly rated on the Stackexchange [Meta-Analysis](Math%20MOC.md#^eec26e)
+	- This is highly rated on the Stackexchange [Meta-Analysis](Math%20Resources.md#^eec26e)
 - _**Sampling techniques**_ - Cochran
     - more mathematical and rigorous per this [review on Stackexhange](https://stats.stackexchange.com/questions/164420/introductory-graduate-level-survey-sampling-textbook) compared to Sharon Lohr that also gets recommended a lot. It's also by Cochran of all people. 
 - _**Survey Sampling**_ - Kish
     - also well regarded per same reviewer above
 ### Survival
 - The Statistical Analysis of Failure Time Data - Kalbfleish
-	- Recommended as an important publication on [Wikipedia and Reddit](Math%20MOC.md#^6bb376). One of the first treatments on survival analysis
+	- Recommended as an important publication on [Wikipedia and Reddit](Math%20Resources.md#^6bb376). One of the first treatments on survival analysis
 ### General
 Should especially look to read applied statistics and read the father of statistics Ronald Fischer and George EP Box:
 - _**Design of Experiment**_ - Fischer
@@ -68,16 +68,16 @@ Statistics doesn't seem to generate much buzz with mathematicians, but here are 
 	- Seems to be one of the more mathemtical and classic treatments of multivariate statistics  per [Stackexchange](https://stats.stackexchange.com/questions/67146/recommendations-for-mathematical-multivariate-statistics-with-exercises) But the preface does mention its for graduates
 ### Categorical Statistics
 - _**Categorical Data Analysis**_ - Agresti
-	- This is highly rated on stackexchange[ meta analysis](Math%20MOC.md#^eec26e)
+	- This is highly rated on stackexchange[ meta analysis](Math%20Resources.md#^eec26e)
 ### Time Series
 - _**Time Series Analysis: Forecasting and Control**_ - E. P. Box
-	- On list of important publications per [Wikipedia](Math%20MOC.md#^6bb376)
+	- On list of important publications per [Wikipedia](Math%20Resources.md#^6bb376)
 Take some time to leaf through this [review](https://math.stackexchange.com/questions/3993990/book-recommendation-on-time-series-statistics) for books used by economists/finance for time series analysis
 ### Bayes
 - Bayesian Data Analysis - Gelman
-	- This is highly recommended on [Stackexchange](https://math.stackexchange.com/questions/133230/books-for-understanding-bayesian-probability-from-the-beginning) and also liked on [reddit](Math%20MOC.md#^6bb376) and is highly rated on the Stackexchage [meta analysis](Math%20MOC.md#^eec26e). Note that this title is for the newer version of this  [older version](https://www.amazon.co.jp/dp/052168689X)
+	- This is highly recommended on [Stackexchange](https://math.stackexchange.com/questions/133230/books-for-understanding-bayesian-probability-from-the-beginning) and also liked on [reddit](Math%20Resources.md#^6bb376) and is highly rated on the Stackexchage [meta analysis](Math%20Resources.md#^eec26e). Note that this title is for the newer version of this  [older version](https://www.amazon.co.jp/dp/052168689X)
 - _**Bayesian Inference in Statistical Analysis**_ - George Box
-	-  Can be my first Bayesian statistics book. That was listed as a historic publication on [Wikipedia](Math%20MOC.md#^6bb376)
+	-  Can be my first Bayesian statistics book. That was listed as a historic publication on [Wikipedia](Math%20Resources.md#^6bb376)
 - [_Theory of statistics_](https://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians) -Schirvish
 	- Is mentioned to be relevant to Bayes Statistics per [Stackexchange](https://mathoverflow.net/questions/100288/bayesian-statistics-for-pure-mathematicians)
 - _**Introduction to statistical decision theory**_ - John Pratt
@@ -103,7 +103,7 @@ The following are easier books than Evans that were pretty [well regarded as an 
 ## Discrete mathematics
 - _**Concrete Mathematics**_ - Donald Knuth
 ## Real Analysis
-Abbott, Rudin, and Folland are highly rated on [Stackexchange](Math%20MOC.md#^0fdb2c). Abbott seems to be the better introduction
+Abbott, Rudin, and Folland are highly rated on [Stackexchange](Math%20Resources.md#^0fdb2c). Abbott seems to be the better introduction
 - _**Understanding Analysis**_ - Abbot
     -  A junior undergraduate book that's highly rated. Should read before Baby Rudin or Folland
 - _**Principles of Mathematical Analysis**_ (Baby Rudin)
@@ -128,9 +128,9 @@ Another book I heard about was Conway that apparantly was written when [he was a
     - highly regarded undergraduate book mentioned frequently [On StackExhange](https://math.stackexchange.com/questions/54839/good-abstract-algebra-books-for-self-study?noredirect=1&lq=1). Main criticisms is it is rather long and perhaps should be used more as a reference instead of as a primary text
 The following seem more concise than Dummit and Foote
 -  _**First Course in Abstract Algebra**_ - Fraleigh
-	- Highly regarded on  [Stackexchange](Math%20MOC.md#^0fdb2c)
+	- Highly regarded on  [Stackexchange](Math%20Resources.md#^0fdb2c)
 - _**A Book of Abstract Algebra**_ - Pinter
-	- Highly regarded on  [Stackexchange](Math%20MOC.md#^0fdb2c)
+	- Highly regarded on  [Stackexchange](Math%20Resources.md#^0fdb2c)
 - _**Topics in Algebra**_ - Herstein
 	- [Seems like a better introductory book than Dummit and Foote due to being more concise](https://math.stackexchange.com/questions/198373/choosing-an-abstract-algebra-text)
 ## Geometry
@@ -138,7 +138,7 @@ The following seem more concise than Dummit and Foote
 	- One of the reformulations of Euclidean geometry on a modern axiomatic basis
 ## Topology
 _**Topology**_ - Munkres
-    - acknowledged as a good intro to the topic [here](Math%20MOC.md#^84322d)
+    - acknowledged as a good intro to the topic [here](Math%20Resources.md#^84322d)
 ## Applied
 - [_**Methoden der mathematischen Physik**_- Courant and Hilbert](https://en.m.wikipedia.org/wiki/Methoden_der_mathematischen_Physik)^m123
 ## Linear Algebra and numerical methods
