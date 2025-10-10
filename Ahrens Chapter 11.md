@@ -1,3 +1,4 @@
+
 Parent::[Sonke Ahrens on How to take Smarter notes](Sonke%20Ahrens%20on%20How%20to%20take%20Smarter%20notes.md)
 
 11.1- connecting ideas generates more can ntent than the actual page amount itself

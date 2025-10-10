@@ -6,13 +6,10 @@ list from [[]] and !outgoing([[]])
 
 
 ## To Do
-- haircut Jin
-- navy blue pants
 - shirts
 - Stan Smith
 - gazelle
 - Top of the Chain - Shaving (Stirling)
-- Michaels - art
 - 
 
 Glute bridge (both variants)
