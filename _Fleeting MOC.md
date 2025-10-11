@@ -9,11 +9,13 @@ list from [[]] and !outgoing([[]])
 
 
 ## To Do
-- shirts
-- Stan Smith
-- gazelle
+
+
 - Top of the Chain - Shaving (Stirling)
-- 
+- Flu shot + Covid 19  starting Oct 27
+- Health Card renewal
+- Dentist
+- Drivers license renewal
 
 Glute bridge (both variants)
 jumping squat
@@ -23,7 +25,7 @@ jumping squat
 glute bridge
 pushup
 
-Mon: Calc
+**Mon:** Calc
 Tues: Statistics/analysis
 Wed: calc/lin alg
 Thurs: Statistics
