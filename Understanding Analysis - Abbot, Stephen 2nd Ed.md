@@ -1,0 +1,1 @@
+I learn that Obsidian supports MathJax and so MathML mark up can be displayed
