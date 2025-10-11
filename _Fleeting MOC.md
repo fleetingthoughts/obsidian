@@ -25,10 +25,10 @@ jumping squat
 glute bridge
 pushup
 
-**Mon:** Calc
+**Mon:** Calc/lin alg
 Tues: Statistics/analysis
-Wed: calc/lin alg
+Wed: calc/lin alg/
 Thurs: Statistics/calc
-Fri: lin alg/analysis
+Fri: analysis
 Sat: analysis/proof/calc
 Sun: Lin Alg/calc
