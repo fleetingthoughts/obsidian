@@ -27,8 +27,8 @@ pushup
 
 **Mon:** Calc/lin alg
 Tues: Statistics/analysis
-Wed: calc/lin alg/
-Thurs: Statistics/calc
-Fri: analysis
+Wed: statistics/lin alg
+Thurs: /in alg
+Fri: analysis/statistics
 Sat: analysis/proof/calc
 Sun: Lin Alg/calc
