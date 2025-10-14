@@ -26,9 +26,9 @@ glute bridge
 pushup
 
 **Mon:** Calc/lin alg
-Tues: Statistics/analysis
-Wed: statistics/lin alg
-Thurs: /in alg
-Fri: analysis/statistics
+Tues: Statistics/analysis/Python
+Wed: statistics/lin alg/Python
+Thurs: /in alg/Python
+Fri: analysis/statistics/Python
 Sat: analysis/proof/calc
 Sun: Lin Alg/calc
