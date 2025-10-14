@@ -1,7 +1,7 @@
 tags: #python #datascience #mckinney
 parent::[Python for Data Analysis - Wes McKinney](Python%20for%20Data%20Analysis%20-%20Wes%20McKinney.md)
 
-## Concepts
+# ***Concepts***
 - Tuples are immutable. You cannot change which object is stored in each slot but you can modify them in place
 ``` 
 In [16]: tup[1].append(3)
@@ -34,8 +34,19 @@ def my_function2(x, y, z=1.5):
 ```
 - The scope of the variables is referred to as the namespace. Be aware of name binding when passing arguments. Although the namespace local, they do not reference a local copy of the objects they refer to.
 - functions are objects too that can be passed as arguments
-- 
-## Functions, Methods, and Attributes
+- Lambda functions are also called anonymous functions
+- In for loops, the python interpreter attempts to create an iterator object out of your iterable object. The generator object is a succinct way to construct an iterator that only executes and iterates when it is called upon. This is a memory efficient way of dealing with very large datasets as the generator serves as a handy way to "zip up" the iterable. 
+### Generators 
+- Generators can be created with in-line expressions using normal parentheses. These generators are preferable to any other appropriate list comprehension depending on the number of elements. See below for example syntax :
+```
+In [216]: gen = (x ** 2 for x in range(100))
+In [217]: gen
+Out[217]: <generator object <genexpr> at 0x17d5feff0>
+```
+- The itertools module has a collection of generators
+### Errors and Exception Handling
+
+# ***Functions, Methods, and Attributes***
 - the zip() function returns a zip object. The arguments are iterables and returns an iterable zip object where the 
 ```
 In [104]: tuples = zip(range(5), reversed(range(5)))
@@ -68,3 +79,4 @@ In [149]: zipped = zip(seq1, seq2)
 In [150]: list(zipped)
 Out[150]: [('foo', 'one'), ('bar', 'two'), ('baz', 'three')]
 ```
+- yield keyword
