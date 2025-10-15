@@ -1,4 +1,4 @@
-Parent:: [_Fleeting MOC](_Fleeting%20MOC.md)
+Parent:: [_MOC Fleeting](_MOC%20Fleeting.md)
 
 - sukimen
 - obanzai at a ryokan

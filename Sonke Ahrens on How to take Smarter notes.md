@@ -1,4 +1,4 @@
-Parent:: [Mental training MOC](Mental%20training%20MOC.md)
+Parent:: [MOC Mental training](MOC%20Mental%20training.md)
 ``` dataview
 list from [[]] and !outgoing([[]])
 ```
