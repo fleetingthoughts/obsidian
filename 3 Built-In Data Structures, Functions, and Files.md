@@ -1,4 +1,4 @@
-tags: #python #datascience #mckinney
+%%tags: #python #datascience #mckinney%%
 parent::[Python for Data Analysis 3rd ed. - Wes McKinney](Python%20for%20Data%20Analysis%203rd%20ed.%20-%20Wes%20McKinney.md)
 
 # ***Concepts***
@@ -44,8 +44,26 @@ In [217]: gen
 Out[217]: <generator object <genexpr> at 0x17d5feff0>
 ```
 - The itertools module has a collection of generators
-### Errors and Exception Handling
 
+### 3.2 Errors and Exception Handling
+- Use `try` and `except` blocks to fail gracefully and use `finally` to execute code regardless of success with try or not. The `try` block contains the code that may raise the exception and the `except` block executes excluding specific errors specified (e.g. will execute for any error if nothing specified)
+### 3.3 Files and the Operating System
+- example code to open a file using `open`with optional file encoding.  `encoding="utf-8"` is best practice
+```
+In [233]: path = "examples/segismundo.txt"
+In [234]: f = open(path, encoding="utf-8")
+```
+- by default files are opened in `"r"` read only mode
+  ```
+```
+def attempt_float(x):
+    try:
+        return float(x)
+    except (TypeError, ValueError):
+        return x
+```
+- default behaviour for python files is text mode where you intend to work with strings and the string conversion in Unicode is done in the background which is in contrast to binary mode. 
+- `Unicode` and other encoding standards like `iso-8859-1` are standards that map characters to numerical values so computers can compute them. Currently `UTF-8` is the most popular encoding method
 # ***Functions, Methods, and Attributes***
 - the zip() function returns a zip object. The arguments are iterables and returns an iterable zip object where the 
 ```
