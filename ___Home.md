@@ -17,6 +17,6 @@ list from [[]] and !outgoing([[]])
 <u>Tues:</u> Statistics/analysis/Python
 <u>Wed:</u> statistics/lin alg/Python
 <u>Thurs:</u> lin alg/Python
-<u>Fri:</u> analysis/statistics/Python
-<u>Sat:</u> analysis/proof/calc
+<u>Fri:</u> analysis/lin alg/Python
+<u>Sat:</u> analysis/ling alg/calc
 <u>Sun:</u> Lin Alg/calc
