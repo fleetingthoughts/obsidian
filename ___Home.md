@@ -20,3 +20,14 @@ list from [[]] and !outgoing([[]])
 <u>Fri:</u> analysis/lin alg/Python
 <u>Sat:</u> analysis/ling alg/calc
 <u>Sun:</u> Lin Alg/calc
+
+# The Plan
+## Calculus
+## Statistics
+## Mechanics
+## Electrodynamics
+## Analysis
+## Differential Equations
+## Linear Algebra
+## Discrete Mathematics
+
