@@ -28,4 +28,4 @@ The sets that concern us are the familiar numbers systems. One postulate of the 
 Some historical background that won't be developed showing how mathematicians realized the importance of carefully crafting axioms as some can lead to paradoxical results. Bertrand Russel provided this paradoxical set:$$A = \{X: X \text{ is a set } X \notin X\}$$
 Reworded, this is the set of all sets that does not include itself as elements.
 
-The paradox instigated a careful reformulation of the axioms for set theory called the Zermelo-Fraenkel axioms one of which is the well-ordering principle. Another axiom to eliminate Bertrand's paradox is the axiom of foundation which states no non-empty set $X$ can have the property $X \cap x \ne \emptyset$ 
+The paradox instigated a careful reformulation of the axioms for set theory called the Zermelo-Fraenkel axioms one of which is the well-ordering principle. Another axiom to eliminate Bertrand's paradox is the axiom of foundation which states no non-empty set $X$ can have the property $X \cap x \ne \emptyset$ . T
