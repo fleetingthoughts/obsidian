@@ -25,11 +25,12 @@ list from [[]] and !outgoing([[]])
 ## Calculus
 1) Courant Vol 1
 2) Courant vol 2
-## Statistics
+## Statistics and Probability
 1) Hogg - Introduction to Mathematical Statistics
-2) Casella
-3) IMLSP
-4) E.P. Box
+2) Feller- Introduction to Probability
+3) Casella
+4) IMLSP
+5) E.P. Box
 ## Analysis
 1) Abbott - Understanding Analysis
 	1) Richard Hammond - Book of Proofs
