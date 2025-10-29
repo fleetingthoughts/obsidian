@@ -23,11 +23,43 @@ list from [[]] and !outgoing([[]])
 
 # The Plan
 ## Calculus
+1) Courant Vol 1
+2) Courant vol 2
 ## Statistics
-## Mechanics
-## Electrodynamics
+1) Hogg - Introduction to Mathematical Statistics
+2) Casella
+3) IMLSP
+4) E.P. Box
 ## Analysis
+1) Abbott - Understanding Analysis
+	1) Richard Hammond - Book of Proofs
+	2) Vellman - How to Prove it
+	3) 
+	4) 
+2) Rudin
+3) Complex analysis book
 ## Differential Equations
+1) Simmons - Historical introduction to ODEs
+2) A more advanced one
+3) PDE
 ## Linear Algebra
+1) Strang - Linear Algebra
+2) Dummit, Foote, Linear Algebra
+3) Axler
 ## Discrete Mathematics
+- Beginner
+- Knuth
+## Computer Science
+- Pandas
+- Cormen
+- 
+## Thermodynamics
+1) McCallen
+2) 
+
+## Mechanics
+1) Taylor
+2) The classic one
+## Electrodynamics
+1) The classic one
 
