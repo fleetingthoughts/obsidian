@@ -59,8 +59,15 @@ These symbols are referred to as quantifiers because they refer in some sense to
 
 Note that the order of quantifiers has significance for indeed the statement $\forall x \in R, \exists y \in R, y^3 =x$ is a true statement but reversing the order of a quantifiers results in a false statement: $\exists y \in R, \forall x \in R, y^3 = x$.
 # 2.8 More on Conditional Statements
-Open statements are statements $P$ on some variable $x$  that are only true for certain values of  denoted as $P(x)$. These statements are open because they are NOT generally true but are only true for certain cases of $x$. Importantly this leads to other open sentences such as $P(x) \implies Q(x)$ may itself be an open statement that is true for certain $x$. But often times mathematicians don't care for these kinds of open statements. Whenever we have two open statements concerning elements in some set $x \in X$, mathematicians are often in more general statements that concern all variables of interest. In other words they often \forthat we simply truncate it to $P(x) \implies Q(x)$. This leads to the following interpretation of conditional statements.
+A brief aside on a common truncation used by mathematicians concerning implications between open statements
+
+Open statements are statements $P$ on some variable $x$  that are only true for certain values of  denoted as $P(x)$. These statements are open because they are NOT generally true but are only true for certain cases of $x$. Importantly this leads to other open sentences such as $P(x) \implies Q(x)$ may itself be an open statement that is true for certain $x$. But often times mathematicians don't care for these kinds of open statements. Whenever we have two open statements concerning elements in some set $x \in X$, mathematicians are often in more general statements that concern all the variables of interest such as $\forall x \in X, P(x) \implies Q(x)$. This is used so often that they simply truncate it to $P(x) \implies Q(x)$. This leads to the following interpretation of conditional statements.
 
 ***Definition 2.2 (truncation of of open statements).*** If $P$ and $Q$ are statements or open sentences, then "If $P$, then $Q$," is a statement. This statement is equivalent to $P$ being sufficient for $Q$. 
 
+So whenever see statements $P$ or $Q$ that are perhaps only true for certain variables, (i.e. if they are open statements), it is by convention understood that $P \implies Q$ does not refer to another open statement, but instead a logical statement that is absolutely true or absolutely false for all elements $x \in X$ that are of interest.
+# 2.9 Translating English to Symbolic Logic
 
+***Fact 2.2. (A Universally Quantified Statement as a Conditional Statement).*** Suppose $X$ is a set and $Q(x)$ is a statement about $x$ for each $x \in X$. The following statements mean the same thing:
+- $\forall x \in X, Q(x)$
+- $(x\in X)\implies Q(x)$
