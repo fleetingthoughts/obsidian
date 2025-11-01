@@ -11,7 +11,7 @@ list from [[]] and !outgoing([[]])
 # To Do
 
 
-- Sim Card
+- Sim Card 
 - Prepaid card
 - Top of the Chain - Shaving (Stirling)
 - Flu shot + Covid 19  starting Oct 27
@@ -21,6 +21,7 @@ list from [[]] and !outgoing([[]])
 - Brown Chinos - Slim
 - Beige brown Chinos Slim
 - Acorn Chinos
+- Logitech G Pro
 # Books
 - Carnap - On Natural Philosophy
 - 
