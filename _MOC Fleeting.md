@@ -12,10 +12,27 @@ list from [[]] and !outgoing([[]])
 
 
 - Sim Card 
-- Prepaid card
-- Top of the Chain - Shaving (Stirling)
+- Tangerine LoC
+
 - Drivers license renewal
-- Leather Messenger bag to prevent pilling
+
+# Christmas
+
+## Books
+-  Carnap - On Natural Philosophy
+
+## Music Books
+- Ekier - Chopin Preludes
+- Ekier - Chopin Polonaise
+- Ekier- Chopin Etudes
+- Ekier - Chopin Waltz
+
+
+### Clothing
+
+ 
+ 
+ - Leather Messenger bag to prevent pilling
 - Brown Chinos - Straight
 - Brown Chinos - Slim
 - Beige brown Chinos Slim

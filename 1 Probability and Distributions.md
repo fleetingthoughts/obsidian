@@ -1,2 +1,2 @@
 tag: #math #statistics 
-parent::[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig](Introduction%20to%20Mathematical%20Statistics%208th%20ed.%20-%20Hogg,%20McKean,%20Craig.md) [_MOC Fleeting](_MOC%20Fleeting.md)
+parent::[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig](Introduction%20to%20Mathematical%20Statistics%208th%20ed.%20-%20Hogg,%20McKean,%20Craig.md) 
