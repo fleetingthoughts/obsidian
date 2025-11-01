@@ -19,7 +19,7 @@ list from [[]] and !outgoing([[]])
 - Leather Messenger bag to prevent pilling
 - Brown Chinos - Straight
 - Brown Chinos - Slim
--  Beige brown Chinos Slim
+- Beige brown Chinos Slim
 - Acorn Chinos
 # Books
 - Carnap - On Natural Philosophy
