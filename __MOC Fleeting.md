@@ -13,7 +13,6 @@ list from [[]] and !outgoing([[]])
 
 - Sim Card 
 - Tangerine LoC
-
 - Drivers license renewal
 
 # Christmas

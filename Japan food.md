@@ -1,4 +1,4 @@
-Parent:: [_MOC Fleeting](_MOC%20Fleeting.md)
+Parent:: [__MOC Fleeting](__MOC%20Fleeting.md)
 
 # 2023 Japan
 - sukimen

@@ -1,5 +1,5 @@
 tags: #math #philosophy #science
-parent::[[MOC Science and Math]]
+parent::[[_MOC Science and Math]]
 
 Book is written by Peter-Godfrey Smith. A biologist and philosopher who per his preface compiled his lectures into this book. The topics cover go in roughly chronological order starting with the logical positivists in the 19th century to modern day sociological and historical treatment of the scientific method.
 

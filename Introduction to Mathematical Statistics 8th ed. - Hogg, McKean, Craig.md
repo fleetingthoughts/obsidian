@@ -1,3 +1,3 @@
 tag: #math #statistics
-parent::[MOC Science and Math](MOC%20Science%20and%20Math.md)
+parent::[_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 
