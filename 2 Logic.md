@@ -71,3 +71,13 @@ So whenever see statements $P$ or $Q$ that are perhaps only true for certain var
 ***Fact 2.2. (A Universally Quantified Statement as a Conditional Statement).*** Suppose $X$ is a set and $Q(x)$ is a statement about $x$ for each $x \in X$. The following statements mean the same thing:
 - $\forall x \in X, Q(x)$
 - $(x\in X)\implies Q(x)$
+# 2.10 Negating Statements
+DeMorgan's laws are useful to consider to rephrase the negation of statements.
+
+When quantifiers are involved, note that:
+1) $\lnot (\forall x\in X, P(x)) = \exists x \in X, \lnot P(x)$
+2)  $\lnot (\exists x \in X, P(x)) = \forall x\in X, \lnot P(x)$
+
+When conditional statements are involved, observation of the truth table shows that there is one way for $(P \implies Q)$ to be false which is :
+$$\lnot (P\implies Q) = P \land \lnot Q$$
+# 2.11 Logical Inference

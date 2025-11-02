@@ -1,4 +1,4 @@
-tags: #mozart, #music, #edition
+tags: #mozart, #music, #musicology
 Parent:[_MOC Music](_MOC%20Music.md)
 
 The Barenreiter Urtext editions of Mozart are derived directly from the NMA which is the monumental de facto standard of the critical edition of Mozart's work. It is the 2nd complete works edition of Mozart and considered an advance over the previous complete works editions Breitkopf & Hartel (1877-1883) which is sometimes referred to as the Alte Mozart-Ausgabe ("Old Mozart Edition"). 
