@@ -15,24 +15,24 @@ list from [[]] and !outgoing([[]])
 
 <u>Mon:</u> Calc/lin alg
 <u>Tues:</u> Statistics/analysis/Python
-<u>Wed:</u> statistics/lin alg/Python
-<u>Thurs:</u> lin alg/Python
+<u>Wed:</u> calc/lin alg/Python
+<u>Thurs:</u> lin alg/Calc/Python
 <u>Fri:</u> analysis/lin alg/Python
 <u>Sat:</u> analysis/ling alg/calc
 <u>Sun:</u> Lin Alg/calc
 
 # The Plan
 ## Calculus
-1) Courant Vol 1
+1) Courant Vol 1 (finish in 10 weeks)
 2) Courant vol 2
 ## Statistics and Probability
-1) Hogg - Introduction to Mathematical Statistics
+1) Hogg - Introduction to Mathematical Statistics (75 sections -> 5 per week = 15 weeks)
 2) Feller- Introduction to Probability
 3) Casella
 4) IMLSP
 5) E.P. Box
 ## Analysis
-1) Abbott - Understanding Analysis
+1) Abbott - Understanding Analysis (40 sections/ 4 per week = 10 weeks)
 	1) Richard Hammond - Book of Proofs
 	2) Vellman - How to Prove it
 	3) 
