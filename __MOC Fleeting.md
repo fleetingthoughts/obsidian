@@ -10,10 +10,9 @@ list from [[]] and !outgoing([[]])
 
 # To Do
 
-
 - Sim Card 
-- Tangerine LoC
 - Drivers license renewal
+- Look into beginner math olympiad
 
 # Christmas
 
@@ -21,17 +20,14 @@ list from [[]] and !outgoing([[]])
 -  Carnap - On Natural Philosophy
 
 ## Music Books
-- Ekier - Chopin Preludes
 - Ekier - Chopin Polonaise
 - Ekier- Chopin Etudes
 - Ekier - Chopin Waltz
 
 
 ### Clothing
-
  
- 
- - Leather Messenger bag to prevent pilling
+- Leather Messenger bag to prevent pilling
 - Brown Chinos - Straight
 - Brown Chinos - Slim
 - Beige brown Chinos Slim
