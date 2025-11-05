@@ -24,7 +24,7 @@ list from [[]] and !outgoing([[]])
 # The Plan
 ## Calculus
 1) Courant Vol 1 (finish in 10 weeks)
-2) Courant vol 2 (84 sections/8 sections per week = ~11 we)
+2) Courant vol 2 (84 sections/8 sections per week = ~11 weeks)
 ## Statistics and Probability
 1) Hogg - Introduction to Mathematical Statistics (75 sections -> 5 per week = 15 weeks Finish Apr. 14th)
 2) Feller- Introduction to Probability
