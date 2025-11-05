@@ -16,8 +16,8 @@ list from [[]] and !outgoing([[]])
 <u>Mon:</u> Calc/lin alg
 <u>Tues:</u> Statistics/analysis/Python
 <u>Wed:</u> calc/statistics/Python
-<u>Thurs:</u> lin alg/Statistics/Python
-<u>Fri:</u> analysis/lin alg/Python
+<u>Thurs:</u> lin alg/analysis/Python
+<u>Fri:</u> statistics/lin alg/Python
 <u>Sat:</u> Statistics/analysis/calc
 <u>Sun:</u> Lin Alg/calc
 
@@ -26,7 +26,7 @@ list from [[]] and !outgoing([[]])
 1) Courant Vol 1 (finish in 10 weeks)
 2) Courant vol 2
 ## Statistics and Probability
-1) Hogg - Introduction to Mathematical Statistics (75 sections -> 5 per week = 15 weeks)
+1) Hogg - Introduction to Mathematical Statistics (75 sections -> 5 per week = 15 weeks Finish Apr. 14th)
 2) Feller- Introduction to Probability
 3) Casella
 4) IMLSP
