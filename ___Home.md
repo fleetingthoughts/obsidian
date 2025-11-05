@@ -15,10 +15,10 @@ list from [[]] and !outgoing([[]])
 
 <u>Mon:</u> Calc/lin alg
 <u>Tues:</u> Statistics/analysis/Python
-<u>Wed:</u> calc/lin alg/Python
-<u>Thurs:</u> lin alg/Calc/Python
+<u>Wed:</u> calc/statistics/Python
+<u>Thurs:</u> lin alg/Statistics/Python
 <u>Fri:</u> analysis/lin alg/Python
-<u>Sat:</u> analysis/ling alg/calc
+<u>Sat:</u> Statistics/analysis/calc
 <u>Sun:</u> Lin Alg/calc
 
 # The Plan
@@ -32,12 +32,10 @@ list from [[]] and !outgoing([[]])
 4) IMLSP
 5) E.P. Box
 ## Analysis
-1) Abbott - Understanding Analysis (40 sections/ 4 per week = 10 weeks)
+1) Abbott - Understanding Analysis (40 sections/ 4 per week = 10 weeks. Finish by 2026 Feb 28)
 	1) Richard Hammond - Book of Proofs
 	2) Vellman - How to Prove it
-	3) 
-	4) 
-2) Rudin
+2) Baby Rudin (11 chapters/ 1 chapter per week = 11 weeks. Finish by May 30)
 3) Complex analysis book
 ## Differential Equations
 1) Simmons - Historical introduction to ODEs
