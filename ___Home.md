@@ -35,13 +35,15 @@ list from [[]] and !outgoing([[]])
 1) Abbott - Understanding Analysis (40 sections/ 4 per week = 10 weeks. Finish by 2026 Feb 28)
 	1) Richard Hammond - Book of Proofs
 	2) Vellman - How to Prove it
-2) Terrence Tao Analysis I
-3) Terrence Tao Analysis II
+2) Terrence Tao Analysis I (overlap with Abbot. 63 sections/8 sections a week = 8 weeks)
+3) Terrence Tao Analysis II 
 4) Baby Rudin (11 chapters/ 1 chapter per week = 11 weeks.)
 5) Complex analysis book
 ## Differential Equations
 1) Simmons - Historical introduction to ODEs
-2) PDE
+2)  _**Differential Equations, Dynamical Systems, and Linear Algebra**_ - Hirsch
+3) _**Theory of ordinary differential equations**_-Coddington
+4) 
 ## Linear Algebra
 1) Strang - Linear Algebra (Finish by Nov. 22)
 2) Dummit, Foote, Linear Algebra - (Start Dec. 14th finish Feb 28th)
@@ -49,6 +51,14 @@ list from [[]] and !outgoing([[]])
 ## Discrete Mathematics
 - Beginner
 - Knuth
+## Abstract Algebra
+- Dummit and Foote 
+- Topics in algebra
+- Lang, Algebra (advanced) 
+- Jacobson Basic Algebra I and II (advanced)
+## Number Theory
+- Kenneth Rosen Elementary Number Theory
+- G.H. Hardy EM Wright- Introduction to number theory (more advanced)
 ## Computer Science
 - Pandas
 - Cormen

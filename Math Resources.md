@@ -89,9 +89,10 @@ Take some time to leaf through this [review](https://math.stackexchange.com/ques
 [Pretty representative summary of what I've seen for review of ODE books](https://math.stackexchange.com/questions/4119586/looking-for-a-2nd-book-on-ordinary-differential-equations). People really like Hirsch and Coddington. Should probably look at both
 - _**Differential Equations, Dynamical Systems, and Linear Algebra**_ - Hirsch
 - _**Theory of ordinary differential equations**_-Coddington
+	- Per the preface, this is more of a graduate book as it presupposes some algebra, topology and real analysis and is not confident in recommending it for even senior undergraduates
 - _**Ordinary Differential Equations**_-Morris and Tennenbaum
 - _**Differential Equations with Applications and Historical Notes**_- George Simmons
-	- Per the preface, this is more of a graduate book as it presupposes some algebra, topology and real analysis and is not confident in recommending it for even senior undergraduates
+
 
 ## PDE
 The following are easier books than Evans that were pretty [well regarded as an intermediate](https://mathoverflow.net/questions/72318/textbooks-for-pde-between-strauss-and-folland). Math StackExchange itself doesn't seem too keen on PDEs
