@@ -24,7 +24,7 @@ list from [[]] and !outgoing([[]])
 # The Plan
 ## Calculus
 1) Courant Vol 1 (finish in 10 weeks)
-2) Courant vol 2
+2) Courant vol 2 (84 sections/8 sections per week = ~11 we)
 ## Statistics and Probability
 1) Hogg - Introduction to Mathematical Statistics (75 sections -> 5 per week = 15 weeks Finish Apr. 14th)
 2) Feller- Introduction to Probability
@@ -38,7 +38,9 @@ list from [[]] and !outgoing([[]])
 2) Terrence Tao Analysis I (overlap with Abbot. 63 sections/8 sections a week = 8 weeks)
 3) Terrence Tao Analysis II 
 4) Baby Rudin (11 chapters/ 1 chapter per week = 11 weeks.)
-5) Complex analysis book
+5) Newman
+6) Conway
+7) Alfohrs
 ## Differential Equations
 1) Simmons - Historical introduction to ODEs
 2)  _**Differential Equations, Dynamical Systems, and Linear Algebra**_ - Hirsch
