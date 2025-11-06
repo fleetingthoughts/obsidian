@@ -23,9 +23,8 @@ list from [[]] and !outgoing([[]])
 2) Terrence Tao Analysis I (overlap with Abbot. 63 sections/8 sections a week = 8 weeks)
 3) Terrence Tao Analysis II 
 4) Baby Rudin (11 chapters/ 1 chapter per week = 11 weeks.)
-5) Newman
-6) Conway
-7) Alfohrs
+5) Conway
+6) Alfohrs
 ## Differential Equations
 1) Simmons - Historical introduction to ODEs (7)
 2)  _**Differential Equations, Dynamical Systems, and Linear Algebra**_ - Hirsch
@@ -36,11 +35,11 @@ list from [[]] and !outgoing([[]])
 2) Friedberg, Insel Linear Algebra - (Start Dec. 14th finish Feb 28th)
 3) Axler
 ## Discrete Mathematics
-- Beginner
 - Knuth
 ## Abstract Algebra
-- Dummit and Foote 
-- Topics in algebra
+- Artin - Algebra
+- Herstein -Topics in algebra 
+- Dummit and Foote  - Abstract Algebra
 - Lang, Algebra (advanced) 
 - Jacobson Basic Algebra I and II (advanced)
 ## Number Theory
