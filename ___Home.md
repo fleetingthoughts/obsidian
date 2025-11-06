@@ -35,6 +35,6 @@ list from [[]] and !outgoing([[]])
 11) Principles of Mathematical Analysis
 12) Lars Ahlfors Complex Analysis
 13) _**Calculus of Variations**_- Gelfund and Fomin
-14) 14)
+14) 
 
 
