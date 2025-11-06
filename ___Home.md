@@ -31,7 +31,7 @@ list from [[]] and !outgoing([[]])
 7) Simmons (Mar 1-May 15)
 8) Terrence Tao Analysis I ()
 9) Terrence Tao Analysis II ()
-10) Strauss Partial Differential Equations
+10) Strauss-Partial Differential Equations
 11) Principles of Mathematical Analysis
 12) Lars Ahlfors Complex Analysis
 13) _**Calculus of Variations**_- Gelfund and Fomin
