@@ -30,5 +30,9 @@ list from [[]] and !outgoing([[]])
 6) Complex Analysis Newman (Mar. 1-Apr. 18)
 7) Simmons (Mar 1-May 15)
 8) Terrence Tao Analysis I ()
+9) Terrence Tao Analysis II ()
+10) Strauss PDE
+11) Baby Rudin
+12) Conway
 
 
