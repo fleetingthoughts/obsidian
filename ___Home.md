@@ -27,14 +27,14 @@ list from [[]] and !outgoing([[]])
 3) Abbott - Understanding Analysis (Feb 28)
 4) Friedberg, Insel Linear Algebra - (Dec. 14th-Feb 28th)
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
-6) Complex Analysis Newman (Mar. 1-Apr. 18)
-7) Simmons (Mar 1-May 15)
-8) Terrence Tao Analysis I ()
-9) Terrence Tao Analysis II ()
-10) Strauss-Partial Differential Equations
-11) Principles of Mathematical Analysis
-12) Lars Ahlfors Complex Analysis
-13) _**Calculus of Variations**_- Gelfund and Fomin
-14) 
+6) Simmons (Mar 1-May 15)
+7) Strauss-Partial Differential Equations
+8) Principles of Mathematical Analysis
+9) Conway Complex Analysis
+10) _**Calculus of Variations**_- Gelfund and Fomin
+11) Knuth
+12) Naive Set
+13) Calculus on manifolds
+14) Artin
 
 
