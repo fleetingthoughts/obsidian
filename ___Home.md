@@ -29,12 +29,12 @@ list from [[]] and !outgoing([[]])
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
 6) Simmons (Mar 1-May 15)
 7) Strauss-Partial Differential Equations
-8) Principles of Mathematical Analysis
-9) Conway Complex Analysis
-10) _**Calculus of Variations**_- Gelfund and Fomin
+8) Walter Rudin - Principles of Mathematical Analysis
+9) John Conway - Complex Analysis
+10) Israel Gelfund & Sergei Fomin - Calculus of Variations
 11) Knuth
-12) Naive Set
-13) Calculus on manifolds
-14) Artin
+12) Naive Set - Paul Halmos
+13) 
+14) Michael Artin - Algebra
 
 
