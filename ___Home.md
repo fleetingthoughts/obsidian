@@ -32,9 +32,9 @@ list from [[]] and !outgoing([[]])
 8) Walter Rudin - Principles of Mathematical Analysis
 9) John Conway - Complex Analysis
 10) Israel Gelfund & Sergei Fomin - Calculus of Variations
-11) Knuth
-12) Naive Set - Paul Halmos
-13) 
+11) James Munkres
+12) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
+13) Naive Set - Paul Halmos
 14) Michael Artin - Algebra
 
 
