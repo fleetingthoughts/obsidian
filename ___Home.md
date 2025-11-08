@@ -27,14 +27,14 @@ list from [[]] and !outgoing([[]])
 3) Abbott - Understanding Analysis (Dec 13th - Feb 28)
 4) Friedberg, Insel Linear Algebra - (Dec. 14th-Feb 28th)
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
-6) Simmons (Mar 1-May 15)
+6) George Finlay Simmons - Ordinary differential equations (Mar 1-May 15)
 7) Strauss-Partial Differential Equations
 8) Walter Rudin - Principles of Mathematical Analysis
 9) John Conway - Complex Analysis
 10) Israel Gelfund & Sergei Fomin - Calculus of Variations
-11) James Munkres
+11) James Munkres - Analysis on Manifolds
 12) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
-13) Naive Set - Paul Halmos
+13) Paul Halmos - Naive Set 
 14) Michael Artin - Algebra
 
 
