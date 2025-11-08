@@ -1,5 +1,5 @@
 ---
-title: Strang 10.1 + 10.2
+title: Strang review
 allDay: false
 startTime: 21:00
 endTime: 00:00
