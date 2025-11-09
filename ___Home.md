@@ -24,8 +24,8 @@ list from [[]] and !outgoing([[]])
 # The Plan
 1) Courant Vol 1 (Dec 13th - Feb 14th)
 2) Hogg - Introduction to Mathematical Statistics (Dec 13th-Apr. 14th)
-3) Abbott - Understanding Analysis (Dec 13th - Feb 28)
-4) Friedberg, Insel Linear Algebra - (Dec. 14th-Feb 28th)
+3) Stephen Abbott - Understanding Analysis (Dec 13th - Feb 28)
+4) Friedberg, Insel - Linear Algebra - (Dec. 14th-Feb 28th)
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
 6) George Finlay Simmons - Ordinary differential equations (Mar 1-May 15)
 7) Strauss-Partial Differential Equations
