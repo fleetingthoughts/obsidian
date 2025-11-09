@@ -1,5 +1,5 @@
 ---
-title: Statistics 1.6
+title: Statistics 1.7
 allDay: false
 startTime: 18:00
 endTime: 20:00
