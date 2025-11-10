@@ -1,0 +1,5 @@
+I explain the terminology used to describe function mapping $f: A \to B$.
+1) ***Injectivity***: Also called "one-to-one (1-1)". elements in the [image](Codomain,%20Image%20and%20Range.md) of a function (not necessarily the [codomain](Codomain,%20Image%20and%20Range.md)) are <u>uniquely mapped</u> by a unique element in the domain. That is, if $f(x_1)=f(x_2)$ then $x_1=x_2$. 
+2) ***Surjectivity***: Also called "onto". Every element in the [codomain](Codomain,%20Image%20and%20Range.md) of a function, $B$, is mapped. (not necessarily uniquely mapped). The image of $f$ is all of $B$ 
+3) ***Bijectivity***. $f$ is bijective if the mapping is <u>surjective and injective</u>. It is sufficient and necessary for $f$ to have an invertible function if the mapping is bijective
+![](Pasted%20image%2020251109174433.png)
