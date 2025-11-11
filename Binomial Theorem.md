@@ -4,5 +4,6 @@ Where the symbol ${n\choose k}$ is called a binomial coefficient (both the coeff
 $${n\choose k} = \frac{n!}{k!(n-k)!}$$
 The binomial formula is expressed more concisely in summation notation:
 $$(x+y)^n=\sum_{k=0}^{n}{n\choose k}x^{n-k}y^k$$
-On top of expanding binomials, it also is useful in creating lower bounds.
+On top of expanding binomials, it also is useful in creating [Lower bounds of binomials](Lower%20bounds%20of%20binomials.md)
+
 

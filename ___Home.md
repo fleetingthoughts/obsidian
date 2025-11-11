@@ -31,10 +31,11 @@ list from [[]] and !outgoing([[]])
 7) Strauss-Partial Differential Equations
 8) Walter Rudin - Principles of Mathematical Analysis
 9) John Conway - Complex Analysis
-10) Israel Gelfund & Sergei Fomin - Calculus of Variations
-11) James Munkres - Analysis on Manifolds
-12) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
-13) Paul Halmos - Naive Set 
-14) Michael Artin - Algebra
+10) James Munkres - Analysis on Manifolds
+11) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
+12) Paul Halmos - Naive Set 
+13) Michael Artin - Algebra
+14) Kenneth Ireland & Michael Rosen - Classical Introduction to Modern Number Theory
+15) Israel Gelfund & Sergei Fomin - Calculus of Variations
 
 
