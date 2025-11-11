@@ -1,0 +1,1 @@
+The binomial theorem describes the algebraic expansion of powers
