@@ -29,8 +29,8 @@ list from [[]] and !outgoing([[]])
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
 6) George Finlay Simmons - Ordinary differential equations (Mar 1-May 15)
 7) Strauss-Partial Differential Equations
-8) Walter Rudin - Principles of Mathematical Analysis
-9) John Conway - Complex Analysis
+8) Walter Rudin - Principles of Mathematical Analysis + Needham Visual Complex analysis
+9) Lars - Complex Analysis
 10) James Munkres - Analysis on Manifolds
 11) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
 12) Paul Halmos - Naive Set 
