@@ -19,11 +19,6 @@ list from [[]] and !outgoing([[]])
 ## Books
 -  Carnap - On Natural Philosophy
 
-## Music Books
-- Ekier - Chopin Polonaise
-- Ekier- Chopin Etudes
-- Ekier - Chopin Waltz
-
 
 ### Clothing
  
