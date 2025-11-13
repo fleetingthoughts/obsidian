@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___Home.md",
+                "file": "2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "___Home"
+              "title": "2.4 The Monotone Convergence Theorem and a First Look at Infinite Series"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Home",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -190,51 +190,51 @@
   },
   "active": "ee4e8a8e57825106",
   "lastOpenFiles": [
-    "2025-11-08 Strang review.md",
-    "conflict-files-obsidian-git.md",
-    "___Home.md",
-    "__MOC Fleeting.md",
+    "1.3 The Axiom of Completeness.md",
+    "2.3 The Algebraic and Order Limit Theorems.md",
+    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "_MOC Science and Math.md",
-    "2025-11-06 Statistics 1.5.md",
-    "2026-05-14 Simmons 76-77.md",
-    "2026-05-11 Simmons 74-75.md",
-    "2026-05-10 Simmons 72-73.md",
-    "2026-05-08 Simmons 71.md",
-    "2026-05-07 Simmons 69-70.md",
-    "2026-05-04 Simmons 68+App..md",
-    "2026-05-03 Simmons66-67.md",
-    "2026-05-01 Simmons Ch. 11 App.md",
-    "2026-04-30 Simmons 64-65.md",
-    "2026-04-29 Courant II review.md",
-    "2026-04-27 Simmons 62-63.md",
-    "2026-04-27 Courant II review.md",
-    "2026-04-26 Simmons 60-61.md",
-    "2026-04-26 Courant II review.md",
-    "2026-04-25 Courant II 8.5-8.6.md",
-    "2026-04-24 Simmons 58-59.md",
-    "2026-04-23 Simmons 56-57.md",
-    "2026-04-22 Courant II 8.3-8.4.md",
-    "2026-04-20 Simmons 54-55.md",
-    "2026-04-20 Courant II 8.1-8.2.md",
+    "___Home.md",
+    "Cauchy-Schwartz Inequality.md",
+    "Nicomachus's Theorem.md",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "/Untitled 8.base",
+    "/Untitled 7.base",
+    "Sum of cubes.md",
+    "Reverse Triangle inequality..md",
+    "Surjectivity, Injectivity, and Bijectivity.md",
+    "Sum of Squares.md",
+    "Pasted image 20251109174433.png",
+    "Pasted image 20251109173548.png",
+    "Pasted image 20251109135551.png",
+    "Loure.md",
+    "Codomain, Image and Range.md",
+    "2025-11-18 Statistics 1.10.md",
+    "2025-11-17 Calc Review.md",
+    "2025-11-15 Statistics 1.9.md",
+    "2025-11-15 Calc 2..5-2.6.md",
+    "2025-11-13 Statistics 1.8.md",
+    "2025-11-12 Calc 2.1-2.2.md",
+    "2025-11-11 Statistics 1.7.md",
+    "2025-11-10 Calc 1.8 Onwards.md",
+    "2025-11-09 Calc 1,5, 1.6, 1.7.md",
+    "/Sum of cubes.md",
+    "/Reverse Triangle inequality..md",
+    "/Nicomachus's Theorem.md",
+    "/2.3 The Algebraic and Order Limit Theorems.md",
+    "/Pasted image 20251109174433.png",
+    "/Pasted image 20251109173548.png",
+    "/Pasted image 20251109135551.png",
     "Untitled 6.base",
     "/Untitled 6.base",
     "Pasted image 20251031003304.png",
     "Pasted image 20251031003243.png",
     "Pasted image 20251031003047.png",
     "Pasted image 20251031002237.png",
-    "Pasted image 20251031001105.png",
-    "Pasted image 20251031000353.png",
-    "Pasted image 20251031000326.png",
-    "Pasted image 20251030235553.png",
-    "/Pasted image 20251031003304.png",
-    "/Pasted image 20251031003243.png",
     "Untitled 5.base",
     "/Untitled 5.base",
     "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "/Untitled 4.base",
-    "/Untitled 3.base",
-    "/Untitled 2.base"
+    "Untitled 3.base"
   ]
 }
