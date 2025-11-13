@@ -23,18 +23,19 @@ list from [[]] and !outgoing([[]])
 
 # The Plan
 1) Courant Vol 1 (Dec 13th - Feb 14th)
-2) Hogg - Introduction to Mathematical Statistics (Dec 13th-Apr. 14th)
+2) Hogg - Introduction to Mathematical Statistics (Dec 13th-Apr. 14th) 
 3) Stephen Abbott - Understanding Analysis (Dec 13th - Feb 28)
 4) Friedberg, Insel - Linear Algebra - (Dec. 14th-Feb 28th)
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
 6) George Finlay Simmons - Ordinary differential equations (Mar 1-May 15)
-7) Strauss-Partial Differential Equations
-8) Walter Rudin - Principles of Mathematical Analysis
-9) John Conway - Complex Analysis
-10) Israel Gelfund & Sergei Fomin - Calculus of Variations
-11) James Munkres - Analysis on Manifolds
-12) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
-13) Paul Halmos - Naive Set 
-14) Michael Artin - Algebra
+7) Strauss-Partial Differential Equations (71 sections)
+8) Walter Rudin - Principles of Mathematical Analysis (11 chapters)
+9) Needham - Visual Complex analysis (12 chapters)
+10) James Munkres - Analysis on Manifolds
+11) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
+12) Paul Halmos - Naive Set 
+13) Michael Artin - Algebra
+14) Kenneth Ireland & Michael Rosen - Classical Introduction to Modern Number Theory
+15) Israel Gelfund & Sergei Fomin - Calculus of Variations
 
 

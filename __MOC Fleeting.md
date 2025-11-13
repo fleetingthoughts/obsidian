@@ -12,17 +12,11 @@ list from [[]] and !outgoing([[]])
 
 - Sim Card 
 - Drivers license renewal
-- Look into beginner math olympiad
 
 # Christmas
 
 ## Books
 -  Carnap - On Natural Philosophy
-
-## Music Books
-- Ekier - Chopin Polonaise
-- Ekier- Chopin Etudes
-- Ekier - Chopin Waltz
 
 
 ### Clothing
