@@ -28,14 +28,15 @@ list from [[]] and !outgoing([[]])
 4) Friedberg, Insel - Linear Algebra - (Dec. 14th-Feb 28th)
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
 6) George Finlay Simmons - Ordinary differential equations (Mar 1-May 15)
-7) Strauss-Partial Differential Equations
-8) Walter Rudin - Principles of Mathematical Analysis + Needham Visual Complex analysis
-9) Lars - Complex Analysis
-10) James Munkres - Analysis on Manifolds
-11) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
-12) Paul Halmos - Naive Set 
-13) Michael Artin - Algebra
-14) Kenneth Ireland & Michael Rosen - Classical Introduction to Modern Number Theory
-15) Israel Gelfund & Sergei Fomin - Calculus of Variations
+7) Strauss-Partial Differential Equations (71 sections)
+8) Walter Rudin - Principles of Mathematical Analysis (11 chapters)
+9) Needham - Visual Complex analysis
+10) Ahlfors Lars - Complex Analysis
+11) James Munkres - Analysis on Manifolds
+12) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics
+13) Paul Halmos - Naive Set 
+14) Michael Artin - Algebra
+15) Kenneth Ireland & Michael Rosen - Classical Introduction to Modern Number Theory
+16) Israel Gelfund & Sergei Fomin - Calculus of Variations
 
 
