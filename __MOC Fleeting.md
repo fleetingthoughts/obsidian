@@ -12,7 +12,6 @@ list from [[]] and !outgoing([[]])
 
 - Sim Card 
 - Drivers license renewal
-- Look into beginner math olympiad
 
 # Christmas
 
