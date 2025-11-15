@@ -36,6 +36,10 @@ View by score
 - Padereweski Chopin vol 11.  Fantasia in F minor, Op. 49; Barcarolle, Op. 60; Berceuse, Op. 57; Bolero, Op. 19; Tarantelle, Op. 43; etc.
 - Padereweski Chopin vol 12
 - Padereweski Chopin vol 18
+- Cortot chopin etudes op. 25 and 10 (english)
+- Eker vol 1 - ballades (complete)
+- Ekier vol 2 - etudes (complete includes op.25 and op10)
+- Ekier vol 4 (mazurkas complete no vol 3)
 
 
 # Christmas
@@ -81,3 +85,33 @@ View by score
 | **XIX**   | Supplement                           | Works of dubious authenticity or those discovered after the main edition                                    |
 | **XX**    | Orchestral Scores                    | Orchestral parts for concertos                                                                              |
 | **XXI**   | Orchestral Scores                    | Orchestral parts for works with orchestra                                                                   |
+
+|           |             |                                                                                                                 |
+| --------- | ----------- | --------------------------------------------------------------------------------------------------------------- |
+| **1**     | A I         | **Ballades:** Op. 23, 38, 47, 52                                                                                |
+| **2**     | A II        | **Etudes:** Op. 10, Op. 25, Three New Etudes                                                                    |
+| **3**     | A III       | **Impromptus:** Op. 29, 36, 51, _Fantaisie-Impromptu_                                                           |
+| **4**     | A IV        | **Mazurkas** (Opp. 6, 7, 17, 24, 30, 33, 41, 50, 56, 59, 63)                                                    |
+| **5**     | A V         | **Nocturnes:** Opp. 9, 15, 27, 32, 37, 48, 55, 62                                                               |
+| **6**     | A VI        | **Polonaises:** Opp. 26, 40, 44, 53, 61                                                                         |
+| **7**     | A VII       | **Preludes:** Op. 28, Op. 45, _Prelude in A flat major_                                                         |
+| **8**     | A VIII      | **Rondos:** Op. 1, 5, 16                                                                                        |
+| **9**     | A IX        | **Scherzos:** Opp. 20, 31, 39, 54                                                                               |
+| **10**    | A X         | **Sonatas:** Opp. 4, 35, 58                                                                                     |
+| **11**    | A XI        | **Waltzes** (Opp. 18, 34, 42, 64)                                                                               |
+| **12**    | A XII       | **Various Works** (including _Barcarolle_ Op. 60, _Berceuse_ Op. 57, _Bolero_ Op. 19, _Fantaisie_ Op. 49, etc.) |
+| **13**    | A XIII      | **Concerto Op. 11:** Version for one piano                                                                      |
+| **14**    | A XIV       | **Concerto Op. 21:** Version for one piano                                                                      |
+| **15**    | A XV        | **Concert Works** (Opp. 2, 13, 14, 19): Version for one piano                                                   |
+| **16**    | A XVI       | **Grande Polonaise Op. 22:** Version for one piano                                                              |
+| **17-22** | A XVII-XXII | **Concert Works (Scores)**                                                                                      |
+| **23**    | A XXIII     | **Works for Piano and Cello**                                                                                   |
+| **24**    | A XXIV      | **Piano Trio**                                                                                                  |
+| **25**    | B I         | **Mazurkas Series B:** Published posthumously                                                                   |
+| **26**    | B II        | **Polonaises Series B:** Published posthumously (e.g., in G minor, B flat major)                                |
+| **27**    | B III       | **Waltzes Series B:** Published posthumously (e.g., in E minor, Op. 70, etc.)                                   |
+| **28**    | B IV        | **Various Works Series B** (Variations in E, Sonata in C minor, etc.)                                           |
+| **29**    | B V         | **Various Compositions for Piano:** (e.g., _Nocturne in C sharp minor_, _Cantabile_, _Feuille d'album_, etc.)   |
+| **30-34** | B VI-VIII   | **Concertos/Concert Works** (for two pianos and concert scores)                                                 |
+| **35**    | B IX        | **Variations 4 Hands, Rondo 2 Pianos**                                                                          |
+| **36**    | B X         | **Songs**                                                                                                       |
