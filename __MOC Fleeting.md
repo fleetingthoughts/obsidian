@@ -18,8 +18,8 @@ list from [[]] and !outgoing([[]])
 View by score
 ## Monday
 - Mozart Sonatas vol 1 (~140 p)
-- Padereweski Chopin vol 1 preludes
-- Padereweski chopin vol 2. Etudes: Op. 10, Op. 25, and the _Trois Nouvelles Études_
+- Padereweski Chopin vol 1 preludes ( full)
+- Padereweski chopin vol 2. Etudes: Op. 10, Op. 25, and the _Trois Nouvelles Études_ (full)
 - Padereweski chopin vol 3. Ballades Opp. 23, 38, 47, 52
 - Padereweski chopin vol 4. Impromptus Opp. 29, 36, 51, 66 (Fantaisie-Impromptu)
 - Padereweski Chopin vol 5. Scherzos Opp. 20, 31, 39, 54
