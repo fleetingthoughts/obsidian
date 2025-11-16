@@ -1,5 +1,12 @@
+---
+tags:
+  - math
+  - stephen_abbot
+  - understanding_analysis
+  - real_analysis
+parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+---
 parent: [Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #math #stephen_abbot #understanding_analysis #real_analysis 
 
 Covers a couple proof writing techniques and general heuristics about the real numbers and its subsets
 
@@ -13,7 +20,7 @@ Covers a couple proof writing techniques and general heuristics about the real n
 	- Z - integers
 	- N - natural numbers
 - Dirichlet introduced the formal definition of a function to formalize the Fourier series. It also let him create his wonky Dirichlet functions.
-- Triangle inequality
+- [Reverse Triangle inequality.](Reverse%20Triangle%20inequality..md)
 - If and only if forward and backward meaning
 - <u>Proof by induction </u> :
 For some set S that is a subset of  N
