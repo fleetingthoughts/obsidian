@@ -20,26 +20,25 @@ View by score
 - Mozart Sonatas vol 1 (~140 p)
 - Padereweski Chopin vol 1 preludes ( full)
 - Padereweski chopin vol 2. Etudes: Op. 10, Op. 25, and the _Trois Nouvelles Études_ (full)
-- Padereweski chopin vol 3. Ballades Opp. 23, 38, 47, 52
-- Padereweski chopin vol 4. Impromptus Opp. 29, 36, 51, 66 (Fantaisie-Impromptu)
-- Padereweski Chopin vol 5. Scherzos Opp. 20, 31, 39, 54
-- Padereweski Chopin vol 6. Sonatas Opp. 4, 35, 58
+- Padereweski chopin vol 3. Ballades (full) Opp. 23, 38, 47, 52 
+- Padereweski chopin vol 4. Impromptus (separated) Opp. 29, 36, 51, 66 (Fantaisie-Impromptu)
+- Padereweski Chopin vol 5. Scherzos (full) Opp. 20, 31, 39, 54
+- Padereweski Chopin vol 6. Sonatas (full) Opp. 4, 35, 58
 ## Tuesday
 - Mozart Sonatas vol 2 ()
-- Padereweski Chopin vol 5. Scherzos Opp. 20, 31, 39, 54
-- Padereweski Chopin vol 6. Sonatas Opp. 4, 35, 58
-- Padereweski Chopin vol 7.  Polonaises Op. 26, 40, 44, 53, 61, 71, and posthumous works
+- Padereweski Chopin vol 7. Nocturnes (full)
+- Padereweski Chopin vol 8. Polonaise (full)
+- Padereweski Chopin vol 9 Waltz (full)
+- Padereweski Chopin vol 10 Mazurkas (full
+- Padereweski Chopin vol 11 (separated) Fantasia in F minor, Op. 49; Barcarolle, Op. 60; Berceuse, Op. 57; Bolero, Op. 19; Tarantelle, Op. 43; etc.
 
 ## Thursday
-- Padereweski Chopin vol 9.  Waltzes Op. 26, 40, 44, 53, 61, 71, and posthumous works
-- Padereweski Chopin vol 10.  Mazurkas Op. 26, 40, 44, 53, 61, 71, and posthumous works
-- Padereweski Chopin vol 11.  Fantasia in F minor, Op. 49; Barcarolle, Op. 60; Berceuse, Op. 57; Bolero, Op. 19; Tarantelle, Op. 43; etc.
-- Padereweski Chopin vol 12
-- Padereweski Chopin vol 18
+
+- Padereweski Chopin vol 12 rondos (full)
+- Padereweski Chopin vol 12 Concert Allegro (full)
+- Padereweski Chopin vol 18 Minor works (full)
 - Cortot chopin etudes op. 25 and 10 (english)
-- Eker vol 1 - ballades (complete)
-- Ekier vol 2 - etudes (complete includes op.25 and op10)
-- Ekier vol 4 (mazurkas complete no vol 3)
+
 
 
 # Christmas
