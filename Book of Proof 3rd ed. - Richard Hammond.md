@@ -11,12 +11,9 @@ tags:
   - proof
 status: ongoing
 rating out of 10:
+parent: "[[_MOC Science and Math]]"
 ---
 
-tag: #book #textbook
-parent: 
 
-tags: #mathematical_logic #richard_hammond #textbook #math #proof
-parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 
 

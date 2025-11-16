@@ -1,4 +1,9 @@
-tags: #hidden
+---
+tags:
+  - hidden
+  - template
+---
+
 
 
 

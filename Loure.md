@@ -1,5 +1,12 @@
-tags: #music #piano #violin #technique
-parent:[_MOC Music](_MOC%20Music.md)
+---
+parent: "[[_MOC Music]]"
+tags:
+  - music
+  - piano
+  - violin
+  - technique
+---
+
 
 ![](Pasted%20image%2020251109135551.png)
 

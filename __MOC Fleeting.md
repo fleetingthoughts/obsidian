@@ -1,7 +1,10 @@
-tags: #hidden #moc
-parent:[___Home](___Home.md)
-
-
+---
+parent: "[[___Home]]"
+tags:
+  - moc
+  - hidden
+date_created:
+---
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
