@@ -1,5 +1,5 @@
-tag: #math #statistics 
-parent::[1 Probability and Distributions](1%20Probability%20and%20Distributions.md)
+tag: #math #statistics #textbook #robert_hogg
+parent::[Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
 
 
 # 1.2 Sets
@@ -16,7 +16,7 @@ $$(A\cap B)^c=(A^c \cup B^c)$$
 $$(A \cup B)^c = (A^c \cap B^c)$$ 
 # 1.3 The Probability Set Function
 
-In this chapter, we start to establish probabilities of events that are [countable](1.5%20Cardinality.md) and the rules associated with counting them. There are technicalities with ascribing probabilities to infinite sample spaces outside the scope of this book so we constrain ourselves to collection of events that are closed under complements and countable unions. DeMorgan's Laws then state that the collection is also closed under countable intersections. Such a collection of "countable" events that this section will concern itself with is called a $\sigma$ -field of subsets
+In this chapter, we start to establish probabilities of events that are [countable](Understanding%20Analysis%20-%201.5%20Cardinality.md) and the rules associated with counting them. There are technicalities with ascribing probabilities to infinite sample spaces outside the scope of this book so we constrain ourselves to collection of events that are closed under complements and countable unions. DeMorgan's Laws then state that the collection is also closed under countable intersections. Such a collection of "countable" events that this section will concern itself with is called a $\sigma$ -field of subsets
 
 ***Definition 1.3.1*** Let $C$ be a sample space and let $B$ be the set of events. Let $P$ be a real-valued function defined on $B$. Then $P$ is a probability set function if P satisfies the following 3 conditions
 1. $P(A)\ge 0$ for all $A \in B$ 
@@ -33,7 +33,7 @@ We can develop several properties of the probability set function for a collecti
 
 ## 1.3.1 Counting Rules
 Three counting rules from elementary algebra for a set $A$ containing $n$ elements:
-1) <u>Multiplication rule</u>: Given set $A= \{x_1, x_2,...x_{m}\}$ and $B=\{y_1,y_2,..., y_n\}$, then then there are $m \times n$ ordered pairs $(x_i, y_j)$. This is [the cartesian product](1%20Real%20Numbers.md) of $A \times B$ 
+1) <u>Multiplication rule</u>: Given set $A= \{x_1, x_2,...x_{m}\}$ and $B=\{y_1,y_2,..., y_n\}$, then then there are $m \times n$ ordered pairs $(x_i, y_j)$. This is [the cartesian product](Book%20of%20Proof%20-%201%20Real%20Numbers.md) of $A \times B$ 
 2) <u>Permutations. </u>The k-tuple permutation of a set $A$ with $n$-elements is the set of k-tuples containing unique elements of the set $A$  is the permutation denoted $P^{n}_{k}=\frac{n!}{(n-k)!}$. Note that for tuples, the order of the elements make them distinct for each other for a 3-tuple $(x_1,x_2,x_3) \ne (x_2, x_1, x_3)$, but note that the permutations demand that components within the tuple do not repeat so $(x_1,x_1, x_2)$ is not a permutation of $A$. The permutation set is a subset of all the possible k-tuples of $A$ which by the <u>multiplication rule</u> is $n^k$ 
 3) <u>Combinations</u>. The number of subsets containing $k$ elements of the set $A$ is the combination denoted $C^{n}_{k}=\frac{n!}{k!(n-k)!}$=$\binom{n}{k}$ . The combinations is a subset of the permutations of $A$,  $\{P^{n}_{k}\}$ as the combinations are essentially permutations where we do not care for the ordering. We are no longer looking at ordered k-tuples but just the sets containing k-elements. Another way to see this is to take any given permutation of k-tuples and see that each of them can be ordered $k!$ different ways.
 ## 1.3.2 Additional properties of probability

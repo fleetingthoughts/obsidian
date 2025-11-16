@@ -1,5 +1,5 @@
 parent:[Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #textbook #math #stephen_abbot #understanding_analysis 
+tag: #textbook #math #stephen_abbot #understanding_analysis #real_analysis 
 
 We look at conditions that tell us whether a sequence converges. We begin by defining some of these conditions:
 
@@ -9,7 +9,7 @@ With this definition we now establish a condition for convergence that <u>doesn'
 
 ***Theorem 2.4.2 (Monotone Convergence Theorem).*** If a sequence is bounded and is monotone, then the sequence converges.
 
-The proof involves choosing a candidate for the limit and we choose the supremum of the sequence $s = sup( {a_n: n \in N})$ and then applying [lemma](1.3%20The%20Axiom%20of%20Completeness.md#^e12bd5) to then show that:
+The proof involves choosing a candidate for the limit and we choose the supremum of the sequence $s = sup( {a_n: n \in N})$ and then applying [lemma](Understanding%20Analysis%20-%201.3%20The%20Axiom%20of%20Completeness.md#^e12bd5) to then show that:
 $$s-\epsilon \le a_{N}\le a_{n} \le s \le s+\epsilon$$
 which shows we satisfy the convergence criteria $|a_n-s|\lt \epsilon$ for some $n\gt N$. This proof also happens to show that<u> the supremum/Infinium of a monotonically increasing/decreasing sequence is the limit that the sequence converges to</u>
 

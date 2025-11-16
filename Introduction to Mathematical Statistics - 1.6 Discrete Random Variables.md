@@ -1,5 +1,5 @@
-tag: #math #statistics 
-parent:: [1 Probability and Distributions](1%20Probability%20and%20Distributions.md)
+tag: #math #statistics #textbook #robert_hogg
+parent:: [Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
 
 First defining a discrete random variable
 
@@ -12,7 +12,7 @@ Note that by the properties of probability functions, it must satisfy the two pr
 2) $\sum_{x \in D}p_X(x) = 1$ 
 Outside the scope of this book, but more advanced techniques can show that if a function satisfies the above two properties for a discrete set $D$  then this function can uniquely determine the distribution of the random variable.
 
-The <u>support</u> of the discrete random variable is defined as the $x \in X$ such that $P(x) \gt 0$ or basically the set of real numbers that actually matter and have a chance of occurring. It can be shown that if a point $x$ is not in the support of $X$ then the CDF of $X$ is continuous at this $x$ using [Theorem 1.5.3](1.5%20Random%20Variables.md)
+The <u>support</u> of the discrete random variable is defined as the $x \in X$ such that $P(x) \gt 0$ or basically the set of real numbers that actually matter and have a chance of occurring. It can be shown that if a point $x$ is not in the support of $X$ then the CDF of $X$ is continuous at this $x$ using [Theorem 1.5.3](Introduction%20to%20Mathematical%20Statistics%20-%201.5%20Random%20Variables.md)
 
 # 1.6.1 Transformations
 

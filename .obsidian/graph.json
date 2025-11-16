@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
   "search": "-tag: #hidden  ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file:Math",
+      "query": "file:math",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 1,
   "nodeSizeMultiplier": 1.4015625,
   "lineSizeMultiplier": 2.090625,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5615763253048384,
-  "close": true
+  "scale": 0.2857086301587609,
+  "close": false
 }

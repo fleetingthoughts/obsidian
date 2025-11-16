@@ -1,13 +1,13 @@
 parent:[Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #textbook #math #stephen_abbot #understanding_analysis 
+tag: #textbook #math #stephen_abbot #understanding_analysis #real_analysis 
 
-It should be noted that the [definition for convergence](2.2%20The%20Limit%20of%20a%20Sequence.md) came only 150 years after calculus was developed and so this definition was not necessary for calculus to develop but rather to be used to prove statements about convergence in general. Infinite sequences or series do not necessarily have the same algebraic properties of addition, multiplication, distribution, and/or associative. But we can prove that algebraic operations are valid for infinite sequences or series that have convergent properties.
+It should be noted that the [definition for convergence](Understanding%20Analysis%20-%202.2%20The%20Limit%20of%20a%20Sequence.md) came only 150 years after calculus was developed and so this definition was not necessary for calculus to develop but rather to be used to prove statements about convergence in general. Infinite sequences or series do not necessarily have the same algebraic properties of addition, multiplication, distribution, and/or associative. But we can prove that algebraic operations are valid for infinite sequences or series that have convergent properties.
 
 We first lay some foundations by defining some key terms like "bounded" in the context of sequences
 
 ***Definition 2.3.1 (Bounded).*** A sequence $(x_n)$ is bounded if there exists a number $M>0$ such that $|x_n|\le M$ for all $n \in N$. 
 
-Notice how this is separate from the definition of [bounded above](1.3%20The%20Axiom%20of%20Completeness.md) when postulating the Axiom of Completeness. In this definition, we are describing a sequence that is contained within an interval $[-M, M]$. With this definition we prove the following:
+Notice how this is separate from the definition of [bounded above](Understanding%20Analysis%20-%201.3%20The%20Axiom%20of%20Completeness.md) when postulating the Axiom of Completeness. In this definition, we are describing a sequence that is contained within an interval $[-M, M]$. With this definition we prove the following:
 
 ***Theorem 2.3.2 (Convergence of bounded sequences).*** Every convergent sequence is bounded.
 

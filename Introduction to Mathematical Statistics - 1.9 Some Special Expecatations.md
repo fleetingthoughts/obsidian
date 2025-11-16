@@ -1,5 +1,5 @@
-tag: #math #statistics 
-parent::[1 Probability and Distributions](1%20Probability%20and%20Distributions.md)
+tag: #math #statistics #textbook #robert_hogg
+parent::[Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
 
 In this section we define another function that uniquely characterizes a pdf or pmf and how this "characterizing" function can generate some well known properties of the pdf or pmf like the mean and the variance even if we don't know what the pmf or pdf could be.
 

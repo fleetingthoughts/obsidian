@@ -22,7 +22,7 @@ list from [[]] and !outgoing([[]])
 <u>Sun:</u> Lin Alg/calc
 
 # The Plan
-1) Courant Vol 1 (Dec 13th - Feb 14th)
+1) Courant Vol 1 (100 sections, 8 chapters, 600 pages)
 2) Hogg - Introduction to Mathematical Statistics (Dec 13th-Apr. 14th) 
 3) Stephen Abbott - Understanding Analysis (Dec 13th - Feb 28)
 4) Friedberg, Insel - Linear Algebra - (Dec. 14th-Feb 28th)

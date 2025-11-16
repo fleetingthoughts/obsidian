@@ -1,5 +1,5 @@
 parent: [Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #textbook #math #stephen_abbot #understanding_analysis
+tag: #textbook #math #stephen_abbot #understanding_analysis #real_analysis 
 
 In this section, we now formalize a lot of intuition we have about the different fields within and including R and how $N, Q, Z$ fit into $R$ as well we deduce a theorem that formalizes the idea of the set of real numbers having no "gaps" in it. 
 
