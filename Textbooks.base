@@ -19,6 +19,7 @@ views:
             - file.folder == "/"
             - and:
                 - file.tags.contains("textbook")
+                - status == "ongoing"
     order:
       - file.name
       - edition
@@ -26,3 +27,11 @@ views:
     image: note.cover
     imageAspectRatio: 1.25
     imageFit: contain
+  - type: cards
+    name: backlog
+    filters:
+      and:
+        - file.folder == "/"
+        - file.tags == ["textbook"]
+        - status == "backlog"
+    image: note.cover
