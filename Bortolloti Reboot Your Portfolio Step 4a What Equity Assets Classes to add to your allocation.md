@@ -1,7 +1,7 @@
 ---
-dv_parent: "[Reboot your Portfolio - Bortolloti](Reboot%20your%20Portfolio%20-%20Bortolloti.md)"
+parent: "[[Reboot Your Portfolio - Dan Bortolloti]]"
 ---
-parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
+
 After the previous chapter discussing what asset allocation you should choose that aligns with your risk tolerance and your financial plans, we now look at the asset classes that one should include in their portfolio.
 
 He provides a brief overview of the equity classes and the reasoning why they should be included:

@@ -1,8 +1,6 @@
 ---
-dv_Parent: "[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)"
+parent: "[[How to take Smarter notes - Sönke Ahrens]]"
 ---
-Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
-
 General summary on how to focus and use the slip box method:
 9.1 - focus on one task at a time. We
 9.2 - Compartmentalize your thinking

@@ -14,7 +14,7 @@ rating out of 10:
 ---
 
 tag:  #textbook #linear_algebra
-parent: 
+parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 
 ![](Untitled.jpg)
 

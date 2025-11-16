@@ -1,4 +1,7 @@
-Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
+---
+parent: "[[How to take Smarter notes - Sönke Ahrens]]"
+---
+
 
 The slip box should be like a shipping container. Focus on the objective of carrying ideas from beginning to end. 
 

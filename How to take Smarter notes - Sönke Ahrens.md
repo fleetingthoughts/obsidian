@@ -1,5 +1,5 @@
 ---
-dv_parent: "[MOC Mental training](MOC%20Mental%20training.md)"
+parent: "[[MOC Mental training]]"
 author: Sönke Ahrens
 cover: 81b8H-MhlHL._AC_UF1000,1000_QL80_.jpg
 isbn-13: 978-3982438801
@@ -15,6 +15,5 @@ status: complete
 ---
 
 tags: #book #zettalkasten 
-parent::[MOC Mental training](MOC%20Mental%20training.md)
 
 ![](81b8H-MhlHL._AC_UF1000,1000_QL80_.jpg)

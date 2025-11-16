@@ -1,5 +1,6 @@
-Parent::[___Home](___Home.md)
-
+---
+parent: "[[___Home]]"
+---
 This note is for models/techniques to improve mental productivity
 
 ```dataview

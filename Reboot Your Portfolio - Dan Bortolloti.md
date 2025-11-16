@@ -1,5 +1,4 @@
 ---
-dv_parent: "[_Personal Finance MOC](_Personal%20Finance%20MOC.md)"
 author: Dan Bortolloti
 edition: 1st
 original publication year: "2021"
@@ -15,7 +14,7 @@ status: complete
 
 
 tag: #book 
-parent:: [_Personal Finance MOC](_Personal%20Finance%20MOC.md)
+parent: [_Personal Finance MOC](_Personal%20Finance%20MOC.md)
 
 A book that preaches the "couch potato strategy"
 
