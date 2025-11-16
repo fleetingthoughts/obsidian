@@ -1,4 +1,7 @@
-tag: #math #statistics #textbook #robert_hogg
+---
+dv_parent: "[Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)"
+---
+tag: #math #statistics  #robert_hogg
 parent::[Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
 
 The conditional probability of an event $B$ given $A$ occurred is represented as follows:

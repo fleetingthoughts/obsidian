@@ -1,4 +1,4 @@
-Parent::[Sonke Ahrens on How to take Smarter notes](Sonke%20Ahrens%20on%20How%20to%20take%20Smarter%20notes.md)
+Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
 
 In the same vein as Adler.
 10.1. read with a goal in mind to promote understanding. The zettalkasten encourages two goals creating connections with existing notes and creating permanent notes. Also read with a pencil in hand, there seem to be lots of studies supporting that handwritten notes promote more understanding, but have no impact on retention.

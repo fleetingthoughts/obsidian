@@ -1,4 +1,4 @@
-Parent::[Sonke Ahrens on How to take Smarter notes](Sonke%20Ahrens%20on%20How%20to%20take%20Smarter%20notes.md)
+Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
 
 The slip box
 - temporary notes

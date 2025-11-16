@@ -1,4 +1,4 @@
-parent::[Reboot your Portfolio by Bortolloti](Reboot%20your%20Portfolio%20by%20Bortolloti.md)
+parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
 
 In this chapter, Bortolloti makes an understandable emotional appeal to people to leave their advisor who may be a friend, family, etc.. A lot of the information is not relevant to my situation but the few here are:
 

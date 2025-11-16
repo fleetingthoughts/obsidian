@@ -1,4 +1,4 @@
-parent::[Reboot your Portfolio by Bortolloti](Reboot%20your%20Portfolio%20by%20Bortolloti.md)
+parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
 
 The author briefly gives an overview of how to balance your portfolio and the different approaches, and the majority of the chapter is dedicated to an emotional appeal on simple one-fund solutions: asset allocation ETFs.
 

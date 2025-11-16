@@ -1,22 +1,28 @@
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: general reading
     filters:
       and:
         - file.inFolder("/")
-        - file.tags.contains("textbook")
+        - file.tags.contains("book")
     sort:
       - property: file.name
         direction: DESC
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.5
   - type: cards
-    name: View
+    name: textbooks
     filters:
       and:
-        - file.folder == "/"
-        - file.tags.contains("textbook")
+        - and:
+            - file.folder == "/"
+            - and:
+                - file.tags.contains("textbook")
     order:
       - file.name
       - edition
       - author
     image: note.cover
-    imageAspectRatio: 1.45
+    imageAspectRatio: 1.25
+    imageFit: contain

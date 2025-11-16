@@ -1,4 +1,7 @@
-Parent::[Reboot your Portfolio by Bortolloti](Reboot%20your%20Portfolio%20by%20Bortolloti.md)
+---
+dv_Parent: "[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)"
+---
+Parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
 
 
 Bortolloti focuses on asset allocation mixes between equities and bonds. The majority of the chapter is spent on aligning your target asset class with your financial plans and (underrated) your emotional tolerance for risk. You must find the right asset class mix that let you hit your financial goals and lets you sleep at night

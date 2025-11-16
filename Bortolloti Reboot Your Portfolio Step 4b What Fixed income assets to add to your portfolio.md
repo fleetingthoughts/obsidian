@@ -1,4 +1,4 @@
-parent::[Reboot your Portfolio by Bortolloti](Reboot%20your%20Portfolio%20by%20Bortolloti.md)
+parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
 
 Throughout the discussion of fixed income assets, it is emphasized that the purpose of adding these asset classes to the mix is to reduce volatility, and so, any asset classes that increase volatility will not align with the objectives despite higher yields. A higher portion of equity asset classes should be considered if we are looking at high-yield high-risk fixed income assets. ^d59b28
 

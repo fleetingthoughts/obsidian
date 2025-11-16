@@ -1,4 +1,4 @@
-parent::[Reboot your Portfolio by Bortolloti](Reboot%20your%20Portfolio%20by%20Bortolloti.md)
+parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
 
 After aligning your asset allocation with your financial plans and taking the author's advice on what asset classes are worth investing. We now examine the financial instr
 

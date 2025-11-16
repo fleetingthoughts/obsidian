@@ -1,4 +1,4 @@
-Parent::[Sonke Ahrens on How to take Smarter notes](Sonke%20Ahrens%20on%20How%20to%20take%20Smarter%20notes.md)
+Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
 
 Writing should not be treated at a linear process that requires a brainstorming session at the start. Why is creating a new idea to write about like a research topic so hard? It is because we do not have a flexible repository to draw upon already existing ideas. Students can spend years and not have any good topics to think about because they have not organized their existing thoughts. 
 
