@@ -1,4 +1,4 @@
-tag: #math #statistics #textbook #robert_hogg
+tag: #math #statistics #robert_hogg
 parent:[Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
 
 

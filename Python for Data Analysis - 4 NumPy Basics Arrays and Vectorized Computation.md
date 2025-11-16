@@ -1,5 +1,5 @@
 %%tags: #python #datascience #mckinney%%
-parent::[Python for Data Analysis 3rd ed. - Wes McKinney](Python%20for%20Data%20Analysis%203rd%20ed.%20-%20Wes%20McKinney.md)
+parent: [Python for Data Analysis 3rd ed. - Wes McKinney](Python%20for%20Data%20Analysis%203rd%20ed.%20-%20Wes%20McKinney.md)
 
 # Concepts
 - Numpy is designed for efficiency of large arrays of data

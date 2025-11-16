@@ -1,0 +1,41 @@
+{
+  "prefix": "dv_",
+  "listSuffix": "_list",
+  "unflatten": {
+    "enabled": false,
+    "separator": "__"
+  },
+  "ignore": {
+    "files": [],
+    "keyName": "dv_ignore"
+  },
+  "dql": true,
+  "djs": true,
+  "listFields": {
+    "fields": [],
+    "lowerCase": true,
+    "ignoreAccents": true
+  },
+  "ignoreFields": {
+    "fields": [],
+    "lowerCase": true,
+    "ignoreAccents": true
+  },
+  "cleanUpText": {
+    "fields": [],
+    "lowerCase": true,
+    "ignoreAccents": true
+  },
+  "interval": 1000,
+  "deleteFromFrontmatter": {
+    "enabled": true,
+    "lowerCase": true,
+    "ignoreAccents": true
+  },
+  "extraMenus": false,
+  "dataviewOptions": {
+    "durationFormat": {
+      "formatDuration": false
+    }
+  }
+}

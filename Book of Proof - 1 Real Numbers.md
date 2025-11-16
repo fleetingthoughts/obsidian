@@ -1,5 +1,5 @@
 parent: [Book of Proof 3rd ed. - Richard Hammond](Book%20of%20Proof%203rd%20ed.%20-%20Richard%20Hammond.md)
-tag: #mathematical_logic #richard_hammond #textbook #math
+tag: #mathematical_logic #richard_hammond #math
 
 # 1.1 Sets
 The cardinality or size of a finite set is the number of elements in the set $A$ denoted as $|A|$  so $A = \{1,2,a,p\}$ has cardinality of 4: $|A|$ = 4

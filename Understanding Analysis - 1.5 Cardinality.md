@@ -1,6 +1,6 @@
 
 parent: [Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #textbook #math #stephen_abbot #understanding_analysis #real_analysis 
+tag: #math #stephen_abbot #understanding_analysis #real_analysis 
 
 We explore the big brain of Georg Cantor who found a way to compare infinities and show how some infinities are larger than others. In this section we develop the following:
 - A method and definition to compare the "size" of a set to another set

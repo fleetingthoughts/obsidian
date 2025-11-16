@@ -1,5 +1,5 @@
 parent:[Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #textbook #math #stephen_abbot #understanding_analysis #real_analysis 
+tag: #math #stephen_abbot #understanding_analysis #real_analysis 
 
 We look at conditions that tell us whether a sequence converges. We begin by defining some of these conditions:
 
