@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee4e8a8e57825106",
+            "id": "15b827ac1cf4c943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+                "file": "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.4 The Monotone Convergence Theorem and a First Look at Infinite Series"
+              "title": "Understanding Analysis 2nd ed. - Abbot, Stephen"
             }
           }
         ]
@@ -59,10 +59,10 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Home",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           },
@@ -86,7 +86,7 @@
         }
       },
       {
-        "id": "ce29747aece8db2d",
+        "id": "23a4fcab163e96bb",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -137,8 +137,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       },
       {
@@ -171,6 +171,16 @@
           "icon": "links-coming-in",
           "title": "Backlinks"
         }
+      },
+      {
+        "id": "2bd59e8dc8b9ecca",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 2
@@ -188,53 +198,55 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ee4e8a8e57825106",
+  "active": "15b827ac1cf4c943",
   "lastOpenFiles": [
-    "1.3 The Axiom of Completeness.md",
-    "2.3 The Algebraic and Order Limit Theorems.md",
+    "Understanding Analysis - 1.3 The Axiom of Completeness.md",
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "_MOC Science and Math.md",
     "___Home.md",
-    "Cauchy-Schwartz Inequality.md",
-    "Nicomachus's Theorem.md",
+    "conflict-files-obsidian-git.md",
+    "template/permanent_note.md",
+    "template/literature_note.md",
+    "template/daily_note_template.md",
+    "template/abridged_citation_template.md",
+    "template",
+    "Untitled.jpg",
+    "Understanding Analysis - 2.5 Subsequences and the Bolzano-Weierstrass Theorem.md",
+    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+    "Understanding Analysis - 2.3 The Algebraic and Order Limit Theorems.md",
+    "Understanding Analysis - 2.2 The Limit of a Sequence.md",
+    "Understanding Analysis - 2.1 Rearrangement of Infinite Series.md",
+    "Understanding Analysis - 1.6 Cantor's Theorem.md",
+    "Understanding Analysis - 1.5 Cardinality.md",
+    "Understanding Analysis - 1.4 Consequences of Completeness.md",
+    "Understanding Analysis - 1.1 and 1.2.md",
+    "To Read.md",
+    "Textbooks.base",
+    "Reboot Your Portfolio - Dan Bortolloti.md",
+    "Python for Data Analysis - 4 NumPy Basics Arrays and Vectorized Computation.md",
+    "Python for Data Analysis - 3 Built-In Data Structures, Functions, and Files.md",
+    "Python for Data Analysis - 2 Python Language Basics, IPython, and Jupyter Notebooks.md",
+    "Pasted image 20251116032236.png",
+    "Pasted image 20251116032149.png",
+    "Pasted image 20251116031608.png",
+    "Pasted image 20251116030756.jpg",
+    "On studying maters for math - Abel.md",
+    "Linear Algebra - Friedberg, Insel, and Spence.md",
+    "Introduction to Mathematical Statistics - 1.9 Some Special Expecatations.md",
+    "91QBEYSpnLL._AC_UF1000,1000_QL80_.jpg",
+    "81b8H-MhlHL._SL1500_.jpg",
+    "81b8H-MhlHL._SL1500_ 5.jpg",
+    "81b8H-MhlHL._SL1500_ 4.jpg",
+    "81b8H-MhlHL._SL1500_ 3.jpg",
+    "Untitled 9.base",
+    "Untitled 10.base",
+    "/Untitled 9.base",
+    "/Untitled 10.base",
+    "Untitled.canvas",
+    "/Untitled.canvas",
+    "daily_notes",
+    "/daily_notes",
     "Untitled 8.base",
-    "Untitled 7.base",
-    "/Untitled 8.base",
-    "/Untitled 7.base",
-    "Sum of cubes.md",
-    "Reverse Triangle inequality..md",
-    "Surjectivity, Injectivity, and Bijectivity.md",
-    "Sum of Squares.md",
-    "Pasted image 20251109174433.png",
-    "Pasted image 20251109173548.png",
-    "Pasted image 20251109135551.png",
-    "Loure.md",
-    "Codomain, Image and Range.md",
-    "2025-11-18 Statistics 1.10.md",
-    "2025-11-17 Calc Review.md",
-    "2025-11-15 Statistics 1.9.md",
-    "2025-11-15 Calc 2..5-2.6.md",
-    "2025-11-13 Statistics 1.8.md",
-    "2025-11-12 Calc 2.1-2.2.md",
-    "2025-11-11 Statistics 1.7.md",
-    "2025-11-10 Calc 1.8 Onwards.md",
-    "2025-11-09 Calc 1,5, 1.6, 1.7.md",
-    "/Sum of cubes.md",
-    "/Reverse Triangle inequality..md",
-    "/Nicomachus's Theorem.md",
-    "/2.3 The Algebraic and Order Limit Theorems.md",
-    "/Pasted image 20251109174433.png",
-    "/Pasted image 20251109173548.png",
-    "/Pasted image 20251109135551.png",
-    "Untitled 6.base",
-    "/Untitled 6.base",
-    "Pasted image 20251031003304.png",
-    "Pasted image 20251031003243.png",
-    "Pasted image 20251031003047.png",
-    "Pasted image 20251031002237.png",
-    "Untitled 5.base",
-    "/Untitled 5.base",
-    "Untitled 4.base",
-    "Untitled 3.base"
+    "Untitled 7.base"
   ]
 }
