@@ -1,6 +1,12 @@
-parent: [Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #math #stephen_abbot #understanding_analysis #real_analysis 
-
+---
+parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+tags:
+  - math
+  - understanding_analysis
+  - stephen_abbot
+  - real_analysis
+date_created:
+---
 Before tackling infinite series, we begin with infinite sequences.
 
 ***Definition 2.2.1 (Sequences)*** A sequence is a function whose domain is the natural numbers $N$ 

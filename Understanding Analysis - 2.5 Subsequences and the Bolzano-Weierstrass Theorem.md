@@ -1,6 +1,12 @@
-parent: [Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #math #stephen_abbot #understanding_analysis #real_analysis
-
+---
+parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+tags:
+  - math
+  - understanding_analysis
+  - real_analysis
+  - stephen_abbot
+date_created:
+---
 We set aside infinite series for now and return to infinite sequences and look at the subsequence.
 
 ***Definition 2.5.1 (Subsequences).*** Let $(a_n)$ be a sequence of real numbers and let $n_1\lt n_2 \lt n_3\dots$  be an increasing sequence of natural numbers. Then the sequence

@@ -1,6 +1,12 @@
-parent:[Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #math #stephen_abbot #understanding_analysis #real_analysis 
-
+---
+parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+tags:
+  - math
+  - stephen_abbot
+  - understanding_analysis
+  - real_analysis
+date_created:
+---
 It should be noted that the [definition for convergence](Understanding%20Analysis%20-%202.2%20The%20Limit%20of%20a%20Sequence.md) came only 150 years after calculus was developed and so this definition was not necessary for calculus to develop but rather to be used to prove statements about convergence in general. Infinite sequences or series do not necessarily have the same algebraic properties of addition, multiplication, distribution, and/or associative. But we can prove that algebraic operations are valid for infinite sequences or series that have convergent properties.
 
 We first lay some foundations by defining some key terms like "bounded" in the context of sequences

@@ -1,6 +1,12 @@
-parent: [Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #math #stephen_abbot #understanding_analysis #real_analysis 
-
+---
+parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+tags:
+  - math
+  - stephen_abbot
+  - understanding_analysis
+  - real_analysis
+date_created:
+---
 The section illustrates examples of where standard algebraic manipulations of addition, multiplication, etc.. of an infinite series can lead to contradictory results. This puts into question the validity of these operations on infinite objects.
 
 Consider for example the series of $\sum_{n=1}^{\infty}(-1)^n$ which we assume must equal some finite quantity $S$. Adding two copies of the summation together can lead to two different groupings. One particular grouping yields 0:

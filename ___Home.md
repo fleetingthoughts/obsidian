@@ -22,9 +22,9 @@ list from [[]] and !outgoing([[]])
 
 # The Plan
 1) Courant Vol 1 (100 sections, 8 chapters, 600 pages)
-2) Hogg - Introduction to Mathematical Statistics (Dec 13th-Apr. 14th) 
-3) Stephen Abbott - Understanding Analysis (Dec 13th - Feb 28)
-4) Friedberg, Insel - Linear Algebra - (Dec. 14th-Feb 28th)
+2) Hogg - Introduction to Mathematical Statistics (58 sections, 10 chapters, 750 pages) 
+3) Stephen Abbott - Understanding Analysis (55 sections 8 chapters, 300 pages)
+4) Friedberg, Insel - Linear Algebra - (42 sections, 7 chapters, 500 pages)
 5) Courant Vol 2 (Feb 14th - Apr. 30 2026)
 6) George Finlay Simmons - Ordinary differential equations (Mar 1-May 15)
 7) Strauss-Partial Differential Equations (71 sections)

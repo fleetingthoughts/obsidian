@@ -1,6 +1,12 @@
-parent:[Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #math #stephen_abbot #understanding_analysis #real_analysis 
-
+---
+parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+tags:
+  - math
+  - stephen_abbot
+  - understanding_analysis
+  - real_analysis
+date_created:
+---
 We look at conditions that tell us whether a sequence converges. We begin by defining some of these conditions:
 
 ***Definition 2.4.1 (Monotonicity).*** A sequence $(a_n)$ is increasing if for all $n \in N$, $a_n \le a_{n+1}$ and decreasing if $a_n \ge a_{n+1}$. The sequence is called <u>monotone</u> if it is increasing or decreasing for all terms in this way.

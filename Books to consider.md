@@ -29,7 +29,7 @@ Also a compilation of books on [reddit](https://www.reddit.com/r/statistics/comm
 List of important publications [Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics) ^6bb376
 - _**Statistical Inference**_ - Casella and Berger
 - _**Introduction to Probability**_- William Feller
-	- Feller was one of the masters and pioneered the probability as a field in mathematics. [Remember Abel](Neils%20Heinrich%20Abel.md)
+	- Feller was one of the masters and pioneered the probability as a field in mathematics. [Remember Abel](On%20studying%20maters%20for%20math%20-%20Abel.md)
 - _**Probability Theory: A Comprehensive Course**_ - Klenke
 	- For Grad Students. Advanced per the preface and is highly regarded per meta-analysis of [Stackexchange](Books%20to%20consider.md#^0fdb2c)
 ### Meta Analysis
