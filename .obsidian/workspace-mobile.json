@@ -94,6 +94,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "5b7d9883313dd1d4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 1
@@ -200,6 +214,12 @@
   },
   "active": "15b827ac1cf4c943",
   "lastOpenFiles": [
+    "tort law.md",
+    "daily_notes/2025-11-17.md",
+    "/tort law.md",
+    "/daily_notes/2025-11-17.md",
+    "daily_notes",
+    "/daily_notes",
     "Understanding Analysis - 1.3 The Axiom of Completeness.md",
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "_MOC Science and Math.md",
@@ -225,14 +245,10 @@
     "Reboot Your Portfolio - Dan Bortolloti.md",
     "Python for Data Analysis - 4 NumPy Basics Arrays and Vectorized Computation.md",
     "Python for Data Analysis - 3 Built-In Data Structures, Functions, and Files.md",
-    "Python for Data Analysis - 2 Python Language Basics, IPython, and Jupyter Notebooks.md",
     "Pasted image 20251116032236.png",
     "Pasted image 20251116032149.png",
     "Pasted image 20251116031608.png",
     "Pasted image 20251116030756.jpg",
-    "On studying maters for math - Abel.md",
-    "Linear Algebra - Friedberg, Insel, and Spence.md",
-    "Introduction to Mathematical Statistics - 1.9 Some Special Expecatations.md",
     "91QBEYSpnLL._AC_UF1000,1000_QL80_.jpg",
     "81b8H-MhlHL._SL1500_.jpg",
     "81b8H-MhlHL._SL1500_ 5.jpg",
@@ -244,8 +260,6 @@
     "/Untitled 10.base",
     "Untitled.canvas",
     "/Untitled.canvas",
-    "daily_notes",
-    "/daily_notes",
     "Untitled 8.base",
     "Untitled 7.base"
   ]
