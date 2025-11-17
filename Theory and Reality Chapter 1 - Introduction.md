@@ -1,2 +1,10 @@
-tags: #math #philosophy #science 
-parent[Theory and Reality - Introduction to the Philosophy of Science](Theory%20and%20Reality%20-%20Introduction%20to%20the%20Philosophy%20of%20Science.md)
+---
+parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
+tags:
+  - "#philosophy"
+  - "#math"
+  - "#science"
+  - "#peter_godfrey_smith"
+date_created:
+---
+parent: [__MOC Fleeting](__MOC%20Fleeting.md)

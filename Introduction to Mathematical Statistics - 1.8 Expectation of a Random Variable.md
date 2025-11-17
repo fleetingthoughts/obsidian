@@ -1,6 +1,11 @@
-tag: #math #statistics #robert_hogg
-parent: [Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
-
+---
+parent: "[[Introduction to Mathematical Statistics - 1 Probability and Distributions]]"
+tags:
+  - math
+  - statistics
+  - robert_hogg
+date_created:
+---
 We first define a key term
 
 ***Definition 1.8.1 (Expectation)***. If the random variable $X$ is a continuous random variable with a pdf $f(x)$ with the property 

@@ -9,9 +9,13 @@ tags:
   - textbook
   - math
   - real_analysis
+  - stephen_abbot
 status: ongoing
 rating out of 10:
+parent:
+date_created:
 ---
+parent: [__MOC Fleeting](__MOC%20Fleeting.md)
 tags: #textbook #math #stephen_abbot #understanding_analysis #real_analysis 
 
 

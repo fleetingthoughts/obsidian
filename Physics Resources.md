@@ -20,7 +20,7 @@ Two texts below seem to be ubiquitous with a preference for Griffiths. Refer to 
 - Introduction to Electrodynamics - Griffiths
 - Electricity and Magnetism - Purcell
 ### Math
-- [Methods of Mathematical Physics](Math%20Resources.md#^m123)
+- [Methods of Mathematical Physics](Books%20to%20consider.md#^m123)
 - _**Mathematical Methods of Classical Mechanics**_ - V.I. Arnold
 - 
 #### Control Theory

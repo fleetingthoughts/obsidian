@@ -11,10 +11,8 @@ tags:
   - linear_algebra
 status: ongoing
 rating out of 10:
+parent: "[[_MOC Science and Math]]"
 ---
-
-tag:  #textbook #linear_algebra
-parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 
 ![](Untitled.jpg)
 

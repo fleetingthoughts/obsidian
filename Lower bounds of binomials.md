@@ -1,5 +1,14 @@
-tags:: #math #math_tricks #math_toolbox 
-following is a lemma of the [Binomial Theorem](Binomial%20Theorem.md). 
+---
+parent:
+tags:
+  - "#math"
+  - math_tricks
+  - math_toolbox
+  - "#inequalities"
+  - "#lemma"
+date_created:
+---
+The following is a lemma of the [Binomial Theorem](Binomial%20Theorem.md). 
 ***Lemma (lower bound on binomials).*** If $h$ is a positive number and $n$ is a natural number, then:
 $$1+nh\le (1+h)^n$$
 

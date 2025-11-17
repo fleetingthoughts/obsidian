@@ -1,6 +1,11 @@
-tags: #python #datascience #mckinney
-parent: [Python for Data Analysis 3rd ed. - Wes McKinney](Python%20for%20Data%20Analysis%203rd%20ed.%20-%20Wes%20McKinney.md)
-
+---
+parent: "[[Python for Data Analysis 3rd ed. - Wes McKinney]]"
+tags:
+  - python
+  - datascience
+  - mckinney
+date_created:
+---
 # ***Concepts***
 - Tuples are immutable. You cannot change which object is stored in each slot but you can modify them in place
 ``` 

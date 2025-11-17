@@ -1,4 +1,12 @@
-tags: #math #math_toolbox #math_tricks
+---
+parent:
+tags:
+  - math
+  - math_toolbox
+  - math_tricks
+  - inequalities
+date_created:
+---
 We have an <u>upper bound</u> for any sum of absolute value terms by the triangular inequality:
 $$|a+b|\le|a|+|b|$$
 Other forms of the triangular inequality can result from subtraction as well:

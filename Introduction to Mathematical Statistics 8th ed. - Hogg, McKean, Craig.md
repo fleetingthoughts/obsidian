@@ -12,10 +12,6 @@ tags:
   - robert_hogg
 status: ongoing
 rating out of 10:
+parent: "[[_MOC Science and Math]]"
 ---
-
-
-tag: #math #statistics #textbook #robert_hogg
-parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
-
 ![](51BELD670QL._AC_UF1000,1000_QL80_.jpg)

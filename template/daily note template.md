@@ -1,2 +1,6 @@
-tags: #fleeting
-parent: [__MOC Fleeting](__MOC%20Fleeting.md)
+---
+parent: "[[__MOC Fleeting]]"
+tags:
+  - "#fleeting"
+date_created:
+---

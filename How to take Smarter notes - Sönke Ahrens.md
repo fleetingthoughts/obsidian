@@ -14,6 +14,4 @@ tags:
 status: complete
 ---
 
-tags: #book #zettalkasten 
-
 ![](81b8H-MhlHL._AC_UF1000,1000_QL80_.jpg)
