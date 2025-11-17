@@ -1,5 +1,12 @@
-tag: #math #statistics #robert_hogg
-parent:[Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
+---
+parent: "[[Introduction to Mathematical Statistics - 1 Probability and Distributions]]"
+tags:
+  - math
+  - statistics
+  - robert_hogg
+date_created:
+---
+
 
 
 ***Definition 1.5.1 (Random Variables).*** Given a sample space $C$. A function $X$ which assigns each element $c \in C$ to one and only one number $X(c) =x$ is called a random variable. The space or range of $X$ is the set of real numbers.

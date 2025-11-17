@@ -1,7 +1,11 @@
-tag: #math #statistics #robert_hogg
-parent: [Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
-
-
+---
+parent: "[[Introduction to Mathematical Statistics - 1 Probability and Distributions]]"
+tags:
+  - math
+  - statistics
+  - robert_hogg
+date_created:
+---
 # 1.2 Sets
 Some basic definitions and theorems for set theory:
 

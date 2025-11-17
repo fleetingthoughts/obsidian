@@ -1,11 +1,17 @@
-parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
-
+---
+parent: "[[Reboot Your Portfolio - Dan Bortolloti]]"
+tags:
+  - investing
+  - etf
+date_created:
+---
 The author briefly gives an overview of how to balance your portfolio and the different approaches, and the majority of the chapter is dedicated to an emotional appeal on simple one-fund solutions: asset allocation ETFs.
 
 Assets will follow out of your target asset allocation as the yields will vary between all your assets. Equities may yield more than bonds and your portfolio will be overweight in equities, in which case more fixed-income assets need to be purchased.
 
 How often should one balance? The author suggests three methods:
-- Balancing by time interval. A common practice is to rebalance once every year, but consider rebalancing during the year start as companies typically make [Phantom Distributions at the end of the year](ETF%20Distributions%20and%20the%20impacts%20on%20ACB.md#^6d9d46) while making quarterly dividend distributions, so there is a small optimization to invest right at the beginning of the year to get those first dividend distributions and dodge 1 year of capital gains on phantom distributions with no year of yields. There are no conclusive research on whether balancing annually, quarterly, etc.. is advantageous.
+- Balancing by time interval. A common practice is to rebalance once every year, but consider rebalancing during the year start as companies typically make [Phantom Distributions at the end of the year](ETF%20Distributions%20and%20the%20impacts%20on%20ACB.md#^6d9d46) while making quarterly dividend distributions, so there is a small optimization to invest right at the beginning of the year to get those first dividend distributions and dodge 1 year of capital gains on phantom distributions with no year of yields. There are no conclusive research on whether balancing annually, quarterly, etc.. is advanparent: [__MOC Fleeting](__MOC%20Fleeting.md)
+tageous.
 - Balance by thresholds. Balancing when your portfolio falls out of your target tolerance. Bortolloti suggest rebalancing when allocation falls outside 5% tolerance for larget ~40/60% allocation and 2.5% tolerance for smaller 10/90% allocation.
 - Balance with cash flows. Simply rebalancing everytime you input cash. Advantageous for people with portfolios small enough where the cash contribution will be a large portion of their portfolio.
 There is of course no reason to only stick with one of the three and a combination can work.

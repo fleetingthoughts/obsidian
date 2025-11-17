@@ -1,5 +1,11 @@
-parent: [Book of Proof 3rd ed. - Richard Hammond](Book%20of%20Proof%203rd%20ed.%20-%20Richard%20Hammond.md)
-tag: #mathematical_logic #richard_hammond #math #proof
+---
+parent: "[[Book of Proof 3rd ed. - Richard Hammond]]"
+tags:
+  - mathematical_logic
+  - richard_hammond
+  - math
+  - proof
+---
 # 2.1 Statements
 - Statements are either definitely true or definitely false
 - Statements can be represented by symbols

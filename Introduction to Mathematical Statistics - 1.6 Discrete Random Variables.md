@@ -1,6 +1,11 @@
-tag: #math #statistics #robert_hogg
-parent: [Introduction to Mathematical Statistics - 1 Probability and Distributions](Introduction%20to%20Mathematical%20Statistics%20-%201%20Probability%20and%20Distributions.md)
-
+---
+parent: "[[Introduction to Mathematical Statistics - 1 Probability and Distributions]]"
+tags:
+  - math
+  - statistics
+  - robert_hogg
+date_created:
+---
 First defining a discrete random variable
 
 ***Definition 1.6.1 (Discrete Random Variable)***. We say a random variable is a discrete random variable if its space is either finite or countable. ^def-1-6-1

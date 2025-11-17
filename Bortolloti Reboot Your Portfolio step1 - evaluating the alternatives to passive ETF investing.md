@@ -1,4 +1,12 @@
-parent:: [[Reboot Your Portfolio - Dan Bortolloti]]
+---
+parent: "[[Reboot Your Portfolio - Dan Bortolloti]]"
+tags:
+  - investing
+  - etf
+date_created:
+---
+
+
 
 The chapter discusses the popularity of mutual funds despite the rising popularity of index funds. This begs the question what are the advantages of mutual funds despite the high fees they incurr. MorningStar repeatedly reports Canada as having one of the worst mutual fund fees. The common stance for mutual funds are that you can find the ones that can beat the market, but notes that per the S&P scorecard, <18% of mutual funds beat the market benchmarks. What if we simply invest in the mutual funds that consistently beat the market? Surely past performance is an indicator of future performance. The S&P Dow Jones Persistence scorecard, <3% of these mutual funds remain as consistent performers over a 5 year time frame. The data here is likely subject to survivorship bias on top of the duplicitous tactics of poor-performing funds merging with better-performing funds to bias the data. ^48acec
 

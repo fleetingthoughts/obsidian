@@ -1,8 +1,10 @@
 ---
 parent: "[[Introduction to Mathematical Statistics - 1 Probability and Distributions]]"
+tags:
+  - math
+  - statistics
+  - robert_hogg
 ---
-tag: #math #statistics #robert_hogg
-
 
 We could get an intuitive sense of what variables should be discrete random variables by determining whether the sample space is countable or finite, but we look to the actual property of the CDF to distinguish a continuous random variable
 
