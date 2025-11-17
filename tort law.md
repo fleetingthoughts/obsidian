@@ -26,4 +26,5 @@ common issues in contract/tort law. Tort law
 - limitation period - two years except quebec which is 3
 - ultimate limitation - 15 years.
 - joint and several reliability - each stakeholder can be held liable
+- vicarious liability - employer liable for employee
 - 
