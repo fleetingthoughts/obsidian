@@ -10,16 +10,12 @@ tags:
   - math
   - real_analysis
   - stephen_abbot
+  - understanding_analysis
 status: ongoing
 rating out of 10:
 parent:
 date_created:
 ---
-parent: [__MOC Fleeting](__MOC%20Fleeting.md)
-tags: #textbook #math #stephen_abbot #understanding_analysis #real_analysis 
-
-
-
 parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 
 ![](51OS+nZ1bEL._SL1244_.jpg)

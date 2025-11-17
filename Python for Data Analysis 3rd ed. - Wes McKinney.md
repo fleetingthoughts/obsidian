@@ -8,13 +8,11 @@ cover: 91QBEYSpnLL._AC_UF1000,1000_QL80_.jpg
 tags:
   - python
   - datascience
+  - textbook
 status: ongoing
 rating out of 10:
 ---
 
-
-tag: #math #python #textbook
-parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 
 He wrote this book when he was 28
 

@@ -1,6 +1,10 @@
-parent: [Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md) 
-tag: #math #stephen_abbot #understanding_analysis #real_analysis 
-
+---
+parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+tags:
+  - math
+  - stephen_abbot
+date_created:
+---
 Now we arrive at the formalization of mathematics summarizing the work done by the following people:
 - Augustin Louis Cauchy
 - Berhard Bolzano

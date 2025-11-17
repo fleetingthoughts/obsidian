@@ -10,11 +10,10 @@ tags:
   - book
   - personal_finance
 status: complete
+parent: "[[_Personal Finance MOC]]"
 ---
 
 
-tag: #book 
-parent: [_Personal Finance MOC](_Personal%20Finance%20MOC.md)
 
 A book that preaches the "couch potato strategy"
 
