@@ -46,4 +46,4 @@ Charter of rights and freedom
 - Construction liens:  filing claim of lien
 	- subcontractors/contractors can make construction liens
 	- holdbacks (usu 10%).  holdback 10% held until project milestones complete
-	- 
+# Privacy Law

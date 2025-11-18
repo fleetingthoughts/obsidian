@@ -1,3 +1,6 @@
+---
+dv_Parent: "[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)"
+---
 Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
 
 In the same vein as Adler.
