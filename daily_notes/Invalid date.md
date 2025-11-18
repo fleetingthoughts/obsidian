@@ -1,7 +1,0 @@
----
-parent: "[[_Fleeting]]"
-tags:
-  - "#fleeting"
-date_created:
-  "2025-11-17":
----

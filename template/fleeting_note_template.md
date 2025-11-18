@@ -2,6 +2,5 @@
 parent: "[[_Fleeting]]"
 tags:
   - "#fleeting"
-date_created:
-  "{ date:YYYY-MM-DD }":
+date_created: "{{date:YYYY-MM-DD}}"
 ---
