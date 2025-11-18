@@ -10,7 +10,7 @@ tags:
   - book
   - personal_finance
 status: complete
-parent: "[[_Personal Finance MOC]]"
+parent: "[[_MOC Personal Finance]]"
 ---
 
 

@@ -1,4 +1,11 @@
-Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
+---
+parent: "[[How to take Smarter notes - Sönke Ahrens]]"
+tags:
+  - "#zettalkasten"
+  - "#mental_training"
+date_created: 2025-11-17
+---
+
 
 Motivation is critical for continued work and continued feedback is a way for us to receive that motivation. Writing and rewording notes in the margin of a book we are reading is an example of this positive feedback loop: we are testing our ability to understand the information we just read.  
 

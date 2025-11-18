@@ -1,5 +1,9 @@
-Parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
-
+---
+parent: "[[Reboot Your Portfolio - Dan Bortolloti]]"
+tags:
+  - "#investing"
+date_created: 2025-11-17
+---
 In this section, the author talks about how to place orders and some trading efficiencies.
 
 Starting with placing orders, when entering a ticker symbol, you'll find the market price, the ask (the higher price to make a purchase) and the sell (the lower price when selling). The actual trade is never made at the market price, but rather at the bid or the ask if you're selling or buying.

@@ -1,5 +1,10 @@
-
-Parent::[_Personal Finance MOC](_Personal%20Finance%20MOC.md)
+---
+parent: "[[_MOC Personal Finance]]"
+tags:
+  - "#etf"
+  - "#investing"
+date_created: 2025-11-17
+---
 
 Resource from [Boglepedia](https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds)
 

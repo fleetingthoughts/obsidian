@@ -3,5 +3,5 @@ parent: "[[_Fleeting]]"
 tags:
   - "#fleeting"
 date_created:
-  "{{date:YYYY-MM-DD}}":
+  "2025-11-17":
 ---

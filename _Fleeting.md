@@ -1,13 +1,14 @@
 ---
 parent: "[[___Home]]"
 tags:
-  - moc
   - hidden
+  - fleeting
 date_created:
 ---
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
+
 
 
 
@@ -19,14 +20,7 @@ list from [[]] and !outgoing([[]])
 # Print 
 
 View by score
-## Monday
-- Mozart Sonatas vol 1 (~140 p)
-- Padereweski Chopin vol 1 preludes ( full)
-- Padereweski chopin vol 2. Etudes: Op. 10, Op. 25, and the _Trois Nouvelles Études_ (full)
-- Padereweski chopin vol 3. Ballades (full) Opp. 23, 38, 47, 52 
-- Padereweski chopin vol 4. Impromptus (separated) Opp. 29, 36, 51, 66 (Fantaisie-Impromptu)
-- Padereweski Chopin vol 5. Scherzos (full) Opp. 20, 31, 39, 54
-- Padereweski Chopin vol 6. Sonatas (full) Opp. 4, 35, 58
+
 ## Tuesday
 - Mozart Sonatas vol 2 ()
 - Padereweski Chopin vol 7. Nocturnes (full)
