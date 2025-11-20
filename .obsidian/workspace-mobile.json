@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+                "file": "__MOC Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Understanding Analysis 2nd ed. - Abbot, Stephen"
+              "title": "__MOC Fleeting"
             }
           }
         ]
@@ -110,7 +110,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -214,16 +214,23 @@
   },
   "active": "15b827ac1cf4c943",
   "lastOpenFiles": [
+    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+    "Understanding Analysis - 1.5 Cardinality.md",
+    "Understanding Analysis - 2.5 Subsequences and the Bolzano-Weierstrass Theorem.md",
+    "___Home.md",
+    "/daily_notes/2025-11-18.md",
+    "daily_notes/2025-11-18.md",
+    "/daily_notes",
+    "/template/daily_note_template.md",
+    "/template",
     "tort law.md",
     "daily_notes/2025-11-17.md",
     "/tort law.md",
     "/daily_notes/2025-11-17.md",
     "daily_notes",
-    "/daily_notes",
     "Understanding Analysis - 1.3 The Axiom of Completeness.md",
-    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "_MOC Science and Math.md",
-    "___Home.md",
     "conflict-files-obsidian-git.md",
     "template/permanent_note.md",
     "template/literature_note.md",
@@ -231,20 +238,14 @@
     "template/abridged_citation_template.md",
     "template",
     "Untitled.jpg",
-    "Understanding Analysis - 2.5 Subsequences and the Bolzano-Weierstrass Theorem.md",
-    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
     "Understanding Analysis - 2.3 The Algebraic and Order Limit Theorems.md",
     "Understanding Analysis - 2.2 The Limit of a Sequence.md",
     "Understanding Analysis - 2.1 Rearrangement of Infinite Series.md",
     "Understanding Analysis - 1.6 Cantor's Theorem.md",
-    "Understanding Analysis - 1.5 Cardinality.md",
     "Understanding Analysis - 1.4 Consequences of Completeness.md",
     "Understanding Analysis - 1.1 and 1.2.md",
     "To Read.md",
     "Textbooks.base",
-    "Reboot Your Portfolio - Dan Bortolloti.md",
-    "Python for Data Analysis - 4 NumPy Basics Arrays and Vectorized Computation.md",
-    "Python for Data Analysis - 3 Built-In Data Structures, Functions, and Files.md",
     "Pasted image 20251116032236.png",
     "Pasted image 20251116032149.png",
     "Pasted image 20251116031608.png",
@@ -260,7 +261,6 @@
     "/Untitled 10.base",
     "Untitled.canvas",
     "/Untitled.canvas",
-    "Untitled 8.base",
-    "Untitled 7.base"
+    "Untitled 8.base"
   ]
 }
