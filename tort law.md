@@ -1,5 +1,5 @@
 ---
-parent: "[[__MOC Fleeting]]"
+parent: "[[_Fleeting]]"
 tags:
   - "#fleeting"
 date_created:

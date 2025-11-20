@@ -7,4 +7,4 @@ tags:
   - "#peter_godfrey_smith"
 date_created:
 ---
-parent: [__MOC Fleeting](__MOC%20Fleeting.md)
+parent: [_Fleeting](_Fleeting.md)

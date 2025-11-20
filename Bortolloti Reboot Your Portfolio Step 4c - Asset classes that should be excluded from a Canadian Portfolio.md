@@ -1,4 +1,9 @@
-Parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
+---
+parent: "[[Reboot Your Portfolio - Dan Bortolloti]]"
+tags:
+  - "#investing"
+date_created: 2025-11-17
+---
 
 Bortlotti argues that the following asset classes should not be included in a Canadian Portfolio
 - REITs

@@ -1,2 +1,8 @@
-Parent::[How to take Smarter notes - Sönke Ahrens](How%20to%20take%20Smarter%20notes%20-%20Sönke%20Ahrens.md)
+---
+parent: "[[How to take Smarter notes - Sönke Ahrens]]"
+tags:
+  - "#zettalkasten"
+  - "#mental_training"
+date_created: 2025-11-17
+---
 Writing is the goal. It creates a tangible objective for which you can generate focus. What is this objective? Ahren used the example and context of studying: studying IS independent research. It is your personal research and your notes is your research paper. This is your tangible objective when studying: to create a paper. In this sense writing IS the goal a tangible goal that facilitates thinking.

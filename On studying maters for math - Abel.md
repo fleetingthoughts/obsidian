@@ -1,4 +1,8 @@
-Parent::[Sententia](Sententia.md)
+---
+parent: "[[Sententia]]"
+tags:
+date_created: 2025-11-17
+---
 
 It appears to me that if one wants to make progress in mathematics one should study the masters and not the pupils.
 

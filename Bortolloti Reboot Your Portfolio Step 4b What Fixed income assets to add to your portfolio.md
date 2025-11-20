@@ -1,5 +1,9 @@
-parent::[Reboot Your Portfolio - Dan Bortolloti](Reboot%20Your%20Portfolio%20-%20Dan%20Bortolloti.md)
-
+---
+parent: "[[Reboot Your Portfolio - Dan Bortolloti]]"
+tags:
+  - "#investing"
+date_created: 2025-11-17
+---
 Throughout the discussion of fixed income assets, it is emphasized that the purpose of adding these asset classes to the mix is to reduce volatility, and so, any asset classes that increase volatility will not align with the objectives despite higher yields. A higher portion of equity asset classes should be considered if we are looking at high-yield high-risk fixed income assets. ^d59b28
 
 Bortolotti also discusses what fixed income assets (i.e. bonds) should be included in your portfolio. He argues that investment-grade (small chance of default) bonds of two different flavors should be included in your portfolio:
