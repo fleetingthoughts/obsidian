@@ -21,7 +21,7 @@ list from [[]] and !outgoing([[]])
 <u>Sun:</u> Lin Alg/calc
 
 # The Plan
-1) Courant Vol 1 (100 sections, 8 chapters, 600 pages)
+1) Courant Vol 1 (100 sections, 8 chapters, 600 pages) 
 2) Hogg - Introduction to Mathematical Statistics (58 sections, 10 chapters, 750 pages) 
 3) Stephen Abbott - Understanding Analysis (55 sections 8 chapters, 300 pages)
 4) Friedberg, Insel - Linear Algebra - (42 sections, 7 chapters, 500 pages)
