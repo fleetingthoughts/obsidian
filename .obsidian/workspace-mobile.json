@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books to consider.md",
+                "file": "___Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Books to consider"
+              "title": "___Home"
             }
           }
         ]
@@ -214,6 +214,8 @@
   },
   "active": "15b827ac1cf4c943",
   "lastOpenFiles": [
+    "_MOC Science and Math.md",
+    "Books to consider.md",
     "template/literature_note_template.md",
     "/template/literature_note_template.md",
     "daily_notes/NPPE Topic 4 part 2 and 3.md",
@@ -238,8 +240,6 @@
     "/To Buy - OCG Yugioh Products.md",
     "/Theory and Reality Chapter 1 - Introduction.md",
     "/Sum of cubes.md",
-    "/Sum of Squares.md",
-    "/Reboot Your Portfolio - Dan Bortolloti.md",
     "/template",
     "/daily_notes",
     "daily_notes",
