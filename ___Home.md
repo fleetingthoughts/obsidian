@@ -34,7 +34,7 @@ list from [[]] and !outgoing([[]])
 10) James Munkres - Analysis on Manifolds (41 sections, 5 chapters, 350 pages)
 11) Ronald Gramham, Donald Knuth, Oren Patashnik - Concrete Mathematics (60 sections, 9 chapters, 600 pages. Exercises at end of every chapter)
 12) Paul Halmos - Naive Set (25 sections, 100 pages. Exercise is core part of text with no dedicated section)
-13) Michael Artin - Algebra (140 short sections, 16 chapters, 600 pages. Dedicated exercise section but exercises dedicated for each section). 2 sections a week = 70 sections
+13) Michael Artin - Algebra (140 short sections, 16 chapters, 600 pages. Dedicated exercise section but exercises dedicated for each section). 2 sections a week = 70 sections ...
 14) Kenneth Ireland & Michael Rosen - Classical Introduction to Modern Number Theory (103 short sections, 20 chapters, 400 pages. Exercises at the end of each chapter). 2 sections a week = 50
 15) Israel Gelfund & Sergei Fomin - Calculus of Variations (41 sections, 8 chapters, 400 pages. Exercises at the end of each chapter)
 
