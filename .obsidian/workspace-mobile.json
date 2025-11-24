@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1326df1c35449dcd",
+        "id": "8d6c4136981c45d0",
         "type": "tabs",
         "children": [
           {
-            "id": "54b19b9389c5cedb",
+            "id": "1fd739249aaff2d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/2025-11-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-24"
             }
           }
         ]
@@ -198,8 +212,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "54b19b9389c5cedb",
+  "active": "1fd739249aaff2d4",
   "lastOpenFiles": [
+    "daily_notes/2025-11-24.md",
     "___Home.md",
     "_MOC Science and Math.md",
     "Books to consider.md",
@@ -225,7 +240,6 @@
     "/_MOC Music.md",
     "/_Fleeting.md",
     "/To Buy - OCG Yugioh Products.md",
-    "/Theory and Reality Chapter 1 - Introduction.md",
     "/template",
     "/daily_notes",
     "daily_notes",
