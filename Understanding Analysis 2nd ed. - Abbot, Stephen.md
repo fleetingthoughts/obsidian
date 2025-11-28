@@ -15,6 +15,7 @@ status: ongoing
 rating out of 10:
 parent:
 date_created:
+deadline:
 ---
 parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 

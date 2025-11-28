@@ -14,7 +14,6 @@ list from [[]] and !outgoing([[]])
 
 # To Do
 
-- Sim Card 
 - Drivers license renewal
 
 # Print 

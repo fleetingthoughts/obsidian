@@ -2,7 +2,6 @@
 parent: "[[_Fleeting]]"
 tags:
   - "#math"
-  - "#textbook"
 date_created:
 ---
 [Math and Science Resources](Math%20and%20Science%20Resources.md)
