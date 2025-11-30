@@ -7,3 +7,7 @@ views:
     order:
       - file.name
       - file.tags
+      - mastery
+    sort:
+      - property: mastery
+        direction: DESC

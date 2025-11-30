@@ -1,9 +1,9 @@
 ---
 parent:
 tags:
-  - repertoire
-  - piano
-  - bach
+  - "#piano"
+  - "#bach"
+  - "#repertoire"
 date_created: 2025-11-30
 mastery: practice
 ---

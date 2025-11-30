@@ -1,11 +1,10 @@
 ---
 parent:
 tags:
+  - "#bach"
   - "#piano"
   - "#repertoire"
-  - "#beethoven"
-date_created: 2025-11-28
-due date:
+date_created: 2025-11-30
 mastery: repertoire
 ---
 
