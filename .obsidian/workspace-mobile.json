@@ -11,35 +11,9 @@
             "id": "1fd739249aaff2d4",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
-            }
-          },
-          {
-            "id": "f6c0dffa6ba38034",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
-            }
-          },
-          {
-            "id": "51500d370b3a1a64",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
+                "file": "Étude Op. 10, No. 3 (Chopin).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,24 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach)"
-            }
-          },
-          {
-            "id": "cf2cf8e017cec731",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
+              "title": "Étude Op. 10, No. 3 (Chopin)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,21 +212,26 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cf2cf8e017cec731",
+  "active": "1fd739249aaff2d4",
   "lastOpenFiles": [
-    "Berceuse in D-flat major, Op. 57.md",
     "Piano Repertoire.base",
+    "Textbooks.base",
     "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
-    "Piano Sonata No. 11, K. 331 (Mozart).md",
-    "Piano Sonata No. 10 in C major, K. 330.md",
-    "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
-    "Piano Sonata No. 8 in C minor, Op. 13 (Sonata Pathétique).md",
+    "彩雲追月 (任光).md",
+    "Mazurka in B-flat major, Op. 7, No. 1.md",
+    "Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
     "Étude Op. 10, No. 3 (Chopin).md",
+    "Ballade Op.47 No.3 in A-flat Major.md",
+    "Piano Sonata No. 8 in C minor, Op. 13 (Beethoven).md",
+    "Piano Sonata No. 10 in C major, K. 330.md",
+    "Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2 (Beethoven).md",
+    "Berceuse in D-flat major, Op. 57.md",
+    "Piano Sonata No. 11, K. 331 (Mozart).md",
+    "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
     "Toccata No.3 in D BWV 912 (Bach).md",
     "Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
     "Sapporo foliage.md",
     "Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
-    "Ballade Op.47 No.3 in A-flat Major.md",
     "/Toccata No.3 in D BWV 912 (Bach).md",
     "/Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
     "/Étude Op. 10, No. 3 (Chopin).md",
@@ -276,11 +241,7 @@
     "/Piano Sonata No. 10 in C major, K. 330.md",
     "/Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
     "/Sapporo foliage.md",
-    "/Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
-    "/Piano Sonata No. 8 in C minor, Op. 13 (Sonata Pathétique).md",
-    "/Piano Sonata No. 11, K. 331 (Mozart).md",
     "/Piano Repertoire.base",
-    "/Ballade Op.47 No.3 in A-flat Major.md",
     "41+R0Y6Hq6L.jpg",
     "/template",
     "/41+R0Y6Hq6L.jpg",
@@ -291,7 +252,6 @@
     "daily_notes",
     "template",
     "Untitled.jpg",
-    "Textbooks.base",
     "Pasted image 20251116032236.png",
     "Pasted image 20251116032149.png",
     "Pasted image 20251116031608.png",
