@@ -37,6 +37,30 @@
             "id": "51500d370b3a1a64",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach)"
+            }
+          },
+          {
+            "id": "cf2cf8e017cec731",
+            "type": "leaf",
+            "state": {
               "type": "bases",
               "state": {
                 "file": "Piano Repertoire.base",
@@ -47,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,17 +252,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "51500d370b3a1a64",
+  "active": "cf2cf8e017cec731",
   "lastOpenFiles": [
-    "Étude Op. 10, No. 3 (Chopin).md",
+    "Berceuse in D-flat major, Op. 57.md",
     "Piano Repertoire.base",
     "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
-    "Toccata No.3 in D BWV 912 (Bach).md",
+    "Piano Sonata No. 11, K. 331 (Mozart).md",
+    "Piano Sonata No. 10 in C major, K. 330.md",
     "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
+    "Piano Sonata No. 8 in C minor, Op. 13 (Sonata Pathétique).md",
+    "Étude Op. 10, No. 3 (Chopin).md",
+    "Toccata No.3 in D BWV 912 (Bach).md",
     "Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
     "Sapporo foliage.md",
     "Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
-    "Piano Sonata No. 11, K. 331 (Mozart).md",
     "Ballade Op.47 No.3 in A-flat Major.md",
     "/Toccata No.3 in D BWV 912 (Bach).md",
     "/Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
@@ -254,9 +281,6 @@
     "/Piano Sonata No. 11, K. 331 (Mozart).md",
     "/Piano Repertoire.base",
     "/Ballade Op.47 No.3 in A-flat Major.md",
-    "Prelude and Fugue No. 1 in C Major, BWV 846.md",
-    "Untitled.md",
-    "daily_notes/2025-11-27.md",
     "41+R0Y6Hq6L.jpg",
     "/template",
     "/41+R0Y6Hq6L.jpg",
