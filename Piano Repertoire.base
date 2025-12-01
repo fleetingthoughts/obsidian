@@ -6,7 +6,6 @@ views:
         - file.tags.contains("repertoire")
     order:
       - file.name
-      - file.tags
       - mastery
     sort:
       - property: mastery
