@@ -9,5 +9,5 @@ due date:
 mastery: repertoire
 ---
 Sonata is dubbed the "Sonata Pathetique". Difficulty is as follows:
-- Entire Sonata part of the ARCT repertoire 
-- Entire Sonata part of the ARSM repertoire for the ABRSM
+- Entire Sonata part of the 2022 ARCT repertoire 
+- Entire Sonata part of the 2024 ARSM repertoire for the ABRSM

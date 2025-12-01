@@ -7,5 +7,5 @@ tags:
 date_created: 2025-11-30
 mastery: repertoire
 ---
-
-RCM Lvl 10 Piece
+Difficulty is as follows:
+- 2022 RCM Lvl 10 repertoire

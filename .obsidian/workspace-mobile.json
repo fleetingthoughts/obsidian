@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Étude Op. 10, No. 3 (Chopin).md",
+                "file": "Mazurka in B-flat major, Op. 7, No. 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Étude Op. 10, No. 3 (Chopin)"
+              "title": "Mazurka in B-flat major, Op. 7, No. 1"
+            }
+          },
+          {
+            "id": "283d3cec48a98dd9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Piano Repertoire.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Piano Repertoire"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,26 +226,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1fd739249aaff2d4",
+  "active": "283d3cec48a98dd9",
   "lastOpenFiles": [
+    "Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
     "Piano Repertoire.base",
-    "Textbooks.base",
-    "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
-    "彩雲追月 (任光).md",
+    "Waltz in A flat Major, op. posth. 69, no. 1.md",
+    "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
+    "Piano Sonata No. 10 in C major, K. 330.md",
     "Mazurka in B-flat major, Op. 7, No. 1.md",
+    "Berceuse in D-flat major, Op. 57.md",
+    "Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
+    "Toccata No.3 in D BWV 912 (Bach).md",
+    "Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
+    "Piano Sonata No. 11, K. 331 (Mozart).md",
+    "Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2 (Beethoven).md",
+    "Piano Sonata No. 8 in C minor, Op. 13 (Beethoven).md",
+    "Ballade Op.47 No.3 in A-flat Major.md",
     "Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
     "Étude Op. 10, No. 3 (Chopin).md",
-    "Ballade Op.47 No.3 in A-flat Major.md",
-    "Piano Sonata No. 8 in C minor, Op. 13 (Beethoven).md",
-    "Piano Sonata No. 10 in C major, K. 330.md",
-    "Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2 (Beethoven).md",
-    "Berceuse in D-flat major, Op. 57.md",
-    "Piano Sonata No. 11, K. 331 (Mozart).md",
-    "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
-    "Toccata No.3 in D BWV 912 (Bach).md",
-    "Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
+    "Textbooks.base",
+    "彩雲追月 (任光).md",
     "Sapporo foliage.md",
-    "Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
     "/Toccata No.3 in D BWV 912 (Bach).md",
     "/Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
     "/Étude Op. 10, No. 3 (Chopin).md",
@@ -240,7 +255,6 @@
     "/Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
     "/Piano Sonata No. 10 in C major, K. 330.md",
     "/Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
-    "/Sapporo foliage.md",
     "/Piano Repertoire.base",
     "41+R0Y6Hq6L.jpg",
     "/template",
