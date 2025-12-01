@@ -10,3 +10,5 @@ views:
     sort:
       - property: mastery
         direction: DESC
+    columnSize:
+      file.name: 472
