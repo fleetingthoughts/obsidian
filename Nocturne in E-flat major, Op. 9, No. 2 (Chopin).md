@@ -5,7 +5,7 @@ tags:
   - "#chopin"
   - "#piano"
 date_created: 2025-11-28
-mastery: repertoire
+mastery: practice
 ---
 One of the most recognized nocturnes.
 
