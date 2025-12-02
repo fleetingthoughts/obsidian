@@ -12,3 +12,8 @@ views:
         direction: DESC
     columnSize:
       file.name: 472
+  - type: table
+    name: intermediate practice
+    filters:
+      and:
+        - file.tags.contains("#practice")
