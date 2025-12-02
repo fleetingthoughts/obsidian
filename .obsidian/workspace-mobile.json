@@ -13,14 +13,39 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Textbooks.base",
-                "viewName": "textbooks"
+                "file": "Piano Repertoire.base",
+                "viewName": "intermediate practice"
               },
-              "icon": "lucide-layout-grid",
-              "title": "Textbooks"
+              "icon": "lucide-table",
+              "title": "Piano Repertoire"
+            }
+          },
+          {
+            "id": "707eff90ce637a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prelude in E Minor, Op. 28, No. 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Prelude in E Minor, Op. 28, No. 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,17 +226,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "283d3cec48a98dd9",
+  "active": "707eff90ce637a4b",
   "lastOpenFiles": [
-    "Theory and Reality - Introduction to the Philosophy of Science.md",
-    "Textbooks.base",
-    "Linear Algebra - Friedberg, Insel, and Spence.md",
     "Piano Repertoire.base",
+    "Prelude in E Minor, Op. 28, No. 4.md",
+    "piano_repertoire.base",
+    "/piano_repertoire.base",
+    "/Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
+    "/Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
+    "/Waltz in A minor, Op. Posth.md",
+    "/Waltz in A flat Major, op. posth. 69, no. 1.md",
+    "/The Goldberg Variations BWV 988 - Aria.md",
+    "/Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
+    "/Prelude and Fugue No. 1 in C Major, BWV 846.md",
+    "/Piano Repertoire.base",
+    "/French Suite No. 5 in G major, BWV 816.md",
+    "Textbooks.base",
+    "Theory and Reality - Introduction to the Philosophy of Science.md",
+    "Linear Algebra - Friedberg, Insel, and Spence.md",
     "Theory and Reality Chapter 1 - Introduction.md",
     "_Fleeting.md",
     "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
     "Piano Sonata No. 10 in C major, K. 330.md",
-    "Untitled 1.md",
     "Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
     "Mazurka in B-flat major, Op. 7, No. 1.md",
     "La fille aux cheveux de lin (no. 8).md",
@@ -222,15 +258,6 @@
     "The Goldberg Variations BWV 988 - Aria.md",
     "Suite bergamasque (Debussy).md",
     "Prelude in C minor, Op. 23 No. 7 (Rachmaninoff).md",
-    "Prelude and Fugue in C sharp Major, BWV 848.md",
-    "/Waltz in A minor, Op. Posth.md",
-    "/The Goldberg Variations BWV 988 - Aria.md",
-    "/Suite bergamasque (Debussy).md",
-    "/Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
-    "/Prelude in C minor, Op. 23 No. 7 (Rachmaninoff).md",
-    "/Prelude and Fugue in C sharp Major, BWV 848.md",
-    "/Piano Repertoire.base",
-    "/Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
     "41+R0Y6Hq6L.jpg",
     "/template",
     "/41+R0Y6Hq6L.jpg",
@@ -239,7 +266,6 @@
     "/daily_notes",
     "/Untitled.base",
     "daily_notes",
-    "template",
     "Untitled.jpg",
     "Pasted image 20251116032236.png",
     "Pasted image 20251116032149.png",
@@ -247,7 +273,6 @@
     "Pasted image 20251116030756.jpg",
     "91QBEYSpnLL._AC_UF1000,1000_QL80_.jpg",
     "81b8H-MhlHL._SL1500_.jpg",
-    "Untitled 9.base",
     "Untitled.canvas",
     "/Untitled.canvas"
   ]
