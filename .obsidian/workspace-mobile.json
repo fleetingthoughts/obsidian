@@ -8,44 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fd739249aaff2d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mazurka in B-flat major, Op. 7, No. 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mazurka in B-flat major, Op. 7, No. 1"
-            }
-          },
-          {
             "id": "283d3cec48a98dd9",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "intermediate practice"
+                "file": "Textbooks.base",
+                "viewName": "textbooks"
               },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
+              "icon": "lucide-layout-grid",
+              "title": "Textbooks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +203,12 @@
   },
   "active": "283d3cec48a98dd9",
   "lastOpenFiles": [
-    "Linear Algebra - Friedberg, Insel, and Spence.md",
-    "Textbooks.base",
     "Theory and Reality - Introduction to the Philosophy of Science.md",
+    "Textbooks.base",
+    "Linear Algebra - Friedberg, Insel, and Spence.md",
+    "Piano Repertoire.base",
     "Theory and Reality Chapter 1 - Introduction.md",
     "_Fleeting.md",
-    "Piano Repertoire.base",
     "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
     "Piano Sonata No. 10 in C major, K. 330.md",
     "Untitled 1.md",
@@ -256,7 +231,6 @@
     "/Prelude and Fugue in C sharp Major, BWV 848.md",
     "/Piano Repertoire.base",
     "/Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
-    "/La fille aux cheveux de lin (no. 8).md",
     "41+R0Y6Hq6L.jpg",
     "/template",
     "/41+R0Y6Hq6L.jpg",
