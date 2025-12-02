@@ -32,33 +32,9 @@
               "icon": "lucide-table",
               "title": "Piano Repertoire"
             }
-          },
-          {
-            "id": "547878842decbd18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prelude in A major, Op. 28, No. 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Prelude in A major, Op. 28, No. 7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,38 +215,38 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "547878842decbd18",
+  "active": "707eff90ce637a4b",
   "lastOpenFiles": [
+    "The Goldberg Variations BWV 988 - Aria (Bach).md",
     "Piano Repertoire.base",
-    "Prelude in A major, Op. 28, No. 7.md",
-    "Prelude in A major, Op. 28, No. 7.md",
-    "Prelude in E Minor, Op. 28, No. 4.md",
+    "/Ballade Op.47 No.3 in A-flat Major.md",
+    "Prelude and Fugue No. 1 in C Major, BWV 846 (Bach).md",
+    "Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue (Bach).md",
+    "Waltz in A minor, Op. Posth (Chopin).md",
+    "Waltz in A flat Major, op. posth. 69, no. 1 (Chopin).md",
+    "French Suite No. 5 in G major, BWV 816 (Bach).md",
+    "/Prelude and Fugue No. 1 in C Major, BWV 846 (Bach).md",
+    "/Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue (Bach).md",
+    "/Waltz in A minor, Op. Posth (Chopin).md",
+    "/Waltz in A flat Major, op. posth. 69, no. 1 (Chopin).md",
+    "/The Goldberg Variations BWV 988 - Aria (Bach).md",
+    "/French Suite No. 5 in G major, BWV 816 (Bach).md",
+    "Prelude, Op. 28, No. 20 (Chopin).md",
+    "Prelude in E major Op. 28 No. 9 (Chopin).md",
+    "Prelude in E Minor, Op. 28, No. 4 (Chopin).md",
+    "Prelude in B Minor, op. 28, no. 6 (Chopin).md",
+    "Prelude in A major, Op. 28, No. 7 (Chopin).md",
+    "/Prelude, Op. 28, No. 20 (Chopin).md",
+    "/Prelude in E major Op. 28 No. 9 (Chopin).md",
+    "/Prelude in E Minor, Op. 28, No. 4 (Chopin).md",
+    "/Prelude in B Minor, op. 28, no. 6 (Chopin).md",
+    "/Prelude in A major, Op. 28, No. 7 (Chopin).md",
+    "Prelude Op.28 No.2 in A minor (Chopin).md",
+    "Piano Sonata No. 10 in C major, K. 330 (Mozart).md",
+    "/Piano Repertoire.base",
     "piano_repertoire.base",
     "/piano_repertoire.base",
-    "/Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue (Bach).md",
-    "/Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
-    "/Waltz in A minor, Op. Posth.md",
-    "/Waltz in A flat Major, op. posth. 69, no. 1.md",
-    "/The Goldberg Variations BWV 988 - Aria.md",
-    "/Prelude in C-sharp Minor Op. 3, No. 2 (Rachmaninoff).md",
-    "/Prelude and Fugue No. 1 in C Major, BWV 846.md",
-    "/Piano Repertoire.base",
-    "/French Suite No. 5 in G major, BWV 816.md",
     "Textbooks.base",
-    "Theory and Reality - Introduction to the Philosophy of Science.md",
-    "Linear Algebra - Friedberg, Insel, and Spence.md",
-    "Theory and Reality Chapter 1 - Introduction.md",
-    "_Fleeting.md",
-    "Piano Sonata No. 16 in C major, K. 545 (Mozart).md",
-    "Piano Sonata No. 10 in C major, K. 330.md",
-    "Nocturne in E-flat major, Op. 9, No. 2 (Chopin).md",
-    "Mazurka in B-flat major, Op. 7, No. 1.md",
-    "La fille aux cheveux de lin (no. 8).md",
-    "French Suite No. 5 in G major, BWV 816.md",
-    "Berceuse in D-flat major, Op. 57.md",
-    "/Étude Op. 10, No. 3 (Chopin).md",
-    "Waltz in A minor, Op. Posth.md",
-    "The Goldberg Variations BWV 988 - Aria.md",
     "41+R0Y6Hq6L.jpg",
     "/template",
     "/41+R0Y6Hq6L.jpg",
