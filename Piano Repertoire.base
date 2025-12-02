@@ -21,3 +21,5 @@ views:
       - file.name
       - RCM
       - ABRSM
+    columnSize:
+      note.RCM: 143

@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - mastery.contains("repertoire")
+  - type: table
+    name: practice
+    filters:
+      and:
+        - mastery.contains("practice")

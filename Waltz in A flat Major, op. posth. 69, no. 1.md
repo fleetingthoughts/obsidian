@@ -6,8 +6,9 @@ tags:
   - repertoire
 date_created: 2025-12-01
 mastery: practice
+RCM: "8"
+ABRSM: "8"
 ---
-The waltz is dubbed "l'adieux"
+The waltz is dubbed "l'Adieu"
 
-The difficulty is as follows:
-- RCM 2022 level 8 repertoire
+
