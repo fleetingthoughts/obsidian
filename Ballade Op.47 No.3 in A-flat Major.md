@@ -6,6 +6,8 @@ tags:
   - "#piano"
 date_created: 2025-11-30
 mastery: repertoire
+RCM: ARCT
+ABRSM:
 ---
 Considered one of the easier ballades.
 
