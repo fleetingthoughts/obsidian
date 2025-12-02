@@ -7,4 +7,4 @@ tags:
   - "#peter_godfrey_smith"
 date_created:
 ---
-parent: [_Fleeting](_Fleeting.md)
+

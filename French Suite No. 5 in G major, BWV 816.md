@@ -6,6 +6,7 @@ tags:
   - "#repertoire"
 date_created: 2025-12-01
 mastery: practice
+RCM: "10"
 ---
 Difficulty as follows:
 - Allemande and Gigue is RCM 2022 Level 10 Repertoire

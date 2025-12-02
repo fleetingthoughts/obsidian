@@ -2,12 +2,11 @@
 parent:
 tags:
   - chopin
-  - repertoire
   - piano
+  - repertoire
 date_created: 2025-12-01
 mastery: practice
+RCM: ARCT
+ABRSM: ARSM
 ---
 
-Difficulty is as follows:
-- RCM 2022 ARCT repertoire
-- ABRSM 2024 ARSM repertoire

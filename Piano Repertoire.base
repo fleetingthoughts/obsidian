@@ -1,9 +1,9 @@
 views:
   - type: table
-    name: Table
+    name: Repertoire
     filters:
       and:
-        - file.tags.contains("repertoire")
+        - mastery.contains("repertoire")
     order:
       - file.name
       - mastery
@@ -16,4 +16,8 @@ views:
     name: intermediate practice
     filters:
       and:
-        - file.tags.contains("#practice")
+        - mastery.contains("practice")
+    order:
+      - file.name
+      - RCM
+      - ABRSM
