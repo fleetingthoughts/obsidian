@@ -24,9 +24,22 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Piano Repertoire.base",
+                "viewName": "intermediate practice"
+              },
+              "icon": "lucide-table",
+              "title": "Piano Repertoire"
+            }
+          },
+          {
+            "id": "547878842decbd18",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Prelude in E Minor, Op. 28, No. 4.md",
+                "file": "Prelude in A major, Op. 28, No. 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,11 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prelude in E Minor, Op. 28, No. 4"
+              "title": "Prelude in A major, Op. 28, No. 7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,9 +239,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "707eff90ce637a4b",
+  "active": "547878842decbd18",
   "lastOpenFiles": [
     "Piano Repertoire.base",
+    "Prelude in A major, Op. 28, No. 7.md",
+    "Prelude in A major, Op. 28, No. 7.md",
     "Prelude in E Minor, Op. 28, No. 4.md",
     "piano_repertoire.base",
     "/piano_repertoire.base",
@@ -256,8 +271,6 @@
     "/Étude Op. 10, No. 3 (Chopin).md",
     "Waltz in A minor, Op. Posth.md",
     "The Goldberg Variations BWV 988 - Aria.md",
-    "Suite bergamasque (Debussy).md",
-    "Prelude in C minor, Op. 23 No. 7 (Rachmaninoff).md",
     "41+R0Y6Hq6L.jpg",
     "/template",
     "/41+R0Y6Hq6L.jpg",
