@@ -24,13 +24,24 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "Repertoire"
+                "file": "Piano Sonata No. 11, K. 331 (Mozart).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
+              "icon": "lucide-file",
+              "title": "Piano Sonata No. 11, K. 331 (Mozart)"
             }
           }
         ],
@@ -217,8 +228,8 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
-    "The Goldberg Variations BWV 988 - Aria (Bach).md",
     "Piano Repertoire.base",
+    "The Goldberg Variations BWV 988 - Aria (Bach).md",
     "/Ballade Op.47 No.3 in A-flat Major.md",
     "Prelude and Fugue No. 1 in C Major, BWV 846 (Bach).md",
     "Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue (Bach).md",
