@@ -10,5 +10,3 @@ RCM:
 ABRSM: "7"
 ---
 One of his most well known mazurka.
-
-Could not find formal difficulty level but considered an ABRSM level 7 piece

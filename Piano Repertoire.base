@@ -6,7 +6,8 @@ views:
         - mastery.contains("repertoire")
     order:
       - file.name
-      - mastery
+      - RCM
+      - ABRSM
     sort:
       - property: mastery
         direction: DESC
