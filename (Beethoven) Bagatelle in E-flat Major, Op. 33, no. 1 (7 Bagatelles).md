@@ -4,6 +4,9 @@ RCM: "9"
 ABRSM: "7"
 parent:
 tags:
+  - "#beethoven"
+  - piano
+  - repertoire
 date_created: 2025-12-04
 ---
 
