@@ -24,24 +24,13 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "(Bach) Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Piano Repertoire.base",
+                "viewName": "intermediate practice"
               },
-              "icon": "lucide-file",
-              "title": "(Bach) Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue"
+              "icon": "lucide-table",
+              "title": "Piano Repertoire"
             }
           }
         ],
@@ -228,8 +217,8 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
-    "Piano Repertoire.base",
     "(Bach) Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue.md",
+    "Piano Repertoire.base",
     "(Bach) Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
     "(Bach) The Goldberg Variations BWV 988 - Aria.md",
     "(Bach) Prelude and Fugue No. 1 in C Major, BWV 846.md",
