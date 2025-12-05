@@ -24,13 +24,24 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "intermediate practice"
+                "file": "彩雲追月 (任光).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
+              "icon": "lucide-file",
+              "title": "彩雲追月 (任光)"
             }
           }
         ],
@@ -217,8 +228,9 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
-    "(Beethoven) 7 Variations on God Save the King, WoO 78.md",
     "Piano Repertoire.base",
+    "daily_notes/2025-12-05.md",
+    "(Beethoven) 7 Variations on God Save the King, WoO 78.md",
     "(Debussy) Rêverie.md",
     "(Rachmaninoff) Morceaux de fantaisie, op. 3, Elégie in E-flat minor.md",
     "(John Field) Nocturne No. 5 in B-Flat Major.md",
@@ -243,7 +255,6 @@
     "/(Beethoven) Minuet in G major, WoO 10, No. 2.md",
     "/(Beethoven) Bagatelle in E-flat Major, Op. 33, no. 1 (7 Bagatelles).md",
     "/(Beethoven) Bagatelle in A Major op. 119  (11 Bagatelles), no. 4.md",
-    "/(Beethoven) 9 Variations on 'Quant' é più bello,' WoO 69.md",
     "piano_repertoire.base",
     "/piano_repertoire.base",
     "Textbooks.base",
