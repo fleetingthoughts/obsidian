@@ -24,13 +24,24 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "intermediate practice"
+                "file": "(Beethoven) 7 Variations on God Save the King, WoO 78.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
+              "icon": "lucide-file",
+              "title": "(Beethoven) 7 Variations on God Save the King, WoO 78"
             }
           }
         ],
@@ -217,6 +228,18 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
+    "Piano Repertoire.base",
+    "(Debussy) Rêverie.md",
+    "(Rachmaninoff) Morceaux de fantaisie, op. 3, Elégie in E-flat minor.md",
+    "(John Field) Nocturne No. 5 in B-Flat Major.md",
+    "(Debussy) Pièce pour l'œuvre du Vêtement du blessé (Page d'album).md",
+    "(Debussy) L 113 (Children’s Corner), No. 6 (Golliwogg’s Cakewalk).md",
+    "/(Debussy) Rêverie.md",
+    "/Piano Repertoire.base",
+    "/(Rachmaninoff) Morceaux de fantaisie, op. 3, Elégie in E-flat minor.md",
+    "/(John Field) Nocturne No. 5 in B-Flat Major.md",
+    "/(Debussy) Pièce pour l'œuvre du Vêtement du blessé (Page d'album).md",
+    "/(Debussy) L 113 (Children’s Corner), No. 6 (Golliwogg’s Cakewalk).md",
     "(Rachmaninoff) The Star-Spangled Banner (John Stafford Smith).md",
     "(Rachmaninoff) Prelude in B Major (no. 11).md",
     "(Beethoven) Minuet in G major, WoO 10, No. 2.md",
@@ -232,19 +255,6 @@
     "/(Beethoven) Bagatelle in E-flat Major, Op. 33, no. 1 (7 Bagatelles).md",
     "/(Beethoven) Bagatelle in A Major op. 119  (11 Bagatelles), no. 4.md",
     "/(Beethoven) 9 Variations on 'Quant' é più bello,' WoO 69.md",
-    "/(Beethoven) 7 Variations on God Save the King, WoO 78.md",
-    "/(Beethoven) 6 Variations on 'Nel cor più non mi sento', WoO 70.md",
-    "/(Bach) French Suite No. 5 in G major, BWV 816.md",
-    "/(Beethoven.md",
-    "(Bach) Well-Tempered Clavier I D minor, BWV 851, Prelude and Fugue.md",
-    "Piano Repertoire.base",
-    "(Bach) Well-Tempered Clavier I C minor, BWV 847, Prelude and Fugue.md",
-    "(Bach) The Goldberg Variations BWV 988 - Aria.md",
-    "(Bach) Prelude and Fugue No. 1 in C Major, BWV 846.md",
-    "(Bach) French Suite No. 5 in G major, BWV 816.md",
-    "(Chopin) Waltz in A minor, Op. Posth.md",
-    "(Chopin) Waltz in A flat Major, op. posth. 69, no. 1.md",
-    "/Piano Repertoire.base",
     "piano_repertoire.base",
     "/piano_repertoire.base",
     "Textbooks.base",
