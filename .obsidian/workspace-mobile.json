@@ -24,24 +24,13 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "(Beethoven) 7 Variations on God Save the King, WoO 78.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Piano Repertoire.base",
+                "viewName": "intermediate practice"
               },
-              "icon": "lucide-file",
-              "title": "(Beethoven) 7 Variations on God Save the King, WoO 78"
+              "icon": "lucide-table",
+              "title": "Piano Repertoire"
             }
           }
         ],
@@ -228,6 +217,7 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
+    "(Beethoven) 7 Variations on God Save the King, WoO 78.md",
     "Piano Repertoire.base",
     "(Debussy) Rêverie.md",
     "(Rachmaninoff) Morceaux de fantaisie, op. 3, Elégie in E-flat minor.md",
@@ -246,7 +236,6 @@
     "(Beethoven) Bagatelle in E-flat Major, Op. 33, no. 1 (7 Bagatelles).md",
     "(Beethoven) Bagatelle in A Major op. 119  (11 Bagatelles), no. 4.md",
     "(Beethoven) 9 Variations on 'Quant' é più bello,' WoO 69.md",
-    "(Beethoven) 7 Variations on God Save the King, WoO 78.md",
     "(Beethoven) 6 Variations on 'Nel cor più non mi sento', WoO 70.md",
     "/(Rachmaninoff) The Star-Spangled Banner (John Stafford Smith).md",
     "/(Rachmaninoff) Prelude in B Major (no. 11).md",
