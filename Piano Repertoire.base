@@ -22,6 +22,11 @@ views:
       - file.name
       - RCM
       - ABRSM
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: ABRSM
+        direction: ASC
     columnSize:
       file.name: 369
       note.RCM: 143
