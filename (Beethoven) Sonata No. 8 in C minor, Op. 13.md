@@ -9,5 +9,6 @@ due date:
 mastery: repertoire
 RCM: ARCT
 ABRSM: ARSM
+deadline: 2026-01-30
 ---
 Sonata is dubbed the "Sonata Pathetique".

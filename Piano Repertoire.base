@@ -8,6 +8,7 @@ views:
       - file.name
       - RCM
       - ABRSM
+      - deadline
     sort:
       - property: mastery
         direction: DESC
