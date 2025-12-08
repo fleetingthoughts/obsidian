@@ -24,13 +24,24 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "Repertoire"
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
+              "icon": "lucide-file",
+              "title": "_Fleeting"
             }
           }
         ],
@@ -217,9 +228,11 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
-    "(Mozart) Sonata No. 11, K. 331.md",
-    "Piano Repertoire.base",
+    "daily_notes/2025-11-25.md",
     "_Fleeting.md",
+    "daily_notes/2025-11-26.md",
+    "Piano Repertoire.base",
+    "(Mozart) Sonata No. 11, K. 331.md",
     "(Bach) Prelude and Fugue in C sharp Major, BWV 848.md",
     "(Chopin) Étude Op. 10, No. 3.md",
     "(Chopin) Ballade Op.47 No.3 in A-flat Major.md",
@@ -243,7 +256,6 @@
     "/(Debussy) L 113 (Children’s Corner), No. 6 (Golliwogg’s Cakewalk).md",
     "(Rachmaninoff) The Star-Spangled Banner (John Stafford Smith).md",
     "(Rachmaninoff) Prelude in B Major (no. 11).md",
-    "(Beethoven) Minuet in G major, WoO 10, No. 2.md",
     "piano_repertoire.base",
     "/piano_repertoire.base",
     "Textbooks.base",
