@@ -10,6 +10,8 @@ views:
       - ABRSM
       - deadline
     sort:
+      - property: deadline
+        direction: ASC
       - property: mastery
         direction: DESC
     columnSize:
