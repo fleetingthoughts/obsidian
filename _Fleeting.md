@@ -18,22 +18,6 @@ list from [[]] and !outgoing([[]])
 
 # Print 
 
-View by score
-
-## Tuesday
-- Mozart Sonatas vol 2 ()
-- Padereweski Chopin vol 7. Nocturnes (full)
-- Padereweski Chopin vol 8. Polonaise (full)
-- Padereweski Chopin vol 9 Waltz (full)
-- Padereweski Chopin vol 10 Mazurkas (full
-- Padereweski Chopin vol 11 (separated) Fantasia in F minor, Op. 49; Barcarolle, Op. 60; Berceuse, Op. 57; Bolero, Op. 19; Tarantelle, Op. 43; etc.
-
-## Thursday
-
-- Padereweski Chopin vol 12 rondos (full)
-- Padereweski Chopin vol 12 Concert Allegro (full)
-- Padereweski Chopin vol 18 Minor works (full)
-- Cortot chopin etudes op. 25 and 10 (english)
 
 
 
