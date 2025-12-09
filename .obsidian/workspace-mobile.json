@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "daily_notes/2025-11-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "2025-11-24"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
-    "daily_notes/2025-11-25.md",
     "_Fleeting.md",
+    "daily_notes/2025-11-25.md",
     "daily_notes/2025-11-26.md",
     "Piano Repertoire.base",
     "(Mozart) Sonata No. 11, K. 331.md",
