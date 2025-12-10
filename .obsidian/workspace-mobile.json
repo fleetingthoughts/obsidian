@@ -24,24 +24,13 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "daily_notes/2025-11-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Textbooks.base",
+                "viewName": "general reading"
               },
-              "icon": "lucide-file",
-              "title": "2025-11-24"
+              "icon": "lucide-layout-grid",
+              "title": "Textbooks"
             }
           }
         ],
@@ -228,6 +217,9 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
+    "Theory and Reality - Introduction to the Philosophy of Science.md",
+    "Textbooks.base",
+    "daily_notes/2025-11-24.md",
     "_Fleeting.md",
     "daily_notes/2025-11-25.md",
     "daily_notes/2025-11-26.md",
@@ -254,11 +246,8 @@
     "/(John Field) Nocturne No. 5 in B-Flat Major.md",
     "/(Debussy) Pièce pour l'œuvre du Vêtement du blessé (Page d'album).md",
     "/(Debussy) L 113 (Children’s Corner), No. 6 (Golliwogg’s Cakewalk).md",
-    "(Rachmaninoff) The Star-Spangled Banner (John Stafford Smith).md",
-    "(Rachmaninoff) Prelude in B Major (no. 11).md",
     "piano_repertoire.base",
     "/piano_repertoire.base",
-    "Textbooks.base",
     "41+R0Y6Hq6L.jpg",
     "/template",
     "/41+R0Y6Hq6L.jpg",
