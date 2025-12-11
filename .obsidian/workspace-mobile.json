@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Mathematical Statistics - 1 Probability and Distributions.md",
+                "file": "daily_notes/2025-12-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Mathematical Statistics - 1 Probability and Distributions"
+              "title": "2025-12-11"
             }
           }
         ],
@@ -73,7 +73,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:robert_hogg",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -229,6 +229,7 @@
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
     "Introduction to Mathematical Statistics - 1.4 Conditional Probability and Independence.md",
+    "daily_notes/2025-12-11.md",
     "Introduction to Mathematical Statistics - 1 Probability and Distributions.md",
     "Introduction to Mathematical Statistics - 1.1 to 1.3.md",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
@@ -255,7 +256,6 @@
     "(John Field) Nocturne No. 5 in B-Flat Major.md",
     "(Debussy) Pièce pour l'œuvre du Vêtement du blessé (Page d'album).md",
     "(Debussy) L 113 (Children’s Corner), No. 6 (Golliwogg’s Cakewalk).md",
-    "/(Debussy) Rêverie.md",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
     "/piano_repertoire.base",
