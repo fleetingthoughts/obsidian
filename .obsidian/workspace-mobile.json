@@ -24,24 +24,13 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "daily_notes/2025-12-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Textbooks.base",
+                "viewName": "textbooks"
               },
-              "icon": "lucide-file",
-              "title": "2025-12-11"
+              "icon": "lucide-layout-grid",
+              "title": "Textbooks"
             }
           }
         ],
@@ -124,7 +113,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 3
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -228,8 +217,10 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
-    "Introduction to Mathematical Statistics - 1.4 Conditional Probability and Independence.md",
+    "Piano Repertoire.base",
+    "daily_notes/2025-12-12.md",
     "daily_notes/2025-12-11.md",
+    "Introduction to Mathematical Statistics - 1.4 Conditional Probability and Independence.md",
     "Introduction to Mathematical Statistics - 1 Probability and Distributions.md",
     "Introduction to Mathematical Statistics - 1.1 to 1.3.md",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
@@ -239,7 +230,6 @@
     "_Fleeting.md",
     "daily_notes/2025-11-25.md",
     "daily_notes/2025-11-26.md",
-    "Piano Repertoire.base",
     "(Mozart) Sonata No. 11, K. 331.md",
     "(Bach) Prelude and Fugue in C sharp Major, BWV 848.md",
     "(Chopin) Étude Op. 10, No. 3.md",
@@ -254,8 +244,6 @@
     "(Debussy) Rêverie.md",
     "(Rachmaninoff) Morceaux de fantaisie, op. 3, Elégie in E-flat minor.md",
     "(John Field) Nocturne No. 5 in B-Flat Major.md",
-    "(Debussy) Pièce pour l'œuvre du Vêtement du blessé (Page d'album).md",
-    "(Debussy) L 113 (Children’s Corner), No. 6 (Golliwogg’s Cakewalk).md",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
     "/piano_repertoire.base",
