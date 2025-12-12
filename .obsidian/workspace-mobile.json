@@ -62,7 +62,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:robert_hogg",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -113,7 +113,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 1
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -217,14 +217,14 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
+    "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
+    "Introduction to Mathematical Statistics - 1 Probability and Distributions.md",
+    "Textbooks.base",
     "Piano Repertoire.base",
     "daily_notes/2025-12-12.md",
     "daily_notes/2025-12-11.md",
     "Introduction to Mathematical Statistics - 1.4 Conditional Probability and Independence.md",
-    "Introduction to Mathematical Statistics - 1 Probability and Distributions.md",
     "Introduction to Mathematical Statistics - 1.1 to 1.3.md",
-    "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
-    "Textbooks.base",
     "Theory and Reality - Introduction to the Philosophy of Science.md",
     "daily_notes/2025-11-24.md",
     "_Fleeting.md",
