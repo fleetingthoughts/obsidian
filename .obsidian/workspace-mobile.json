@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book of Proof 3rd ed. - Richard Hammond.md",
+                "file": "daily_notes/2025-12-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Book of Proof 3rd ed. - Richard Hammond"
+              "title": "2025-12-13"
             }
           }
         ],
@@ -73,7 +73,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:robert_hogg",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -124,7 +124,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 3
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -228,17 +228,20 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
+    "daily_notes/2025-12-12.md",
+    "daily_notes/2025-12-13.md",
+    "_Fleeting.md",
+    "daily_notes/2025-12-07.md",
+    "Book of Proof 3rd ed. - Richard Hammond.md",
     "Textbooks.base",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Introduction to Mathematical Statistics - 1 Probability and Distributions.md",
     "Piano Repertoire.base",
-    "daily_notes/2025-12-12.md",
     "daily_notes/2025-12-11.md",
     "Introduction to Mathematical Statistics - 1.4 Conditional Probability and Independence.md",
     "Introduction to Mathematical Statistics - 1.1 to 1.3.md",
     "Theory and Reality - Introduction to the Philosophy of Science.md",
     "daily_notes/2025-11-24.md",
-    "_Fleeting.md",
     "daily_notes/2025-11-25.md",
     "daily_notes/2025-11-26.md",
     "(Mozart) Sonata No. 11, K. 331.md",
@@ -248,13 +251,11 @@
     "(Beethoven) Sonata No. 14 in C-sharp minor, Op. 27, No. 2.md",
     "(Beethoven) Sonata No. 8 in C minor, Op. 13.md",
     "Books to consider.md",
-    "daily_notes/2025-12-07.md",
     "daily_notes/2025-12-05.md",
     "彩雲追月 (任光).md",
     "(Beethoven) 7 Variations on God Save the King, WoO 78.md",
     "(Debussy) Rêverie.md",
     "(Rachmaninoff) Morceaux de fantaisie, op. 3, Elégie in E-flat minor.md",
-    "(John Field) Nocturne No. 5 in B-Flat Major.md",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
     "/piano_repertoire.base",
