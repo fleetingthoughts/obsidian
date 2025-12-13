@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("due date")
+    order:
+      - file.name
+      - due date

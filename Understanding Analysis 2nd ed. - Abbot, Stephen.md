@@ -14,8 +14,9 @@ tags:
 status: ongoing
 rating out of 10:
 parent:
-date_created:
+date_created: 2025-12-15
 deadline:
+project: study
 ---
 parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)
 
