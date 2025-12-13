@@ -24,13 +24,24 @@
             "id": "707eff90ce637a4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Textbooks.base",
-                "viewName": "textbooks"
+                "file": "Book of Proof 3rd ed. - Richard Hammond.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Textbooks"
+              "icon": "lucide-file",
+              "title": "Book of Proof 3rd ed. - Richard Hammond"
             }
           }
         ],
@@ -217,9 +228,9 @@
   },
   "active": "707eff90ce637a4b",
   "lastOpenFiles": [
+    "Textbooks.base",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Introduction to Mathematical Statistics - 1 Probability and Distributions.md",
-    "Textbooks.base",
     "Piano Repertoire.base",
     "daily_notes/2025-12-12.md",
     "daily_notes/2025-12-11.md",
