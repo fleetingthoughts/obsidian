@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasProperty("due date")
+        - file.hasProperty("project")
     order:
       - file.name
       - due date
