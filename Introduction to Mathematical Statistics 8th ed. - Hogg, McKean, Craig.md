@@ -14,6 +14,6 @@ status: ongoing
 rating out of 10:
 parent: "[[_MOC Science and Math]]"
 project: study
-deadline:
+deadline: 2026-05-30
 ---
 ![](51BELD670QL._AC_UF1000,1000_QL80_.jpg)

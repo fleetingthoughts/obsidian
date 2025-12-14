@@ -13,7 +13,7 @@ status: ongoing
 rating out of 10:
 parent: "[[_MOC Science and Math]]"
 project: study
-deadline:
+deadline: 2025-04-30
 ---
 
 ![](Untitled.jpg)

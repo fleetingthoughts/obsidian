@@ -15,7 +15,7 @@ status: ongoing
 rating out of 10:
 parent:
 date_created: 2025-12-15
-deadline:
+deadline: 2026-04-30
 project: study
 ---
 parent: [_MOC Science and Math](_MOC%20Science%20and%20Math.md)

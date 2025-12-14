@@ -6,4 +6,4 @@ views:
         - file.hasProperty("project")
     order:
       - file.name
-      - due date
+      - deadline
