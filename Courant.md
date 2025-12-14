@@ -9,8 +9,9 @@ cover:
 tags:
 rating out of 10:
 parent:
-date_created: 2025-12-13
+date_created: 2025-12-14
 project: study
 deadline:
 ---
+
 
