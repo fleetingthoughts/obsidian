@@ -1,5 +1,7 @@
 formulas:
   Progress: (file.backlinks.length/number(milestones)*100).round(2)+"%"
+  Benchmark progress: |
+    (deadline-today())/86400000
 views:
   - type: table
     name: Table
@@ -9,10 +11,11 @@ views:
     order:
       - file.name
       - deadline
-      - milestones
       - formula.Progress
+      - formula.Benchmark progress
     sort:
-      - property: formula.Progress
-        direction: ASC
+      - property: formula.Benchmark progress
+        direction: DESC
     columnSize:
-      formula.Progress: 1784
+      formula.Progress: 106
+      formula.Benchmark progress: 854
