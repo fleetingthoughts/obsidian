@@ -1,0 +1,5 @@
+---
+deadline:
+milestones:
+project: study
+---
