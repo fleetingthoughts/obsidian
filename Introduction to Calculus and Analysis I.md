@@ -15,6 +15,7 @@ parent:
 date_created: 2025-12-14
 project: study
 deadline: 2026-04-30
+milestones: "50"
 ---
 
 

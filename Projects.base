@@ -1,3 +1,5 @@
+formulas:
+  Progress: (file.backlinks.length/number(milestones)*100).round(2)+"%"
 views:
   - type: table
     name: Table
@@ -7,3 +9,10 @@ views:
     order:
       - file.name
       - deadline
+      - milestones
+      - formula.Progress
+    sort:
+      - property: formula.Progress
+        direction: ASC
+    columnSize:
+      formula.Progress: 1784

@@ -14,6 +14,7 @@ rating out of 10:
 parent: "[[_MOC Science and Math]]"
 project: study
 deadline: 2025-04-30
+milestones: "42"
 ---
 
 ![](Untitled.jpg)
