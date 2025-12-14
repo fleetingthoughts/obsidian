@@ -17,5 +17,4 @@ project: study
 deadline: 2026-04-30
 milestones: "50"
 ---
-
-
+2 sections per milestone

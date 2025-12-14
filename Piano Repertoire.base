@@ -30,6 +30,8 @@ views:
         direction: ASC
       - property: ABRSM
         direction: ASC
+      - property: RCM
+        direction: ASC
     columnSize:
       file.name: 369
       note.RCM: 143
