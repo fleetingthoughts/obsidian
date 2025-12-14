@@ -1,5 +1,5 @@
 ---
-parent: "[[Introduction to Mathematical Statistics - 1 Probability and Distributions]]"
+parent: "[[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig]]"
 tags:
   - math
   - statistics
