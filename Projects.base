@@ -19,9 +19,9 @@ views:
       - formula.Benchmark progress
       - milestones
     sort:
-      - property: deadline
-        direction: ASC
       - property: formula.Benchmark progress
+        direction: DESC
+      - property: deadline
         direction: ASC
     columnSize:
       file.name: 371
