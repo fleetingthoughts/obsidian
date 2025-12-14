@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Courant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Courant"
             }
           }
         ],
@@ -242,7 +242,7 @@
   "active": "bb979177e86e2841",
   "lastOpenFiles": [
     "daily_notes/2025-12-13.md",
-    "Untitled 1.md",
+    "Courant.md",
     "Textbooks.base",
     "Book of Proof 3rd ed. - Richard Hammond.md",
     "Projects.base",
