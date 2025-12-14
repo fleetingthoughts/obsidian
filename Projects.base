@@ -1,8 +1,11 @@
 formulas:
   Progress: (file.backlinks.length/number(milestones)*100).round(2)+"%"
   Benchmark progress: |+
-    if(((number(milestones)*7/3-(deadline-today()).days)/(number(milestones)*7/3)*100).round(3)<0,0, ((number(milestones)*7/3-(deadline-today()).days)/(number(milestones)*7/3)*100).round(3))+"%"
+    if(number(milestones)*7/3 < (deadline-today()).days,0, ((number(milestones)*7/3-(deadline-today()).days)/(number(milestones)*7/3)*100).round(3))+"%"
 
+properties:
+  formula.Benchmark progress:
+    displayName: Scheduled Progress
 views:
   - type: table
     name: Table
@@ -16,8 +19,6 @@ views:
       - formula.Benchmark progress
       - milestones
     sort:
-      - property: formula.Benchmark progress
-        direction: ASC
       - property: formula.Progress
         direction: DESC
     columnSize:
