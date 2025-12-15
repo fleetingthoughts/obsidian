@@ -103,9 +103,32 @@
               "icon": "lucide-table",
               "title": "Piano Repertoire"
             }
+          },
+          {
+            "id": "b4585d5636f7e903",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6359ef00be1d67a1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Piano Repertoire.base",
+                "viewName": "intermediate practice"
+              },
+              "icon": "lucide-table",
+              "title": "Piano Repertoire"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -286,8 +309,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a53b0efc9b433bcb",
+  "active": "6359ef00be1d67a1",
   "lastOpenFiles": [
+    "Projects.base",
+    "Piano Repertoire.base",
     "Principles of Mathematical Analysis 3rd ed. - Walter Rudin.md",
     "Partial Differential Equations 2nd edition - Walter A. Strauss.md",
     "Naive Set Theory - Paul R. Halmos.md",
@@ -314,9 +339,6 @@
     "/An Introduction to the Theory of Numbers.md",
     "/Algebra 2nd Ed. - Michael Artin.md",
     "/(Every W,T,U,S) Courant.md",
-    "(Every U,S,W,T) Calc - Courant.md",
-    "Projects.base",
-    "Piano Repertoire.base",
     "Textbooks.base",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
