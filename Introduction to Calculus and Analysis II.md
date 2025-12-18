@@ -9,6 +9,6 @@ tags:
 status:
 rating out of 10:
 project: study
-milestones: "40"
+milestones: "42"
 deadline: 2026-08-30
 ---

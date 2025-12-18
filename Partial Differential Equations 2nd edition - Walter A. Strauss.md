@@ -1,6 +1,6 @@
 ---
 deadline: 2027-01-30
-milestones: "55"
+milestones: "36"
 project: study
 author: " Walter A. Strauss"
 edition: 2nd
