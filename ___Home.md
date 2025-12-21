@@ -2,9 +2,6 @@
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
-- Binder for chopin performer editions
-- rest of mozart
-- rest of bach
 ## Interests
 
 - [MOC Mental training](MOC%20Mental%20training.md)
