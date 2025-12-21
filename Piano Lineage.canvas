@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"bb6b005513a35c32","x":-213,"y":-1060,"width":292,"height":79,"type":"text","text":"Theodor Leschetizky (22 June 1830 - 14 November 1915)"},
+		{"id":"75402e5ee145a4cb","type":"text","text":"Artur Schnabel (1882-1951)","x":-317,"y":-860,"width":250,"height":60}
+	],
+	"edges":[]
+}
