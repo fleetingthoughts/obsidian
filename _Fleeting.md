@@ -20,7 +20,6 @@ list from [[]] and !outgoing([[]])
 - Debussy Print complete henle
 - Hans Bischoff Klavierwerke of chopin
 - Hans Bischoff Bach
-- Czerny - Bach (find Schirmer for the english translations)
 - Prokofiev Print (complete urtext on imslp muzgiz/L. T. Avtomian edition)
 - tchaikovsky Print (complete urtext on imslp muzgiz/L. T. Avtomian edition)
 - Rachmaninoff: reference IMSLP list of works (https://imslp.org/wiki/List_of_works_by_Sergei_Rachmaninoff) and find Boosey and Hawkes or preferably Muzgiz
@@ -28,7 +27,7 @@ list from [[]] and !outgoing([[]])
 - 
 
 # Print 
-
+- B
 
 
 
@@ -36,6 +35,7 @@ list from [[]] and !outgoing([[]])
 
 ## Books
 -  Carnap - On Natural Philosophy
+-  Bach Czerny
 
 
 ### Clothing
