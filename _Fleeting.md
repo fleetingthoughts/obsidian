@@ -16,7 +16,7 @@ list from [[]] and !outgoing([[]])
 
 - Neue Liszt Ausgabe print
 	- Sauer edition print
-- Rest of Mozart print (NMA)
+- Rest of Mozart print (NMA still down?)
 - Debussy Print complete henle
 - Hans Bischoff Klavierwerke of chopin
 - Hans Bischoff Bach
