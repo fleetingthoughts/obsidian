@@ -17,6 +17,8 @@ list from [[]] and !outgoing([[]])
 - Neue Liszt Ausgabe print
 	- Sauer edition print
 - Rest of Mozart print (NMA still down?)
+- Ignaz Friedman Chopin op. 10 etude
+- Hans van bulow complete chopin (separate publication on imslp)
 - Debussy Print complete henle
 - Hans Bischoff Klavierwerke of chopin
 - Hans Bischoff Bach
