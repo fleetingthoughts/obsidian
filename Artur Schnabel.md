@@ -10,5 +10,5 @@ Student of [Theodor Leschetizky](Theodor%20Leschetizky.md) with a Beethoven coll
 Known for his performances of Beethoven
 
 He has also edited the following works:
-- Complete 32 Piano Sonatas of Ludwig van Beethoven. Publisher: Edizioni Curci
-- Th
+- Complete 32 Piano Sonatas of Ludwig van Beethoven. Publisher: Edizioni Curci/Alfred Music
+- The Diabelli Variations. Publisher Edizioni Curci
