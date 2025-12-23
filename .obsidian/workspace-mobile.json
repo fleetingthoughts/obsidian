@@ -142,13 +142,24 @@
             "id": "6258c79c1a1ad04b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Projects.base",
-                "viewName": "Table"
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "_Fleeting"
             }
           }
         ],
@@ -335,8 +346,8 @@
   },
   "active": "6258c79c1a1ad04b",
   "lastOpenFiles": [
-    "Piano Repertoire.base",
     "Projects.base",
+    "Piano Repertoire.base",
     "_Fleeting.md",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
