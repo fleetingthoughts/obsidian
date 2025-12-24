@@ -35,6 +35,9 @@ list from [[]] and !outgoing([[]])
 ## Books
 -  Carnap - On Natural Philosophy
 -  Bach Czerny and hans Bischoff ultimate bach
+- hans vaon below beethoven Schirmer
+Preludes cortot
+
 
 
 ### Clothing
