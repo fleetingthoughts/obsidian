@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"bb6b005513a35c32","type":"text","text":"[[Theodor Leschetizky]] (22 Jun 1830 - 14 Nov 1915)","x":-213,"y":-1060,"width":292,"height":79},
 		{"id":"0d2faab3fdac48d3","type":"text","text":"[[Carl Czerny]] (21 Feb 1791 Vienna, Austria - 15 Jul 1857 Vienna, Austria) ","x":-140,"y":-1267,"width":332,"height":67},
-		{"id":"4fb1d18f5577fb7a","type":"text","text":"[[Ludwig Von Beethoven]]\nbaptized Bonn 17 Dec 1770 - 26 Ma 1827 (56)","x":-20,"y":-1440,"width":360,"height":110,"color":"4"},
+		{"id":"4fb1d18f5577fb7a","type":"text","text":"[[Ludwig Van Beethoven]]\nbaptized Bonn 17 Dec 1770 - 26 Ma 1827 (56)","x":-20,"y":-1440,"width":360,"height":110,"color":"4"},
 		{"id":"75402e5ee145a4cb","type":"text","text":"[[Artur Schnabel ]]\n17 Apr 1882-15 Aug. 1951 (aged)","x":-420,"y":-885,"width":353,"height":50},
 		{"id":"6690279d2570e658","type":"text","text":"[[Ignacy Jan Paderewski ]]","x":-10,"y":-895,"width":250,"height":60},
 		{"id":"df5111780d3d15fc","type":"text","text":"[Hans von Bulow](Hans%20von%20Bulow.md) (8 January 1830 – 12 February 1894)","x":329,"y":-899,"width":250,"height":60},

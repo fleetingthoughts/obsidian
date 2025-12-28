@@ -2,7 +2,7 @@
 mastery: practice
 RCM: "9"
 ABRSM:
-parent: "[[Ludwig Von Beethoven]]"
+parent: "[[Ludwig Van Beethoven]]"
 tags:
   - piano
   - beethoven

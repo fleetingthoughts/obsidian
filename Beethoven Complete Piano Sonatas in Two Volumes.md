@@ -13,7 +13,7 @@ tags:
   - "#music_sheet"
 status:
 rating out of 10:
-parent: "[[Ludwig Von Beethoven]]"
+parent: "[[Ludwig Van Beethoven]]"
 date_created: 2025-12-28
 ---
 A performative edition with the interpretive suggestions and unorthodox fingering of the [man who invented Beethoven](Artur%20Schnabel's%20Complete%20Beethoven%20Sonata%20recordings.md)
