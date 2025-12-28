@@ -7,9 +7,11 @@ isbn-13: 978-1-4803-3275-1
 cover: https://m.media-amazon.com/images/I/61K8PX3yAtL._SL1152_.jpg
 tags:
   - "#bach"
-  - "#music_edition"
+  - "#music_sheet"
 status:
 rating out of 10:
+original publisher: Schirmer
+reprint publisher: Schirmer
 ---
 This ultimate collection contains the majority keyboard works of Bach edited by actual musicians and pianists: [Carl Czerny](Carl%20Czerny.md), [[Hans von Bulow]], and [[Ralph Leonard Kirkpatrick]]. The contents of the book and the respective editors are as follows based on my investigation of the individual smaller volumes that this ultimate edition collates
 - Inventions and Sinfonias (Carl Czerny)
