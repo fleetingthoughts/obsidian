@@ -14,6 +14,6 @@ cover: https://www.tomleemusic.ca/media/catalog/product/cache/715e161a77d12bc659
 status:
 rating out of 10:
 ---
-A performer interpretive edition of Chopin's Complete Works that  competes with Jan Ekier's National Chopin Edition.
+A performer interpretive edition of Chopin's Complete Works that  competes with Jan Ekier's National Chopin Edition. An interpretive edition that follows the romantic piano playing embodied by Padereweski may be a [a more worthwhile pursuit of Chopin's works](The%20hopeless%20pursuit%20for%20an%20urtext%20of%20Chopin's%20work.md)
 
 ![](Pasted%20image%2020251228145711.png)
