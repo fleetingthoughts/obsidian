@@ -15,4 +15,4 @@ rating out of 10:
 parent: "[[Ludwig Van Beethoven]]"
 date_created: 2025-12-28
 ---
-
+Henle's first edition of Beethoven's works that predates the ongoing [Neue Gesamtausgabe der Werke](Neue%20Gesamtausgabe%20der%20Werke%20Ludwig%20van%20Beethovens%20(Henle).md). An IMSLP free version exists without the fingerings. This edition is currently being updated with a newer edition by Norbert Gertsch.
