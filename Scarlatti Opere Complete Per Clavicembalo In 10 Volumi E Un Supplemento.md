@@ -8,6 +8,7 @@ cover: https://m.media-amazon.com/images/I/81qgPwc9bCL._SL1500_.jpg
 tags:
   - "#scarlatti"
   - "#music_sheet"
+  - "#performer_edition"
 status:
 rating out of 10:
 original publisher: Ricordi

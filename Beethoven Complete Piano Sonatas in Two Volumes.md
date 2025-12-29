@@ -11,6 +11,7 @@ tags:
   - "#beethoven"
   - "#schnabel"
   - "#music_sheet"
+  - "#performer_edition"
 status:
 rating out of 10:
 parent: "[[Ludwig Van Beethoven]]"

@@ -11,6 +11,7 @@ tags:
   - "#chopin"
   - hans_von_bulow
   - music_sheet
+  - "#performer_edition"
 status:
 rating out of 10:
 parent: "[[Fryderyk Chopin]]"

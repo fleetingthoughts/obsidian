@@ -10,6 +10,7 @@ cover: https://upload.wikimedia.org/wikipedia/en/c/c6/Chopin_National_Edition_A_
 tags:
   - "#chopin"
   - music_sheet
+  - "#urtext"
 status:
 rating out of 10:
 parent: "[[Fryderyk Chopin]]"

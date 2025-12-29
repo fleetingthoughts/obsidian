@@ -1,4 +1,5 @@
 ---
+parent:
 author:
 edition:
 original publisher:
@@ -10,4 +11,6 @@ cover:
 tags:
 status:
 rating out of 10:
+date_created: 2025-12-29
 ---
+

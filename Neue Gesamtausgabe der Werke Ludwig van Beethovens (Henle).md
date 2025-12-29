@@ -10,6 +10,7 @@ cover: https://www.henle.de/thumbnail/48/ee/39/1686742556/HN-4252-1686742556-syn
 tags:
   - "#beethoven"
   - "#music_sheet"
+  - "#urtext"
 status:
 rating out of 10:
 parent: "[[Ludwig Van Beethoven]]"

@@ -10,6 +10,7 @@ cover: https://m.media-amazon.com/images/I/51n7eAyELFL._SL1023_.jpg
 tags:
   - "#scarlatti"
   - "#music_sheet"
+  - "#urtext"
 status:
 rating out of 10:
 parent: "[[Domenico Scarlatti]]"

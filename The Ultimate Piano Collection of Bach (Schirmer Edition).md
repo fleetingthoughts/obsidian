@@ -8,6 +8,7 @@ cover: https://m.media-amazon.com/images/I/61K8PX3yAtL._SL1152_.jpg
 tags:
   - "#bach"
   - "#music_sheet"
+  - "#performer_edition"
 status:
 rating out of 10:
 original publisher: Schirmer
