@@ -28,10 +28,9 @@ views:
     imageAspectRatio: 1.25
     imageFit: contain
   - type: cards
-    name: backlog
+    name: Music editions
     filters:
       and:
-        - file.folder == "/"
-        - file.tags == ["textbook"]
-        - status == "backlog"
+        - file.tags.contains("#music_sheet")
     image: note.cover
+    imageFit: contain

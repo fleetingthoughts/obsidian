@@ -2,6 +2,8 @@
 parent: "[[Fryderyk Chopin]]"
 tags:
   - "#piano"
+  - "#music_sheet"
+  - "#chopin"
 date_created: 2025-12-21
 author: Fryderyk Chopin (author/composer), Ignacy Jan Paderewski (editor), Ludwik Bronarski (editor), Józef Turczyński (editor)
 edition:
