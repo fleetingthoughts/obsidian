@@ -1,6 +1,6 @@
 ---
 parent: "[[Claude Debussy]]"
-author: Claude Debussy (author/composer),  Ernst-Günter Heinemann (editor)
+author: Claude Debussy (author/composer), Ernst-Günter Heinemann (editor), Hans-Martin Theopold (fingering)
 edition: reprint
 original publisher: G. Henle Verlag
 reprint publisher: G. Henle Verlag
@@ -15,6 +15,6 @@ status:
 rating out of 10:
 date_created: 2025-12-29
 ---
-
+The Henle editions compete with the Salabert-Durand editions who are the 1st edition publishers for several of the French Impressionists
 
 ![](Pasted%20image%2020251229192108.png)
