@@ -12,7 +12,7 @@ reprint publisher:
 original publication year: 1954-2007
 edition publication year:
 isbn-13:
-cover:
+cover: https://imslp.org/images/thumb/e/e7/BachNBACP.jpg/462px-BachNBACP.jpg
 status:
 rating out of 10:
 ---
@@ -36,3 +36,6 @@ The most recent urtext edition of Bach's complete works that updates the origina
 	- Band 1.  <u>Kanons / Musikalisches Opfer</u>: Canons and Musical Offers
 	- <u> Band 2/1. Die Kunst der Fuge, Teilband 1: Ausgabe nach dem Originaldruck:</u> The Art of Fugue based on the the original publication
 	- <u>Band 2/2. Die Kunst der Fuge, Teilband 2: Ausgabe nach den autographen Quellen:</u> The Art of Fugue based on the autograph manuscript
+
+
+![](Pasted%20image%2020251229184807.png)

@@ -4,9 +4,11 @@ edition: Hermann Zilcher Instructive edition
 original publication year: 1907-1933
 edition publication year: 2000 (2003 for chinese edition I bought)
 isbn-13:
-cover:
+cover: https://www.musicroom.com/product/image/large/brkl5543_0.jpg
 tags:
   - "#haydn"
+  - "#music_sheet"
+  - "#urtext"
 status:
 rating out of 10:
 original publisher: Breitkopf & Hartel

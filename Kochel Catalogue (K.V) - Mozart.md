@@ -1,5 +1,5 @@
 ---
-parent: "[[_MOC Music]]"
+parent: "[[Wolfgang Amaedus Mozart]]"
 tags:
   - mozart
   - musicology
