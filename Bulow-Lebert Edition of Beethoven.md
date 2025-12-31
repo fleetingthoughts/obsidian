@@ -6,10 +6,11 @@ reprint publisher: Schirmer (usually of just the Sonatas)
 original publication year: 1875 (Cotta edition), 1895-1895 (Schirmer edition)
 edition publication year: "1875"
 isbn-13: 978-1705130964 (Schirmer 2015 reprinted edition)
-cover:
+cover: https://adamboszemusic.com/wp-content/uploads/2996_2-530x665.jpg
 tags:
   - "#beethoven"
   - "#hans_von_bulow"
+  - "#music_sheet"
 status:
 rating out of 10:
 parent: "[[Ludwig Van Beethoven]]"

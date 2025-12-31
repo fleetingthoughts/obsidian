@@ -11,6 +11,7 @@ cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_unpKYP0kjm7eJNaL
 tags:
   - "#debussy"
   - "#urtext"
+  - "#music_sheet"
 status:
 rating out of 10:
 date_created: 2025-12-29
