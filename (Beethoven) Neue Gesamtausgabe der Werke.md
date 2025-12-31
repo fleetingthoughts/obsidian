@@ -23,6 +23,6 @@ A critical urtext edition of Beethoven's complete works that is still ongoing. T
 	- Band 4: Piano Sonatas III (ongoing)
 	- Band 5: Variations for Piano
 	- Band 6: Klavierstucke (not yet issued)
-Henle has other editions of Beethoven's works such as the [[Piano Sonatas Volume I and II Beethoven ed. Bertha Wallner (Henle)]] that was published earlier and currently being updated with a new edition by Norbert Gertsch and Murray Perahia. This Neue Gesamtausgabe is an attempt after Bertha Wallner's editions to compile an urtext version of the complete works which also includes Beethoven's complete sonatas so there is some overlap.
+Henle has other editions of Beethoven's works such as the [[(Beethoven) Piano Sonatas Volume I and II  ed. Bertha Wallner]] that was published earlier and currently being updated with a new edition by Norbert Gertsch and Murray Perahia. This Neue Gesamtausgabe is an attempt after Bertha Wallner's editions to compile an urtext version of the complete works which also includes Beethoven's complete sonatas so there is some overlap.
 
 ![](Pasted%20image%2020251228140038.png)
