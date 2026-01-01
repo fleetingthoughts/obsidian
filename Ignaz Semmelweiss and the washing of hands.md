@@ -1,1 +1,7 @@
+---
+parent:
+tags:
+date_created: "2026-01-01"
+---
+
 Ignaz Semmelweiss had attempted to show that the mortality rates of babies and the mothers can be reduced through the washing of hands. His propositions were initially rejected and derided pushing Semmelweiss to the mental breaking point and was confided to an asylum late in his life.
