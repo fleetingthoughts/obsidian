@@ -4,11 +4,9 @@ tags:
   - "#investing"
 date_created: 2025-11-17
 ---
-After aligning your asset allocation with your financial plans and taking the author's advice on what asset classes are worth investing. We now examine the financial instr
+After aligning your asset allocation with your financial plans and taking the author's advice on what asset classes are worth investing. We now examine the financial instruments that the author preaches: ETFs.
 
-uments that the author preaches: ETFs.
-
-The author gives an overview of indexes and what they generall track: How are indexes built what are some examples and why are they useful? They're useful for giving an overview of the market and some good ones include:
+The author gives an overview of indexes and what they generally track: How are indexes built what are some examples and why are they useful? They're useful for giving an overview of the market and some good ones include:
 - S&P 500 - represents 80% of the US market and are the 500 largest companies
 - Rusell 3000 index is like the S&P 500 but it includes some mid-sized and smaller companies making it more complete
 - S&P/TSX composite is the 250 largest companies in Canada and is the Canadian analogue to the S&P 500
