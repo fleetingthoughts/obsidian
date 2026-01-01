@@ -13,6 +13,8 @@ date_created: 2026-01-01
 
 # Historical Examples and People
 - Royal society
-- Pottenkofer
+- 
 - Carl Hempel
-- Semmelweiss
+- Carl Hempel's often cited [[Ignaz Semmelweiss and the washing of hands]]
+- [[John Snow's empirical investigations into the importance of clean water and sanitation]]
+- Pettenkofer's empirical investigations that contradicted the germ theory
