@@ -1,0 +1,15 @@
+---
+parent:
+tags:
+  - "#classics"
+date_created: 2026-01-01
+---
+I have compared the reading lists offered by St. John's college, Thomas Aquinas college, and the reading list from the Encyclopedia Britannica's Great Books of the Western World by Mortimer J. Adler to expand my liberal arts education. My overall aim is to discover my "unknown unknowns" and find the paths of interest undiscovered by me that have almost definitely been well-treaded by people of the past. In looking into these three curricula, I wish to find some template and backbone to use as a loose foundation from which I can branch off to my areas of interest such as the philosophy of science which I noted to be lacking in these curricula. 
+
+Thomas Aquinas College had a stronger emphasis on the theology with their many readings of Thomas Aquinas himself which is not to my taste.
+
+It should be noted that Adler's compendium has greatly influenced the curriculum of the other two colleges in the choice of reading and the reading of primary source material as opposed to secondary source interpretations of the given text. This is noted in the choice of terminology by St. John and Thomas Aquinas in which they adopt the "Great Books Curricula", a terminology that was adopted by Adler and encouraged a Socratic discussion of the work. As such, it made sense to me to follow the reading plan suggested by the originator, Mortimer J. Adler,  with St. John's reading plan as a suggested alternative.
+
+Of the many criticisms of the Great Books Curriculum, the primary one that always comes up is the over-emphasis on Western Canon and the exclusion of some other author that tickles the individual's fancy. It should be noted that there is never a consensus on who this "other author" should be. I find these arguments of "my favorite author was not included" to be omnipresent with any attempt at a comprehensive canon and can be largely discarded as trivial. It cannot be argued that the authors and respective works recommended within the Great Books itself do not have merit and that their ideas must be respected. From my reading of Mortimer J. Adler's works, I find that the criticism miss the larger point brought forth by Adler which is an emphasis on the reading of the primary source, not a secondary source, and a deep critical learning that is brought about by a Socratic dialogue of the ideas contained within. Amusingly, one criticism I saw was said that the Great Books curricula seemed like some dry academic attempt to read a book just to write an essay on the subject. The critic may be reminded that essay writing and rewriting the work in your own terms is one of the greatest forms of critical deep learning and is in a sense a Socratic dialogue with yourself. I find that in the age of convenience where we clamor for information served on a silver spoon, there is a loss of interest in reading the primary texts and a stronger preference for a secondary text that abbreviates, digests, and regurgitates the information with all the nuance lost.
+
+
