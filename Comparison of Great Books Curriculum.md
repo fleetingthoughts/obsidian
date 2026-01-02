@@ -4,7 +4,7 @@ tags:
   - "#classics"
 date_created: 2026-01-01
 ---
-I have compared the reading lists offered by St. John's college, Thomas Aquinas college, and the reading list from the Encyclopedia Britannica's Great Books of the Western World by Mortimer J. Adler to expand my liberal arts education. My overall aim is to discover my "unknown unknowns" and find the paths of interest undiscovered by me that have almost definitely been well-treaded by people of the past. In looking into these three curricula, I wish to find some template and backbone to use as a loose foundation from which I can branch off to my areas of interest such as the philosophy of science which I noted to be lacking in these curricula. 
+I have compared the reading lists offered by St. John's college, Thomas Aquinas college, and the reading list from the Encyclopedia Britannica's Great Books of the Western World by Mortimer J. Adler to expand my liberal arts education. My overall aim is to discover my "unknown unknowns" and find the paths of interest undiscovered by me that have almost definitely been well-treaded by people of the past. The aim of these curricula I have looked at was to provide an education that produces a "well rounded" critical thinking individual so it gives a general tour of the major ideas. In looking into these three curricula, I wish to find some template and backbone to use as a loose foundation from which I can branch off to my areas of interest such as the philosophy of science which I noted to be lacking in these curricula. 
 
 Thomas Aquinas College had a stronger emphasis on the theology with their many readings of Thomas Aquinas himself which is not to my taste.
 
