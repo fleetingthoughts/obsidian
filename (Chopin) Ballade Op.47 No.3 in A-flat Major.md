@@ -8,7 +8,7 @@ date_created: 2025-11-30
 mastery: repertoire
 RCM: ARCT
 ABRSM:
-deadline: 2026-03-31
+deadline: 2026-12-31
 ---
 Considered one of the easier ballades.
 
