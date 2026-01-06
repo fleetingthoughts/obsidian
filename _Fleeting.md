@@ -17,9 +17,9 @@ list from [[]] and !outgoing([[]])
 - Neue Liszt Ausgabe print
 	- Sauer edition print
 - Rest of Mozart print (NMA still down?)
-- Prokofiev Print (complete urtext on imslp muzgiz/L. T. Avtomian edition)
-- tchaikovsky Print (complete urtext on imslp muzgiz/L. T. Avtomian edition)
-- Rachmaninoff: reference IMSLP list of works (https://imslp.org/wiki/List_of_works_by_Sergei_Rachmaninoff) and find Boosey and Hawkes or preferably Muzgiz
+- Schubert TOC
+- Paderweski 2nd copy of TOC
+- 
 
 
 
