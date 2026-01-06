@@ -36,3 +36,5 @@ The mgf is a generalization of the mean and the variance. The mgf is of interest
 
 Theorem 1.9.2. Let $X$ and $Y$ be random variables with moment generating functions $M_X$  and $M_Y$, respectively, existing in open intervals about 0. Then $F_X (z) =F_Y (z)$  for all $z ∈ R$  if and only if $M_X(t) = M_Y (t)$ for all $t ∈ (−h, h)$ for some $h > 0$ .
 
+The proof for this is beyond the scope of the text, but one of the reasons that we defined the mgf to exist in an open interval around 0 is to guarantee this characterization of the pdf/pmf with an mgf.
+
