@@ -14,11 +14,12 @@ list from [[]] and !outgoing([[]])
 
 # To Do
 
-- Neue Liszt Ausgabe print
-	- Sauer edition print
+
 - Rest of Mozart print (NMA still down?)
+- Scarlatti Sonatas
 - Schubert TOC
 - Paderweski 2nd copy of TOC
+- 
 - 
 
 
