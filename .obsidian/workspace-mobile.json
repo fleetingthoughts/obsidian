@@ -144,7 +144,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___Home.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "___Home"
+              "title": "_Fleeting"
             }
           }
         ],
@@ -242,7 +242,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -346,6 +346,8 @@
   },
   "active": "6258c79c1a1ad04b",
   "lastOpenFiles": [
+    "Piano Repertoire.base",
+    "___Home.md",
     "Untitled.md",
     "/_Fleeting.md",
     "/Untitled.md",
@@ -353,7 +355,6 @@
     "/(Chopin) Étude Op. 10, No. 3.md",
     "/(Chopin) Ballade Op.47 No.3 in A-flat Major.md",
     "Textbooks.base",
-    "Piano Repertoire.base",
     "_Fleeting.md",
     "Projects.base",
     "conflict-files-obsidian-git.md",
@@ -375,8 +376,6 @@
     "Differential Equations with Applications and Historical Notes 3rd edition - George F. Simmons.md",
     "Concrete Mathematics. A Foundation for Computer Science  2nd ed. - Ronald Graham.md",
     "Complex Analysis - Elias Stein.md",
-    "Analysis On Manifolds - James R. Munkres.md",
-    "An Introduction to the Theory of Numbers.md",
     "/Projects.base",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
