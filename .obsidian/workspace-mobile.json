@@ -87,8 +87,8 @@
             "state": {
               "type": "full-calendar-view",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "full-calendar-view"
             }
           },
           {
@@ -110,8 +110,8 @@
             "state": {
               "type": "full-calendar-view",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "full-calendar-view"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "___Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "___Home"
             }
           }
         ],
@@ -242,7 +242,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -283,8 +283,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       },
       {
@@ -324,8 +324,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -333,7 +333,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -341,15 +340,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "6258c79c1a1ad04b",
   "lastOpenFiles": [
+    "Untitled.md",
     "/_Fleeting.md",
-    "Projects.base",
+    "/Untitled.md",
+    "/Introduction to Mathematical Statistics - 1.9 Some Special Expecatations.md",
+    "/(Chopin) Étude Op. 10, No. 3.md",
+    "/(Chopin) Ballade Op.47 No.3 in A-flat Major.md",
+    "Textbooks.base",
     "Piano Repertoire.base",
     "_Fleeting.md",
+    "Projects.base",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Theodor Leschetizky.md",
@@ -362,7 +368,6 @@
     "/___Home.md",
     "/Partial Differential Equations 2nd edition - Walter A. Strauss.md",
     "/Introduction to Calculus and Analysis II.md",
-    "Textbooks.base",
     "Principles of Mathematical Analysis 3rd ed. - Walter Rudin.md",
     "Partial Differential Equations 2nd edition - Walter A. Strauss.md",
     "Naive Set Theory - Paul R. Halmos.md",
@@ -372,12 +377,7 @@
     "Complex Analysis - Elias Stein.md",
     "Analysis On Manifolds - James R. Munkres.md",
     "An Introduction to the Theory of Numbers.md",
-    "Algebra 2nd Ed. - Michael Artin.md",
-    "(Every W,T,U,S) Courant.md",
     "/Projects.base",
-    "/Principles of Mathematical Analysis 3rd ed. - Walter Rudin.md",
-    "/Naive Set Theory - Paul R. Halmos.md",
-    "/Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
     "/piano_repertoire.base",
