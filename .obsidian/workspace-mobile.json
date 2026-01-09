@@ -142,9 +142,32 @@
             "id": "6258c79c1a1ad04b",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Textbooks.base",
+                "viewName": "general reading"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Textbooks"
+            }
+          },
+          {
+            "id": "fe6ae7fdaa564ebd",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "de45d2d0e1c704a7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -159,11 +182,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -344,9 +367,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6258c79c1a1ad04b",
+  "active": "de45d2d0e1c704a7",
   "lastOpenFiles": [
+    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "Projects.base",
+    "Textbooks.base",
     "Piano Repertoire.base",
+    "_Fleeting.md",
     "___Home.md",
     "Untitled.md",
     "/_Fleeting.md",
@@ -354,9 +381,6 @@
     "/Introduction to Mathematical Statistics - 1.9 Some Special Expecatations.md",
     "/(Chopin) Étude Op. 10, No. 3.md",
     "/(Chopin) Ballade Op.47 No.3 in A-flat Major.md",
-    "Textbooks.base",
-    "_Fleeting.md",
-    "Projects.base",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Theodor Leschetizky.md",
