@@ -17,7 +17,7 @@ list from [[]] and !outgoing([[]])
 
 - Rest of Mozart print (NMA still down?)
 - Scarlatti Sonatas
-- Dividers
+- Dividers lots of it
 - Labels
 - Notebooks
 - Erik Satie TOC

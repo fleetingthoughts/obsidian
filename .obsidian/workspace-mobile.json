@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -182,7 +182,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series"
+              "title": "_Fleeting"
             }
           }
         ],
@@ -369,6 +369,8 @@
   },
   "active": "de45d2d0e1c704a7",
   "lastOpenFiles": [
+    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+    "/_Fleeting.md",
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "Projects.base",
     "Textbooks.base",
@@ -376,7 +378,6 @@
     "_Fleeting.md",
     "___Home.md",
     "Untitled.md",
-    "/_Fleeting.md",
     "/Untitled.md",
     "/Introduction to Mathematical Statistics - 1.9 Some Special Expecatations.md",
     "/(Chopin) Étude Op. 10, No. 3.md",
@@ -399,7 +400,6 @@
     "Introduction to Calculus and Analysis II.md",
     "Differential Equations with Applications and Historical Notes 3rd edition - George F. Simmons.md",
     "Concrete Mathematics. A Foundation for Computer Science  2nd ed. - Ronald Graham.md",
-    "Complex Analysis - Elias Stein.md",
     "/Projects.base",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
