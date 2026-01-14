@@ -17,10 +17,11 @@ list from [[]] and !outgoing([[]])
 
 - Rest of Mozart print (NMA still down?)
 - Scarlatti Sonatas
+- Scriabin
+- Grieg
 - Dividers lots of it
 - Labels
 - Notebooks
-- Erik Satie TOC
 - Rachmaninoff TOC
 - 
 - 
