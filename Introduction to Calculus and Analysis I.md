@@ -14,7 +14,7 @@ rating out of 10:
 parent:
 date_created: 2025-12-14
 project: study
-deadline: 2026-04-30
+deadline: 2026-05-30
 milestones: "47"
 ---
 2 sections per milestone

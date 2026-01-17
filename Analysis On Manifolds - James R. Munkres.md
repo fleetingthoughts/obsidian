@@ -1,5 +1,5 @@
 ---
-deadline: 2026-10-29
+deadline: 2026-11-29
 milestones: "41"
 project: study
 author: James R. Munkres
