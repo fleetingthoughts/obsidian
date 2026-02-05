@@ -180,7 +180,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -195,7 +195,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig"
             }
           }
         ],
@@ -382,9 +382,10 @@
   },
   "active": "c901c805ae05f212",
   "lastOpenFiles": [
-    "daily_notes/The dominant seventh chord sound quality of its inversions.md",
-    "Untitled.md",
     "Projects.base",
+    "Textbooks.base",
+    "Untitled.md",
+    "daily_notes/The dominant seventh chord sound quality of its inversions.md",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Introduction to Mathematical Statistics - 1.5 Random Variables.md",
     "Introduction to Mathematical Statistics - 1.4 Conditional Probability and Independence.md",
@@ -411,8 +412,6 @@
     "/Introduction to Mathematical Statistics - 1.9 Some Special Expectations.md",
     "Piano Repertoire.base",
     "_Fleeting.md",
-    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
-    "Textbooks.base",
     "Untitled.base",
     "The Music Family Tree.canvas",
     "/Piano Repertoire.base",
