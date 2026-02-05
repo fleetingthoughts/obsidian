@@ -15,9 +15,6 @@ list from [[]] and !outgoing([[]])
 # To Do
 
 
-- Rest of Mozart print (NMA still down?)
-- A la maniere borodine (ravel
-- Scarlatti Sonatas
 - Scriabin
 - Grieg
 - Dividers lots of it

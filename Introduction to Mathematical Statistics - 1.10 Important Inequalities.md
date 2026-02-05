@@ -25,5 +25,20 @@ $$P(|X-\mu| \lt k\sigma) \gt 1- \frac{1}{k^2}$$
 We will next discuss an inequality involving convex functions, but first, we define convex functions and establish some of their properties.
 
 ***Definition 1.10.1 (Definition of Convex Functions).*** A function $f$ defined on an interval $[a,b]$ is said to be convex if for all $x, y$ in $[a,b]$, and for $0 \lt \gamma \lt 1$:
-$$f[\gamma x+ (1- \gamma)y] \lt \gamma f(x) + (1-\gamma) f(y)$$ Depending on the existence of the first and second derivatives of the function $f$, the following properties of the convexity of $f$ can be proved:
-***Theorem 1.10.4. (Convexity Properties).***
+$$f[\gamma x+ (1- \gamma)y] \le \gamma f(x) + (1-\gamma) f(y)$$
+The function $f$ is the stronger case of being "strictly convex" if the above inequality is strict that is:
+$$f[\gamma x+ (1- \gamma)y] \lt \gamma f(x) + (1-\gamma) f(y)$$
+Depending on the existence of the first and second derivatives of the function $f$, the following properties of the convexity of $f$ can be proved:
+***Theorem 1.10.4. (Convexity Properties).*** if $f$ is differentiable on (a,b), then
+1) $f$ is convex if and only if $f'(x) \lt f'(y)$ for all $a\lt x \lt y \lt b$ 
+2) $f$ is strictly convex if and only if $f'(x) \le f'(y)$ for all $a\lt x \lt y \lt b$ 
+If $f$ is twice differentiable on $(a,b)$ 
+3) $f$ is convex if and only if $f''(x) \ge 0$ for all $a\lt x \lt y \lt b$ 
+4) $f$ is convex if and only if $f''(x) \gt 0$ for all $a\lt x \lt y \lt b$ 
+The proof for 1) and 2) are determined from analysis.
+
+Armed with these definitions and properties, we now establish the Jensen's inequality
+
+***Theorem 1.10.5 (Jensen's Inequality).*** If $f$ is convex on an open interval $I$ and $X$ is a random variable who's support is contained in $I$ and has a finite expectation, then:
+$$f[E(X)] \le E[f(X)]$$
+If $f$ is strictly convex, then the inequality is strict unless $X$ is a constant random variable.
