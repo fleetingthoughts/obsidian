@@ -1,5 +1,5 @@
 ---
-deadline: 2026-07-21
+deadline: 2026-08-21
 milestones: "33"
 project: study
 author: Walter Rudin

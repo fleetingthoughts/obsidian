@@ -1,5 +1,5 @@
 ---
-deadline: 2027-01-30
+deadline: 2027-02-01
 milestones: "36"
 project: study
 author: " Walter A. Strauss"
