@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -182,7 +182,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig"
             }
           }
         ],
@@ -369,13 +369,13 @@
   },
   "active": "de45d2d0e1c704a7",
   "lastOpenFiles": [
-    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
-    "/_Fleeting.md",
-    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "Projects.base",
-    "Textbooks.base",
     "Piano Repertoire.base",
     "_Fleeting.md",
+    "/_Fleeting.md",
+    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "Textbooks.base",
     "___Home.md",
     "Untitled.md",
     "/Untitled.md",
@@ -399,7 +399,6 @@
     "Naive Set Theory - Paul R. Halmos.md",
     "Introduction to Calculus and Analysis II.md",
     "Differential Equations with Applications and Historical Notes 3rd edition - George F. Simmons.md",
-    "Concrete Mathematics. A Foundation for Computer Science  2nd ed. - Ronald Graham.md",
     "/Projects.base",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
