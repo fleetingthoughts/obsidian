@@ -165,9 +165,22 @@
             "id": "de45d2d0e1c704a7",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Projects.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "c901c805ae05f212",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
+                "file": "daily_notes/The dominant seventh chord sound quality of its inversions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -182,11 +195,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig"
+              "title": "The dominant seventh chord sound quality of its inversions"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -367,39 +380,41 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "de45d2d0e1c704a7",
+  "active": "c901c805ae05f212",
   "lastOpenFiles": [
+    "Untitled.md",
+    "daily_notes/The dominant seventh chord sound quality of its inversions.md",
     "Projects.base",
+    "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
+    "Introduction to Mathematical Statistics - 1.5 Random Variables.md",
+    "Introduction to Mathematical Statistics - 1.4 Conditional Probability and Independence.md",
+    "Introduction to Mathematical Statistics - 1.10 Important Inequalities.md",
+    "/Introduction to Mathematical Statistics - 1.10 Important Inequalities.md",
+    "/daily_notes/2026-12-31.md",
+    "daily_notes/2026-12-31.md",
+    "/daily_notes",
+    "/_Fleeting.md",
+    "/Projects.base",
+    "/Principles of Mathematical Analysis 3rd ed. - Walter Rudin.md",
+    "/Partial Differential Equations 2nd edition - Walter A. Strauss.md",
+    "/Linear Algebra - Friedberg, Insel, and Spence.md",
+    "/Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
+    "/Introduction to Calculus and Analysis II.md",
+    "/Introduction to Calculus and Analysis I.md",
+    "/Differential Equations with Applications and Historical Notes 3rd edition - George F. Simmons.md",
+    "/Concrete Mathematics. A Foundation for Computer Science  2nd ed. - Ronald Graham.md",
+    "/Complex Analysis - Elias Stein.md",
+    "/Analysis On Manifolds - James R. Munkres.md",
+    "/Algebra 2nd Ed. - Michael Artin.md",
+    "Introduction to Mathematical Statistics - 1.9 Some Special Expectations.md",
+    "/Book of Proof 3rd ed. - Richard Hammond.md",
+    "/Introduction to Mathematical Statistics - 1.9 Some Special Expectations.md",
     "Piano Repertoire.base",
     "_Fleeting.md",
-    "/_Fleeting.md",
     "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
-    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "Textbooks.base",
-    "___Home.md",
-    "Untitled.md",
-    "/Untitled.md",
-    "/Introduction to Mathematical Statistics - 1.9 Some Special Expecatations.md",
-    "/(Chopin) Étude Op. 10, No. 3.md",
-    "/(Chopin) Ballade Op.47 No.3 in A-flat Major.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.base",
-    "Theodor Leschetizky.md",
     "The Music Family Tree.canvas",
-    "Ludwig Van Beethoven.md",
-    "Ignacy Jan Paderewski.md",
-    "Carl Czerny.md",
-    "Artur Schnabel.md",
-    "Artur Schnabel's Complete Beethoven Sonata recordings.md",
-    "/___Home.md",
-    "/Partial Differential Equations 2nd edition - Walter A. Strauss.md",
-    "/Introduction to Calculus and Analysis II.md",
-    "Principles of Mathematical Analysis 3rd ed. - Walter Rudin.md",
-    "Partial Differential Equations 2nd edition - Walter A. Strauss.md",
-    "Naive Set Theory - Paul R. Halmos.md",
-    "Introduction to Calculus and Analysis II.md",
-    "Differential Equations with Applications and Historical Notes 3rd edition - George F. Simmons.md",
-    "/Projects.base",
     "/Piano Repertoire.base",
     "piano_repertoire.base",
     "/piano_repertoire.base",
@@ -407,7 +422,6 @@
     "/template",
     "/41+R0Y6Hq6L.jpg",
     "51OS+nZ1bEL._SL1244_.jpg",
-    "/daily_notes",
     "Untitled.jpg",
     "Pasted image 20251116032236.png",
     "Pasted image 20251116032149.png",

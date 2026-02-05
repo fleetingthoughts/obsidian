@@ -28,6 +28,7 @@ $$P(A_j|B) = \frac{P(B|A_j)P(A_j)}{P(B)}=\frac{P(B|A_j)P(A_j)}{\sum_{i=1}^{k}P(A
 
 ***Definition 1.4.2***. Let $A,  B$ be two events. $A$ and $B$ are independent of each other if $P(A \cap B) = P(A)P(B)$ . 
 
-It follows from the definition of independence given two mutually independent events $A$ and $B$ that the conditional probabilities are $P(B|A)=P(B)$  and $P(A|B) = P(A)
+It follows from the definition of independence given two mutually independent events $A$ and $B$ that the conditional probabilities are $P(B|A)=P(B)$  and $P(A|B) = P(A)$
+
 
 Often times using the term "independent" means that two events are "mutually independent" of each other. Sometimes $A$ may be independent of $B$ but $B$ may depend on $A$.
