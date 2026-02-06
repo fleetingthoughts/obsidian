@@ -19,3 +19,8 @@ date_created: 2026-01-01
 - Pettenkofer's empirical investigations that contradicted the germ theory
 - [[Copernicus and instrumentalism]]
 - [[Galileo endorses the role of mathematics and its importance in science]]
+
+# Questions
+1) How do we gain a general understanding of the world around us
+2) What differentiates scientific investigation from other kinds of investigations?
+3) What should be the goal of philosophy of science
