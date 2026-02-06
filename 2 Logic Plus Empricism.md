@@ -14,5 +14,7 @@ date_created: 2026-02-06
 - phenomonalism
 - analytic-synthetic distinction
 - verifiability theory of meaning
+- inductive logic
+- 
 # Historical Examples and People
 - Vienna Circle
