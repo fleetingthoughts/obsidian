@@ -12,5 +12,7 @@ date_created: 2026-02-06
 - inductive skepticism
 - external world skepticism
 - phenomonalism
+- analytic-synthetic distinction
+- verifiability theory of meaning
 # Historical Examples and People
 - Vienna Circle
