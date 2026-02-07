@@ -6,7 +6,10 @@ tags:
   - "#philosophy"
 date_created: 2026-02-07
 ---
+# Questions
+- How observations can confirm a scientific theory
 # Terms
 
 # Historical Examples and People
+
 
