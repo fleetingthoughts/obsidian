@@ -39,10 +39,13 @@ PGS ultimately attributed the fall of logical empiricism to four factors:
 - logical empiricism
 - inductive skepticism
 - external world skepticism
-- phenomonalism
+- phenomenalism
 - analytic-synthetic distinction
 - verifiability theory of meaning
 - inductive logic
 - holistic theory of testing
 # Historical Examples and People
 - Vienna Circle
+- William Van Ormane Quine
+- Rudolf Carnap
+- Carl Gustav Hempel
