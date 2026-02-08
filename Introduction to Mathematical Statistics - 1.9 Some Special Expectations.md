@@ -14,7 +14,7 @@ We first define some of these properties called the "moments about a number" of 
 ***Definition 1.9.1 (The Mean).*** Let $X$  be a random variable whose expectation exists.
 The mean value $μ$  of $X$  is defined to be $\mu  = E(X)$ . The mean is also referred to as the first moment about 0 of a random variable, that is $E(X-0)$ . 
 
-The other "moment about a number" of a random variable we're interested in involves the second momentand is called the variance.
+Going further on the "moment about a number" of a random variable is the second moment called the variance.
 
 **Definition 1.9.2 (Variance).*** Let $X$  be a random variable with finite mean $μ$  and
 such that $E[(X −μ)^2]$  is finite. Then the variance of X is defined to be $E[(X −μ)^2]$
