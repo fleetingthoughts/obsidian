@@ -22,6 +22,8 @@ This equality follows from [the law of total probabilities](Introduction%20to%20
 The equivalency is our way to determine the univariate distribution of any singular random variable given a joint distribution: 
 $$F_{X_1}(x_{1}) = F_{X_1,X_2}(x_1,\infty)$$
 In the case of discrete random variables, tables are frequently employed for bivariate.
+
+Its trivial to show that the marginal distributions satisfy the properties of being a pmf/pdf if we assumed that the joint distribution was a proper pmf/pdf
 # 2.1.2 Expectation
 When discussing expectation of a function involving a bivariate distribution, we have to distinguish whether the we want the number mean or vector mean. In this book, we will discuss the real-number mean in which case it doesn't make sense to discuss the expectation of a random vector and it only makes sense to discuss the expectation of a real-valued function. And so given a random vector $(X_1,X_2)$ with a cdf $F_{X_1,X_2}$, we can only look at expectation if there is a single-variable real-valued function $Y = g(X_1,X_2)$ that maps the real-vector to the real numbers (otherwise we can't do any math!). The expectation if defined analogously to [the univariate case](Introduction%20to%20Mathematical%20Statistics%20-%201.8%20Expectation%20of%20a%20Random%20Variable.md):
 $$E(Y) = \int_{-\infty}^{\infty}\int_{-\infty}^{\infty}g(x_{1},x_2)f_{X_1,X_2}(x_1,x_2) dx_1dx_2$$ which must exists if it absolutely converges (same condition as the univariate case). 
