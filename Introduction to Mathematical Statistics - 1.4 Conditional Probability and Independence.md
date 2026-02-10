@@ -20,7 +20,7 @@ It is possible for us to describe the probability of an event in terms of the co
 $$B = B \cap (A_1 \cup A_2 \cup A_3 \cup ... \cup A_k)$$
 $$B = (B \cap A_1) \cup (B \cap A_2) \cup (B \cap A_3) \cup... \cup (B \cap A_k)$$
 As each $(B \cap A_i)$ is mutually exclusive with each other, we then have for the probability of B the sum of every $P(B \cap A_i) = P(A_i)P(B|A_i)$ which is referred to as the <u>law of total probability</u>:
-$$P(B) = \sum_{i=1}^{k} P(A_i)P(B|A_i)$$ The law of total probability leads to the following important theorem which lets us relate conditional probabilities that are the "reverse" of each other namely it lets us relate This theorem relates $P(B|A)$ to $P(A|B)$
+$$P(B) = \sum_{i=1}^{k} P(A_i)P(B|A_i)$$The law of total probability leads to the following important theorem which lets us relate conditional probabilities that are the "reverse" of each other namely it lets us relate This theorem relates $P(B|A)$ to $P(A|B)$
 ***Theorem 1.4.1 (Bayes' Theorem)*** . Let $A_1,...A_k$ be events with $P(A_i)>0$, for $i = 1,2,..k$ and that they form a partition of the sample space. For any event B then:
 $$P(A_j|B) = \frac{P(B|A_j)P(A_j)}{P(B)}=\frac{P(B|A_j)P(A_j)}{\sum_{i=1}^{k}P(A_i)P(B|A_{i})}$$The proof of this is derived from the definition of conditional probabilities and then applying the law of total probabilities to determine $P(B)$. This is a useful relation for us when we need to determine a conditional probability but the "reversed" conditional probability is easier to solve
 

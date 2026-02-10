@@ -35,7 +35,7 @@ $$ F_{Y}(y)=P(Y \le y) = P(g(X)\le y) = P(X \le g^{-1}(y)) = F_{X}(g^{-1}(y))$$
 Therefore to obtain the PDF of $Y$ is then: $$f_Y(y) = \frac{d}{dy}F_Y(y) = \frac{d}{dy}F_{X}(g^{-1}(y)) = f_{X}(g^{-1}(y)\frac{d}{dy}g^{-1}(y)$$
 or more summarily:
 $$f_Y(y)=f_X(g^{-1}(y))\frac{dx}{dy}$$ 
-The absolute value arises from us restricting the transformation to be invertible. The absolute value may just be for obvious convenience because it is necessarily positive. The last term of the theorem $|\frac{dx}{dy}|$ which is equal to $\frac {d}{dy}g^{-1}(y)$ is referred to as the Jacobian of the transformation $x = g^{-1}(y)$ 
+The absolute value arises from us restricting the transformation to be invertible specifically the part in the proof where we have the equality $P(g(X)\le y) = P(X \le g^{-1}(y))$. The absolute value may just be for obvious convenience because it is necessarily positive. The last term of the theorem $|\frac{dx}{dy}|$ which is equal to $\frac {d}{dy}g^{-1}(y)$ is referred to as the Jacobian of the transformation $x = g^{-1}(y)$ 
 
 From this proof, we establish the algorithm to find the transformed variable $Y = g(X)$:
 1) Find the support of $Y$ based on $X$
