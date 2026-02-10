@@ -8,4 +8,4 @@ date_created: 2026-02-10
 Questions
 - in a normal V-I cadence can you leave out the 3rd in the tonic chord
 - Edward klorman
-- 
+- Seth monohan
