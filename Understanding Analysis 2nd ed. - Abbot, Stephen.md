@@ -15,7 +15,7 @@ status: ongoing
 rating out of 10:
 parent:
 date_created: 2025-12-15
-deadline: 2026-04-30
+deadline: 2026-05-30
 project: study
 milestones: "55"
 ---
