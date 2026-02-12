@@ -37,4 +37,4 @@ This can be easily proved by definition of the cdf and relating it to theorem 2.
 Finally we can use the fact that the mgf, when it exists is unique and uniquely determines the probability distribution to demonstrate the independence of a variable.
 
 ***Theorem 2.4.5. (Determine Independence using the mgf).*** If the mgf $M(t_1,t_2)$ exists for the joint distribution of $X_1$ and $X_2$, then the random variables are independent if and only if:
-$$M(t_1,t_2) \equiv M(t_1,0)M(0,t_2)$$ 
+$$M(t_1,t_2) \equiv M(t_1,0)M(0,t_2)$$The proof follows from the definition of the mgf to prove the sufficiency and converse and applying the properties of exponentials and integrals.
