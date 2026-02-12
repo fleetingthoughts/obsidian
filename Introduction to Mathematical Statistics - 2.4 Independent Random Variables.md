@@ -26,7 +26,7 @@ $$f(x_1,x_2) \equiv g(x_1)h(x_2)$$
 Note that the preceding theorems involved pdfs, but from that definition, you can derive an analagous relationship with cdfs:
 
 **Theorem 2.4.2 (Independence shown with the CDF)*** Given a joint distribution $f(x_1,x_2)$ with cdf $F(x_1,x_2)$ and marginal cdfs $F_1(x_1)$ and $F_2(x_2)$ . The random variables are independent if and only if for all $(x_1,x_2) \in R^2$ 
-$$F(x_1,x_2) \equiv F_1(x_1)F_2(x_2)$$Note that this relationship is valid for all of $R^2$ instead of just the product space of the respective supports.
+$$F(x_1,x_2) \equiv F_1(x_1)F_2(x_2)$$Note that this relationship is valid for all of $R^2$ instead of just the product space of the respective supports. This done by proving sufficiency condition and then the converse by the definition of the cdf and the definition of independence using the pdf.
 
 We can also demonstrate independence by looking at the relationship of the raw probabilities without even knowing the analytical form of the original distribution
 
