@@ -6,7 +6,12 @@ tags:
   - "#statistics"
 date_created: 2026-02-11
 ---
-This chapter looks at bivariate joint distributions where the random variables are independent of each other and we begin by defining what that means.
+This chapter looks at bivariate joint distributions where the random variables are independent of each other and we begin by defining what that means. The chapter then proves 4 different ways of determining whether the random variables in the joint distribution are independent:
+1) By the definition using the marginal distributions
+2) Using arbitrary nonnegative functions of the random variables
+3) Using the product of the marginal cdf
+4) Using the raw probabilities.
+5) Using the mgf
 
 In the context of the conditional random variable, we have by the definition of the conditional random variable:
 $$f(x_1,x_2) = f_{2|1}(x_2|x_1)f_1(x_1)$$
