@@ -33,3 +33,8 @@ We can also demonstrate independence by looking at the relationship of the raw p
 ***Theorem 2.4.3 (Determine independence from the raw probabilities).*** The random variables $X_1$ and $X_2$ are said to be independent if the following relationship holds:
 $$P(a \lt X_1 \le b, c \lt X_2 \le d) = P(a \lt X_1 \le b)P(c \lt X_2 \le d)$$
 This can be easily proved by definition of the cdf and relating it to theorem 2.4.2. Note the right hand equalities are strict by [derived properties of the cdf](Introduction%20to%20Mathematical%20Statistics%20-%201.7%20Continuous%20Random%20Variables.md). 
+
+Finally we can use the fact that the mgf, when it exists is unique and uniquely determines the probability distribution to demonstrate the independence of a variable.
+
+***Theorem 2.4.5. (Determine Independence using the mgf).*** If the mgf $M(t_1,t_2)$ exists for the joint distribution of $X_1$ and $X_2$, then the random variables are independent if and only if:
+$$M(t_1,t_2) \equiv M(t_1,0)M(0,t_2)$$ 
