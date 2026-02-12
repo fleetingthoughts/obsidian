@@ -5,11 +5,28 @@ tags:
   - fleeting
 date_created:
 ---
-```dataview
-list from [[]] and !outgoing([[]])
-```
 
 
+
+- fennel
+- lemon
+- fish
+- thyme 
+- rosemary
+- dill
+- butter
+- chicken
+- bacon
+- carrot
+- shallot
+
+Buy from metro
+- Pinot
+- white wine
+- yogurt
+- sour cream
+- chives
+- bread
 
 
 # To Do
