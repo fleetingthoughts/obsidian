@@ -39,11 +39,25 @@ Buy from metro
 - Rachmaninoff TOC
 - 
 - 
-## Books
 
+
+
+
+## Books
+-  Carnap - On Natural Philosophy
+
+Preludes cortot
 
 
 
 ### Clothing
  
+- Leather Messenger bag to prevent pilling
+- Brown Chinos - Straight
+- Brown Chinos - Slim
+- Beige brown Chinos Slim
+- Acorn Chinos
+- Logitech G Pro
+# Books
+- Carnap - On Natural Philosophy
 

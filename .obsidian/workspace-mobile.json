@@ -204,7 +204,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Introduction to Mathematical Statistics - 1.5 Random Variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "Introduction to Mathematical Statistics - 1.5 Random Variables"
             }
           }
         ],
@@ -406,10 +406,15 @@
   },
   "active": "3e30c47ac0737207",
   "lastOpenFiles": [
-    "Books to consider.md",
-    "_Fleeting.md",
-    "Introduction to Mathematical Statistics - 2.8 Linear Combinations of Random Variables.md",
+    "Introduction to Mathematical Statistics - 2.7.md",
+    "Introduction to Mathematical Statistics - 2.6.md",
+    "/Introduction to Mathematical Statistics - 2.7.md",
+    "/Introduction to Mathematical Statistics - 2.6.md",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
+    "Projects.base",
+    "_Fleeting.md",
+    "Books to consider.md",
+    "Introduction to Mathematical Statistics - 2.8 Linear Combinations of Random Variables.md",
     "Introduction to Mathematical Statistics - 1.10 Important Inequalities.md",
     "Why the fifth is left out in a V7-I cadence.md",
     "Introduction to Mathematical Statistics - 2.4 Independent Random Variables.md",
@@ -438,11 +443,6 @@
     "/Introduction to Mathematical Statistics - 2.2 Transformations of Bivariate Random Variables.md",
     "/Introduction to Mathematical Statistics - 1.7 Continuous Random Variables.md",
     "Pasted image 20260210095732.png",
-    "Zibaldone and music pedagogy.md",
-    "Introduction to Mathematical Statistics - 2.2 Transformations of Bivariate Random Variables.md",
-    "Introduction to Mathematical Statistics - 2.1 Distributions of Two Random Variables.md",
-    "3 Induction and Confirmation.md",
-    "Projects.base",
     "Textbooks.base",
     "/daily_notes",
     "Piano Repertoire.base",
