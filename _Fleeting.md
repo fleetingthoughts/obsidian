@@ -9,16 +9,15 @@ date_created:
 
 
 - fennel
-- lemon
+
 - fish
 - thyme 
 - rosemary
 - dill
 - butter
 - chicken
-- bacon
-- carrot
-- shallot
+- baco
+
 
 Buy from metro
 - Pinot
