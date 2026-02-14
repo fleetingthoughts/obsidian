@@ -11,7 +11,8 @@ We explain 3 distributions related to the Bernoulli l distribution and demonstra
 The Bernoulli random variable maps a Bernoulli trial that views an event as either a success or a failure. The Bernoulli Random variable, $X$, maps success to the real number 1 and failure to the real number 0, so the Bernoulli random variable is a discrete random variable with two numbers in its support. If the probability of a success occurring is $p$, then the pmf is:
 $$p(x) = p^x(1-p)^{1-x}$$ It can then be shown the expectation is $p$ and the variance is $p(1-p)$. Using this distribution, we can then look at the sequence of Bernoulli trials:
 1) Binomial random variable: $X =$ total # of successes in $n$ Bernoulli trials. Requires the parameter $n$ (1 parameter)
-2) Negative Binomial Random Variable: $X$ = total # of failures before the $r$th success (i.e. x+r-1 trials since the last trial has to be a fixed success). Note that although it technically has two variables, the # of successes is treated as a fixed parameter. (1 parameter)
+2) Negative Binomial Random Variable: $Y$ = total # of failures before the $r$th success (i.e. x+r-1 trials since the last trial has to be a fixed success). Note that although it technically has two variables, the # of successes is treated as a fixed parameter. (1 parameter)
+$$p_{Y}(y)=\binom{y+r-1}{r-1}p^r(1-p)^{y}= \binom{y+r-1}{y}p^r(1-p)^{y}$$
 3) Hypergeometric distribution: $X$ = # of successes from a random sample of size $n$ from a total population of $N$ containing $D$ successes. As such, the hypergeometric distribution requires 3 parameters $(N,D,n)$. 
 4) Multinomial distribution: generalization of the binomial distribution to a trial with multiple outcomes (non-binary event).
 
