@@ -38,3 +38,11 @@ Theorem 1.9.2. Let $X$ and $Y$ be random variables with moment generating functi
 
 The proof for this is beyond the scope of the text, but one of the reasons that we defined the mgf to exist in an open interval around 0 is to guarantee this characterization of the pdf/pmf with an mgf.
 
+As an example for how the moment generating function completely characterizes a pdf, it can be shown that properties of the pdf can be derived from the mgf namely:
+$$M'(t) = \int^{\infty}_{-\infty}e^txf(x)$$ 
+and so as the mgf is assumed to be differentiable around 0 we have:
+$$M'(0) = \mu$$
+Similarly the 2nd moment is:
+$$M''(0) = E(X^2)$$
+and so we have for the variance:
+$$Var(X)=M''(0)-M'(0)$$

@@ -24,7 +24,7 @@ views:
       - property: formula.Benchmark progress
         direction: DESC
       - property: deadline
-        direction: DESC
+        direction: ASC
     columnSize:
       file.name: 371
       formula.Progress: 106
