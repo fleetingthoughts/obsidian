@@ -204,7 +204,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Mathematical Statistics - 1.5 Random Variables.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Mathematical Statistics - 1.5 Random Variables"
+              "title": "_Fleeting"
             }
           }
         ],
@@ -406,6 +406,7 @@
   },
   "active": "3e30c47ac0737207",
   "lastOpenFiles": [
+    "Introduction to Mathematical Statistics - 1.5 Random Variables.md",
     "Introduction to Mathematical Statistics - 2.7.md",
     "Introduction to Mathematical Statistics - 2.6.md",
     "/Introduction to Mathematical Statistics - 2.7.md",
@@ -441,7 +442,6 @@
     "/Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "/Introduction to Mathematical Statistics - 2.5 The Correlation Coefficient.md",
     "/Introduction to Mathematical Statistics - 2.2 Transformations of Bivariate Random Variables.md",
-    "/Introduction to Mathematical Statistics - 1.7 Continuous Random Variables.md",
     "Pasted image 20260210095732.png",
     "Textbooks.base",
     "/daily_notes",
