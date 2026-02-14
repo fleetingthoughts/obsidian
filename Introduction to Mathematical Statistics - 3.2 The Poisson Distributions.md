@@ -13,4 +13,5 @@ $$e^z = 1+z+\frac{z^2}{2!}\frac{z^3}{3!}\dots=\Sigma_{x=0}^{\infty}\frac{z^x}{x!
 The mgf determined to be
 $$M(t)=\Sigma_{x=0}^{\infty}e^{tx}p(x)$$
 $$M(t)=e^{\lambda(e^t-1)}$$
- From the mgf, we have the mean ($\mu = \lambda$) and the variance ($\sigma^2=\lambda$ )
+From the mgf, we have the mean ($\mu = \lambda$) and the variance ($\sigma^2=\lambda$ )
+It can be shown that given a random variable $X_t$ with parameter $t$ denote the # of occurences within an interval $(0,t]$ with the  pmf $P(X_t=k)=g(k,t)$, then if the random variable has these 3 properties, it must have a Poisson distribution:
