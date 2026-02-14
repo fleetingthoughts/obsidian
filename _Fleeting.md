@@ -9,14 +9,14 @@ date_created:
 
 
 - fennel
-
-- fish
-- thyme 
-- rosemary
-- dill
+- Greek yogurt
+- pepper
+- pearl onions
+- bread
+- eggs
+- sour cream
 - butter
-- chicken
-- baco
+
 
 
 Buy from metro
