@@ -22,7 +22,11 @@ The Markhov's inequality is a generalized form of the frequently used Chebyshev'
 $$P(|X-\mu| \gt k\sigma) \lt \frac{1}{k^2}$$
 or equivalently
 $$P(|X-\mu| \lt k\sigma) \gt 1- \frac{1}{k^2}$$
+
+One useful way to also right it is to only leave the variance on the right hand side of the inequality. If we let $\epsilon= k\sigma$, then we have:
+$$P(|X-\mu|>\epsilon)<\frac{Var(X)}{\epsilon^2}$$ 
 We will next discuss an inequality involving convex functions, but first, we define convex functions and establish some of their properties.
+
 
 ***Definition 1.10.1 (Definition of Convex Functions).*** A function $f$ defined on an interval $[a,b]$ is said to be convex if for all $x, y$ in $[a,b]$, and for $0 \lt \gamma \lt 1$:
 $$f[\gamma x+ (1- \gamma)y] \le \gamma f(x) + (1-\gamma) f(y)$$
