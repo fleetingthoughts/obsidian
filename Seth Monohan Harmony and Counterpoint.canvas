@@ -9,9 +9,14 @@
 		{"id":"c5bcb87368670bd0","x":-239,"y":-681,"width":250,"height":60,"type":"text","text":""},
 		{"id":"e2f2bca56572e783","x":-439,"y":120,"width":400,"height":250,"type":"file","file":"Pasted image 20260215150437.png"},
 		{"id":"c935d99c105fbd1f","x":-520,"y":500,"width":400,"height":386,"type":"file","file":"Pasted image 20260215150530.png"},
-		{"id":"5aee4fa786e62730","x":1240,"y":-337,"width":400,"height":169,"type":"file","file":"Pasted image 20260215151002.png"},
-		{"id":"f111ee917577d7eb","x":1320,"y":12,"width":400,"height":233,"type":"file","file":"Pasted image 20260215151653.png"},
-		{"id":"fb4f87e15dcb103a","x":1251,"y":451,"width":250,"height":60,"type":"text","text":"Pair $IV$ with $IV^6$ "}
+		{"id":"f111ee917577d7eb","x":760,"y":3,"width":400,"height":233,"type":"file","file":"Pasted image 20260215151653.png"},
+		{"id":"5aee4fa786e62730","x":760,"y":-280,"width":400,"height":169,"type":"file","file":"Pasted image 20260215151002.png"},
+		{"id":"fb4f87e15dcb103a","x":835,"y":354,"width":250,"height":60,"type":"text","text":"Pair $IV$ with $IV^6$ "},
+		{"id":"52146761b02e2e6c","x":1560,"y":-307,"width":400,"height":166,"type":"file","file":"Pasted image 20260215154055.png"},
+		{"id":"4f95b0dcb7f428bc","x":1560,"y":-22,"width":400,"height":222,"type":"file","file":"Pasted image 20260215154440.png"},
+		{"id":"e19ae5a56cd6fe19","x":1560,"y":245,"width":400,"height":227,"type":"file","file":"Pasted image 20260215154921.png"},
+		{"id":"1f0023b3c352f9e3","x":1560,"y":578,"width":400,"height":230,"type":"file","file":"Pasted image 20260215155748.png"},
+		{"id":"b20c8a01d70b7685","x":1560,"y":886,"width":400,"height":227,"type":"file","file":"Pasted image 20260215160038.png"}
 	],
 	"edges":[
 		{"id":"d184dd1ae45702af","fromNode":"8310b1e9753a2732","fromSide":"right","toNode":"f4032f00ec824d84","toSide":"left"}
