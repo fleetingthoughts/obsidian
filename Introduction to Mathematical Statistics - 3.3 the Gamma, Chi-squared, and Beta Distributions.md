@@ -32,7 +32,7 @@ $$\Gamma(\alpha)=(\alpha-1)!$$
 This relationship gives us a reason to suggest that $0!=1$ and lets us extend factorials to real numbers. 
 
 The $\Gamma$-function is a part of the $\Gamma$-distribution that has two parameters $(\alpha,\beta)$. A random variable, $X$ has a $\Gamma(\alpha,\beta)$ distribution if its pdf is the following for
-$$f(x) = \int_0^{\infty}\frac{1}{\Gamma(\alpha)\beta^{\alpha}}x^{\alpha-1}e^{\frac{-x}{\beta}}$$
+$$f(x) =\frac{1}{\Gamma(\alpha)\beta^{\alpha}}x^{\alpha-1}e^{\frac{-x}{\beta}}$$
 The support of this pdf is on $(0,\infty)$. This function has the following parameters worth noting:
 
 1) $\mu=\alpha\beta$
@@ -67,9 +67,15 @@ Usually for brevity, the $\chi^2$-distribution with $r$ degrees of freedom is wr
 The following result is used a lot:
 ***Theorem 3.3.2 (Moments of a $\chi^2$-distribution).*** Let $X$ have a $\chi^2(r)$ distribution. If $k>-r/2$, then $E(X^k)$ exists and is given by:
 $$E(X^k)=\frac{2^k\Gamma(r/2+k)}{\Gamma(r/2)}$$
+Similar to Theorem 3.3.1, a linear combination of $\chi^2$-distributed random variables results in a $\chi^2$-distribution
 # The $\beta$-distribution
-
-
+The $\beta$-distribution has the following pdf:
+$$f(x) = \begin{cases} \frac{\Gamma(\alpha+\beta)}{\Gamma(\alpha)\Gamma(\beta)}x^{\beta-1}(1-x)^{\beta-1}&\text{for 0 < x < 1}  \\ 0&\text{elsewhere} \end{cases}$$
+With the following properties:
+- $\mu = \frac{\alpha}{\alpha+\beta}$
+- $\sigma^2=\frac{\alpha\beta}{(\alpha+\beta+1)(\alpha+\beta)^2}$
+The $\beta$-distribution can be derived from two independent random variables, $(X,Y)$ with $X \sim \Gamma(\alpha,1)$ and $Y\sim\Gamma(\beta,1)$ and then determining the distribution of the transformed variable $V$:
+$$V = \frac{X}{X+Y}\sim B(\alpha,\beta)$$
 
 
 
