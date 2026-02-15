@@ -17,3 +17,6 @@ We discuss some of the mathematical properties of the gamma function:
 But then we also discuss its applications and how it arises in some basic questions about failure and time until certain event occurs:
 - The Hazard function: when something can be expected to fail given a certain elapse in time
 - Waiting time in a Poisson Process: probability in the time one must wait until $k$th event occurs given a Poisson process
+- The special case of the $\Gamma$-function, $\Gamma(r/2)$ with the parameter $\beta=2$ called the $\chi^2$ -function
+- The $\beta$-distribution derived from the $\Gamma$-distribution and its generalization to multiple variables called the Dirichlet distribution
+- 
