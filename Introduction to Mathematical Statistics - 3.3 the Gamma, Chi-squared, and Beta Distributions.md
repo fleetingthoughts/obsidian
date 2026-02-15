@@ -51,5 +51,26 @@ Solving this differential equation yields:
 $$1-F(x)=e^{-\int r(x)dx +c}$$
 If the hazard rate is simply a constant $r(x)=1/\beta$, then the pdf is simply a $\Gamma(1,\beta)$ distribution.
 
-The gamma function also occurs in Poisson processes
+The gamma function also occurs in Poisson processes. The Poisson random variable, $X_t$, denotes the number of events in our $(0,t]$ interval of interest. We now try to determine the inverse: the amount of time, $w$, until the $k$th event occurs. This random variable is denoted as $W_k$. We then note that the probability that $W_k >w$ if and only if the we only have $k-1$ events occur in the $(0,w]$ time interval, or in other words:
+$$P(W_k>w) = P(X_w\le k-1)=\Sigma_{x=0}^{k-1}\frac{(\lambda w)^{-x}e^{-\lambda w}}{x!}$$
+It can then be proved (exercise 3.3.5) that this is precisely the $\Gamma(\alpha = k, \beta = 1/\lambda)$ distribution
+# $\chi^2$-distribution
+This is a brief section as the $\chi^2$-distribution is a special case of the gamma function with $\alpha = r/2$ for a positive integer $r$ that is called the degrees of freedom and $\beta=2$
+
+$$\chi^2(x) = \Gamma(r/2,2)$$
+This distribution has the following properties:
+- $M(t) = (1-2t)^{-r/2}$ , for $t<1/2$
+- $\mu = r$
+- $\sigma^2 = 2r$
+Usually for brevity, the $\chi^2$-distribution with $r$ degrees of freedom is written as $\chi^2(r)$
+
+The following result is used a lot:
+***Theorem 3.3.2 (Moments of a $\chi^2$-distribution).*** Let $X$ have a $\chi^2(r)$ distribution. If $k>-r/2$, then $E(X^k)$ exists and is given by:
+$$E(X^k)=\frac{2^k\Gamma(r/2+k)}{\Gamma(r/2)}$$
+# The $\beta$-distribution
+
+
+
+
+
 
