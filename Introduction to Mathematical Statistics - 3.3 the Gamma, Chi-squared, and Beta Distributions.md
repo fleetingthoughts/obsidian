@@ -41,7 +41,15 @@ The support of this pdf is on $(0,\infty)$. This function has the following para
 And as with so many other functions, the linear combination of independent random variables will result in another gamma function:
 ***Theorem 3.3.1 (Linear combination of independent random variables with a $\Gamma$-distribution).*** Given a set of random variables, $X_i$, with a $\Gamma(\alpha_i,\beta)$ distribution (i.e. identical $\beta$ but different $\alpha$), if $Y =\Sigma^n_{i=1}X_i$ , then $Y$ has a $\Gamma(\Sigma^n_{i=1}\alpha_i,\beta)$ distribution.
 # Cases where the $\Gamma$-distribution arises
+Suppose we wanted to determine the probability that a device will fail at a certain time, $x$. We want to find the pdf, $f(x)$ and cdf, $F(x)$, of a random variable $X$ that maps the failure to the real number time of failure. We look at this in terms of differential equations by looking at the rate of failure, $r(x)$ at time $x$:
+$$r(x) = lim_{\delta \to \infty}\frac{P(x<X<x+\delta|X\ge x)}{\delta}$$
+$r(x)$ is referred to as the hazard function and by the definition of conditional probabilities, this is simply
 
+$$r(x) = \frac{1}{1-F(x)}lim_{\delta \to \infty}\frac{P(x<X<x+\delta}{\delta}$$
+$$r(x) =\frac{f(x)}{1-F(x)}$$
+Solving this differential equation yields:
+$$1-F(x)=e^{-\int r(x)dx +c}$$
+If the hazard rate is simply a constant $r(x)=1/\beta$, then the pdf is simply a $\Gamma(1,\beta)$ distribution.
 
-
+The gamma function also occurs in Poisson processes
 
