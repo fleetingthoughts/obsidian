@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"8310b1e9753a2732","x":-320,"y":-280,"width":400,"height":223,"type":"file","file":"Pasted image 20260215142931.png"}
+		{"id":"8310b1e9753a2732","type":"file","file":"Pasted image 20260215142931.png","x":-320,"y":-280,"width":400,"height":223},
+		{"id":"f4032f00ec824d84","type":"text","text":"Dominant -to-tonic or vice-versa to zig-zag or stepwise baseline in the I-V scale degrees EXCEPT IV to V","x":200,"y":-280,"width":320,"height":112},
+		{"id":"e46a0361f371cb93","x":80,"y":-40,"width":400,"height":206,"type":"file","file":"Pasted image 20260215144546.png"},
+		{"id":"8e3dcc2f933b9273","x":80,"y":200,"width":400,"height":214,"type":"file","file":"Pasted image 20260215144613.png"},
+		{"id":"01813385487b845a","x":49,"y":-472,"width":250,"height":60,"type":"text","text":"V7's must resolve stepwise to tonic but can leap tonic to V or V to V"},
+		{"id":"89a8f16783cb691c","x":0,"y":500,"width":400,"height":216,"type":"file","file":"Pasted image 20260215145700.png"},
+		{"id":"c5bcb87368670bd0","x":-239,"y":-681,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e2f2bca56572e783","x":-439,"y":120,"width":400,"height":250,"type":"file","file":"Pasted image 20260215150437.png"},
+		{"id":"c935d99c105fbd1f","x":-520,"y":500,"width":400,"height":386,"type":"file","file":"Pasted image 20260215150530.png"},
+		{"id":"5aee4fa786e62730","x":1240,"y":-337,"width":400,"height":169,"type":"file","file":"Pasted image 20260215151002.png"},
+		{"id":"f111ee917577d7eb","x":1320,"y":12,"width":400,"height":233,"type":"file","file":"Pasted image 20260215151653.png"},
+		{"id":"fb4f87e15dcb103a","x":1251,"y":451,"width":250,"height":60,"type":"text","text":"Pair $IV$ with $IV^6$ "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"d184dd1ae45702af","fromNode":"8310b1e9753a2732","fromSide":"right","toNode":"f4032f00ec824d84","toSide":"left"}
+	]
 }
