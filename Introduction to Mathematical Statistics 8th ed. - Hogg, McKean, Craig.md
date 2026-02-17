@@ -16,5 +16,6 @@ parent: "[[_MOC Science and Math]]"
 project: study
 deadline: 2026-06-30
 milestones: "78"
+sections: 78
 ---
 ![](51BELD670QL._AC_UF1000,1000_QL80_.jpg)

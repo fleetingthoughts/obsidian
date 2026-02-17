@@ -1,5 +1,0 @@
----
-project:
-deadline:
-milestones:
----

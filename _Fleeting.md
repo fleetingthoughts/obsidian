@@ -6,14 +6,11 @@ tags:
 date_created:
 ---
 
-
-- pearl onions
-
+Where in Hogg does it mention that linearity of expectations does not change with the dependency of the variables.
 
 
-Buy from metro
-- Pinot
-- white win
+- white wine
+- arborio rice
 
 
 # To Do
@@ -32,9 +29,6 @@ Buy from metro
 
 
 ## Books
--  Carnap - On Natural Philosophy
-
-Preludes cortot
 
 
 
@@ -46,6 +40,5 @@ Preludes cortot
 - Beige brown Chinos Slim
 - Acorn Chinos
 - Logitech G Pro
-# Books
-- Carnap - On Natural Philosophy
+
 
