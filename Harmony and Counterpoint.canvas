@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"8310b1e9753a2732","type":"file","file":"Pasted image 20260215142931.png","x":-320,"y":-280,"width":400,"height":223},
+		{"id":"f4032f00ec824d84","type":"text","text":"Dominant -to-tonic or vice-versa to zig-zag or stepwise baseline in the I-V scale degrees EXCEPT IV to V","x":200,"y":-280,"width":320,"height":112},
+		{"id":"e46a0361f371cb93","type":"file","file":"Pasted image 20260215144546.png","x":80,"y":-40,"width":400,"height":206},
+		{"id":"8e3dcc2f933b9273","type":"file","file":"Pasted image 20260215144613.png","x":80,"y":200,"width":400,"height":214},
+		{"id":"01813385487b845a","type":"text","text":"V7's must resolve stepwise to tonic but can leap tonic to V or V to V","x":49,"y":-472,"width":250,"height":60},
+		{"id":"89a8f16783cb691c","type":"file","file":"Pasted image 20260215145700.png","x":0,"y":500,"width":400,"height":216},
+		{"id":"c5bcb87368670bd0","type":"text","text":"","x":-239,"y":-681,"width":250,"height":60},
+		{"id":"e2f2bca56572e783","type":"file","file":"Pasted image 20260215150437.png","x":-439,"y":120,"width":400,"height":250},
+		{"id":"c935d99c105fbd1f","type":"file","file":"Pasted image 20260215150530.png","x":-520,"y":500,"width":400,"height":386},
+		{"id":"f111ee917577d7eb","type":"file","file":"Pasted image 20260215151653.png","x":760,"y":3,"width":400,"height":233},
+		{"id":"5aee4fa786e62730","type":"file","file":"Pasted image 20260215151002.png","x":760,"y":-280,"width":400,"height":169},
+		{"id":"fb4f87e15dcb103a","type":"text","text":"Pair $IV$ with $IV^6$ ","x":835,"y":354,"width":250,"height":60},
+		{"id":"52146761b02e2e6c","type":"file","file":"Pasted image 20260215154055.png","x":1560,"y":-307,"width":400,"height":166},
+		{"id":"4f95b0dcb7f428bc","type":"file","file":"Pasted image 20260215154440.png","x":1560,"y":-22,"width":400,"height":222},
+		{"id":"e19ae5a56cd6fe19","type":"file","file":"Pasted image 20260215154921.png","x":1560,"y":245,"width":400,"height":227},
+		{"id":"1f0023b3c352f9e3","type":"file","file":"Pasted image 20260215155748.png","x":1560,"y":578,"width":400,"height":230},
+		{"id":"b20c8a01d70b7685","type":"file","file":"Pasted image 20260215160038.png","x":1560,"y":886,"width":400,"height":227},
+		{"id":"1a82959a04bf9ae0","type":"file","file":"Pasted image 20260215175333.png","x":-351,"y":-2480,"width":400,"height":224},
+		{"id":"387f77a8db135539","type":"file","file":"Pasted image 20260215175539.png","x":-439,"y":-2080,"width":400,"height":224},
+		{"id":"6169be217bacc8c0","type":"file","file":"Pasted image 20260215180034.png","x":435,"y":-2480,"width":400,"height":224},
+		{"id":"0be8dedcf52b94b8","type":"file","file":"Pasted image 20260215180458.png","x":435,"y":-2080,"width":400,"height":224}
+	],
+	"edges":[
+		{"id":"d184dd1ae45702af","fromNode":"8310b1e9753a2732","fromSide":"right","toNode":"f4032f00ec824d84","toSide":"left"}
+	]
+}

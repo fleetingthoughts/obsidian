@@ -22,9 +22,16 @@ We can also compute the expectation of a transformation if it satisfies some pro
 $$E(Y)=\int_{\infty}^{\infty} g(x)f_{X}(x)dx$$
 The proof for the continuous case here requires some advanced real analysis.
 
-Theorem 1.8.1 is sometimes referred to as the law of the unconscious statistician (naming attributed to Sheldon Ross's probability textbook) and is sometimes used as the definition of expectation instead of what we had for definition 1.8.1
+Theorem 1.8.1 is sometimes referred to as the law of the unconscious statistician (naming attributed to Sheldon Ross's probability textbook) and is sometimes used as the definition of expectation instead of what we had for definition 1.8.1.
 
 Armed with the tool to compute the expectation of a transformation of a random variable given that it converges, we can now determine the expectation of any linear combination of transformations of a random variable:
 
 ***Theorem 1.8.2 (The Linearity of Expectations).*** given transformations of $X$ , $g_1(x)$ and $g_2(x)$ with known expectations, then for any constants $k_1$ and $k_2$, the expectation of a linear combination of the transformations is follows:
 $$E[k_{1}g_{1}(x)+k_{2}g_{2}(x)]= k_{1}E[g_{1}(x)]+k_{2}E[g_{2}(x)]$$
+
+This is a discussion more for multivariate distributions, but it can be shown in deriving the expectations for the linear combination of two random variables that the linearity of the expectation holds regardless whether they are dependent or not:
+$$E(c_1X+c_2Y) = c_1E(X)+c_2E(Y)$$
+
+
+It is worth noting that the expectation of a constant, $c$, is simply the constant itself:
+$$E(c)=c$$

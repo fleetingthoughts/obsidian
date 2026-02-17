@@ -30,7 +30,8 @@ It should be noted that convergence is a sufficient condition for a bound to exi
 
 We now show that convergent infinite sequences behave well with respect to addition, subtraction, division, multiplication, and order as a property of the sequences, the limit, behaves as usual under these operations:
 
-***Theorem 2.3.3 (Algebraic Limit Theorem).*** Let lim $a_n=a$   and lim $b_n=b$. Then we have:
+***Theorem 2.3.3 (Algebraic Limit Theorem).*** Let  $lim_{n \to \infty}a_n=a$
+and $lim_{n \to \infty}b_n=b$. Then we have:
 (i) $lim(ca_n)$ = ca, for all $c ∈ R$; 
 (ii) $lim(a_n + b_n) = a + b$; (proved using the triangular inequality)
 (iii) $lim(a_nb_n) = ab$; (prove using triangular inequality and using the trick of adding extra terms that sum to 0. We also have to apply Theorem 2.3.2)

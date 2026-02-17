@@ -34,7 +34,7 @@ We can develop several properties of the probability set function for a collecti
 3) ***Theorem 1.3.3.*** If $A$ and $B$ are events such that $A\subset B$ then $P(A) \le B$ 
 4) ***Theorem 1.3.4.*** For each $A \in B$ , $0 \le P(A) \le 1$ 
 5) ***Theorem 1.3.5.*** If $A$ and $B$ are events in the sample space $C$ , then $P(A \cup B)=P(A)+P(B)-P(A\cap B)$. (see p. 15 for the proof)
-
+The proof for 1.3.5 uses what's called the absorption law: $A= A \cup (A\cap B)$ which cannot be proved using set algebra (i. distributive or associative properties) and requires a more direct proof. 
 ## 1.3.1 Counting Rules
 Three counting rules from elementary algebra for a set $A$ containing $n$ elements:
 1) <u>Multiplication rule</u>: Given set $A= \{x_1, x_2,...x_{m}\}$ and $B=\{y_1,y_2,..., y_n\}$, then then there are $m \times n$ ordered pairs $(x_i, y_j)$. This is [the cartesian product](Book%20of%20Proof%20-%201%20Real%20Numbers.md) of $A \times B$ 

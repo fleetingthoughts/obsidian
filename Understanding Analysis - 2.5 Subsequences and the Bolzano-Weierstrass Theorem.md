@@ -10,7 +10,7 @@ date_created:
 We set aside infinite series for now and return to infinite sequences and look at the subsequence.
 
 ***Definition 2.5.1 (Subsequences).*** Let $(a_n)$ be a sequence of real numbers and let $n_1\lt n_2 \lt n_3\dots$  be an increasing sequence of natural numbers. Then the sequence
-$$ (a_{n_{1}},a_{n_{2}},a_{n_{3}},\dots)$$ is called a subsequence of $(a_n)$ where the $k \in N$ indexes the subsequence.
+$$ (a_{n_{1}},a_{n_{2}},a_{n_{3}},\dots)$$ is called a subsequence of $(a_n)$ and denoted by $(a_{n_k})$ where the $k \in N$ indexes the subsequence.
 
 From the definition, notice that the $n_k$'s are increasing natural numbers so they index the original sequence without swapping the order or repeating any number. You can think of the subsequence as the original sequence but with some of the elements removed. 
 
@@ -22,13 +22,13 @@ From these subsequences we have interesting properties that can tell us somethin
 
 Proof. Since $a_n$ converges, this means $|a_n -a| \lt \epsilon$ for $n \ge N$. For any subsequence, it is then sufficient to set a $n_{k} \ge n \ge N \to k\ge N$    so that $|a_{n_k} -a| \lt \epsilon$  
 
-This property of subsequence lets us figure out somethings about any original sequence it can be a part of. For example it is hard to figure out what the original sequence converges to, but knowing it converges to the same limit as the subsequence gives us an equation to work with. See the example in the book that shows how if $0 \lt b \lt 1$, that we can show the sequence of $(b^n)$ converges by showing $(b^{2n})$ converges to $l$ so that  $b^{2n}= b^n b^n \to l*l = l$ . The book doesn't mention that it is possible that $l$ could be 1 but a quick check by the epsilon-delta definition will confirm that isn't the case so it must be 0.
+This property of subsequence lets us figure out something about any original sequence it can be a part of. For example it is hard to figure out what the original sequence converges to, but knowing it converges to the same limit as the subsequence gives us an equation to work with. See the example in the book that shows how if $0 \lt b \lt 1$, that we can show the sequence of $(b^n)$ converges by showing $(b^{2n})$ converges to $l$ so that  $b^{2n}= b^n b^n \to l*l = l$ . The book doesn't mention that it is possible that $l$ could be 1 but a quick check by the epsilon-delta definition will confirm that isn't the case so it must be 0.
 
 Theorem 2.5.2 can also rigorously prove divergence of the original sequence, which is done by showing two subsequences of the original sequence that converge to different limits so that for example the sequence $(1,-1,1,-1,1,-1,...)$ must diverge because it has two subsequences $(1,1,1,...)$ and $(-1.,-1,-1,-1,...)$ that converge to different limits.
 
 # The Bolzano-Weierstrass Theorem
 
-We proved and showed that a subsequence converges to the same limit as any original sequence, but, we can take a step back and see what's the bare minimum required for a  subsequence JUST TO converge but know nothing of the limit.
+We proved and showed that a subsequence converges to the same limit as any original sequence, but, we can take a step back and see what's the bare minimum required for a subsequence JUST TO converge but know nothing of the limit.
 
 ***Theorem 2.5.5 (Bolzano-Weierstrass Theorem).*** Every bounded sequence always contains a convergent subsequence.
 
@@ -36,4 +36,6 @@ We saw this previously with the divergent oscillating sequence $(1,-1,1-1,...)$ 
 
 Proof. The proof is done by producing a set of nested intervals and appealing to the Nested Interval Property to show that the nested intervals must contain a real number and show that number satisfies the epsilon-delta definition of convergence and is therefore the limit. Given $(a_n)$ is bounded by $M$ such that $|a_n \le M|$ for all $n \in N$. Then we  can construct CLOSED intervals $[-M, 0]$ and $[0,M]$ and one of these must contain an infinite number of terms, take one of those intervals that contains the infinite term $I_1$ and we bisect it again and take the half that again contains the infinite number of terms $I_2$. continuously bisecting this way creates a set of nested intervals that must contain a number $x$ . 
 ![](Pasted%20image%2020251022224420.png)
-It can be seen that the length of this nested interval is $M(1/2)^{k-1}$ that converges to 0 (this technically entails us proving that $\frac{1}{2^{k-1}}$ converges to 0) and so this means we can make the the length of $I_k$ less than $\epsilon$ for some $k\ge N$ . This  interval contains some $a_{n_k}$ and $x$ which implies $|a_{n_k}-x|\lt \epsilon$ for some $k\ge N$.
+It can be seen that the length of this nested interval is $M(1/2)^{k-1}$ that converges to 0 (this technically entails us proving that $\frac{1}{2^{k-1}}$ converges to 0) and so this means we can make the the length of $I_k$ less than $\epsilon$ for some $k\ge N$ . Because we selected an interval that contains an infinite number of terms, we can always choose some term $a_{n_k}$ from the interval $I_k$ such that $n_k > n_{k-1}$ and the relative ordering of the original $(a_n)$ sequence doesn't change. Also we can choose an $x$ which implies $|a_{n_k}-x|\lt \epsilon$ for some $k\ge N$.
+
+<u>Question: </u>how can we show that the $a_{n_k}$ that we choose for each bisection interval is such that we can always construct $n_1 <n_2 < n_3\dots$ that is we need to be able to construct a subsequence that does not change the relative order of the elements from the original sequence. Answer: Its because we always select an interval with infinite terms from the original sequence.
