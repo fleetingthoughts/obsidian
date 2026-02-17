@@ -16,13 +16,22 @@ Another view is to describe this geometry "analytically" by the endpoint of each
 We are further experimentally motivated to describe parallel vectors by the fact if they only differ in magnitude but go in the same direction so that their ratio is simply a scalar.
 
 These descriptions let us set up the following axioms to describe vectors $x$, $y$, $z$:
-1) $x+y=y+x$  
+1) $x+y=y+x$  (commutativity)
+2) $(x+y)+z = x +(y+z)$ (associativity)
+3) There exists a vector $0$ such that $x+0 = x$ for any $x$
+4) For each vector $x$ there exists a vector $y$ such that $x+y=0$
+5) $1x=x$
+6) $(ab)x=a(bx)$
+7) $a(x+y) =ax+ay$ for $a\in \mathbb{R}$ (right distributive)
+8) $(a+b)x = ax+bx$
 
+The author then provides the algorithms to describe lines and planes. A line is defined by 2 points and a plane is defined by 3. To be able to describe a line or plane is to be able to mathematically express any point on that line or plane.
 
+Given two points $(u_{1},u_{2},u_{3})$ and $(v_{1},v_{2},v_{3})$, we can describe the line that contains these two points by the vectors with those end points. Any point on the line will be a vector that goes to either of those points and then go towards the other point. The line is then determined by vector addition. The equation that describes any point $x=(x_{1},x_{2},x_{3})$ is therefore:
+$$x=u+t(v-u)\text{\quad for \quad}t\in \mathbb{R}$$
+![](Pasted%20image%2020260217005640.png)
 
-- Geometric way of showing vector addition: parallelogram law
-- algebraic way with analytic geometry. Vectors defined by endpoints originating from origin
-- scalars and parallelism
-- 8 properties of vectors
-- Describing lines with vectors
-- describing planes with vectors
+Now for a plane, we're described by 3 points, so along with points described by vectors $u$ and $v$ we have a vector $a$ that describes a third point. The equation that describes any point $x=(x_{1},x_{2},x_{3})$ on the plane is:
+$$x = a+s(u-a)+t(v-a) \text{\quad for \quad} s,t \in \mathbb{R}$$
+
+![](Pasted%20image%2020260217010326.png)
