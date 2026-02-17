@@ -7,25 +7,13 @@ date_created:
 ---
 
 
-
-- fennel
-- Greek yogurt
-- pepper
 - pearl onions
-- bread
-- eggs
-- sour cream
-- butter
 
 
 
 Buy from metro
 - Pinot
-- white wine
-- yogurt
-- sour cream
-- chives
-- bread
+- white win
 
 
 # To Do
