@@ -8,9 +8,7 @@ date_created:
 
 
 - tamarind
-- cinnamon
 - coconut oil
-- cloves
 - Pandan leaves
 
 
