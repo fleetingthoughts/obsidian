@@ -11,13 +11,24 @@
             "id": "6258c79c1a1ad04b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Projects.base",
-                "viewName": "Table"
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "_Fleeting"
             }
           },
           {
@@ -53,8 +64,33 @@
               "icon": "lucide-file",
               "title": "Japanese restaurant location and space"
             }
+          },
+          {
+            "id": "51b854d8664e0dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,9 +271,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6258c79c1a1ad04b",
+  "active": "51b854d8664e0dc4",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "_Fleeting.md",
+    "Understanding Analysis - 1.3 The Axiom of Completeness.md",
+    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "Understanding Analysis - 1.1 and 1.2.md",
+    "Projects.base",
     "Textbooks.base",
     "daily_notes/Japanese restaurant location and space.md",
     "Introduction to Mathematical Statistics - 3.3 the Gamma, Chi-squared, and Beta Distributions.md",
@@ -273,11 +314,7 @@
     "/template",
     "/Untitled.md",
     "/Understanding Analysis - 2.8 Double Summations and Products of Infinite Series.md",
-    "/Understanding Analysis - 2.6 The Cauchy Criterion.md",
-    "/Understanding Analysis - 2.5 Subsequences and the Bolzano-Weierstrass Theorem.md",
-    "/Understanding Analysis - 2.3 The Algebraic and Order Limit Theorems.md",
     "/Projects.base",
-    "Projects.base",
     "/daily_notes",
     "Piano Repertoire.base",
     "Untitled.base",

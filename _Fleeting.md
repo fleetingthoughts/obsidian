@@ -7,6 +7,14 @@ date_created:
 ---
 
 
+- tamarind
+- cinnamon
+- coconut oil
+- cloves
+- Pandan leaves
+
+
+- pork cubes
 - white wine
 - qrborio rice
 - parmesan
