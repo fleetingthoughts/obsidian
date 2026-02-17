@@ -6,11 +6,11 @@ tags:
 date_created:
 ---
 
-Where in Hogg does it mention that linearity of expectations does not change with the dependency of the variables.
-
 
 - white wine
-- arborio rice
+- qrborio rice
+- parmesan
+
 
 
 # To Do
@@ -29,6 +29,9 @@ Where in Hogg does it mention that linearity of expectations does not change wit
 
 
 ## Books
+-  Carnap - On Natural Philosophy
+
+Preludes cortot
 
 
 
@@ -40,5 +43,6 @@ Where in Hogg does it mention that linearity of expectations does not change wit
 - Beige brown Chinos Slim
 - Acorn Chinos
 - Logitech G Pro
-
+# Books
+- Carnap - On Natural Philosophy
 

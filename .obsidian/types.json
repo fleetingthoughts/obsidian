@@ -3,8 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "date_created": "text",
-    "sections": "number",
-    "milestones": "number"
+    "date_created": "text"
   }
 }

@@ -12,7 +12,7 @@ We will first prove a theorem that establishes the existence of momentum-generat
 
 ***Theorem 1.10.1 (Existence of momentum-generating function)***. Let $X$ be a random variable and $m$ be a positive integer. If $E[X^m]$ exists, then for $k \le m$, $E[X^k]$ exists as well.
 
-The proof is for the continuous case but is analogous to the discrete case. Note that theorem 1.10.1 implies that if a random variable has a finite variance, then its mean exists as well. Actually the definition variance implies the existence of the mean
+The proof is for the continuous case but is analagous to the discrete case. Note that theorem 1.10.1 implies that if a random variable has a finite variance, then its mean exists as well. Actually the definition variance implies the existence of the mean
 
 ***Theorem 1.10.2 (Markov's Inequality).*** Let $u(X)$ be a nonnegative function of the random variable $X$. If $E[u(X)]$ exists, then for every positive constant $c$.
 $$P[u(X) \ge c] \le \frac{E[u(X)]}{c}$$ 
