@@ -16,7 +16,7 @@ Another view is to describe this geometry "analytically" by the endpoint of each
 We are further experimentally motivated to describe parallel vectors by the fact if they only differ in magnitude but go in the same direction so that their ratio is simply a scalar.
 
 These descriptions let us set up the following axioms to describe vectors $x$, $y$, $z$:
-1) $x+y$ = 
+1) $x+y=y+x$  
 
 
 
