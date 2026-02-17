@@ -72,10 +72,12 @@ Answer: We simply defined the convergence of a series in terms of the sequence o
 # Rearrangements
 Now we look at actual new concept and answer one of our questions about infinite series: does the rearrangement of terms in an infinite series change anything about the properties of the original series? First it is helpful to be precise about what we mean by rearrangement:
 
-***Definition 2.7.9. (Rearrangement of the terms of an Infinite Series)*** Given an infinite series $\Sigma_{i=1}^{\infty}a_i$, we say $\Sigma_{i=1}^{\infty}b_i$ is a rearrangement of the original series if there is a one-to-one AND onto function (i.e.[bijective](Surjectivity,%20Injectivity,%20and%20Bijectivity.md)) $f: \mathbb{N} \to \mathbb{N}$  that can map each $b_{f(k)} \to a_k$  for all $k\in \mathbb{N}$ (this also means we can map $a_{f^{-1}(k)} \to b_k$ since the function is bijective)
+***Definition 2.7.9. (Rearrangement of the terms of an Infinite Series)*** Given an infinite series $\Sigma_{k=1}^{\infty}a_k$, we say $\Sigma_{k=1}^{\infty}b_k$ is a rearrangement of the original series if there is a one-to-one AND onto function (i.e.[bijective](Surjectivity,%20Injectivity,%20and%20Bijectivity.md)) $f: \mathbb{N} \to \mathbb{N}$  that can map each $b_{f(k)} \to a_k$  for all $k\in \mathbb{N}$ (this also means we can map $a_{f^{-1}(k)} \to b_k$ since the function is bijective)
 
 In other words, a rearrange is strictly a permutation of the terms from the original sequence and does not:
 - add terms with a different magnitude
 - change the magnitude of the terms
 
 ***Theorem 2.7.10. (The rearrangement of An Infinite Series).*** If a series converges absolutely, then any rearrangement of the series converges to the same limit.
+
+The [[Proof for the convergence for the rearrangement of an absolutely convergent series]] uses the triangular inequality and the creativity of introducing adding then subtracting another term.

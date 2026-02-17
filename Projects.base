@@ -3,7 +3,6 @@ formulas:
   Benchmark progress: |+
     if(number(milestones)*7/3 < (deadline-today()).days,0, ((number(milestones)*7/3-(deadline-today()).days)/(number(milestones)*7/3)*100).round(3))+"%"
 
-  Untitled: ""
 properties:
   formula.Benchmark progress:
     displayName: Scheduled Progress
@@ -19,7 +18,6 @@ views:
       - formula.Progress
       - formula.Benchmark progress
       - milestones
-      - formula.Untitled
     sort:
       - property: formula.Benchmark progress
         direction: DESC
