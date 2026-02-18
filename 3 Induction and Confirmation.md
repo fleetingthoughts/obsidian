@@ -18,7 +18,10 @@ date_created: 2026-02-07
 		- Solution by Hempel: accept it
 		- stacked assumptions
 		- The order of the observation, relevancy, and refutation
-	- Goodman's Riddle of induction: Challenges the idea that an inductive logic is irrespective of the actual content of the arguments and only depends on the form. The words we choose matter and has an inherent subjective bias
+	- Goodman's Riddle of induction: Challenges the idea that an inductive logic is irrespective of the actual content of the arguments and only depends on the form. The words we choose matter and has an inherent subjective bias. 
+		- Solution: to accept that terms used must have a history of good use.
+		- Content must be simplistic as possible as a solution but still depends on which language we use as a starting point
+	- Extension of Goodman's riddle in data analysis curve fitting
 # Questions
 - How observations can confirm a scientific theory
 # Terms
