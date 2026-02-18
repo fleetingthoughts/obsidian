@@ -18,6 +18,8 @@ Here is how PGS formulated the logical positivists' verifiability theory of mean
 
 In this way logical positivists draw a distinction between themselves and what they considered the nonsense, pretentious, and impractical propositions made in other branches of philosophy or "pseudo-science" as they do not satisfy this criteria of being testable.
 
+This plays into the synthetic and analytic distinction as this criteria will only apply to synthetic statements giving a clear delineation for statements that should be testable (synthetic) to have meaning and statements that do not need to be tested at all (analytic statements)
+
 ### Applications of the two ideas to science
 Impressed by the success of physics at the time (Einstein etc..) and the role math played. The logical positivists viewed science as a special form of investigation that sought to make meaningful statements grounded in observable phenomena, and could be explained within an abstract language such as math. In essence, the logical positivists viewed science as a series of meaningful statements that are significant because they are testable (verifiability theory of meaning) within an analytic framework that is math (synthetic-analytic distinction). For logical positivism, logic is the main tool for philosophy and "just about the only useful thing that philosophers can do is give logical analyses of how language, mathematics, and science works" (p.28).
 
