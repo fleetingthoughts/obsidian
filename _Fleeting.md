@@ -5,7 +5,7 @@ tags:
   - fleeting
 date_created:
 ---
-
+# Grocery
 
 - tamarind
 - coconut oil
@@ -20,8 +20,9 @@ date_created:
 
 
 # To Do
-
-
+- Staff ledger paper
+- Good examples of first species cantus firmus to sing to
+- 
 - Scriabin
 - Grieg
 - Dividers lots of it
