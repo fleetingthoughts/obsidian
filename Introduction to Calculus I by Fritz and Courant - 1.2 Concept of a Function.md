@@ -12,9 +12,11 @@ A review of some fundamentals for real analysis. The relevant concepts that this
 - Even functions $f(-x)=f(x)$
 - Odd Functions: $f(-x)=-f(x)$
 
-***
+***Continuity of a Univariate Function (p.33)*** The function $f(x)$ is continuous at $f(x_o)$ if for any arbitrary $\epsilon >0$, there exists a $\delta >0$ such that:
+$$|f(x)-f(x_o)|<\epsilon \text{\quad when\quad}|x-x_o|<\delta$$
+Continuity can be thought of in terms of a neighborhood of a point as follows: for any arbitrary $\epsilon$-neighborhood $J$ of point $y_0=f(x_0)$ (i.e. the interval $(y_o-\epsilon, y_o+\epsilon)$), we can find a $\delta$-neighborhood of $x$ that entirely maps to $J$. 
 
-is the same as in Continuity of $f(x)$ at $x_o$ formulated as follows: for any arbitrary $\epsilon$-neighborhood $J$ of point $y_0=f(x_0)$ (i.e. the interval $(y_o-\epsilon, y_o+\epsilon)$), we can find a $\delta$-neighborhood of $x$ that entirely maps to $J$. 
+The author goes through examples to prove the continuity of a function. In general, the strategy will be to describe th
 - Modulus of continuity
 	- Uniformly continuous and uniform modulus of continuity.
 	- Lipschitz-Continuous
