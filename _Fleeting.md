@@ -10,10 +10,14 @@ date_created:
 - tamarind
 - coconut oil
 - Pandan leaves
-- 
-
-
+- tarragon
+- mushrooms
+- garlic
+- lemongrass
+- parsley
+- chicken
 - pork cubes
+- eggs
 - white wine
 - qrborio rice
 - parmesan
