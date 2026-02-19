@@ -18,6 +18,7 @@ date_created:
 - chicken
 - pork cubes
 - eggs
+- fish
 - white wine
 - qrborio rice
 - parmesan
