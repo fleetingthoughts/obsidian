@@ -11,7 +11,10 @@ A review of some fundamentals for real analysis. The relevant concepts that this
 - monotonic functions and one-to-one mapping
 - Even functions $f(-x)=f(x)$
 - Odd Functions: $f(-x)=-f(x)$
-- Continuity of $f(x)$ at $x_o$ formulated as follows: for any arbitrary $\epsilon$-neighborhood $J$ of point $y_0=f(x_0)$ (i.e. the interval $(y_o-\epsilon, y_o+\epsilon)$), we can find a $\delta$-neighborhood of $x$ that entirely maps to $J$. 
+
+***
+
+is the same as in Continuity of $f(x)$ at $x_o$ formulated as follows: for any arbitrary $\epsilon$-neighborhood $J$ of point $y_0=f(x_0)$ (i.e. the interval $(y_o-\epsilon, y_o+\epsilon)$), we can find a $\delta$-neighborhood of $x$ that entirely maps to $J$. 
 - Modulus of continuity
 	- Uniformly continuous and uniform modulus of continuity.
 	- Lipschitz-Continuous
@@ -19,6 +22,6 @@ A review of some fundamentals for real analysis. The relevant concepts that this
 - Intermediate Value Theorem
 - Conditions for the continuity of inverse functions
 
-
+Monotonic functions always have a one-to-one mapping. 
 
 Vague expressions like "arbitrarily small" are now replaced with more specific formulations like "for any positive value".
