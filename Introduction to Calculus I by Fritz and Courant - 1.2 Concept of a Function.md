@@ -19,4 +19,6 @@ A review of some fundamentals for real analysis. The relevant concepts that this
 - Intermediate Value Theorem
 - Conditions for the continuity of inverse functions
 
+
+
 Vague expressions like "arbitrarily small" are now replaced with more specific formulations like "for any positive value".
