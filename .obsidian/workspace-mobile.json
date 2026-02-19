@@ -122,9 +122,19 @@
               "icon": "lucide-file",
               "title": "_Fleeting"
             }
+          },
+          {
+            "id": "049965031dcfdddf",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -305,7 +315,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "312460b46eaca767",
+  "active": "049965031dcfdddf",
   "lastOpenFiles": [
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "Understanding Analysis - 2.2 The Limit of a Sequence.md",

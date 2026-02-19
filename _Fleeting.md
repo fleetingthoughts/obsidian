@@ -8,17 +8,8 @@ date_created:
 # Grocery
 
 - tamarind
-- coconut oil
 - Pandan leaves
 - tarragon
-- mushrooms
-- garlic
-- lemongrass
-- parsley
-- chicken
-- pork cubes
-- eggs
-- fish
 - white wine
 - qrborio rice
 - parmesan
