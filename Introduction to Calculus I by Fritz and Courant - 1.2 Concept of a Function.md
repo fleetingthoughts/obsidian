@@ -16,8 +16,11 @@ A review of some fundamentals for real analysis. The relevant concepts that this
 $$|f(x)-f(x_o)|<\epsilon \text{\quad when\quad}|x-x_o|<\delta$$
 Continuity can be thought of in terms of a neighborhood of a point as follows: for any arbitrary $\epsilon$-neighborhood $J$ of point $y_0=f(x_0)$ (i.e. the interval $(y_o-\epsilon, y_o+\epsilon)$), we can find a $\delta$-neighborhood of $x$ that entirely maps to $J$. 
 
-The author goes through examples to prove the continuity of a function. In general, the strategy will be to describe an upper bound or equality of the function in terms of $|x-x_o|$. In other words
-- Modulus of continuity
+The author goes through examples to prove the continuity of a function. In general, the strategy will be to describe an upper bound or equality of the function in terms of $|x-x_o|$. 
+
+The $\delta$ in the definition of continuity is referred to as the "modulus of continuity", and we define different types of continuity on the way way $\delta$ changes with $\epsilon$.
+
+***Definition of Uniformly Continuous (p.41).***
 	- Uniformly continuous and uniform modulus of continuity.
 	- Lipschitz-Continuous
 	- Holder Continuous
