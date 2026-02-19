@@ -23,7 +23,7 @@ The book I have chosen is written by Peter-Godfrey Smith. A biologist and philos
 The book provides a good survey of the major milestones over the past century and provides further reading suggestions with each chapter covering a milestone or overall "community circle".
 
 I suggest categorizing the book by chapter and then along with the major points to further identify the following: 
-- key people (for followup reading)
+- key people (for follow-up reading)
 - key terms used and definitions (as the philosophy of science has much to do with the use of language and its full context), 
 - historical examples.
 ![](Pasted%20image%2020260101015552.png)
