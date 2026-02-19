@@ -10,6 +10,7 @@ date_created:
 - tamarind
 - coconut oil
 - Pandan leaves
+- 
 
 
 - pork cubes
@@ -21,7 +22,7 @@ date_created:
 
 # To Do
 - Staff ledger paper
-- Good examples of first species cantus firmus to sing to
+- Good examples of first species tonic cantus firmus to sing to
 - 
 - Scriabin
 - Grieg
