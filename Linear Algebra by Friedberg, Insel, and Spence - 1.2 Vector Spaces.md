@@ -32,8 +32,8 @@ The examples are as follows, and I will go into detail on specific ones:
 3) The vector space of functions
 	- Let $S$ be any nonempty set and $F$ be any field, thet set of all functions that maps $S$ to $F$ is a vector space if defined as follows. Vector $f$ is of the form $f(s)$ and two vectors, $f$ and $g$ are considered equal if $f(s)=g(s)$ for all $s\in S$.
 	- Vector addition defined as $(f+g)(s) = f(s)+g(s)$ and scalar multiplication defined as $(cf)(s)=c[f(s)]$
-4) The vector space of polynomials
-5) The vector space of sequences
+4) The vector space of polynomials over field $F$ denoted $P(F)$. Essentially a subspace of the vector space of functions.
+5) The vector space of sequences. Essentially an extension of the $n$-tuples.
 
 We now state some properties of the operations between vectors and scalars in a vector space. The proof for each of these is a short application of our original 8 axioms.
 
