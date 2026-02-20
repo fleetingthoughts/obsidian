@@ -10,7 +10,7 @@ date_created:
 
 We explore the big brain of Georg Cantor who found a way to compare infinities and show how some infinities are larger than others. In this section we develop the following:
 - A method and definition to compare the "size" of a set to another set
-- Use this method to show that $N$ is the same "size" as $Z,Q$ but $R$ is "larger" than $N$ which implies that there are way more irrational numbers than rational numbers
+- Use this method to show that $\mathbb{N}$ is the same "size" as $\mathbb{Z},\mathbb{Q}$ but $\mathbb{R}$ is "larger" than $\mathbb{N}$ which implies that there are way more irrational numbers than rational numbers
 
 We use the idea of a function's 1-1 mapping to compare the size of a set by saying that a set can be thought of as equal "size" to another set if there exists a function such that every element in that set can be mapped out. 
 
@@ -27,8 +27,6 @@ Note there is another term called the range of a function which is a bit ambiguo
 Using this definition we can now develop a definition to compare the size of a set using the following definition called cardinality
 
 ***Definition 1.5.2 Cardinality.*** A set $A$ has the same cardinality as a set $B$ if there exists a function $f: A\to B$ that is 1-1 and onto. This is denoted $A\sim B$ 
-
-
 
 The onto property is called surjection and it means any image (the elements in the codomain actually being mapped to) is mapped by uniquely one and only one element from the first set, the domain. If we restrict the codomain set to just the image, then this technically means there is an invertible function that can take the image back to the domain.
 

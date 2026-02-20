@@ -14,13 +14,13 @@ Now we arrive at the formalization of mathematics summarizing the work done by t
 - Bernhard Riemann
 Each of these people helped provide  more concrete definitions and axioms from which we can formulate the mathematical concepts that were informally developed previously, such as the majority of calculus from the "infinitesimally small" quantities from Newton and Leibnitz's time
 
-We assume that $R$ is an ordered field which contains $Q$ as a subfield (explored in section 8). This lets us perform the basic algebraic and inequality math on any elements within the set. We now formulate the Axiom of Completeness (AoC)
+We assume that $\mathbb{R}$ is an ordered field which contains $\mathbb{Q}$ as a subfield (explored in section 8). This lets us perform the basic algebraic and inequality math on any elements within the set. We now formulate the Axiom of Completeness (AoC)
 
 ***Axiom of Completeness***. **Every nonempty set of real numbers that is bounded has a least upper bound**
 
 To develop some understanding of this. We first need to understand what the least upper bound is which is also referred to as the supremum:
 
-***Definition 1.3.1***. A set $A$ $\subseteq$ $R$ is bounded above if there exists a number $b$ $\in$ $R$ such that $a\le b$ for all $a \in A$ . The number $b$ is called an upper bound for $A$. 
+***Definition 1.3.1***. A set $A$ $\subseteq$ $\mathbb{R}$ is bounded above if there exists a number $b$ $\in$ $\mathbb{R}$ such that $a\le b$ for all $a \in A$ . The number $b$ is called an upper bound for $A$. 
 
 ***Definition 1.3.2***. A real number $s$ is the least upper bound for a set $A \subseteq R$ if it satisfies the following two conditions for all $a \in A$ :
 1) $a \le s$. So $s$ is an upper bound for all $A$ 
@@ -28,7 +28,7 @@ To develop some understanding of this. We first need to understand what the leas
 
 The least upper bound $s$ of a set $A$ is denoted $s = sup(A)$ but it is archaically denoted $s=lub(A)$ as well. An analogous greatest lower bound or infimum denoted $inf(A)$ can be defined as well. 
 
-The supremum can be thought of as the hypothetical maximum that $A$ can approach (precursor to the limit) but is not necessarily an element in the set. All maximums of a set are supremum but not all supremum are maximum which can easily be seen when considering the maximum and supremum between an open and a closed bounded interval on the real line such as $\{x\in R: 0\le2\}$  which has the maximum  and supremum 2 and $\{x\in R: 0\lt 2\}$  which doesn't have a maximum but has a supremum of 2.
+The supremum can be thought of as the hypothetical maximum that $A$ can approach (precursor to the limit) but is not necessarily an element in the set. All maximums of a set are supremum but not all supremum are maximum which can easily be seen when considering the maximum and supremum between an open and a closed bounded interval on the real line such as $\{x\in \mathbb{R}: 0\le2\}$  which has the maximum  and supremum 2 and $\{x\in \mathbb{R}: 0\lt 2\}$  which doesn't have a maximum but has a supremum of 2.
 
 Tactically speaking, the AoC essentially gives us an inequality with the supremum with the properties defined in 1.3.2 to do math with.
 
@@ -42,6 +42,6 @@ Note that nowhere in AoC do we postulate the existence of an infimum. All we nee
 
 Property 2) of Definition 1.3.2 of the supremum can be reformulated as this lemma:
 
-***Lemma 1.3.8***. Assume $s\in R$ is an upper bound for $A\in R$ then $s=sup(A)$ if and only if for any arbitrary $\epsilon \gt0$, there exists an element $a\in A$ such that $a \ge s-\epsilon$ .^e12bd5
+***Lemma 1.3.8***. Assume $s\in \mathbb{R}$ is an upper bound for $A\in \mathbb{R}$ then $s=sup(A)$ if and only if for any arbitrary $\epsilon \gt0$, there exists an element $a\in A$ such that $a \ge s-\epsilon$ .^e12bd5
 
 Note that the lemma calls for any arbitrary epsilon and that $A$ has to be in the real for the supremum to exist. The proof can be done by proving the forward (if $s=sup(A)$ then $s-\epsilon$  is no longer an upper bound) and converse direction (if s is an upper bound such that any $s-\epsilon$ makes it no longer an upper bound then it must be the supremum by satisfying property 2 of definition 1.3.2) as it is a logical equivalent if and only if statement. Also it is for any arbitrary $\epsilon$ and we may choose specific values for proof by specific counterexample choice of $\epsilon$ 
