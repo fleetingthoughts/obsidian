@@ -34,7 +34,7 @@ Author has a bone to pick with popper:
 		- corroboration
 			- But this doesn't help distinguish an untested design from tested design
 		- PGS's view is that popper should've stick to inductie skepticism instead of introducing something new
-- a Softening of popper's position
+- Popper softens his position
 	- Remove his initial motivation to hard demarcate science and non-science. Nonscientific ideas can be treated scientifically
 Summary:
 - Inescapability of confirmation. Popper is a view of what happens when we try to abandon confirmation
