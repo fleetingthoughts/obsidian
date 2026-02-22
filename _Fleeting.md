@@ -7,8 +7,9 @@ date_created:
 ---
 # Grocery
 
-- tamarind
-- Pandan leaves
+- eggs
+- lemons
+- greens
 - tarragon
 - white wine
 - qrborio rice
