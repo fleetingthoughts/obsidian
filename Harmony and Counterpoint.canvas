@@ -1,10 +1,5 @@
 {
 	"nodes":[
-		{"id":"e46a0361f371cb93","type":"file","file":"Pasted image 20260215144546.png","x":80,"y":-40,"width":399,"height":206},
-		{"id":"8e3dcc2f933b9273","type":"file","file":"Pasted image 20260215144613.png","x":80,"y":200,"width":399,"height":214},
-		{"id":"01813385487b845a","type":"text","text":"V7's must resolve stepwise to tonic but can leap tonic to V or V to V","x":49,"y":-472,"width":250,"height":60},
-		{"id":"89a8f16783cb691c","type":"file","file":"Pasted image 20260215145700.png","x":0,"y":500,"width":400,"height":216},
-		{"id":"c5bcb87368670bd0","type":"text","text":"","x":-239,"y":-681,"width":250,"height":60},
 		{"id":"f111ee917577d7eb","type":"file","file":"Pasted image 20260215151653.png","x":760,"y":3,"width":399,"height":233},
 		{"id":"5aee4fa786e62730","type":"file","file":"Pasted image 20260215151002.png","x":760,"y":-280,"width":399,"height":169},
 		{"id":"fb4f87e15dcb103a","type":"text","text":"Pair $IV$ with $IV^6$ ","x":835,"y":354,"width":250,"height":60},
@@ -17,10 +12,33 @@
 		{"id":"387f77a8db135539","type":"file","file":"Pasted image 20260215175539.png","x":-440,"y":-2296,"width":400,"height":224},
 		{"id":"6a1c1c783ada0936","type":"text","text":"First Species Counter Point","x":-120,"y":-2680,"width":250,"height":60,"color":"1"},
 		{"id":"6169be217bacc8c0","type":"file","file":"Pasted image 20260215180034.png","x":130,"y":-2520,"width":400,"height":224},
-		{"id":"8310b1e9753a2732","type":"file","file":"Pasted image 20260215142931.png","x":-920,"y":-447,"width":400,"height":223},
-		{"id":"e2f2bca56572e783","type":"file","file":"Pasted image 20260215150437.png","x":-920,"y":-122,"width":400,"height":250},
-		{"id":"c935d99c105fbd1f","type":"file","file":"Pasted image 20260215150530.png","x":-400,"y":-472,"width":199,"height":192},
-		{"id":"0be8dedcf52b94b8","type":"file","file":"Pasted image 20260215180458.png","x":130,"y":-2260,"width":400,"height":224}
+		{"id":"0be8dedcf52b94b8","type":"file","file":"Pasted image 20260215180458.png","x":130,"y":-2260,"width":400,"height":224},
+		{"id":"c935d99c105fbd1f","type":"file","file":"Pasted image 20260215150530.png","x":-400,"y":-447,"width":199,"height":192},
+		{"id":"8e3dcc2f933b9273","type":"file","file":"Pasted image 20260215144613.png","x":80,"y":-122,"width":399,"height":214},
+		{"id":"89a8f16783cb691c","type":"file","file":"Pasted image 20260215145700.png","x":79,"y":92,"width":400,"height":216},
+		{"id":"e46a0361f371cb93","type":"file","file":"Pasted image 20260215144546.png","x":80,"y":-328,"width":399,"height":206},
+		{"id":"e548ec472b9dbf78","type":"text","text":"","x":-1420,"y":-1474,"width":250,"height":60},
+		{"id":"dfa2d9c15aec89fc","type":"file","file":"Pasted image 20260221192740.png","x":-1960,"y":-1027,"width":400,"height":147},
+		{"id":"bd37e9dd0310497e","type":"text","text":"Identify and HEAR all the scale degrees and VOICE LEAD\n- SMOOTH STEP CONNECTION\n- BASS AND SOPRANO MOVE CONTRARY\n- HEAR THE TENDENCY TONES","x":-1539,"y":-1053,"width":320,"height":200,"color":"2"},
+		{"id":"efeb2127822b39e0","type":"file","file":"Pasted image 20260221194703.png","x":-1495,"y":-705,"width":400,"height":165},
+		{"id":"ae34192aa3a6c942","type":"text","text":"#  $V^6_{5}/ V^4_2/ V^4_3 \\to I/I^6$\n","x":-1432,"y":-820,"width":274,"height":80,"color":"2"},
+		{"id":"815cdab7857a72cb","type":"text","text":"# root $V^7/V \\to I$ ","x":-2032,"y":-853,"width":229,"height":80,"color":"2"},
+		{"id":"b40558db1241b911","type":"text","text":"COMPLETE $V^7$ $\\to$\nINCOMPLETE $I$ ","x":-2001,"y":-765,"width":184,"height":60,"color":"4"},
+		{"id":"213c36650ff97948","type":"text","text":"SEVENTH $\\hat4 \\to \\hat{3}$\n\nTHIRD $\\hat{7} \\to \\hat{1}$\n\nFIFTH $\\hat{2} \\to \\hat{1}/\\hat{3}$\n\nBASS \n$\\hat{5} \\to \\hat{1}$\n\n\n\n\n\n\n","x":-1992,"y":-705,"width":167,"height":200,"color":"4"},
+		{"id":"ded899e1439ce805","type":"text","text":"COMPLETE $V^7$ $\\to$ \nCOMPLETE $I$ ","x":-1788,"y":-765,"width":205,"height":60,"color":"3"},
+		{"id":"9bd784aed8192cf3","type":"text","text":"$\\hat4 \\to \\hat{3}$\n\n$\\hat{7} \\to \\hat{5}$ (inner voice only)\n\n$\\hat{2} \\to \\hat{1}/\\hat{3}$\n\nBASS \n$\\hat{5} \\to \\hat{1}$\n\n\n\n\n\n\n","x":-1802,"y":-705,"width":242,"height":200,"color":"3"},
+		{"id":"01f5ad9e3ad6a933","type":"text","text":"INCOMPLETE $V^7$ $\\to$ \nCOMPLETE $I$ ","x":-2224,"y":-770,"width":205,"height":60,"color":"1"},
+		{"id":"9c24c8c77e0ae387","type":"text","text":"SEVENTH $\\hat4 \\to \\hat{3}$          \n\nTHIRD $\\hat{7} \\to \\hat{1}$\n\nROOT $\\hat{5} \\to \\hat{5}/\\hat{1}$ \n\nDOUBLE BASS $\\hat{5} \\to \\hat{1}$\n$\\hat{5} \\to \\hat{1}$\n\n\n\n\n\n\n","x":-2200,"y":-710,"width":168,"height":240,"color":"1"},
+		{"id":"8310b1e9753a2732","type":"file","file":"Pasted image 20260215142931.png","x":-1817,"y":-1276,"width":400,"height":223},
+		{"id":"820b8a5c8f1dfc67","type":"file","file":"Pasted image 20260221193158.png","x":-1857,"y":-1556,"width":400,"height":224},
+		{"id":"e2f2bca56572e783","type":"file","file":"Pasted image 20260215150437.png","x":-480,"y":-220,"width":400,"height":250},
+		{"id":"990c974bb389eca1","x":-2085,"y":-412,"width":400,"height":125,"type":"file","file":"Pasted image 20260221195300.png"},
+		{"id":"597908500a13c7d6","x":-1659,"y":-407,"width":280,"height":120,"type":"text","text":"$V \\to I$ or $IV \\to V$  by STEP \n\n\n$(I \\to V)$ or $(V \\to V)$ CAN LEAP"},
+		{"id":"d4ff7e457633efe4","type":"text","text":"STEP THROUGH 1-5 bassline $V \\to I \\to V \\to I \\to V ...$ ","x":-1335,"y":-260,"width":308,"height":60},
+		{"id":"64205321150cfcee","x":-1312,"y":-472,"width":308,"height":60,"type":"text","text":"STEP THROUGH 1-5 bassline $V \\to I \\to V \\to I \\to V ...$ "},
+		{"id":"1d31cce3e80a72ad","type":"text","text":"BE ABLE TO SING OR MENTALLY HEAR ANY BASS LINE OF ANY CHORD PROGRESSION","x":-1420,"y":-1414,"width":360,"height":83}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6a761c3e44f4cb1e","fromNode":"597908500a13c7d6","fromSide":"right","toNode":"64205321150cfcee","toSide":"left"}
+	]
 }
