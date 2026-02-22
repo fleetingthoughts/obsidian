@@ -46,7 +46,13 @@ An example where the mle is not an unbiased estimator is for the uniform distrib
 Methods like the mle method that assume a particular distribution in which we must estimate the parameter are called <u>parametric tests</u> so called I assume because they involve estimating a parameter. In general, <u>methods that answer problem 2) are parametric tests</u>
 # Solving problem 1)
 
-We now introduce a method to answer problem 1). As these do not assume a distribution so we're not estimating any particular parameters of the distribution, <u>methods that solve problem 1) are called nonparametric tests</u>
+We now introduce a method to answer problem 1). As these do not assume a distribution so we're not estimating any particular parameters of the distribution, <u>methods that solve problem 1) are called nonparametric tests</u>. The method we will explore is the histogram estimates which will be discussed for the discrete then the continuous random variable.
+
+The histogram method estimates the probability  random variable $X_i$ on a finite sample space $(a_j)$ and the pdf is completely defined if we know the probability of every element occurring so our job is to estimate $p(a_j)$. We define the statistic $I_j$ like a multinomial trial: $$I_j(X_i) = \begin{cases} 1 \text{\quad} X_i = a_j \\ 0 \text{\quad} X_i \ne a_j\end{cases}$$
+By a spark of creativity, we then use the statistic $\hat{p}(a_j)$ as our estimate of $p(a_j)$ defined as: $$\hat{p}(a_j)=\frac{1}{n}\sum_{i=1}^{n}I_j(X_i)$$
+This will be an unbiased estimator.
+
+For the continuous, we define the $I_j$ statistic and the estimator similarly, but note that there is infinitely many choices in how we can define these classes (also called bins)  where $I_j=1$. Therefore, the resulting picture can change quite heavily if the classes change. The book provides a [Mathematical description of the dependency of the histogram estimator on the definition of the bins](Mathematical%20description%20of%20the%20dependency%20of%20the%20histogram%20estimator%20on%20the%20definition%20of%20the%20bins.md)
 
 
 
