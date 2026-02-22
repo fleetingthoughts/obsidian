@@ -16,6 +16,6 @@ date_created: 2025-12-14
 project: study
 deadline: 2026-05-30
 milestones: "47"
-real sections: "94"
+real sections: "64"
 ---
 2 sections per milestone

@@ -12,4 +12,5 @@ tags:
   - "#math"
 status:
 rating out of 10:
+real sections: "70"
 ---

@@ -1,5 +1,5 @@
 formulas:
-  Progress: (file.backlinks.length/number(milestones)*100).round(2)+"%"
+  Progress: (file.backlinks.length/number(note["real sections"])*100).round(2)+"%"
   Benchmark progress: |+
     if(number(milestones)*7/3 < (deadline-today()).days,0, ((number(milestones)*7/3-(deadline-today()).days)/(number(milestones)*7/3)*100).round(3))+"%"
 
