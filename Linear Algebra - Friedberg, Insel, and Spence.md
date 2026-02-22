@@ -15,7 +15,7 @@ parent: "[[_MOC Science and Math]]"
 project: study
 deadline: 2026-05-29
 milestones: "42"
-real sections: "68"
+real sections: "42"
 ---
 
 ![](Untitled.jpg)
