@@ -9,9 +9,21 @@ parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
 ---
 PGS begins with an admiration for the amount of influence that Popper had on the scientific community due to the simplicity of his ideas, but he notes that in the philosophical community, he has come under tough scrutiny that in his opinion, Popper cannot escape.
 
+ - Popper's falsification criteria
+ - The myth of confirmation
+ - The primary motive behind Popper's criteria and the deductive justification for his falsification criteria
+ - Popper's normative views on Science to be as bold as possible in-line with his falsification criteria
+ - Objections to Popper's views on the criteria for Science and confirmation and Popper's response
+
+Much of Karl Popper's ideas are in his book ***Logic of Scientific Discovery*** and ***Conjectures and its Refutations***. In his ideas, Popper's primary aim is to understand science and to distinguish it from pseudo-science. Popper wanted a clear demarcation of scientific investigation and his main criteria was ***falsificationism:*** "a hypothesis is scientific if and only if it has the potential to be refuted by scientific observation (p. 58)" 
+
 Author has a bone to pick with popper:
 - People misinterpret Popper and do not realize he did not believe in support or confirmation.
+- 
 
+# Terms
+- Falsificationism
+- Fallibilism
 
 - Motivations of Popper
 	- demarcation of science

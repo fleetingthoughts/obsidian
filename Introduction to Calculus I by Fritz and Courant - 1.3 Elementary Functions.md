@@ -7,6 +7,12 @@ tags:
 date_created: 2026-02-17
 parent: "[[Introduction to Calculus and Analysis I]]"
 ---
+Elementary functions are defined as all:
+- Rational functions: fractions where the numerator and denominator are polynomials
+- Algebraic functions: Inverses of polynomials
+- Trigonometric functions
+- Exponential functions and logarithms
+
 An important property is that compound functions are continuous if the functions that make it up are continuous as well. 
 
 ***Theorem on Continuity of Compound functions (p.55).*** Given the compound function $g(\theta(x))=f(x)$, $f(x)$ is continuous if $g$ and $\theta$ are.

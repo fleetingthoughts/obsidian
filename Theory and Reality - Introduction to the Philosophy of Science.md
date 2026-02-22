@@ -28,7 +28,21 @@ I suggest categorizing the book by chapter and then along with the major points 
 
 The book is well organized into its chapters with a crystal thesis that one can extract or interpret. I have provided my own as follows:
 1) [Introduction](Theory%20and%20Reality%20-%201%20Introduction.md): 
-2) [Logic Plus Empricism](Theory%20and%20Reality%20-%202%20Logic%20Plus%20Empricism.md): Overview of the philosophy of the Vienna Circle and logical positivism/empiricism. The philosophy they were reacting against and two central dogmas to their philosophy
+	- The two basic questions that the book will answer. 
+	- The two criteria to evaluate the various ideas surveyed in the book and the 3 different levels they apply to
+	- 3 tentative pieces that answer what science is.
+2) [Logic Plus Empricism](Theory%20and%20Reality%20-%202%20Logic%20Plus%20Empricism.md): 
+	- Overview of the philosophy of the Vienna Circle and logical positivism/empiricism and the philosophy they were reacting against 
+	- Two central dogmas to their philosophy
+	- The challenges to their two dogmas
 3) [Induction and Confirmation](Theory%20and%20Reality%20-%203%20Induction%20and%20Confirmation.md)
+	- The logical empiricists/positivists approach to the problem of induction and the application of confirmation
+	- Different types of nondeductive inferences
+	- Hypothetico-deductivism
+	- 2 thought experiment problems that any theory of confirmation must answer
+4) [Popper: Conjecture and Refutation](Theory%20and%20Reality%20-%204%20Popper's%20Conjecture%20and%20Refutation.md)]
+	- Popper's criteria for science and the demarcation from non-science
+	- Popper's normative views on science
+	- Objections to Popper's views on the criteria for Science and confirmation and Popper's response
 
 ![](Pasted%20image%2020260101015552.png)
