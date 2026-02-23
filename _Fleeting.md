@@ -10,11 +10,17 @@ date_created:
 - eggs
 - lemons
 - greens
+- fennel
+
+
 - tarragon
 - white wine
 - qrborio rice
 - parmesan
 
+Elbow out when in body for thumb
+Think about arm movement to reduce stretching of hand
+E
 
 
 # To Do
