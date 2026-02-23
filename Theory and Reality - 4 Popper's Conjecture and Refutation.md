@@ -15,7 +15,12 @@ PGS begins with an admiration for the amount of influence that Popper had on the
  - Popper's normative views on Science to be as bold as possible in-line with his falsification criteria
  - Objections to Popper's views on the criteria for Science and confirmation and Popper's response
 
-Much of Karl Popper's ideas are in his book ***Logic of Scientific Discovery*** and ***Conjectures and its Refutations***. In his ideas, Popper's primary aim is to understand science and to distinguish it from pseudo-science. Popper wanted a clear demarcation of scientific investigation and his main criteria was ***falsificationism:*** "a hypothesis is scientific if and only if it has the potential to be refuted by scientific observation (p. 58)" 
+# 4.2 Popper's Theory of Science
+
+Much of Karl Popper's ideas are in his book ***Logic of Scientific Discovery*** and ***Conjectures and its Refutations***. In his ideas, Popper's primary aim is to understand science and to distinguish it from pseudo-science. Popper wanted a clear demarcation of scientific investigation and his main criteria was ***falsificationism:*** "a hypothesis is scientific if and only if it has the potential to be refuted by scientific observation (p. 58)". Furthermore, Popper believed confirmation is impossible. It is worth noting here that a common misconception is that Popper believed it was possible for evidence to support a theory, Popper was explicit in that Science did not need confirmation. 
+
+Popper's normative description of testing and observation is therefore to falsify a hypothesis rather than to support it. In line with our understanding of "good Science", we should strive for hypothesis to be as general as possible to apply to a wide variety of cases because it becomes more likely to be able to find an observation that falsifies it. And so a hypothesis that only says something about a smaller # of cases compared to another hypothesis is worse in Popper's eyes. PGS does provide a rebuttal in that Popper's view go against our intuitive understanding of Science as the search for a truth and the best possible explanations, and so if there is such a thing, Popper's views will not permit it. We are in search of a "Holy Grail of truth and will never find it (p. 61)".
+# 4.3 Popper on Scientific Change
 
 Author has a bone to pick with popper:
 - People misinterpret Popper and do not realize he did not believe in support or confirmation.
