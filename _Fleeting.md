@@ -7,8 +7,9 @@ date_created:
 ---
 # Grocery
 
-- tamarind
-- Pandan leaves
+- eggs
+- lemons
+- greens
 - tarragon
 - white wine
 - qrborio rice
@@ -17,9 +18,14 @@ date_created:
 
 
 # To Do
+- John Mortensen: preparation for college. What is partimento
+- print rule of the octave from John Mortensen 
+- Gradus ad parnassum vol 10-12
 - Staff ledger paper
 - Good examples of first species tonic cantus firmus to sing to
-- 
+- printouts for cadences and voicing cadences
+
+
 - Scriabin
 - Grieg
 - Dividers lots of it

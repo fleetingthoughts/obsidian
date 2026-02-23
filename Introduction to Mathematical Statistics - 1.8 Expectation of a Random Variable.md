@@ -28,10 +28,7 @@ Armed with the tool to compute the expectation of a transformation of a random v
 
 ***Theorem 1.8.2 (The Linearity of Expectations).*** given transformations of $X$ , $g_1(x)$ and $g_2(x)$ with known expectations, then for any constants $k_1$ and $k_2$, the expectation of a linear combination of the transformations is follows:
 $$E[k_{1}g_{1}(x)+k_{2}g_{2}(x)]= k_{1}E[g_{1}(x)]+k_{2}E[g_{2}(x)]$$
-
-This is a discussion more for multivariate distributions, but it can be shown in deriving the expectations for the linear combination of two random variables that the linearity of the expectation holds regardless whether they are dependent or not:
-$$E(c_1X+c_2Y) = c_1E(X)+c_2E(Y)$$
-
-
 It is worth noting that the expectation of a constant, $c$, is simply the constant itself:
 $$E(c)=c$$
+
+In doing exercise 1.8.8, I came across an interesting situation where the expectation the $n$th draw from a sample without replacement is the same as the expectation of the 1st draw without replacement. This seems counterintuitive as successive draws are dependent on previous draws described by a conditional dependence, but this property of the expectation is due to a property called [exchangeability ](Exchangeability%20of%20sampling%20without%20replacement.md)

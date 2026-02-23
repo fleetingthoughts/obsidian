@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file:math",
+      "query": "tag:#math  ",
       "color": {
         "a": 1,
         "rgb": 5431378

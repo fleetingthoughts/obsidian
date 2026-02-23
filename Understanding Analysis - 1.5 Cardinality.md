@@ -37,7 +37,7 @@ The important examples to put cardinality in action is to compare the size of $N
 $f(n)= (n-1)/2$   if $n$ is odd
 $f(n) =-n/2$         if n is even
 
-The book doesn't prove that this function is 1-1 and onto so just take it for granted that $N \sim Z$ . The wild thing is that we can map $N$ to $Q$ as well. 
+The book doesn't prove that this function is 1-1 and onto so just take it for granted that $\mathbb{N} \sim \mathbb{Z}$ . The wild thing is that we can map $\mathbb{N}$ to $Q$ as well. 
 
 A set being a similar size to $N$ is a special property that we give a definition
 
