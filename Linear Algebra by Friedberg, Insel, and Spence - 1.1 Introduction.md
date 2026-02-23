@@ -30,5 +30,4 @@ Note that nowhere in this do we define multiplication between vectors
 We now show to describe lines and planes in terms of vectors. To fully describe a line or point is to find an analytical way to determine whether any other candidate point is on the line or plane or to generate any new points on the line or plane. The line is defined by two points and the plane is defined by 3 so we will make use of the vectors $u, v,$ and if it is a plane, $w$ that have these given points as endpoints.
 
 The book provides a geometric appeal to show that for a line defined by two points described by vectors $u, v$, the line is described by a vector that goes to $A$ then another vector that ends on $B$ (i.e. a vector that is parallel to $v-u$). Any point $x$ on the line is therefore:$$x = u+t(v-u) \text{\quad where t is a scalar}$$
-The plane is done analogously: $$
-$$
+The plane is done analogously: $$x = u+t(v-u) +s(w-u) \text{\quad where t and s is a scalar}$$
