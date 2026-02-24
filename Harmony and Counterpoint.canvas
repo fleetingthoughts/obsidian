@@ -19,7 +19,7 @@
 		{"id":"8310b1e9753a2732","type":"file","file":"Pasted image 20260215142931.png","x":-1783,"y":-1250,"width":400,"height":223},
 		{"id":"820b8a5c8f1dfc67","type":"file","file":"Pasted image 20260221193158.png","x":-1783,"y":-1474,"width":400,"height":224},
 		{"id":"1d31cce3e80a72ad","type":"text","text":"BE ABLE TO SING OR MENTALLY HEAR ANY BASS LINE OF ANY CHORD PROGRESSION","x":-1361,"y":-1403,"width":360,"height":83,"color":"5"},
-		{"id":"96942c2a0d018b80","type":"file","file":"Pasted image 20260223001332.png","x":-1427,"y":-813,"width":400,"height":224},
+		{"id":"96942c2a0d018b80","type":"file","file":"Pasted image 20260223001332.png","x":-1427,"y":-813,"width":399,"height":224},
 		{"id":"bd37e9dd0310497e","type":"text","text":"Identify and HEAR all the scale degrees and VOICE LEAD\n- SMOOTH STEP CONNECTION\n- BASS AND SOPRANO MOVE CONTRARY\n- HEAR THE TENDENCY TONES","x":-1361,"y":-1320,"width":320,"height":200,"color":"2"},
 		{"id":"dfa2d9c15aec89fc","type":"file","file":"Pasted image 20260221192740.png","x":-2001,"y":-1000,"width":400,"height":147},
 		{"id":"dc00c74651c37e16","type":"text","text":"Lectures 15 and 19. Resolving V to 1 and the inversions","x":-1730,"y":-1720,"width":503,"height":50},
@@ -34,7 +34,7 @@
 		{"id":"f0783f2cfafb195c","type":"file","file":"Pasted image 20260223005741.png","x":-840,"y":940,"width":400,"height":236},
 		{"id":"ece48791cd8bb4ab","type":"text","text":"This $1 \\to 6 \\to 4 \\to 5 \\to 1$ progression in bassline is very common even in modern","x":-808,"y":1176,"width":336,"height":80,"color":"2"},
 		{"id":"c1262498d4994729","type":"text","text":"Chain several $IV$'s together","x":-1815,"y":564,"width":250,"height":60},
-		{"id":"08cd0387bb292571","type":"file","file":"Pasted image 20260223003638.png","x":-1885,"y":719,"width":400,"height":221}
+		{"id":"08cd0387bb292571","type":"file","file":"Pasted image 20260223003638.png","x":-1885,"y":719,"width":399,"height":221}
 	],
 	"edges":[
 		{"id":"6a761c3e44f4cb1e","fromNode":"597908500a13c7d6","fromSide":"right","toNode":"64205321150cfcee","toSide":"left"},
