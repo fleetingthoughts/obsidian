@@ -1,0 +1,10 @@
+---
+tags:
+  - "#statistics"
+  - robert_hogg
+  - "#math"
+date_created: 2026-02-24
+parent: "[[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig]]"
+---
+
+fd
