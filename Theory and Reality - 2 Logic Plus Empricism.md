@@ -4,6 +4,7 @@ tags:
   - "#philosophy"
   - "#science"
   - "#peter_godfrey_smith"
+  - "#logical_empiricism"
 date_created: 2026-02-06
 ---
 The chronologically earliest philosophy of science that PGS discusses is logical positivism and its later more moderate form logical empiricism. The chapter begins with a brief overview of the history and the forces that logical positivism reacted against. To summarize the logical positivist's position, PGS first starts with their two ideas on language which serves as the framework for the role they play in science and how science should be done. It should be noted that PGS frequently impresses on the reader that the views presented by the prominent philosophers shifted over time and that they were frequently misinterpreted in his opinion, but nonetheless, the points they made still stand and their is value in looking at why their early views had changed or were rebutted by others.

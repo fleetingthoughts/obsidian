@@ -4,6 +4,7 @@ tags:
   - "#peter_godfrey_smith"
   - "#science"
   - "#philosophy"
+  - "#confirmation"
 date_created: 2026-02-07
 ---
 We extend our previous discussion on the central dogmas of logical positivism/empiricism and the central problem the faced: the problem of induction. Beginning with a historical overview, the question of the reliability of induction was famously put forth by David Hume who was considered an inductive skeptic questioning whether there's any reason to believe that past events can tell us about the future. The logical positivists attempted to tackle this problem by developing an abstract theory (Hempel calls it a criteria) to justify induction. This chapter will explore:
