@@ -14,3 +14,20 @@ A nuance that should be noted is that the interval $(L,U)$ is itself random and 
 One method to generate confidence intervals is the pivot method. This is not defined in Hogg's text so I take one from DeGroot and Schervish
 
 ***Definition (Pivot)***. Let $X_1,X_2,...X_n$ be a random sample distribution that depends on parameter $\theta$ and let $V(X_{1},X_{2},\dots,X_{n},\theta)$  be a statistic. $V$ is called a pivot random variable if the distribution is the same for all $\theta$.
+
+The essence of the pivot method is to make use of a statistic, $V$ with a known distribution who's values do not depend on the parameter, $\theta$ , so that we can compute a $P(V= v_1)$ and $P(V=v_2)$ such that $P(v_1 < V <v_2) = 1-\alpha$ (our desired confidence level) and then algebraically manipulating it $V$ by applying some function $f$ to isolate the desired parameter, that is, $f(V) = \theta$ so we can find $P(f(v_1)< \theta < f(v_2))$ where $(f[v_1], f[v_2])$ is our desired confidence interval. I believe this requires our statistic $V = V(X_1,X_2,.. X_n, \theta)$ to be a bijective function so that it is invertible. In summary the algorithm to determine the confidence interval from a random sample $(X_n)$ of a parameter of a random variable with a known distribution but unknown parameter is as follows:
+1) Determine a pivot quantity $V(X_1,X_2,... X_n, \theta)$. This is the hardest part that requires creativity. Note that once the random sample is realized, this just becomes a function of $\theta$, 
+2) Choose a confidence level $1-\alpha$ 
+3) Determine the cdf of the pivot statistic $V$ and find the critical values $a$ and $b$ such that $P(a \le V(\theta) \le b) = 1-\alpha$
+4) Invert $V$ to isolate for $\theta$ so we find $P[V^{-1}(a) \le \theta \le V^{-1}(b)] = 1-\alpha$. The confidence interval will then be $(V^{-1}(a), V^{-1}(b)))$ 
+Note that it is key the pivot variable's distribution does not depend on $\theta$ so that we can execute step 3).
+
+Hogg then goes through some worked examples to illustrate the pivot method and shows pivot statistics that can be used to determine parameters for random variables belonging to certain distribution
+- Example 4.2.1: the $T = (\bar{X}-\mu/(S/\sqrt{n})$ statistic is a pivot statistic for a $X\sim N(\mu, \sigma^2)$ where we do not know the mean or the variance. $T$ only depends on the degrees of freedom, but in a realized sample, this value is known.
+The $T$-statistic being a pivot variable depended on the normality of the random variable, however by a theorem to be proven later in Chapter 5, we can show that if we have a large enough sample size, we can produce a statistic that is approximately normal so that the $T$-statistic can be used as a pivot.
+
+***Theorem 4.2.1 (Central Limit Theorem).*** Let $X_1, X_2, ...X_n$ denote observations from a random sample with a finite variance and therefore a mean. Then the distribution of the random variable $W_n = (\bar{X}-\mu)/(\sigma/\sqrt{n})$ converges to the $N(0,1)$ distribution as $n\to \infty$. Similarly, this result holds if $\sigma$ is not known and is replaced with the sample standard deviation $S$.
+
+Because we this $W_n$ statistic converges to $N(0,1)$, we can technically use the $Z$-distribution (i.e. $N(0,1)$) to directly approximate confidence intervals, but the t-distribution is still preferred because it is a wider therefore resulting in a larger and more conservative confidence interval for we do not know how fast the random variable can converge to $N(0,1)$.  
+
+In essence, the $T$ t-distribution on a realized sample (so degrees of freedom are known) can always be used as a pivot to determine confidence intervals for the mean by the central limit theorem (CLT). We also have the option to directly compute the confidence interval by the $Z$-distribution $N(0,1)$ 
