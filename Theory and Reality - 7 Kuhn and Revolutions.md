@@ -24,8 +24,9 @@ parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
 	- Subjective view of progress between paradigms. History written by victor. This is a relativist vew. (no such thing as objective truth. All truth is relative)
 	- Objective view of progress: Paradigms improve in problem solving efficiency.
 		- PGS criticizes this as this gives a common baseline between paradigms and conflicts with his incommensurability of paradigms. How can we decide one paradigm has better problem solving if we can't agree on which problems are important
-- What characterizes science
-	- 
+Closing thoughts
+- Logical positivists and Popper viewed scientific practices in terms of logic/language epistomlological theories and that they differed in degree and criteria from normal every day problemsolving. Kuhn introduced the idea that it is a social organization.
+- Introduced the idea of science being thought of at the organizational vs individual level. Like the invisible hand of the free market formed by several self-interested individuals, the invisible hand of science Science is a sum greater than its parts moved by
 
 
 Where do we stand:
