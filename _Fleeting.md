@@ -7,10 +7,11 @@ date_created:
 ---
 # Grocery
 
-- eggs
 - lemons
-- greens
-- fennel
+- pork
+- lemongrass
+- dill
+- 
 
 
 - tarragon
@@ -20,14 +21,9 @@ date_created:
 
 Elbow out when in body for thumb
 Think about arm movement to reduce stretching of hand
-E
 
 
 # To Do
-- John Mortensen: preparation for college. What is partimento
-- print rule of the octave from John Mortensen 
-- Gradus ad parnassum vol 10-12
-- Staff ledger paper
 - Good examples of first species tonic cantus firmus to sing to
 - printouts for cadences and voicing cadences
 
@@ -38,8 +34,6 @@ E
 - Labels
 - Notebooks
 - Rachmaninoff TOC
-- 
-- 
 
 
 
