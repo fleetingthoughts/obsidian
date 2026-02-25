@@ -26,7 +26,10 @@ Hogg then goes through some worked examples to illustrate the pivot method and s
 - Example 4.2.1: the $T = (\bar{X}-\mu/(S/\sqrt{n})$ statistic is a pivot statistic for a $X\sim N(\mu, \sigma^2)$ where we do not know the mean or the variance. $T$ only depends on the degrees of freedom, but in a realized sample, this value is known.
 The $T$-statistic being a pivot variable depended on the normality of the random variable, however by a theorem to be proven later in Chapter 5, we can show that if we have a large enough sample size, $T$-statistic of ANY random variable that isn't normal will approximate to a normal distribution so that we can use the $Z$-distribution directly.
 
-***Theorem 4.2.1 (Central Limit Theorem).*** Let $X_1, X_2, ...X_n$ denote observations from a random sample with a finite variance and therefore a mean. Then the distribution of the random variable $W_n = (\bar{X}-\mu)/(\sigma/\sqrt{n})$ converges to the $N(0,1)$ distribution as $n\to \infty$. Similarly, this result holds if $\sigma$ is not known and is replaced with the sample standard deviation $S$.
+***Theorem 4.2.1 (Central Limit Theorem).*** Let $X_1, X_2, ...X_n$ denote observations from a random sample with a finite variance and therefore a mean. Then the distribution of the random variable $W_n = (\bar{X}-\mu)/(\sigma/\sqrt{n})$ converges to the $N(0,1)$ distribution as $n\to \infty$. Similarly, this result holds if $\sigma$ is not known and is replaced with the sample standard deviation $S$ where $S^2= (n-1)^{-1}\sum_{i=1}^{n}(X_i-\bar{X})^2$ 
 
 Because we this $W_n$ statistic (which is basically the $T$-statistic) converges to $N(0,1)$, we can technically use the $Z$-distribution (i.e. $N(0,1)$) to directly approximate confidence intervals, but the t-distribution is still preferred because it is a wider therefore resulting in a larger and more conservative confidence interval for we do not know how fast the random variable can converge to $N(0,1)$.  
 
+# 4.2.1 Confidence Intervals for Difference in Means
+
+# 4.2.2 Confidence Intervals for Difference in Proportion of Means
