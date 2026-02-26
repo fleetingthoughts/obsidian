@@ -12,3 +12,4 @@ $$(a_1b_1+a_2b_2+...+a_nb_n)^2 \le (a_1^2+a_2^2+...+a_n^2)(b_1^2+b_2^2+...+b_n^2
 
 In the special case that $n=2$, we achieve the result that the geometric mean of two positive numbers never exceeds the arithmetic mean by choosing 
 $$a_1 = \sqrt x ;a_2 = \sqrt y; b_1= \sqrt y; b_2 = \sqrt x$$ 
+In statistics, the fact that $Var(X) \ge 0$ implies that $E(X^2) \ge [E(X)]^2$ is an example of the Cauchy-Schwartz Inequality.
