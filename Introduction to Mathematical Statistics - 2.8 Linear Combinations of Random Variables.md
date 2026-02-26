@@ -26,3 +26,10 @@ $$Var(T) = \Sigma_{i}^{n} a_{i}^{2}\sigma_{i}$$
 Our motivation for all this math is to analyze random variables called random samples
 
 ***Definition 2.8.1.*** If the random variables $X_1, X_2,.. X_n$ are independent and identically distributed (i.e. they all have the same distribution), then we say that these random variables constitute a random sample of size $n$ from that common distribution. A random sample is synonymous then with a group of random variables that are IID.
+
+In several examples, the author derives the results for statistics of random samples that will be used repeatedly:
+- Sample mean, $\bar{X}$ defined as a specific linear combination of the random sample
+- $E(\bar{X})= \mu$. Later we'll show this follows the definition of an unbiased estimator of a parameter, in this case, the mean of the random variable
+- $Var(\bar{X})=\frac{\sigma^2}{n}$. Note that this aligns with our intuitive notion that the "deviation" of the sample mean from the true mean decreases as we take more samples. Also, unlike the sample mean, we cannot calculate $Var(\bar{X})$ strictly from the random sample so we need another statistic we can use to estimate the variance.
+Seeing that the sample mean is a unbiased estimator of the true mean, we try to find a similar statistic that serves as an unbiased estimator. One is the sample mean with the Bessel Correction.
+
