@@ -48,24 +48,17 @@
             "id": "b1f1f3e8ca845d6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "(Rachmaninoff) Prelude in C minor, Op. 23 No. 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Harmony and Counterpoint.canvas",
+                "viewState": {
+                  "x": -1689.5969672905053,
+                  "y": -969.7766346447854,
+                  "zoom": -1.262025807590263
                 }
               },
-              "icon": "lucide-file",
-              "title": "(Rachmaninoff) Prelude in C minor, Op. 23 No. 7"
+              "icon": "lucide-layout-dashboard",
+              "title": "Harmony and Counterpoint"
             }
           }
         ],
@@ -148,7 +141,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 1
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -250,11 +243,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b1f1f3e8ca845d6f",
+  "active": "8b7e7ed7b6867796",
   "lastOpenFiles": [
+    "_Fleeting.md",
+    "(Rachmaninoff) Prelude in C minor, Op. 23 No. 7.md",
     "Piano Repertoire.base",
     "(Bach) Prelude and Fugue in C sharp Major, BWV 848.md",
-    "(Rachmaninoff) Prelude in C minor, Op. 23 No. 7.md",
     "Theory and Reality - 4 Popper's Conjecture and Refutation.md",
     "Theory and Reality - Introduction to the Philosophy of Science.md",
     "Theory and Reality - 1 Introduction.md",
@@ -276,7 +270,6 @@
     "/Cauchy-Schwartz Inequality.md",
     "Textbooks.base",
     "Harmony and Counterpoint.canvas",
-    "_Fleeting.md",
     "Theory and Reality - 2 Logic Plus Empricism.md",
     "Introduction to Mathematical Statistics - 4.1 Sampling and Statistics.md",
     "Understanding Analysis - 1.7 Epilogue.md",
