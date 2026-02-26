@@ -10,11 +10,11 @@ We could get an intuitive sense of what variables should be discrete random vari
 
 ***Definition 1.7.1 (Continuous Random Variables).*** A random variable is a continuous random variable if its cumulative distribution function is a continuous function for all $x \in R$.
 
-This definition seems to be a consequence of the fact that if the sample space isn't countable and it is "greater" than it must extend to the set of all real numbers as there's no continuum of cardinality between the set of natural numbers and real numbers. 
+This definition seems to be a consequence of the fact that if the sample space isn't countable and it is "greater" than it must extend to the set of all real numbers as there's no continuum of cardinality between the set of natural numbers and real numbers. It should be noted that between determining the cdf or pdf of a continuous random variable, it is usually preferable to determine the CDF especially if it is analytic because integration with a pdf is harder than differentiating a cdf.
 
 If the continuous random variable is absolutely continuous, then we can integrate its probabilities to obtain the CDF.
 
-The <u>support </u> of the continuous random variable $x \in X$ is analogous to the definition for discrete variables where it all the points $x$ such that $p(x) \gt 0$ . By definition of the CDF, we can derive two properties of the pdf:
+The <u>support </u>of the continuous random variable $x \in X$ is analogous to the definition for discrete variables where it all the points $x$ such that $p(x) \gt 0$ . By definition of the CDF, we can derive two properties of the pdf:
 1) $p_x(x) \ge 0$ 
 2) $\int_{\infty}^{\infty} p_x(t)dt = 1$ 
 Outside of the scope of this book but it can be shown solely that if a function satisfies both these properties than it is a pdf for a continuous random variable 
