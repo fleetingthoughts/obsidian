@@ -7,7 +7,7 @@ tags:
   - "#confirmation"
 date_created: 2026-02-07
 ---
-We extend our previous discussion on the central dogmas of logical positivism/empiricism and the central problem the faced: the problem of induction. Beginning with a historical overview, the question of the reliability of induction was famously put forth by David Hume who was considered an inductive skeptic questioning whether there's any reason to believe that past events can tell us about the future. The logical positivists attempted to tackle this problem by developing an abstract theory (Hempel calls it a criteria) to justify induction. This chapter will explore:
+We extend our previous discussion on the central dogmas of logical positivism/empiricism and the central problem they faced: the problem of induction. Beginning with a historical overview, the question of the reliability of induction was famously put forth by David Hume who was considered an inductive skeptic questioning whether there's any reason to believe that past events can tell us about the future. The logical positivists attempted to tackle this problem by developing an abstract theory (Hempel calls it a criteria) to justify induction. This chapter will explore:
 - The use of deductive logic as a basis to formulate a theory of induction and the different types of nondeductive inferences
 - The hypothetico-deductivist method put forth to provide a framework for induction: 
 - Two famous problems that any good theory of induction must solve: Goodman's riddle of induction and Hempel's Paradox
