@@ -6,15 +6,7 @@ tags:
 date_created:
 ---
 # Grocery
-
-- lemons
-- pork
-- lemongrass
-- dill
-- fish
-- chicken
 - cream
-- rosemary 
 - white wine
 
 

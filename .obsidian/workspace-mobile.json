@@ -48,17 +48,24 @@
             "id": "b1f1f3e8ca845d6f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Harmony and Counterpoint.canvas",
-                "viewState": {
-                  "x": -1689.5969672905053,
-                  "y": -969.7766346447854,
-                  "zoom": -1.262025807590263
+                "file": "Theory and Reality - Introduction to the Philosophy of Science.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Harmony and Counterpoint"
+              "icon": "lucide-file",
+              "title": "Theory and Reality - Introduction to the Philosophy of Science"
             }
           }
         ],
@@ -141,7 +148,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 3
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -243,9 +250,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8b7e7ed7b6867796",
+  "active": "b1f1f3e8ca845d6f",
   "lastOpenFiles": [
+    "Textbooks.base",
     "_Fleeting.md",
+    "Harmony and Counterpoint.canvas",
     "(Rachmaninoff) Prelude in C minor, Op. 23 No. 7.md",
     "Piano Repertoire.base",
     "(Bach) Prelude and Fugue in C sharp Major, BWV 848.md",
@@ -268,8 +277,6 @@
     "/Introduction to Mathematical Statistics - 1.9 Some Special Expectations.md",
     "/Introduction to Mathematical Statistics - 1.7 Continuous Random Variables.md",
     "/Cauchy-Schwartz Inequality.md",
-    "Textbooks.base",
-    "Harmony and Counterpoint.canvas",
     "Theory and Reality - 2 Logic Plus Empricism.md",
     "Introduction to Mathematical Statistics - 4.1 Sampling and Statistics.md",
     "Understanding Analysis - 1.7 Epilogue.md",
