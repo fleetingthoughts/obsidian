@@ -25,3 +25,7 @@ The book does not explain this, but note that axiom 1) implies stationarity, tha
 It is then proven that the [[Sum of random variables with a Poisson distribution is itself a Poisson distribution]]. <u>Note that in general, a linear combination of Poisson distributed random variables is not a Poisson distribution itself (i.e. the coefficients must be 1)</u>
 ***Theorem 3.2.1 (Sum of Random variables with a Poisson distribution).*** Suppose $X_1,  X_2,..,X_n$ are random variables with a Poisson distribution each with a corresponding parameter $\lambda_i$. If $Y= \Sigma^{\infty}_{i=1}X_i$, then $Y$ is a Poisson distribution with the parameter $Y= \Sigma^{\infty}_{i=1}\lambda_i$ 
 
+Some interesting properties of the Poisson distribution from doing exercises:
+- Exercise 3.2.4: [[Recursive property of the probability of Poisson Random variables]]
+- 
+
