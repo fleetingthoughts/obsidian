@@ -42,6 +42,6 @@ The book is well organized into its chapters with a crystal thesis that one can 
 4) [Popper: Conjecture and Refutation](Theory%20and%20Reality%20-%204%20Popper's%20Conjecture%20and%20Refutation.md)
 	- Popper's criteria for science and the demarcation from non-science
 	- Popper's normative views on science
-	- Objections to Popper's views on the criteria for Science and confirmation and Popper's response
+	- Objections to Popper's falsifiability criteria for Science and confirmation and Popper's response
 
 ![](Pasted%20image%2020260101015552.png)

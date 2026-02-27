@@ -14,7 +14,10 @@ PGS begins with an admiration for the amount of influence that Popper had on the
  - The primary motive behind Popper's criteria: solving the problem of demarcation.
  - Popper's normative views on Science to be as bold as possible in-line with his falsification criteria
  - Popper's views on Scientific change
- - Objections to Popper's views on the criteria for Science and confirmation and Popper's response
+ - Objections to Popper's views on the criteria for Science and confirmation and Popper's response on the following:
+	 - Refutation of theories with probabilistic outcomes
+	 - Ambiguity of falsification by the Quine-Duhem Thesis
+	 - 
 
 # 4.2 Popper's Theory of Science
 
