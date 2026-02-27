@@ -34,7 +34,7 @@ It should also be emphasized that the AoC applies only to real numbers and is no
 
 Tactically speaking, the AoC essentially gives us an inequality with the supremum with the properties defined in 1.3.2 to do math with.
 
-The AoC axiom and the algebraic manipulation of the $R$ field lets us prove some following properties of infimums and supremums for all bounded subsets $A, B$ of $R$  
+The AoC axiom and the algebraic manipulation of the $\mathbb{R}$ field lets us prove some following properties of infimums and supremums for all bounded subsets $A, B$ of $R$  
 - $sup(A+c) = sup(A) +c$  $where$  $\{c+a:a\in A\}$
 - $sup(A+B)=sup(A)+sup(B)$ (see exercise 1.3.6 on p. 19)
 - $sup(cA)=c*sup(A)$ for $c \gt 0$ (see exercise 1.3.5 on p.19)
