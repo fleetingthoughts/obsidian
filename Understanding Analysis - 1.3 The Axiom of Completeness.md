@@ -28,7 +28,9 @@ To develop some understanding of this. We first need to understand what the leas
 
 Colloquially, definition 1.3.2 states that if a set of real numbers is bounded, it can have infinitely many upper bounds but only 1 supremum. The least upper bound $s$ of a set $A$ is denoted $s = sup(A)$ but it is archaically denoted $s=lub(A)$ as well. The greatest lower bound or infimum denoted $inf(A)$ is defined analogously.
 
-The supremum can be thought of as the hypothetical maximum that $A$ can approach (precursor to the limit) but is not necessarily an element in the set. All maximums of a set are supremum but not all supremum are maximum which can easily be seen when considering the maximum and supremum between an open and a closed bounded interval on the real line such as $\{x\in \mathbb{R}: 0\le2\}$  which has the maximum  and supremum 2 and $\{x\in \mathbb{R}: 0\lt 2\}$  which doesn't have a maximum but has a supremum of 2.
+The supremum can be thought of as the hypothetical maximum that $A$ can approach (precursor to the limit) but is not necessarily an element in the set. All maximums of a set are a supremum but not all supremum are maximums. The difference between supremum and maximum is illustrated when considering the maximum and supremum between an open and a closed bounded interval on the real line such as $\{x\in \mathbb{R}: 0\le2\}$  which has the maximum  and supremum 2 and $\{x\in \mathbb{R}: 0\lt 2\}$  which doesn't have a maximum but has a supremum of 2.
+
+It should also be emphasized that the AoC applies only to real numbers and is not a valid statement for $\mathbb{Q}$. Abbot uses the set $S = \{r\in \mathbb{Q}: r^2 <2\}$ as example set where we are unable to find a rational number that serves as the least upper bound for this set for we can always find a smaller one.
 
 Tactically speaking, the AoC essentially gives us an inequality with the supremum with the properties defined in 1.3.2 to do math with.
 
@@ -43,5 +45,7 @@ Note that nowhere in AoC do we postulate the existence of an infimum. All we nee
 Property 2) of Definition 1.3.2 of the supremum can be reformulated as this lemma:
 
 ***Lemma 1.3.8***. Assume $s\in \mathbb{R}$ is an upper bound for $A\in \mathbb{R}$ then $s=sup(A)$ if and only if for any arbitrary $\epsilon \gt0$, there exists an element $a\in A$ such that $a \ge s-\epsilon$ .^e12bd5
+
+Colloquially, this is saying that the least upper bound is a special bound such that any infinitesimally small amount subtracted away from it will result in it no longer bein an upper bound at all. 
 
 Note that the lemma calls for any arbitrary epsilon and that $A$ has to be in the real for the supremum to exist. The proof can be done by proving the forward (if $s=sup(A)$ then $s-\epsilon$  is no longer an upper bound) and converse direction (if s is an upper bound such that any $s-\epsilon$ makes it no longer an upper bound then it must be the supremum by satisfying property 2 of definition 1.3.2) as it is a logical equivalent if and only if statement. Also it is for any arbitrary $\epsilon$ and we may choose specific values for proof by specific counterexample choice of $\epsilon$ 
