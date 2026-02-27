@@ -18,6 +18,7 @@ date_created:
 Elbow out when in body for thumb
 Think about arm movement to reduce stretching of hand
 
+Cembalo historic organ partimento
 
 # To Do
 - Good examples of first species tonic cantus firmus to sing to
