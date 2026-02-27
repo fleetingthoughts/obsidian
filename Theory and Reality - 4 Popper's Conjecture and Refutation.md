@@ -16,8 +16,8 @@ PGS begins with an admiration for the amount of influence that Popper had on the
  - Popper's views on Scientific change
  - Objections to Popper's views on the criteria for Science and confirmation and Popper's response on the following:
 	 - Refutation of theories with probabilistic outcomes
-	 - Ambiguity of falsification by the Quine-Duhem Thesis
-	 - 
+	 - Ambiguity of falsification by the Quine-Duhem Thesis resulting in the reduction of Science into subjective decisions blurring the demarcation of Science
+	 - Rebuttal to the confirmation myth: Inability to evaluate competing hypothesis that have not been falsified
 
 # 4.2 Popper's Theory of Science
 
