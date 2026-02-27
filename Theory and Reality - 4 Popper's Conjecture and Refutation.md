@@ -7,7 +7,7 @@ tags:
 date_created: 2026-02-20
 parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
 ---
-PGS begins with an admiration for the amount of influence that Popper had on the scientific community due to the simplicity of his ideas, but he notes that in the philosophical community, he has come under tough scrutiny that, in his opinion, Popper cannot escape. The main points of this section are as follows:
+PGS comments on the popular impact Popper had on the scientific community due to the simplicity of his ideas (and in my opinion, the distinguishing of science to the point of being too conservative), but he notes that in the philosophical community, he has come under tough scrutiny that, in his opinion, Popper cannot escape. The main points of this section are as follows:
 
  - Popper's falsification criteria and the deductive basis on modus tollens
  - The myth of confirmation
