@@ -26,7 +26,7 @@ To develop some understanding of this. We first need to understand what the leas
 1) $a \le s$. So $s$ is an upper bound for all $A$ 
 2) if any other $b$ is an upper bound for $A$ then $s \le b$ 
 
-The least upper bound $s$ of a set $A$ is denoted $s = sup(A)$ but it is archaically denoted $s=lub(A)$ as well. An analogous greatest lower bound or infimum denoted $inf(A)$ can be defined as well. 
+Colloquially, definition 1.3.2 states that if a set of real numbers is bounded, it can have infinitely many upper bounds but only 1 supremum. The least upper bound $s$ of a set $A$ is denoted $s = sup(A)$ but it is archaically denoted $s=lub(A)$ as well. The greatest lower bound or infimum denoted $inf(A)$ is defined analogously.
 
 The supremum can be thought of as the hypothetical maximum that $A$ can approach (precursor to the limit) but is not necessarily an element in the set. All maximums of a set are supremum but not all supremum are maximum which can easily be seen when considering the maximum and supremum between an open and a closed bounded interval on the real line such as $\{x\in \mathbb{R}: 0\le2\}$  which has the maximum  and supremum 2 and $\{x\in \mathbb{R}: 0\lt 2\}$  which doesn't have a maximum but has a supremum of 2.
 
