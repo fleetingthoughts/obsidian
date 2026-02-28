@@ -1,5 +1,4 @@
 ---
-parent:
 tags:
   - "#classics"
   - "#mortimer_adler"
