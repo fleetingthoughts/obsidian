@@ -38,6 +38,7 @@ Cembalo historic organ partimento
 - Understanding Poetry - Cleanth Brooks
 - Understanding Drama - Cleanth Brooks
 - Carnap - On Natural Philosophy
+- What is this thing called science - chalmers
 
 Preludes cortot
 
