@@ -42,3 +42,5 @@ As a basis completely describes a vector space and the # of vectors it contains 
 ***Theorem 1.11 (Relating Vector spaces and subspaces to each other by their dimension).*** If $W$ is a finite dimensional subspace of $V$, then $dim(W)\le dim(V)$. Moreover, if $dim(W)=dim(V)$ then $W=V$.
 
 ***Corollary (How the basis of a vector space relates to the basis of its subspace).*** If $W$ is a finite-dimensional subspace of $V$, then the basis for $W$ can be extended by forming a union with some other vectors linearly independent from it to create a basis for $V$.
+
+To round off the discussion on the dimension of vector spaces, Friedberg provides an important application of these theorems to the [[Lagrange Interpolation Formula]] to prove that it provides the minimal number of functions to construct a polynomial that fits through a finite number of points, that is, the Lagrange interpolation formula is a basis of the polynomial vector space
