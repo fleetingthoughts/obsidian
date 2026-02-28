@@ -7,12 +7,9 @@ date_created:
 ---
 # Grocery
 - cream
-- white wine
-
-
 - tarragon
 - white wine
-- qrborio rice
+- arborio rice
 - parmesan
 
 Elbow out when in body for thumb
@@ -36,7 +33,11 @@ Cembalo historic organ partimento
 
 
 ## Books
--  Carnap - On Natural Philosophy
+-  Logic of Scientific Discovery
+- Understanding Fiction Cleanth Brooks
+- Understanding Poetry - Cleanth Brooks
+- Understanding Drama - Cleanth Brooks
+- Carnap - On Natural Philosophy
 
 Preludes cortot
 
