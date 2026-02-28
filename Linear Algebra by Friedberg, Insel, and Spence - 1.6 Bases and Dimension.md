@@ -42,10 +42,3 @@ As a basis completely describes a vector space and the # of vectors it contains 
 ***Theorem 1.11 (Relating Vector spaces and subspaces to each other by their dimension).*** If $W$ is a finite dimensional subspace of $V$, then $dim(W)\le dim(V)$. Moreover, if $dim(W)=dim(V)$ then $W=V$.
 
 ***Corollary (How the basis of a vector space relates to the basis of its subspace).*** If $W$ is a finite-dimensional subspace of $V$, then the basis for $W$ can be extended by forming a union with some other vectors linearly independent from it to create a basis for $V$.
-
-- Theorem showing a finite spanning set for $V$ can be reduced to a basis for a vector space
-- Replacement theorem
-	- corollary: If a vector space has a finite basis, then all basis representations of V contain same number of finite vectors
-	- Corrollary
-- Define finite dimensional.
-- 
