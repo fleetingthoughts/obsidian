@@ -19,9 +19,9 @@ $$P[u(X) \ge c] \le \frac{E[u(X)]}{c}$$
  The frequently used Chebyshev's Inequality is a special case of the Markov's inequality
 
 ***Theorem 1.10.3 (Chebyshev's Inequality).*** Let $X$ be a random variable with finite variance, $\sigma ^2$  (therefore its mean $\mu$ exists as well by Theorem 1.10.1). Then for every $k \gt 0$.
-$$P(|X-\mu| \gt k\sigma) \lt \frac{1}{k^2}$$
+$$P(|X-\mu| \ge k\sigma) \le \frac{1}{k^2}$$
 or equivalently
-$$P(|X-\mu| \lt k\sigma) \gt 1- \frac{1}{k^2}$$
+$$P(|X-\mu| \lt k\sigma) \ge 1- \frac{1}{k^2}$$
 
 One useful way to also right it is to only leave the variance on the right hand side of the inequality. If we let $\epsilon= k\sigma$, then we have:
 $$P(|X-\mu|>\epsilon)<\frac{Var(X)}{\epsilon^2}$$ 
