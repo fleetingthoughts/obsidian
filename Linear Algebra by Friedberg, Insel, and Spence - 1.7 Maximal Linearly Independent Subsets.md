@@ -1,0 +1,8 @@
+---
+tags:
+  - "#math"
+  - "#linear_algebra"
+date_created: 2026-03-01
+parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
+---
+
