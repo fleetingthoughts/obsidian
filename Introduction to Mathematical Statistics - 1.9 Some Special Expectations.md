@@ -31,7 +31,7 @@ $$ Var(aX+b) = a^2Var(X)$$The proof can be derived straight from the definition 
 We now define a special expectation that uniquely characterizes a pdf:
 ***Definition 1.9.3 (Moment Generating Function).*** Let $X$ be a random variable such that for some $h > 0$, the expectation of $e^{tX}$  exists for $−h<t<h$ . The moment generating function of $X$ is defined to be the function $M(t) = E(e^{tX})$ , for $−h<t<h$ . We use the abbreviation mgf to denote the moment generating function of a random variable.
 
-The mgf is a generalization of the mean and the variance. The mgf is of interest because it can uniquely identify distributions:
+Note that by this definition, $M(0)=1$ The mgf is a generalization of the mean and the variance. The mgf is of interest because it can uniquely identify distributions:
 
 Theorem 1.9.2. Let $X$ and $Y$ be random variables with moment generating functions $M_X$  and $M_Y$, respectively, existing in open intervals about 0. Then $F_X (z) =F_Y (z)$  for all $z ∈ R$  if and only if $M_X(t) = M_Y (t)$ for all $t ∈ (−h, h)$ for some $h > 0$ .
 
