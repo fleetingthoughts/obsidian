@@ -39,6 +39,7 @@ Cembalo historic organ partimento
 - Understanding Drama - Cleanth Brooks
 - Carnap - On Natural Philosophy
 - What is this thing called science - chalmers
+- _A Little Book on Form: An Exploration into the Formal Imagination of Poetry_
 
 Preludes cortot
 
