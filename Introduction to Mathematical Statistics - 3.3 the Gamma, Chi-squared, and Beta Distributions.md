@@ -38,7 +38,8 @@ The support of this pdf is on $(0,\infty)$. This function has the following para
 1) $\mu=\alpha\beta$
 2) $\sigma^2=\alpha\beta^2$
 3) The moment generating function is as follows:$$M(t)=\frac{1}{(1-\beta t)^{\alpha}}$$for $t<\frac{1}{\beta}$
-And as with so many other functions, the linear combination of independent random variables will result in another gamma function:
+
+Linear combinations of $\Gamma$-distributed random variables do not result in a $\Gamma$-distribution in general except under specific conditions:
 ***Theorem 3.3.1 (Linear combination of independent random variables with a $\Gamma$-distribution).*** Given a set of random variables, $X_i$, with a $\Gamma(\alpha_i,\beta)$ distribution (i.e. identical $\beta$ but different $\alpha$), if $Y =\Sigma^n_{i=1}X_i$ , then $Y$ has a $\Gamma(\Sigma^n_{i=1}\alpha_i,\beta)$ distribution.
 # Cases where the $\Gamma$-distribution arises
 Suppose we wanted to determine the probability that a device will fail at a certain time, $x$. We want to find the pdf, $f(x)$ and cdf, $F(x)$, of a random variable $X$ that maps the failure to the real number time of failure. We look at this in terms of differential equations by looking at the rate of failure, $r(x)$ at time $x$:
