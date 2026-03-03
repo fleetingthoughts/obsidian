@@ -67,9 +67,43 @@
               "icon": "lucide-file",
               "title": "Theory and Reality - 3 Induction and Confirmation"
             }
+          },
+          {
+            "id": "e01b02f22e5f933c",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "eb6c9d3bdd3075f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Fleeting"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,36 +284,37 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b1f1f3e8ca845d6f",
+  "active": "eb6c9d3bdd3075f0",
   "lastOpenFiles": [
+    "_Fleeting.md",
+    "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
+    "Sum of random variables with the identical Poisson distribution is itself a Poisson distribution.md",
+    "Proof of the Steinitz exchange lemma.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 1.7 Maximal Linearly Independent Subsets.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 1.6 Bases and Dimension.md",
+    "Lagrange interpolating polynomial as a basis of the polynomial vector space.md",
+    "Introduction to Mathematical Statistics - 4.4 Order Statistics.md",
+    "Introduction to Mathematical Statistics - 4.3 Confidence Intervals for Parameters of Discrete Distributions (Optional).md",
+    "How to Read a Book - Mortimer Adler.md",
+    "conflict-files-obsidian-git.md",
+    "Understanding Analysis - 1.2 Some Preliminaries.md",
+    "Understanding Analysis - 1.1 Discussion of The Irrationality of the Square Root of 2.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence.md",
+    "/Understanding Analysis - 1.3 The Axiom of Completeness.md",
+    "/Theory and Reality - 4 Popper's Conjecture and Refutation.md",
+    "/_Fleeting.md",
+    "/Understanding Analysis - 1.2 Some Preliminaries.md",
+    "/Understanding Analysis - 1.1 Discussion of The Irrationality of the Square Root of 2.md",
+    "/Theory and Reality - Introduction to the Philosophy of Science.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 1.4 Linear Combinations and Systems of Linear Equations.md",
     "Theory and Reality - Introduction to the Philosophy of Science.md",
     "Textbooks.base",
-    "_Fleeting.md",
     "Harmony and Counterpoint.canvas",
     "(Rachmaninoff) Prelude in C minor, Op. 23 No. 7.md",
     "Piano Repertoire.base",
     "(Bach) Prelude and Fugue in C sharp Major, BWV 848.md",
     "Theory and Reality - 4 Popper's Conjecture and Refutation.md",
-    "Theory and Reality - 1 Introduction.md",
-    "Theory and Reality - 5 Kuhn and Normal Science.md",
-    "/Theory and Reality - 5 Kuhn and Normal Science.md",
-    "Introduction to Mathematical Statistics - 4.2 Confidence Intervals.md",
-    "Theory and Reality - 6 Kuhn and Revolutions.md",
-    "Recursive property of the probability of Poisson Random variables.md",
-    "/Introduction to Mathematical Statistics - 4.2 Confidence Intervals.md",
-    "/Theory and Reality - 6 Kuhn and Revolutions.md",
-    "/Introduction to Mathematical Statistics - 3.2 The Poisson Distributions.md",
-    "/Introduction to Mathematical Statistics - 2.8 Linear Combinations of Random Variables.md",
-    "/_Fleeting.md",
-    "/Theory and Reality - 3 Induction and Confirmation.md",
-    "/Theory and Reality - 2 Logic Plus Empricism.md",
-    "/Recursive property of the probability of Poisson Random variables.md",
-    "/Introduction to Mathematical Statistics - 1.9 Some Special Expectations.md",
-    "/Introduction to Mathematical Statistics - 1.7 Continuous Random Variables.md",
-    "/Cauchy-Schwartz Inequality.md",
-    "Theory and Reality - 2 Logic Plus Empricism.md",
-    "Introduction to Mathematical Statistics - 4.1 Sampling and Statistics.md",
-    "Understanding Analysis - 1.7 Epilogue.md",
     "Pasted image 20260223005741.png",
     "Pasted image 20260223005637.png",
     "Pasted image 20260223004939.png",
