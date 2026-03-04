@@ -34,7 +34,12 @@ Main Questions and Rules
 # 3 Has the author made a convincing argument
 # 4 How does the book fit into the overall larger discussion. How does it relate with other books
 
-Tips
+Within this book, Adler provides more specific tips for the following types of literature:
+- [[How to read Practical Books]]
+- [[How to Read Imaginative Literature]]
+- [[How to read history]]
+- [[How to read Science and Mathematics]]
+# Tips
 - Read with a pointer
 - Mark the book
 - Use external commentary sources sparingly
