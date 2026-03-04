@@ -16,10 +16,10 @@ rating out of 10:
 Main Questions and Rules
 ## 1 What is the main thesis of the book as whole and its purpose
 1. Classify the book and determine which subject or field of discussion it belongs to
-	- Theory (History, Philosophy, Sciencec) vs Practical
+	- Theory (History, Philosophy, Science) vs Practical
 2. In your own words, express what the book is about
 3. Outline the structure of the book and generally what he's trying to say
-		- Make your own TOC
+	- Make your own TOC
 4. What problems is the author trying to addres
 # 2 How does the book make its points and the general structure to support its purpose
 5. What are the main special terms the author uses
