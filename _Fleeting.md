@@ -17,11 +17,6 @@ Think about arm movement to reduce stretching of hand
 Cembalo historic organ partimento
 
 ### Hogg
-<u>Chapter 1.9: </u>
-- 13
-- 14
-- 15
-- 16
 <u>Chapter 2.1</u>
 - 8
 - 10
@@ -99,6 +94,42 @@ Cembalo historic organ partimento
 - Problem 3
 - Problem 4
 - Problem 5
+
+# Abott
+<u>1.3</u>
+- 1.3.5
+- 1.3.6
+- 1.3.7
+- 1.3.8
+- 1.3.10
+<u>1.4</u>
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 1.4.4
+- 1.4.5
+<u>2.2</u>
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+<u>2.3</u>
+- 2.3.1
+- 2.3.2
+- 2.3.3
+- 2.3.4
+<u>2.4</u>
+- 2.4.1
+- 2.4.2
+- 2.4.3
+- 2.4.4
+<u>2.5</u>
+- 2.5.1
+- 2.5.2
+- 2.5.3
+<u>2.6</u>
+
 # To Do
 - Good examples of first species tonic cantus firmus to sing to
 - printouts for cadences and voicing cadences
