@@ -44,8 +44,7 @@ Cembalo historic organ partimento
 	- 2
 	- 3
 <u>Section 1.1e</u>
-- Problem 1
-	- 1
+- Problem
 	- 3
 	- 4
 	- 5

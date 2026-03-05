@@ -3,15 +3,15 @@ tags:
 date_created: 2025-12-29
 parent:
 author: Mortimer Adler, Charles Van Doren
-edition:
-original publisher:
-reprint publisher:
-original publication year:
-edition publication year:
-isbn-13:
-cover:
-status:
-rating out of 10:
+edition: 2nd
+original publisher: Simon & Schuster LLC
+reprint publisher: Simon & Schuster
+original publication year: "1940"
+edition publication year: "2016"
+isbn-13: 978-0671212094
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1310993739i/567610.jpg
+status: complete
+rating out of 10: "10"
 ---
 Main Questions and Rules
 ## 1 What is the main thesis of the book as whole and its purpose
@@ -55,4 +55,3 @@ I need a legend, or structure to annotate with. I also need to outline how I'm s
 - Q: Question
 - A: argument being made
 - P: Proposition, point in support of argument
-- Q: Question
