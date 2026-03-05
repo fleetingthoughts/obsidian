@@ -82,24 +82,13 @@
             "id": "eb6c9d3bdd3075f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "_Fleeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Projects.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "_Fleeting"
+              "icon": "lucide-table",
+              "title": "Projects"
             }
           }
         ],
