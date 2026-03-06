@@ -12,4 +12,4 @@ parent: "[[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig
 - sample range
 - sample quantile
 - sample median
-- Order statistics makes confidence intervals independent of the distribution of the original function by 
+- Order statistics makes confidence intervals independent of the distribution of the original function by applying the principles of the bernoulli trial. Given a random sample, the probability that a random observation is above or below the desired quantile is essentially a success or failure bernoulli trial.
