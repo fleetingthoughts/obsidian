@@ -12,3 +12,4 @@ parent: "[[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig
 - sample range
 - sample quantile
 - sample median
+- Order statistics makes confidence intervals independent of the distribution of the original function by 
