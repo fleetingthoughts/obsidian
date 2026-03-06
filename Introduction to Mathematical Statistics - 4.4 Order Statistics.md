@@ -6,4 +6,5 @@ tags:
 date_created: 2026-03-02
 parent: "[[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig]]"
 ---
-
+- Order statistics useful because do not depend on distribution from which sample is obtained
+- Order statistics order the random sample from smallest to largest leading to theorem 4.4.1: The order random sample has a specific join distribution
