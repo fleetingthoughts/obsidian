@@ -19,7 +19,7 @@ $$f_{X_2|X_1}(x_2|x_1) = \frac{f_{X_2,X_1}(x_1,x_2)}{f_{X_1}(x_1)}$$
 and this similarly satisfies the conditions of the pdf by being non-negative and summing to 1 over $x_2$. The conditional pdf on the left-hand of the equality can be abbreviated to $f_2(x_2)$.
 
 As it is a proper pdf, the expectation of the conditional pdf, $f_2(x_2)$  can be determined and is referred to as the conditional expectation of a function, $u(X_2)$ given $X_1 =x_1$.
-$$E[u(X_2)|x_1]=\int_{-\infty}^{\infty}u(x_2)f_2(x_2)dx_2$$Notice that in reality, the conditional expectation is a function of the "fixed" $x_1$ so instead of being a constant, it is actually a random variable itself. The conditional variance can also be analogously and it too is a function of the fixed random variable. 
+$$E[u(X_2)|x_1]=\int_{-\infty}^{\infty}u(x_2)f_{2|1}(x_2|x_{1})dx_2$$Notice that in reality, the conditional expectation is a function of the "fixed" $x_1$ so instead of being a constant, it is actually a random variable itself. The conditional variance too is a function of the fixed random variable. 
 
 We derive some useful properties of the conditional expectation and variance.
 
