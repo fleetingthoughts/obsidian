@@ -7,7 +7,7 @@ tags:
   - larry_laudan
   - imre_lakatos
 date_created: 2026-03-01
-parent:
+parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
 ---
 Since Kuhn's ***Structures***, reactions to his ideas on Science and the way he approached the philosophy of Science in general were plenty. Here we will discuss three main philosophers in order: 1) Imre Lakatos, 2) Larry Laudan, and 3) Paul Feyerabend. PGS impresses on us the reputation and legacy of each. Both Lakatos and Laudan were repulsed by their interpretation of Kuhn's idea of science as a propagandist and irrational affair which they sought to repair by providing a methodological approach to science. On the other hand, Paul Feyerabend, in PGS's view, was more astute in his assessment of Kuhn and saw his approach to Science, especially Normal Science, as too close-minded. Feyerabend in particular was quite a maverick in the philosophy of Science
 
@@ -30,8 +30,6 @@ Laudan further expands on Lakatos by providing a criteria by which a research tr
 - Pursuit: The research tradition that a scientist wants to try out but doesn't have the same confidence in it as the one he "accepts"
 The critical thing here is the Laudanian scientist can work in multiple research traditions at once which is in contrast to the indoctrination of a Kuhnian scientist to one paradigm. Thus, this allows for a scientist to work for even a failing research tradition (i.e. a degenerating research programme in Lakatos' terms) for he would simply "pursue" it just to try it out. There are still some cases where Laudan's pursuit and acceptance model doesn't take into account, but PGS instead rebuts both Laudan and Lakatos here by their failure to take into account the number of people working in a research tradition or programme when choosing between a programme/tradition. Both Laudan and Lakatos sought to provide a method to Kuhn's madness but they should surely see the benefits in hedging the risks in science by not putting all your proverbial eggs in one basket and flooding the most successful research tradition with all the good scientists. To PGS, Lakatos and Laudan fail to provide an answer to the ideal distribution of people across rival research programmes that is the best for science nor a means to attain this distribution.
 # Feyerabend
-
-
 - Feyereband ideas from "against method"
 	- Nothing should get in the way of science. The only rule is no rule
 	- Characterized by his reaction to Kuhn:
