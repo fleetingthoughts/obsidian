@@ -17,23 +17,7 @@ Think about arm movement to reduce stretching of hand
 Cembalo historic organ partimento
 
 ### Hogg
-<u>Chapter 2.1</u>
-- 8
-- 10
-<u>Chapter 2.3</u>
-- 3
-- 10
-<u>Chapter 2.4</u>
-- 2
-- 8
-<u>Chapter 2.5</u>
-- 2
-- 8
-<u>Chapter 2.8</u>
-- 3
-- 4
-- 7
-- 9
+
 ### Courant
 <u>Section 1.1a</u>
 - Exercises 

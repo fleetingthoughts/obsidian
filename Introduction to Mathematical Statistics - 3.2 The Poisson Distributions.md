@@ -27,5 +27,5 @@ It is then proven that the [[Sum of random variables with the identical Poisson 
 
 Some interesting properties of the Poisson distribution from doing exercises:
 - Exercise 3.2.4: [[Recursive property of the probability of Poisson Random variables]]
-- 
+- Exercise 3.2.14: [[The mode of the Poisson Distribution]]
 
