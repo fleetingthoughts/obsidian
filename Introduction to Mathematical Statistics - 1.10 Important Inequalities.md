@@ -46,3 +46,6 @@ Armed with these definitions and properties, we now establish the Jensen's inequ
 ***Theorem 1.10.5 (Jensen's Inequality).*** If $f$ is convex on an open interval $I$ and $X$ is a random variable who's support is contained in $I$ and has a finite expectation, then:
 $$f[E(X)] \le E[f(X)]$$
 If $f$ is strictly convex, then the inequality is strict unless $X$ is a constant random variable.
+
+Some interesting notes from doing the problem:
+- Exercise 1.10.5 [[Chernoff's bound]]
