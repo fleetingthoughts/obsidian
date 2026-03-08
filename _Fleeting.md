@@ -31,11 +31,8 @@ Cembalo historic organ partimento
 - Problem
 	- 5
 <u>Section 1.2d</u>
-- Exercise 
 
-	- 4
 - Problem 
-	- 1
 	- 2
 	- 3
 	- 4
