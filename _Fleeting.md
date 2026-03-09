@@ -17,23 +17,38 @@ Think about arm movement to reduce stretching of hand
 Cembalo historic organ partimento
 
 ### Hogg
-<u>Chapter 2.1</u>
-- 8
-- 10
-<u>Chapter 2.3</u>
-- 3
-- 10
-<u>Chapter 2.4</u>
-- 2
-- 8
-<u>Chapter 2.5</u>
-- 2
-- 8
-<u>Chapter 2.8</u>
-- 3
-- 4
-- 7
-- 9
+- 3.3.10
+- 3.3.15
+- 3.3.26
+- 
+
+<u>3.4 The normal distribution</u>
+- 3.4.1
+- 3.4.4
+- 3.4.5
+- 3.4.6
+- 3.4.9
+- 3.4.10
+- 3.4.11
+- 3.4.15
+<u>3.6 t distributions</u>
+- 3.6.1
+- 3.6.2
+- 3.6.6
+- 3.6.7
+- 3.6.8
+<u>4.1 Sampling and Statistics</u>
+- 4.1.1
+- 4.1.2
+- 4.1.5
+- 4.1.6
+<u>4.2 Confidence Intervals</u>
+- 4.2.1
+- 4.2.2
+- 4.2.3
+- 4.2.4
+- 4.2.6
+
 ### Courant
 <u>Section 1.1a</u>
 - Exercises 
@@ -43,54 +58,21 @@ Cembalo historic organ partimento
 	- 1
 	- 2
 	- 3
-<u>Section 1.1e</u>
-- Problem
-	- 5
-<u>Section 1.2d</u>
-- Exercise 
-	- 3
-	- 4
-- Problem 
-	- 1
-	- 2
-	- 3
-	- 4
-<u>Section 1.3b</u>
-- Problem 1
-<u>Section 1.3c</u>
-- Problem 1.3c
 
-<u>Section 1.2</u>
-- Exercise 2
-- Problem 1
-- Problem 2
-<u>Section 1.5</u>
-- Exercise 6
-- Problem 1
-- Problem 2
-- Problem 3
-- Problem 9
 <u>Section 1.6</u>
-- Exercise 1
-- Exercise 3
-- Problem 1
-- Problem 2
-- Problem 3
+
 <u>Section 1.7</u>
 - Exercise 6
-- Exercise 8
 - Problem 1
-- Problem 2
 - Problem 3
 - Problem 4
 - Problem 5
+<u>Miscellaneous problems</u>
+- All of 'em'
+
 
 # Abott
 <u>1.3</u>
-- 1.3.5
-- 1.3.6
-- 1.3.7
-- 1.3.8
 - 1.3.10
 <u>1.4</u>
 - 1.4.1
@@ -100,7 +82,6 @@ Cembalo historic organ partimento
 - 1.4.5
 <u>2.2</u>
 - 2.2.1
-- 2.2.2
 - 2.2.3
 - 2.2.4
 - 2.2.5

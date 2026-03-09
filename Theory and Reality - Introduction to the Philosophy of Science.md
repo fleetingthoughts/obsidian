@@ -43,5 +43,24 @@ The book is well organized into its chapters with a crystal thesis that one can 
 	- Popper's criteria for science and the demarcation from non-science
 	- Popper's normative views on science
 	- Objections to Popper's falsifiability criteria for Science and confirmation and Popper's response
+5) [Theory and Reality - 5 Kuhn and Normal Science](Theory%20and%20Reality%20-%205%20Kuhn%20and%20Normal%20Science.md)
+	- Kuhn's model of Science contrasted against the logical positivists and Popper. Focus on the Normal science of Kuhn
+	- Kuhn's approach to science from sociological and historical perspective as opposed to an abstract level
+6) [Theory and Reality - 6 Kuhn and Revolutions](Theory%20and%20Reality%20-%206%20Kuhn%20and%20Revolutions.md)
+	- Focus on the way Kuhn's explained the mechanism of scientific change
+	- Challenges by PGS and the unanswered questions
+7) [Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks](Theory%20and%20Reality%20-%207%20Lakatos,%20Laudan,%20Feyerabend,%20and%20Frameworks.md)
+	- 3 different views that are largely in reaction to Kuhn but respected his historical and sociological approach to science
+	- Lakatos and the Research Programme
+	- Laudan and the refinement of Lakatos' idea to the Research Tradition
+	- Feyerbend, the maverick of Science, and his wild views on science ("Against Method")
+8) [Theory and Reality - 8 The Challenge from Sociology of Science](Theory%20and%20Reality%20-%208%20The%20Challenge%20from%20Sociology%20of%20Science.md)
+	- The rise of sociology in the Philosophy science. Chapter 8 looks at 4 major inputs from sociology on Science.
+	- Sociology marked the importance of social interactions in producing the norms and standards of science as described by Kuhnian Science
+		- Merton's "weak view" and the underlying values for all of science
+		- David Bloor and the "Strong Programme" which refined Merton's views adding further factors from society to explain the particular beliefs a scientist may hold at a specific time period with the prime driver being societal forces
+		- Refinement of the Strong Programme in the work ***Leviathan and the Air Pump*** which explained the development of social norms through interactions at the individual level using the priority dispute between Hobbes and Boyle as an example
+		- The criticism of the Strong Programme by Bruno Latour and Steven Woolgar's ***Laboratory Life*** which was critical of the hierarchal view of societal forces influencing Science and instead argued for an iterative relationship between human influencing society and vice-versa which also included non-human elements like important documents that played a role. Science is instead a network rather than a community in societal hierarchy
+9) [[Theory and Reality - 9 Feminism]]
 
 ![](Pasted%20image%2020260101015552.png)

@@ -15,7 +15,7 @@ We'll often find that if the random variables are independent and identically di
 
 ***Theorem 2.8.1. (Covariance of a linear combination of random variables).*** Given another random variable, $W$, that is a linear combination of random variables $W = \Sigma_{i}^{n}b_iY_i$ , if $E(X^2)$ and $E(Y^2)$ are both finite [then by a theorem, their means must exist](Introduction%20to%20Mathematical%20Statistics%20-%201.10%20Important%20Inequalities.md) and we can determine $Cov(T,W)$
 $$Cov(T,W) = \Sigma_{i}^{n} \Sigma_{j}^{m}a_ib_jCov(X_i,Y_j)$$
-This means to compute the covariance, we have to compute $i \times j$ covariances.
+This means to compute the covariance, we have to compute $i \times j$ covariances. Using this result, we can prove the variance of a linear combination of random variables as the variance of a variable is just the covariance with itself
 
 ***Corollary 2.8.1 (Variance of a linear combination of random variables)*** The variance of $T$ is simply the covariance with itself:
 $$Var(T) = Cov(T,T) = \Sigma_{i}^{n} a_{i}^{2}Var(X_i)+2\Sigma_{i<j}a_ia_jCov(X_i,X_j)$$

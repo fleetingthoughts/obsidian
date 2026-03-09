@@ -39,4 +39,14 @@ Now using the expectation, we define the moment generating function.
 Note that this definition and the summing of the random variables in the exponential isn't arbitrary for the univariate "marginal moment generating function" can be obtained by setting one of $t's$ to zero for then we have:
 $$M_{X_1,X_2}(t_1,0)  = \int_{-\infty}^{\infty}\int_{-\infty}^{\infty}e^{t_{1}X_{1}}f_{X_1,X_2}(x_1,x_2) dx_1dx_2$$ And then applying the definition of the marginal probability distribution:
 $$= \int_{-\infty}^{\infty}e^{t_{1}X_{1}}f_{X_1}(x_1) dx_1$$
-This explanation I have offers the mechanical way we can obtain the original univariate definition of the moment generating function, but I still need to think of a moral way of explaining why setting $t_2 =0$ works and what axiom that comes from.
+The above provides a way to generate the marginal moment generating function, but we can still determine the marginal moments without the specific "marginal moment generating function" but with the overall moment generating function of the random vector by taking partial derivatives:
+$$\begin{align*} 
+M(t_1,t_{2}) & = E(e^{t_{1}X_{1}+t_{2}X_{2}})\\
+M(t_1,t_{2}) & = \int_{-\infty}^{\infty}\int_{-\infty}^{\infty}e^{t_{1}x_{1}+t_{2}x_{2}}f(x_{1},x_{2}) dx_{1}dx_{2}\\
+\frac{\partial M}{\partial t_{1}} & =\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}x_{1}e^{t_{1}x_{1}+t_{2}x_{2}}f(x_{1},x_{2})dx_{2}dx_{1} \\
+\frac{\partial M(0,0)}{\partial t_{1}} & =\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}x_{1}f(x_{1},x_{2}) dx_{2}dx_{1} \\
+\frac{\partial M(0,0)}{\partial t_{1}} & =\int_{-\infty}^{\infty}x_{1}f_{x_{1}}(x_{1}) dx_{1}\\
+\frac{\partial M(0,0)}{\partial t_{1}} & =E(X_{1})
+
+\end{align*}$$
+So we can also determine the marginal expectations by taking partial derivatives of the overall moment generating function if we already have it. There is no need to try to determine the marginal moment generating function.

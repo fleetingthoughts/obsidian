@@ -28,7 +28,7 @@ The algorithm to determine whether a joint distribution consists of random varia
 
 ***Theorem 2.4.1 (Determine independence without using marginal distributions).*** Let the random variables $X_1$ and $X_2$ have supports $S_1$ and $S_2$ respectively with the joint pdf $f(x_1,x_2)$. The variables are independent if and only if there are nonnegative functions  $g$ and $h$ of $x_1$ and $x_2$ on their respective supports such that:
 $$f(x_1,x_2) \equiv g(x_1)h(x_2)$$
-Note that the preceding theorems involved pdfs, but from that definition, you can derive an analagous relationship with cdfs:
+Note that the preceding theorems involved pdfs, but from that definition, you can derive an analogous relationship with the cdf. Note that the condition of Theorem 2.4.1 also rests on this new product having a support on the product space of the original support, that is the new support for $g(x_1)h(x_2)$ has a support on the cartesian product of $S_1 \times S_2$. An actual derivation of independence implying a product space of the support is beyond the scope of this book. Therefore, we would require the supports to be independent of each other. Supports such as $0 < x_1 < x_2 < 1$ will not result in an independent random variable
 
 **Theorem 2.4.2 (Independence shown with the CDF)*** Given a joint distribution $f(x_1,x_2)$ with cdf $F(x_1,x_2)$ and marginal cdfs $F_1(x_1)$ and $F_2(x_2)$ . The random variables are independent if and only if for all $(x_1,x_2) \in R^2$ 
 $$F(x_1,x_2) \equiv F_1(x_1)F_2(x_2)$$Note that this relationship is valid for all of $R^2$ instead of just the product space of the respective supports. This done by proving sufficiency condition and then the converse by the definition of the cdf and the definition of independence using the pdf.

@@ -14,7 +14,7 @@ $$p(x) = p^x(1-p)^{1-x}$$ It can then be shown the expectation is $p$ and the va
    The mgf follows from a simple application of the Binomial Theorem. The cdf of this function is typically not analytical and values are determined computationally.
  
 
-2) Negative Binomial Random Variable: $Y$ = total # of failures before the $r$th success (i.e. y+r-1 trials since the last trial has to be a fixed success). Note that although it technically has two variables, the # of successes is treated as a fixed parameter. (1 parameter)
+2) Negative Binomial Random Variable: $Y$ = total # of failures before the $r$th success (i.e. $y+r-1$ trials since the last trial has to be a fixed success). Note that although it technically has two variables, the # of successes is treated as a fixed parameter. (1 parameter)
 $$p_{Y}(y)=\binom{y+r-1}{r-1}p^r(1-p)^{y}= \binom{y+r-1}{y}p^r(1-p)^{y}$$
 3) In the special case of the Negative Binomial distribution where we're only interested in the probability of failures until the 1st success (i.e. $r=1$), it is referred to as the geometric distribution $$p(y)=p(1-p)^y$$ 
 4) Hypergeometric distribution: $X$ = # of successes from a random sample of size $n$ from a total population of $N$ containing $D$ successes. As such, the hypergeometric distribution requires 3 parameters $(N,D,n)$. $$p(x) = \frac{\binom{N-D}{n-x} \binom{D}{x}}{\binom{N}{n}} \text{\quad;\quad} \mu = n\frac{D}{N} \text{\quad ; \quad} Var(x) = n\frac{D}{N}\frac{N-D}{N}\frac{N-n}{N-1}$$
