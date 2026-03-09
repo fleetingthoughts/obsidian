@@ -39,9 +39,6 @@ Cembalo historic organ partimento
 
 # Abott
 <u>1.3</u>
-- 1.3.6
-- 1.3.7
-- 1.3.8
 - 1.3.10
 <u>1.4</u>
 - 1.4.1
