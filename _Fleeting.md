@@ -37,6 +37,18 @@ Cembalo historic organ partimento
 - 3.6.6
 - 3.6.7
 - 3.6.8
+<u>4.1 Sampling and Statistics</u>
+- 4.1.1
+- 4.1.2
+- 4.1.5
+- 4.1.6
+<u>4.2 Confidence Intervals</u>
+- 4.2.1
+- 4.2.2
+- 4.2.3
+- 4.2.4
+- 4.2.6
+
 ### Courant
 <u>Section 1.1a</u>
 - Exercises 
