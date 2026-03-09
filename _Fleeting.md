@@ -48,7 +48,6 @@ Cembalo historic organ partimento
 - 1.4.5
 <u>2.2</u>
 - 2.2.1
-- 2.2.2
 - 2.2.3
 - 2.2.4
 - 2.2.5
