@@ -32,7 +32,6 @@ Cembalo historic organ partimento
 
 <u>Section 1.7</u>
 - Exercise 6
-- Exercise 8
 - Problem 1
 - Problem 2
 - Problem 3
