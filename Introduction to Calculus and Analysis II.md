@@ -10,6 +10,6 @@ status:
 rating out of 10:
 project: study
 milestones: "42"
-deadline: 2026-09-30
+deadline: 2026-12-30
 real sections: "42"
 ---
