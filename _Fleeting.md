@@ -17,7 +17,26 @@ Think about arm movement to reduce stretching of hand
 Cembalo historic organ partimento
 
 ### Hogg
+- 3.3.10
+- 3.3.15
+- 3.3.26
+- 
 
+<u>3.4 The normal distribution</u>
+- 3.4.1
+- 3.4.4
+- 3.4.5
+- 3.4.6
+- 3.4.9
+- 3.4.10
+- 3.4.11
+- 3.4.15
+<u>3.6 t distributions</u>
+- 3.6.1
+- 3.6.2
+- 3.6.6
+- 3.6.7
+- 3.6.8
 ### Courant
 <u>Section 1.1a</u>
 - Exercises 
@@ -36,6 +55,9 @@ Cembalo historic organ partimento
 - Problem 3
 - Problem 4
 - Problem 5
+<u>Miscellaneous problems</u>
+- All of 'em'
+
 
 # Abott
 <u>1.3</u>
