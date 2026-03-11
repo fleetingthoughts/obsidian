@@ -24,6 +24,8 @@ Now we look at how $N$ is infinite within $R$, namely,  the set of all natural n
 
 Essentially this theorem says that we can never find an upper bound for the set of all natural numbers and so there will never be a supremum and is trivially proven. It seems like non-sense but the idea of $R$ being an extension of $Q$ necessitates us to double check we didn't unwittingly create upper bounds for $N$ for there are ordered field extensions that actually do that. This can be proven by contradiction using Lemma 1.3.8 and using a specific case of $\epsilon$ =1 to show that no real number can be an upper bound. The proof assumes the AoC, but it also assumes that $N$ is a closed ordered field such that if an additive operation is carried out on an $n\in N$ then this $n+1$ (1 is a natural number) is still contained in $N$ 
 
+The Archimedean property also guarantees we can always construct a number smaller than any real number or find a real number larger than any given real number.
+
 Using Theorem 1.4.2, we can now formalize the idea that $R$ is an "extension" of $Q$ by containing all the irrational numbers as well. The idea here is that $Q$ is "infinitely dense" and we can find any possible combination of it within the real numbers. This is formalized as follows:
 
 ***Theorem 1.4.3 (Density of Q in R)***. For every two real numbers $a \lt b$ , there exists a rational number $r$ such that $a \lt r\lt b$.
