@@ -31,22 +31,6 @@ PGS then presents 3 major counter examples to his view of scientific realism and
 
 To conclude, PGS clarifies his choice of terms "accurate representations" as opposed to traditional language and logic based terms like "truth". While science has traditionally been described with these kinds of terms, PGS comments on an emerging field which criticizes the view of the representational vehicles used in Science. While Science is definitely communicated in words and languages where "truth" matters, PGS believes science is more accurately expressed through "models" which describe a similarity rather than an absolute truth. The use of models is illustrated, by the immense flexibility in science to use these models for various purposes to great success despite not fitting the conventional language based ideas of "truth". The model may be used for application or for a guide for further experimentation to find whether there is any literal meaning (e.g. actual germs in germ theory). The idea is that "truth" and language/logic-based approaches have a one-to-one correspondence with reality which is not what happens in Science at all that exercises great flexibility. PGS proposes we must detach ourselves from this traditional tendency to analyze science through these language-based lens (e.g. deductive logic) and find some kind of way that takes into account this "model-based" approach that science actually uses in describing similarities with many possibilities as opposed to a one-to-one correspondence. This is why PGS avoids using terms like "objective" and "truth" which invite this strict one-to-one correspondence analysis.
 
-- Major claims that PGS lists offering varying levels of counterarguments
-	- The challenge to realism from empiricism.
-		- Phenomonalism and the meaningless of statements about a reality we can't describe
-		- Underdetermination.
-	- Metaphysical constructavism
-		- Attempts to interpret through Kant's noumenal and phenomenal world. 
-		- Michael Devitt counters by analyzing debates and noting the anti-realists mix relativism with Kant's views. Kant believed we had a basic conceptual framework to interpret the world.
-		- While PGS acknowledges the use of it as an illustration, he finds Kantian model excessive. Calling a phenomenal world and noumenal world when we can just say its hard to interpret reality without all these extra layers.
-		- PGS also notes the difficulty in distinguishing socialists from this metaphysical constructivist view or a more moderate "social constructavism" which acknowledges a form of realism
-		- PGS also criticizes the tendency of sociologists to formulate such weird views to avoid what's called the Bad view
-	- Van Fraasen and his version of instrumentalism ("constructive empiricism")
-		- All we aim to do is create empirically adequate theories, models are a tool to expand theory to account and find relations with other phenomena but the underlying causal explanations are meaningless
-	- Counters to van fraasen:
-		- Where does van fraasen cut off the boundary of what is "observable phenomena". Historically, this boundary is constantly shifting. Van Fraasen's views would reject our search for germs or atoms as real things instead of just models that we use as tools. PGS differentiates between detectable and directly observable.
-		- Empirical adequacy is a mistake to PGS because it throws away the part of science that challenges the unobservable and the most extraordinary science are the ones that comment on the unobservable.
-
 # Historical Events and People
 - Michael Devitt
 - Bas van Fraasen
