@@ -13,8 +13,8 @@ In general if the field is the set of real numbers then 1) implies 2) but some f
 - The identity transformation $I(x) = x$
 - The zero transformation $T(x) = 0$ 
 We define two important sets of vectors derived from linear transformations $T: V\to W$
-- The null space (or kernel) of a linear transformation $T$ is denoted $N(T)$ and it is the set of vectors $x\in V$ such that $T(x)= 0$. For example the null space of the identity matrix $N(I) = {0}$ 
-- The range, denoted $R(T)$ is the set of all the $T(x)$ vectors for $x \in V$. For example the range of the identity matrix is $R(I)= V$ or the entire vector space $V$.
+- The null space (or kernel) of a linear transformation $T$ is denoted $N(T)$ and it is the set of vectors $x\in V$ such that $T(x)= 0$. For example the null space of the identity matrix $N(I) = {0}$. <u>Note the kernel is a subset of</u> $V$
+- The range, denoted $R(T)$ is the set of all the $T(x)$ vectors for $x \in V$. For example the range of the identity matrix is $R(I)= V$ or the entire vector space $V$. In other words $R(T)=w \in W$. <u>Note the image is a subset of </u>$W$
 ***Theorem 2.1 (The kernel and image of a linear transformation are subspaces).*** Let $V,W$ be vector spaces and the transformation $T: V\to W$ be a linear transformation. Then $N(T)$ and $R(T)$ are both subspaces.
 
 Since the range is a subspace, we can determine a set of vectors that spans it therefore completely describing the vector space:
