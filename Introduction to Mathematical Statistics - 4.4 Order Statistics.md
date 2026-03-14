@@ -28,8 +28,12 @@ Where in this case we have $n-k$ larger order statistics and then $k-1$ smaller 
 The ordered statistic random variable is useful because they serve as predictors for the percentiles and quantiles of a distribution. That is, we propose that the  $F(Y_k)$ will represent a percentile depending on how large our sample is.  For instance, given a sample if size $n=11$, the $Y_6$ ordered statistic can be shown to be a predictor of the median, $x_{0.5}$ (that is the median of the dataset is a predictor of $x$ such that $F(x)=0.5$). This can be shown by examining the expected value of $E(F(Y_k))$: $$E[F(Y_{k})]=\frac{k}{n+1} \text{\quad note k is always such that }k<n$$
 And so any the $kth$ ordered statistic is an estimator of the $k/(n+1)$ percentile of the original random variable's pdf. Obviously, we can only estimate a finite number of percentiles depending on how large our sample size in (a sample size of 3 can only estimate the median!). Usually if we want to estimate the $pth$ percentile $\xi_p=F^{-1}(p)$, the most conservative estimate we can do is use the $Y_k$ ordered statistic where $k$ is the largest integer such that $k\le p(n+1)$. So for example in a sample size of 100, the 1st quartile will be $Y_{25}$ (since $25 \le 0.25(100+1)$).
 
-We now describe 
-
+We now figure out a way to use our ordered random sample to construct a confidence interval of our desired $p$th percentile. Given a desired percentile, $\xi_p$ that we want to know more about, we know by definition that $F(\xi_p)=p$. We then use this fact to view our random sampling as a Bernoulli trial where "success" are ordered statistics less than $\xi_p$ with probability $F(\xi_p)=p$ and "failures" are ordered statistics greater than $\xi_p$ with the probability $1-F(\xi_p)=1-p$. Using this heuristic our algorithm to determine a confidence interval of $\xi_p$ is as follows:
+- <u>The goal</u>: from our ordered statistic of our random sample of size $n$, $Y_1,..Y_n$, we want to find the ordered statistic $Y_{i}$ and $Y_j$ such that it contains our percentile with a desired $\gamma$ confidence level:
+$$P(i<X<j)=\sum_{w=i}^{j-1}\binom{n}{w}p^w(1-p)^{n-w}=\gamma \text{\quad where X has a binomial distribution }$$
+- Set a desired confidence level $\gamma$
+- Use the binomial distribution where the probability of success is $F(\xi_p)=p$ and our sample size of $n$ for the number of trials. Determine the $i$ and $j$ that satisfies the binomial probability above. If we're doing a two-tail confidence interval, just determining $P(i<=X)=\frac{\gamma}{2}$ is sufficient since the binomial distribution is symmetric. 
+- If doing a symmetric confidence interval,
 
 
 
