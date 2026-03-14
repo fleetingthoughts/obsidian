@@ -23,4 +23,4 @@ The following are some properties of matrix multiplication:
 
 ***Theorem 2.13 (Determination of the columns of a composition of linear transformations).*** Let $A$ be a $m\times n$ matrix and $B$ be a $n \times p$ matrix. let $u_j$ and $v_j$ denote the $j$th column of $AB$ and $B$ respectively:
 1) determination of a column of $AB$: the column $u_j=Av_j$
-2) $v_j=Be_{j}$ where $e_j$ is the $jth' standard vector of $F^p$  
+2) $v_j=Be_{j}$ where $e_j$ is the $jth$ standard vector of $F^p$  
