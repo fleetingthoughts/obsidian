@@ -45,12 +45,12 @@
             }
           },
           {
-            "id": "b1f1f3e8ca845d6f",
+            "id": "eb6c9d3bdd3075f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory and Reality - 3 Induction and Confirmation.md",
+                "file": "How to Read a Book - Mortimer Adler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -65,34 +65,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Theory and Reality - 3 Induction and Confirmation"
-            }
-          },
-          {
-            "id": "e01b02f22e5f933c",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "eb6c9d3bdd3075f0",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Projects.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Projects"
+              "title": "How to Read a Book - Mortimer Adler"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,34 +250,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eb6c9d3bdd3075f0",
+  "active": "c41f16c58307f847",
   "lastOpenFiles": [
-    "How to Read Imaginative Literature.md",
-    "Introduction to Calculus I by Fritz and Courant - 2.3 Fundamental Rules of Integration.md",
-    "How to read history.md",
-    "How to read Science and Mathematics.md",
-    "How to read Practical Books.md",
-    "How to Read Social Science literature.md",
-    "/_Fleeting.md",
-    "/How to Read a Book - Mortimer Adler.md",
-    "/How to Read Imaginative Literature.md",
-    "/Introduction to Calculus I by Fritz and Courant - 2.3 Fundamental Rules of Integration.md",
-    "/Introduction to Calculus I by Fritz and Courant - 2.2 Elementary Examples of Integration.md",
-    "/How to read history.md",
-    "/How to read Science and Mathematics.md",
-    "/How to read Practical Books.md",
-    "/How to Read Social Science literature.md",
-    "_Fleeting.md",
-    "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
-    "Sum of random variables with the identical Poisson distribution is itself a Poisson distribution.md",
-    "Proof of the Steinitz exchange lemma.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.7 Maximal Linearly Independent Subsets.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.6 Bases and Dimension.md",
-    "Lagrange interpolating polynomial as a basis of the polynomial vector space.md",
-    "Introduction to Mathematical Statistics - 4.4 Order Statistics.md",
-    "Introduction to Mathematical Statistics - 4.3 Confidence Intervals for Parameters of Discrete Distributions (Optional).md",
+    "Pasted image 20260309234014.png",
+    "Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
+    "4.5 Introduction to Hypothesis Testing.md",
+    "/Pasted image 20260309234014.png",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
+    "/4.5 Introduction to Hypothesis Testing.md",
+    "Theory and Reality - 3 Induction and Confirmation.md",
     "How to Read a Book - Mortimer Adler.md",
-    "conflict-files-obsidian-git.md",
+    "How to Read Social Science literature.md",
+    "How to Read Imaginative Literature.md",
+    "Understanding Analysis - 2.9 Epilogue.md",
+    "Theory and Reality - 9 Feminism.md",
+    "Theory and Reality - 8 The Challenge from Sociology of Science.md",
+    "Theory and Reality - 10 Naturalistic Philosophy in Theory and Practice.md",
+    "The mode of the Poisson Distribution.md",
+    "Introduction to Calculus I by Fritz and Courant - 2.4 The Integral as a Function of the Upper Limit.md",
+    "Chernoff's bound.md",
+    "/_Fleeting.md",
+    "/Introduction to Mathematical Statistics - 4.4 Order Statistics.md",
+    "/Introduction to Mathematical Statistics - 2.4 Independent Random Variables.md",
+    "/Understanding Analysis - 2.9 Epilogue.md",
+    "/Theory and Reality - Introduction to the Philosophy of Science.md",
+    "/Theory and Reality - 9 Feminism.md",
+    "/Theory and Reality - 8 The Challenge from Sociology of Science.md",
+    "/Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
+    "/Theory and Reality - 10 Naturalistic Philosophy in Theory and Practice.md",
+    "/The mode of the Poisson Distribution.md",
+    "Projects.base",
     "Textbooks.base",
     "Harmony and Counterpoint.canvas",
     "Piano Repertoire.base",
@@ -313,12 +292,10 @@
     "Pasted image 20260223001332.png",
     "Pasted image 20260221195300.png",
     "Pasted image 20260221194703.png",
-    "Pasted image 20260221194642.png",
     "/Projects.base",
     "/Harmony and Counterpoint.canvas",
     "A set of Sequences has a larger Cardinality than $",
     "/A set of Sequences has a larger Cardinality than $",
-    "Projects.base",
     "/template",
     "/daily_notes",
     "Untitled.base",
