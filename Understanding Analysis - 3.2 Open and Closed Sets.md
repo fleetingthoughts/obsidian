@@ -6,7 +6,26 @@ tags:
 date_created: 2026-03-10
 parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
 ---
-We define some special properties so that open and closed sets can contain these properties to let us discuss them analytically. Then we show Q is dense in R
-- Definition of neighborhood in 2.2.4
-- The open set being defined by being able to establish a neighborhood. understand why it breaks down in a closed interval.
-- 
+This chapter contains several definition and simple theorems whose main difficulty rely on you understanding the definitions really carefully. It is therefore useful to organize my thoughts by compiling all the definitions and theorems in separate lists colloquially restated
+
+# Definitions
+- Reminder of definition of neighborhood of a point: a $\epsilon$-neighborhood of a point $a$ is denoted $V_{\epsilon}$ and is the set $V_{\epsilon}=\{x\in \mathbb{R}:|x-a|<\epsilon\}$ 
+- ***Definition 3.2.1 (Open Sets).*** A set $O\subseteq \mathbb{R}$ is open if for every point $a\in O$, a neighborhood of a is contained in $O$ as well. You can see how the intuition of an open interval as an interval that does not contain its end points meets this definition. Now take the intuitive definition of the closed interval and see why this definition breaks down when the interval contains its endpoints.
+- ***Definition 3.2.4 (Limit Points).*** A point, $x$ that has the condition that every $V_{\epsilon}(x)$ intersects with $O$ other than at $x$ itself. You can think of it as a point infinitely close to $O$ but is yet not in it OR a point that is right at the edge (i.e. endpoint of closed interval). In other words, it is like a limit and this limit can be contained in the set or not contained in the set.
+- ***Definition 3.2.6 (Isolated point).*** An <u>isolated point of a set</u> (isolated point is defined relative to a certain set), is a point in the set that is not a limiting point.
+- ***Definition 3.2.7 (Closed Sets).*** A set $F \in \mathbb{R}$ is closed if it contains its limit points.
+- ***Definition 3.2.11 (Closure).*** Let there be a set $A$ with the set of limit points $L$. The closure of  is denoted $\bar{A}=A \cup L$. The closure is basically the original set + all its limit points. 
+
+# Theorems
+- ***Theorem 3.2.3 (Unions and intersections of open sets are themselves open sets).*** The union of an arbitrary collection of open sets is open. But the <u>intersection of a finite collection</u> of open sets is open
+- ***Theorem 3.2.5 (relationship between limit points and limit operator).*** A point is a limit point for a set <u>if and only if </u>there is some sequence contained in the set that has the limit point as a limit. Also the sequence does not contain the limit point (which is guaranteed by the definition of the limit point as the sequence must be contained in the set)
+- ***Theorem 3.2.7 (criteria for a closed set).*** A set $F\in R$ is closed if and only if every Cauchy sequence contained in $F$ has a limit that is also an element of $F$. 
+	- One interesting result of this criteria is that the set of $\mathbb{Q}$ has all of $\mathbb{R}$ as its limit points. With any arbitrary real number, $y$, you can always have a rational contained in a $V_{\epsilon}(y)$ by the AoC (and Archimedean property). Notice that this also means the set of rational numbers has itself as limit points as well!
+- ***Theorem 3.2.10 (Density of the rational numbers in the real reformulated in topological terms).*** For every real number, there exists a sequence of rational numbers that converges to it.
+- ***Theorem 3.2.12 (the closure as the smallest closed version of a set).*** For any $A \subseteq R$, the closure $\bar{A}$ is a closed set and is the smallest closed set containing $A$.
+- ***Theorem 3.2.13 (Determining closure of a set based on its complement).*** A set is open of its complement is closed. Likewise, a set is closed if its complement is open.
+- ***Theorem 3.2.14 (Closure of a union and intersection of sets).*** Applying DeMorgan's laws and Theorem 3.2.3, the union of a finite collection of closed sets is closed. The intersection of an arbitrary collection of closed sets is closed.
+
+Some other notes to further understand these theorems and definitions:
+- Regarding Theorem 3.2.12. While we defined the limit points and isolated points as being the complement of each other, note that we made no such definition with closed or open sets and indeed there are sets that are simultaneously closed and open. The set of rational numbers is simultaneously closed and open. I think of it as sets that contain an infinite number of "holes" inside of it are weird like that. The use of the complement of a set does provide a relationship between open and closed sets if it applies to its complement.
+
