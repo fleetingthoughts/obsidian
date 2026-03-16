@@ -39,7 +39,7 @@ Notice that the above term must have two times less terms than the original sum.
 
 Some interesting notes from doing the exercises:
 - Exercise 2.4.5: [[Newton's method or the Babylonian method for calculating Square Roots]]
-- 
+- Exercise 2.4.6: [[The inequality of the arithmetic mean and geometric mean (AM-GM inequality)]] 
 
 
 
