@@ -37,5 +37,9 @@ $$\sum_{n=0}^{\infty}b_{n}=b_{1}+b_{2}+b_{3}+b_{4}+b_{5}+b_{6}+b_{7}\dots$$$$\su
 $$\le \sum_{n=0}^{\infty}b_{n}=(b_{1})+(b_{2}+b_{2})+(b_{4}+b_{4}+b_{4}+b_{4}+b_{4})+\dots+(b_{2^k}+b_{2^k})$$
 Notice that the above term must have two times less terms than the original sum. And with this new series as an upper bound, we already have by hypothesis that it converges and has a bound so then the original series must have a bound.
 
+Some interesting notes from doing the exercises:
+- Exercise 2.4.5: [[Newton's method or the Babylonian method for calculating Square Roots]]
+- 
+
 
 
