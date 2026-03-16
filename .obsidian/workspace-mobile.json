@@ -67,9 +67,33 @@
               "icon": "lucide-file",
               "title": "How to Read a Book - Mortimer Adler"
             }
+          },
+          {
+            "id": "1432667f5528a4ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Understanding Analysis - 2.6 The Cauchy Criterion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Understanding Analysis - 2.6 The Cauchy Criterion"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,35 +274,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c41f16c58307f847",
+  "active": "1432667f5528a4ed",
   "lastOpenFiles": [
+    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
+    "Introduction to Mathematical Statistics - 2.3 Conditional Distributions and Expectations.md",
+    "Introduction to Mathematical Statistics - 4.6 Additional Comments About Statistical Tests.md",
+    "Introduction to Mathematical Statistics - 4.8 Monte Carlo Methods.md",
+    "Understanding Analysis - 3.2 Open and Closed Sets.md",
+    "Theory and Reality - 12 Scientific Realism.md",
+    "The challenge to scientific realism from the Bas Van Fraasen's version of instrumentalism.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 2.3 Compositions of Linear Transformations and Matrix Multiplication.md",
+    "Understanding Analysis - 3.3 Compact Sets.md",
+    "Theory and Reality - 11 Naturalism and the Social Structure of Science.md",
+    "The set of Irrational numbers is not closed under addition or multiplication.md",
+    "The inequality of the arithmetic mean and geometric mean (AM-GM inequality).md",
+    "The challenges to scientific realism from traditional empiricists such as logical positivists.md",
+    "The challenges to scientific realism from the view that science is a metaphysical construction of itself.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 2.2 The Matrix Representation of A Linear Transformation.md",
+    "Introduction to Mathematical Statistics - 4.7 Chi-Square Tests.md",
+    "Introduction to Calculus I by Fritz and Courant - 2.7 The Integral of an Arbitrary Power of x.md",
+    "Introduction to Calculus I by Fritz and Courant - 2.6 Exponential Function and Powers.md",
+    "Introduction to Calculus I by Fritz and Courant - 2.5 The Logarithm Defined by an Integral.md",
+    "Algorithm compute the arithmetic geometric mean (AGM) of any two positive numbers.md",
+    "/Understanding Analysis - 3.2 Open and Closed Sets.md",
+    "/Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+    "/Understanding Analysis - 1.4 Consequences of Completeness.md",
+    "/Theory and Reality - 12 Scientific Realism.md",
+    "/The challenge to scientific realism from the Bas Van Fraasen's version of instrumentalism.md",
     "Pasted image 20260309234014.png",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
-    "4.5 Introduction to Hypothesis Testing.md",
     "/Pasted image 20260309234014.png",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
-    "/4.5 Introduction to Hypothesis Testing.md",
-    "Theory and Reality - 3 Induction and Confirmation.md",
-    "How to Read a Book - Mortimer Adler.md",
-    "How to Read Social Science literature.md",
-    "How to Read Imaginative Literature.md",
-    "Understanding Analysis - 2.9 Epilogue.md",
-    "Theory and Reality - 9 Feminism.md",
-    "Theory and Reality - 8 The Challenge from Sociology of Science.md",
-    "Theory and Reality - 10 Naturalistic Philosophy in Theory and Practice.md",
-    "The mode of the Poisson Distribution.md",
-    "Introduction to Calculus I by Fritz and Courant - 2.4 The Integral as a Function of the Upper Limit.md",
-    "Chernoff's bound.md",
-    "/_Fleeting.md",
-    "/Introduction to Mathematical Statistics - 4.4 Order Statistics.md",
-    "/Introduction to Mathematical Statistics - 2.4 Independent Random Variables.md",
-    "/Understanding Analysis - 2.9 Epilogue.md",
-    "/Theory and Reality - Introduction to the Philosophy of Science.md",
-    "/Theory and Reality - 9 Feminism.md",
-    "/Theory and Reality - 8 The Challenge from Sociology of Science.md",
-    "/Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
-    "/Theory and Reality - 10 Naturalistic Philosophy in Theory and Practice.md",
-    "/The mode of the Poisson Distribution.md",
     "Projects.base",
     "Textbooks.base",
     "Harmony and Counterpoint.canvas",
@@ -291,7 +316,6 @@
     "Pasted image 20260223002604.png",
     "Pasted image 20260223001332.png",
     "Pasted image 20260221195300.png",
-    "Pasted image 20260221194703.png",
     "/Projects.base",
     "/Harmony and Counterpoint.canvas",
     "A set of Sequences has a larger Cardinality than $",

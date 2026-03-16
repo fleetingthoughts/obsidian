@@ -18,12 +18,12 @@ This chapter contains several definition and simple theorems whose main difficul
 
 # Theorems
 - ***Theorem 3.2.3 (Unions and intersections of open sets are themselves open sets).*** The union of an arbitrary collection of open sets is open. But the <u>intersection of a finite collection</u> of open sets is open
-- ***Theorem 3.2.5 (relationship between limit points and limit operator).*** A point is a limit point for a set <u>if and only if </u>there is some sequence contained in the set that has the limit point as a limit. Also the sequence does not contain the limit point (which is guaranteed by the definition of the limit point as the sequence must be contained in the set)
+- ***Theorem 3.2.5 (relationship between limit points and limit operator).*** A point is a limit point for a set <u>if and only if </u>there is some sequence contained in the set that has the limit point as a limit. Also the sequence does not contain the limit point.
 - ***Theorem 3.2.7 (criteria for a closed set).*** A set $F\in R$ is closed if and only if every Cauchy sequence contained in $F$ has a limit that is also an element of $F$. 
 	- One interesting result of this criteria is that the set of $\mathbb{Q}$ has all of $\mathbb{R}$ as its limit points. With any arbitrary real number, $y$, you can always have a rational contained in a $V_{\epsilon}(y)$ by the AoC (and Archimedean property). Notice that this also means the set of rational numbers has itself as limit points as well!
 - ***Theorem 3.2.10 (Density of the rational numbers in the real reformulated in topological terms).*** For every real number, there exists a sequence of rational numbers that converges to it.
 - ***Theorem 3.2.12 (the closure as the smallest closed version of a set).*** For any $A \subseteq R$, the closure $\bar{A}$ is a closed set and is the smallest closed set containing $A$.
-- ***Theorem 3.2.13 (Determining closure of a set based on its complement).*** A set is open of its complement is closed. Likewise, a set is closed if its complement is open.
+- ***Theorem 3.2.13 (Determining closure of a set based on its complement).*** A set is open if its complement is closed. Likewise, a set is closed if its complement is open.
 - ***Theorem 3.2.14 (Closure of a union and intersection of sets).*** Applying DeMorgan's laws and Theorem 3.2.3, the union of a finite collection of closed sets is closed. The intersection of an arbitrary collection of closed sets is closed.
 
 Some other notes to further understand these theorems and definitions:
