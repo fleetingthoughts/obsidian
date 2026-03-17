@@ -37,4 +37,15 @@ Unofficial theorem: The inverse of an invertible matrix is unique
 
 This lets us use the $n$-tuple vector space $F^n$ to relate to any vector space since it is isomorphic with any vector space with a dimension of $n$.
 
-***Theorem 2.20 (Relationship between linear transformations and $m \times n$ matrices).*** 
+***Theorem 2.20 (Relationship between linear transformations and $m \times n$ matrices).*** Given a vector space $V$ and $W$ with dimensions $n$ and $m$ respectively and with ordered bases $\beta$ and $\gamma$ respectively, then the function $\Phi_{\beta}^{\gamma}: \mathcal{L}(V,W)\to M_{m\times n}(F)$ defined by $\Phi_{\beta}^{\gamma}(T)=[T]_{\beta}^{\gamma}$ for $T \in mathcal{L}(V,W)$ 
+
+Colloquially, what theorem 2.20 says is that the collection of linear transformations from vector spaces of dimensions $n$ to vector spaces of dimension $m$ is isomorphic with the vector space of $m \times n$ matrices. The function $\Phi$ is one that takes the linear transformations and ascribes a $m \times n$ matrix to it, and it is a bijective function (invertible and an isomorphism). 
+
+Since the vector space of linear transformations is isomorphic with $m \times n$ matrices, then that means $\mathcal{L}(V,W)$ is finite dimensional $mn$.
+
+# Standardization of the representation of a vector space using the $n$-tuple vector space $F^n$.
+Now that we know any linear transformation can be uniquely represented by matrices with respect to a certain ordered base (note that the matrix that can map vector space to another vector space is technically not unique but we force it to by using a specific order of bases), we standardize the representation by choosing the $n$-tuple vector space to represent all vector spaces of $n$ dimensions
+
+***Definition (standard representation of a vector space with respect to an ordered basis).*** The standard representation of $V$ with respect to an ordered basis $\beta$ is the function $\phi_{\beta}=V\to F^n$ defined by $\phi_{\beta}(x)=[x]_{\beta}$ for each $x \in V$.
+
+***Theorem 2.21 (Isomorphism of the function that standardizes the representation of a vector space).*** The $\phi_{\beta}$ from the definition directly above is an isomorphism (i.e. it is bijective).
