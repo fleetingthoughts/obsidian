@@ -36,3 +36,5 @@ Unofficial theorem: The inverse of an invertible matrix is unique
 ***Theorem 2.19. (Equivalence criteria for isomorphism).*** Two finite-dimensional vector space $V$ and $W$ are isomorphic <u>if and only if</u> $dim(V)=dim(W)$.
 
 This lets us use the $n$-tuple vector space $F^n$ to relate to any vector space since it is isomorphic with any vector space with a dimension of $n$.
+
+***Theorem 2.20 (Relationship between linear transformations and $m \times n$ matrices).*** 
