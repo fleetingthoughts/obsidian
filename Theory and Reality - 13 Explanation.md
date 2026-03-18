@@ -23,7 +23,10 @@ parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
 - explanans
 - explandum
 - asymmetry problem
+- contextualism
 
 # People and Historical Example
 - Carl Hempel and Paul Oppenheim's development of the D-N model.
 - Sylvain Bromberger who published the asymmetrical problem of the D-N Model in 1966 
+- Kuhn's demonstrates the need for scientific explanation to accommodate the incommensurability of standards using Newton's mathematical explanation of gravity that had no causal explanation. To Kuhn, the idea and criteria for explanation evolves with science.
+- 
