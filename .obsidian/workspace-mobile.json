@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+                "file": "Introduction to Calculus I by Fritz and Courant - 2.3 Fundamental Rules of Integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Understanding Analysis 2nd ed. - Abbot, Stephen"
+              "title": "Introduction to Calculus I by Fritz and Courant - 2.3 Fundamental Rules of Integration"
             }
           },
           {
@@ -225,8 +225,15 @@
   },
   "active": "8808e8d1129fd442",
   "lastOpenFiles": [
-    "Understanding Analysis - 2.6 The Cauchy Criterion.md",
+    "Introduction to Calculus and Analysis I.md",
+    "Introduction to Calculus I by Fritz and Courant - 2.2 Elementary Examples of Integration.md",
+    "Projects.base",
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
+    "Introduction to Mathematical Statistics - 4.9 Bootstrap Procedures.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
+    "/Introduction to Mathematical Statistics - 4.9 Bootstrap Procedures.md",
+    "Understanding Analysis - 2.6 The Cauchy Criterion.md",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Introduction to Mathematical Statistics - 2.3 Conditional Distributions and Expectations.md",
     "Introduction to Mathematical Statistics - 4.6 Additional Comments About Statistical Tests.md",
@@ -245,15 +252,8 @@
     "Introduction to Mathematical Statistics - 4.7 Chi-Square Tests.md",
     "Introduction to Calculus I by Fritz and Courant - 2.7 The Integral of an Arbitrary Power of x.md",
     "Introduction to Calculus I by Fritz and Courant - 2.6 Exponential Function and Powers.md",
-    "Introduction to Calculus I by Fritz and Courant - 2.5 The Logarithm Defined by an Integral.md",
-    "Algorithm compute the arithmetic geometric mean (AGM) of any two positive numbers.md",
-    "/Understanding Analysis - 3.2 Open and Closed Sets.md",
-    "/Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
-    "/Understanding Analysis - 1.4 Consequences of Completeness.md",
-    "/Theory and Reality - 12 Scientific Realism.md",
     "Pasted image 20260309234014.png",
     "/Pasted image 20260309234014.png",
-    "Projects.base",
     "Textbooks.base",
     "Harmony and Counterpoint.canvas",
     "Piano Repertoire.base",

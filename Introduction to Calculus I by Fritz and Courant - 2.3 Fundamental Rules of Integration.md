@@ -11,7 +11,6 @@ The chapter goes through the following properties of integrals:
 - Additivity of intervals of integration for the same function
 - Additivity of functions over the same intervals of integration
 - The Mean Value Theorem of Integral Calculus. This point takes the longest and is what will be expanded on.
-- 
 The Mean Value Theorem (MVT) of integrals results from two basic motivations: 1) to determine a least and lower bound estimate of the integral over the interval $[a,b]$ and 2) to expand the concept of the arithmetic mean of finite quantities to infinite quantities.
 
 In assuming the Riemann integral of $f(x)$ exists over the interval $[a,b]$, we assume that $f(x)$ is a continuous function on a closed interval and is therefore bounded above and below. If $M$ is the upper bound and $m$ the lower bound, then we can obtain an estimate of the Riemann integral: $$ \begin{gather*} m \le f(x) \le M \\
