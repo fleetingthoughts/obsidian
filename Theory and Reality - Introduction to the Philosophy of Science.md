@@ -50,7 +50,7 @@ The book is well organized into its chapters with a crystal thesis that one can 
 	- Focus on the way Kuhn's explained the mechanism of scientific change
 	- Challenges by PGS and the unanswered questions
 7) [Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks](Theory%20and%20Reality%20-%207%20Lakatos,%20Laudan,%20Feyerabend,%20and%20Frameworks.md)
-	- 3 different views that are largely in reaction to Kuhn but respected his historical and sociological approach to science
+	3 different views that are largely in reaction to Kuhn but respected his historical and sociological approach to science
 	- Lakatos and the Research Programme
 	- Laudan and the refinement of Lakatos' idea to the Research Tradition
 	- Feyerbend, the maverick of Science, and his wild views on science ("Against Method")
