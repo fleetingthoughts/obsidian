@@ -30,7 +30,30 @@ So with this formula, the rules of confirmation in light of "evidence" is establ
 - If $P(H|e)>P(H)$, then the evidence confirms $H$
 - Otherwise it does not confirm it
 
+The method provides a formulaic way of updating probabilities, but when it comes to actually determining the likelihoods and prior probabilities, how do we determine the inputs for Bayes' formula: Is there some separate reality where there is a "true probability" that we need to find? That question invites the same problems scientific realism has. Instead, the idea is to keep probabilities internal to the individual themselves. This idea is called subjectivist probabilities
 # Subjectivist interpretation of probabilities
+Traditionally, frequentist had a sort of realism perspective on the nature of probabilities where there is an external reality that would hypothetically have a certain expected value if the probabilities were realized enough times. But the work in Bayesianism detaches probabilities from this "external reality" and consider probabilities to instead to be "degrees of belief" of an individual. Doing so keeps probabilities internal and actually lets us compute likelihood, and prior probabilities. There is no "universal" probability that everyone subscribes to, but it is instead a subjective matter that is internal to everyone.
+
+The subjectivist interpretation therefore views probabilities as the "degree of belief" in a proposition. Prior probabilities and likelihoods are subjective degree of belief in their respective propositions, and one's probabilities is not the same as another. The act of confirmation is therefore the updating of the degree of belief in a prior probability in light evidence to become a posterior probability and this becomes the new prior probability to be tested again when new evidence comes to light. As PGS puts it: "Today's priors becomes tomorrows posteriors (p.206)".
+
+The subjective interpretation of probability stems from decision theory which treats every thought and action as a series of "gambles" and probabilities are therefore the parameters that determines the individuals decision in a gamble. One's belief in a hypothesis is therefore a "gamble" in that sense and confirmation is the act of updating these beliefs that determine our decisions. In doing so, the beliefs must follow the math of probabilities (i.e. follow Kolmogorov's axioms) or one's decisions would lead to self-contradictions. If a person's belief system follows these axioms, then their belief system is considered "coherent" and they are called a "rational" individual. The importance of criteria of coherence an rationality is expressed in Dutch Book arguments that illustrate the potential contradictions that arise from incoherent belief systems
+
+An individual is considered coherent if their subjective probabilities conform to Kolmogorov's axioms of probability:
+1) All probabilities are between 0 and 1.
+2) If a proposition is a tautology (i.e. analytically true), then it trivially has a probability of 1.
+3) If two propositions are disjoint from each other, then the probability of either being true is the sum of the probabilities of each
+4) The definition of conditional probabilities: $P(H|j) = \frac{P(H \cap j)}{P(j)}$ 
+As an example, if someone's internal beliefs are such that his probability of believing and not believing something are both 60%, then they are not rational because it contradicts 3). The importance for individual to stay rational is illustrated by Dutch Book arguments to show that an irrational individual will always lead to a self-contradiction. In the example used by PGS, a person who does not have a rational coherent system of probabilities ascribed to their beliefs will always lose a gamble to a Dutch Bookie.
+
+Bayesianism with the subjectivist interpretation therefore models confirmation as follows:
+1) Beliefs are subjective to an individual and there is no universal number for everyone
+2) The beliefs must be coherent
+3) Beliefs are updated following Bayes' Theorem
+# Assessing Bayesianism
+
+How can people agree on anything if prior probabilities are subjective?
+How does it address Goodman's riddle of induction
+- Convergence
 
 
 # Terms
