@@ -19,6 +19,7 @@ To prove a set is a closed set:
 - Show that every Cauchy sequence in the set has a limit that is an element in the set.
 - If the complement of the set is open
 
+
 # Definitions
 - Reminder of definition of neighborhood of a point: a $\epsilon$-neighborhood of a point $a$ is denoted $V_{\epsilon}$ and is the set $V_{\epsilon}=\{x\in \mathbb{R}:|x-a|<\epsilon\}$ 
 - ***Definition 3.2.1 (Open Sets).*** A set $O\subseteq \mathbb{R}$ is open if for every point $a\in O$, a neighborhood of a is contained in $O$ as well. Clarification of this definition. To prove a set is open, you only need to show any arbitrary point has at least 1 neighborhood that is completely contained in the set. This breaks down in closed intervals because any neighborhood around the endpoints will contain points outside the set.
