@@ -54,8 +54,16 @@ With the Bayesian model, we observe how this models good science practice of the
 
 The question on priors persists in answering the classic problems of confirmation. In [Theory and Reality - 3 Induction and Confirmation](Theory%20and%20Reality%20-%203%20Induction%20and%20Confirmation.md), two classic problems were discussed that any theory of confirmation should address and one of them was Goodman's Riddle of Induction. Bayesianism purports to have answered this problem by taking into account the content of an argument by ascribing the intrinsic property of probabilities to evaluate between two statements that differ in content. The Bayesian answer would be that both "grue" and "blue" are good but the prior and likelihood probabilities would be in favor of blue. So unlike the positivist approach, Bayesianism takes into account the contents of the argument. But the question still remain why one would favor blue over grue. Technically according to Bayesianism, it is just as valid to believe in grue as long as your belief system is coherent. PGS is unsure if this is a good solution.
 
+# Other ideas on confirmation and evidence: a comparative approach to testing
+PGS sketches out alternative modern views on confirmation and evidence outside of Bayesianism that incorporates realism and naturalism that he is a closer proponent of. It is worth noting that none of these ideas should be seen as mutually exclusive and indeed some ideas and gaps can be complemented by Bayesianism. PGS outlines the following:
+- An alternative framing of the role of confirmation and evidence compared to the traditional views of the logical positivists
+- The importance of explanatory inferences and the idea of "eliminative inference" (coined by PGS) and a comparison with Bayesianism.
+- Procedural naturalism (coined by PGS)
 
-
+The logical positivists saw confirmation as the ultimate goal of testing a generalization: to confirm or disconfirm a generalization. In incorporating realism, PGS frames the role of confirmation slightly different: "testing in science is typically an attempt to choose between rival hypotheses about the hidden structure of the world (p.211)". The criteria to choose between competing theories takes a naturalistic contextual approach in line with Kuhn's incommensurability of standards. In PGS's view of the role of confirmation, explanatory inference as opposed to inductive inference takes a front seat and the idea of selecting a theory by elimination of its competitors is coined "eliminative inference". Eliminative view is in stark contrast to the logical positivists who aimed to develop a theory that positively accepted a proposition, while eliminative inference does it by process of elimination. Eliminative inference was widely disregarded by philosophers as they saw infinite possibilities associated when trying to determine any explanation, but PGS proposes it as a normative method to approach testing and the role of confirmation. Eliminative inference takes two different forms of which there are different approaches to solve it:
+- A deductive form where we are able to reduce down to one option by modus tollens of the eliminated options.
+- A non-deductive form which happens more often where it is unclear how to eliminate options or where we're not confident we have ruled out all the alternatives. This form can fit in a Bayesian framework.
+The essential idea is that confirmation, testing and evidence's role now becomes a <u>comparative approach</u>. No one hypothesis stands by itself by which we positively select it through testing, it is always with an alternative in mind. PGS's main appeal to this is in history.
 # Terms
 - Bayesianism
 - evidence (as opposed to confirmation)
@@ -63,5 +71,8 @@ The question on priors persists in answering the classic problems of confirmatio
 - liklihoods
 - posterior probabilities
 - subjectivist interpretation of probability
+- eliminative inference
 # People and Historical Events
 - Frank Ramsey and Bruno de Finetti's works in pioneering subjectivist interpretation of probabilities
+- John Platt and eliminative inference.
+- Historical examples of eliminative inference in Galileo vs Aristotelian physics, Darwin vs creationism, Skinner vs Chomsky.
