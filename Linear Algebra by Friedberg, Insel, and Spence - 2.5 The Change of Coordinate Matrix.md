@@ -1,4 +1,13 @@
-After a general discussion of matrices, and the properties of linear transformations and how they relate vector spaces, we now look at specific linear transformations that see lot of use. For this chapter, we look specifically at a linear transformation that stays within a vector space that changes the ordered basis called the change of coordinates.
+---
+tags:
+  - math
+  - linear_algebra
+  - arnold_friedberg
+date_created: 2026-03-20
+parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
+---
+After a general discussion of matrices, and the properties of linear transformations and how they relate vector spaces, we now look at specific linear transformations that see lot of use. For this chapter, we look specifically at a linear transformation that stays within a vector space that changes the ordered basis called the change of 
+coordinates.
 
 # Definitions
 ***Unofficial definition (Linear Operation).*** A linear transformation that keeps the vector within the same vector space is called a linear operation
