@@ -17,7 +17,7 @@ It should be noted the chapter will focus on sets with elements in $\mathbb{R}$ 
 ***Definition 3.3.1*** defines compactness as a set that has all its sequences contained in it converging to a limit that is also in the set. By the definition, the two main criteria to check for compactness are:
 1) EVERY sequence has a subsequence that converges (not necessarily to the same limit)
 2) the limit that the sequences converge to are contained in the set.
-The most basic example of a compact set is the closed interval as boundedness of the guarantees convergence by the Boltzmann-Weierstrass theorem and the fact that its a closed set means it contains its limit points. It can be shown that these properties in general guarantee and are a equivalency condition to compactness. ***Theorem 3.3.4.*** shows that compactness is equivalent to a set that has the following 2 properties:
+The most basic example of a compact set is the closed interval as boundedness of the guarantees convergence by the Boltzmann-Weierstrass theorem and the fact that its a closed set means it contains its limit points. It can be shown that these properties in general guarantee and are a equivalency condition to compactness. The advantage in defining the compact set as a stronger closed set (i.e. with the additional property of boundedness) is that it guarantees there are convergent subsequences in the set so that it'll have to have limit points. <u>The definition of a closed set can be closed by virtue of not having any limit points at all which is what the compact set bypasses</u>. ***Theorem 3.3.4.*** shows that compactness is equivalent to a set that has the following 2 properties:
 - The set is bounded
 - The set is closed
 
