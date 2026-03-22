@@ -6,7 +6,14 @@ tags:
 date_created: 2026-03-12
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-We now ascribe mathematical objects to represent linear transformations: Matrices. We start out by defining some key terms:
+
+
+We now ascribe mathematical objects to represent linear transformations: matrices. The chapter is outlined as follows:
+- The definition of a matrix representation of a linear transformation. This is defined by the transformation of the ordered basis of the domain vector vector space and the coefficients of the linear combination of the ordered basis in the image vector space
+- Demonstrate that the collection of all linear transformations from $T: V \to W$  denoted $\mathcal{L}(V,W)$ obeys the vector space axioms and is itself a vector space
+- Prove that the resulting transformation of a linear combination of linear transformations has a matrix representation equal to the same linear transformation performed on the original matrix representations.
+
+We start out by defining some key terms:
 - ordered basis: a sequence of vectors that form the basis of a vector space. For two ordered vector spaces $\beta = \{v_1,v_2,v_3\}$ and $\alpha = \{v_1,v_3,v_2\}$, we have that $\alpha \ne \beta$.
 - Given any vector $x\in V$, it is known that $x = \sum_{i=1}^na_iv_i$ where $v_i$ is the basis for $V$. We describe the coefficients of that linear combination using the coordinate vector. The coordinate vector is always relative to a certain ordered basis. We call the vector of the coefficients relative to a specific ordering of the sequence of basis of the vector space the following: the coordinate vector of $x$ relative to ordered basis $\beta$ denoted $[x]_{\beta}=(a_{1},a_{2},\dots,a_{n})$.
 
