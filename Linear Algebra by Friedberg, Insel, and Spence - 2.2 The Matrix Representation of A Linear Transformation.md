@@ -15,7 +15,11 @@ We then define the linear transformation as a matrix by the following algorithm 
 1) Determine an ordered basis of $W$ (call it $\gamma$) and $V$ (call it $\beta$).
 2) For the 1st column of $T$  the transformation is as follows: $T(v_1)=\sum\limits_{i=1}^na_iw_i$ . The first column of the matrix representing $T$ will then be the column $(a_{11},...,a_{n1})^T$.
 3) Repeat this for the $j$th vector in the ordered basis of $V$ to produce the $j$th column of the matrix representing $T$
-Note that this is leading to the fact that this matrix $[T]^{\gamma}_{\beta}$ when multiplied by a vector in the domain takes it to the range, but at this stage, we haven't defined matrix multiplication. We only have a defined this representation. With this algorithm, we note the following:
+The matrix generated this way is denoted $[T]^{\gamma}_{\beta}$. In summary, we apply the transformation to each ordered basis from the bottom right ordered basis, then determine the coefficients of the linear combination of the top right ordered basis.
+
+This is leading to the fact that this matrix $[T]^{\gamma}_{\beta}$ when multiplied by a vector in the domain takes it to the range, but at this stage, we haven't defined matrix multiplication. We only have a defined this representation. 
+
+With this algorithm, we note the following:
 - The matrix will depend on the specific order of the basis we choose. The matrix that results from our particular choice of ordered basis $\gamma$ and $\beta$ is then denoted as $[T]^{\gamma}_{\beta}$ where the top symbol is for the image.
 - There will be as many columns as there are basis vectors in the ordered basis of $V$. $col(T) = dim(V)$
 - There will be as many rows as there are basis vectors in the range $row(T)=dim(W)$
