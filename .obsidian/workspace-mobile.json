@@ -41,8 +41,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +222,22 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8808e8d1129fd442",
+  "active": "1432667f5528a4ed",
   "lastOpenFiles": [
+    "Introduction to Mathematical Statistics - 4.10 (Optional) Tolerance Limits for Distributions.md",
+    "Understanding Analysis - 3.4 Perfect Sets and Connected Sets.md",
+    "Theory and Reality - 13 Explanation.md",
+    "Introduction to Mathematical Statistics - 5.1 Convergence in Probability.md",
+    "Introduction to Calculus I by Fritz and Courant - 2.8 The Derivative.md",
+    "/Introduction to Mathematical Statistics - 4.10 (Optional) Tolerance Limits for Distributions.md",
+    "/Introduction to Mathematical Statistics - 4.9 Bootstrap Procedures.md",
+    "/Introduction to Calculus I by Fritz and Courant - 2.6 Exponential Function and Powers.md",
+    "/Understanding Analysis - 3.4 Perfect Sets and Connected Sets.md",
+    "/Understanding Analysis - 3.3 Compact Sets.md",
+    "/Theory and Reality - Introduction to the Philosophy of Science.md",
+    "/Theory and Reality - 13 Explanation.md",
+    "/Introduction to Mathematical Statistics - 5.1 Convergence in Probability.md",
+    "/Introduction to Calculus I by Fritz and Courant - 2.8 The Derivative.md",
     "Introduction to Calculus and Analysis I.md",
     "Introduction to Calculus I by Fritz and Courant - 2.2 Elementary Examples of Integration.md",
     "Projects.base",
@@ -232,26 +245,12 @@
     "Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
     "Introduction to Mathematical Statistics - 4.9 Bootstrap Procedures.md",
     "/Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
-    "/Introduction to Mathematical Statistics - 4.9 Bootstrap Procedures.md",
     "Understanding Analysis - 2.6 The Cauchy Criterion.md",
     "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Introduction to Mathematical Statistics - 2.3 Conditional Distributions and Expectations.md",
     "Introduction to Mathematical Statistics - 4.6 Additional Comments About Statistical Tests.md",
     "Introduction to Mathematical Statistics - 4.8 Monte Carlo Methods.md",
     "Understanding Analysis - 3.2 Open and Closed Sets.md",
-    "Theory and Reality - 12 Scientific Realism.md",
-    "The challenge to scientific realism from the Bas Van Fraasen's version of instrumentalism.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.3 Compositions of Linear Transformations and Matrix Multiplication.md",
-    "Understanding Analysis - 3.3 Compact Sets.md",
-    "Theory and Reality - 11 Naturalism and the Social Structure of Science.md",
-    "The set of Irrational numbers is not closed under addition or multiplication.md",
-    "The inequality of the arithmetic mean and geometric mean (AM-GM inequality).md",
-    "The challenges to scientific realism from traditional empiricists such as logical positivists.md",
-    "The challenges to scientific realism from the view that science is a metaphysical construction of itself.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.2 The Matrix Representation of A Linear Transformation.md",
-    "Introduction to Mathematical Statistics - 4.7 Chi-Square Tests.md",
-    "Introduction to Calculus I by Fritz and Courant - 2.7 The Integral of an Arbitrary Power of x.md",
-    "Introduction to Calculus I by Fritz and Courant - 2.6 Exponential Function and Powers.md",
     "Pasted image 20260309234014.png",
     "/Pasted image 20260309234014.png",
     "Textbooks.base",
