@@ -6,12 +6,15 @@ date_created: 2026-03-16
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
 
-Now that matrix operations have been defined in a way that lets us represent any linear transformations, we are now in a position to look at the inverse of linear transformations and show that matrices can be used in general to relate any general vector spaces that satisfy the criteria of isomorphism.
+Now that matrix operations have been defined in a way that lets us represent any linear transformations, we are now in a position to look at the inverse of linear transformations and show that matrices can be used in general to relate any general vector spaces that satisfy the criteria of isomorphism. The chapter is outlined as follows:
+- Definition of invertible linear transformation, properties of invertible linear transformation and the criteria for invertibility
+- Definition of invertible matrix and how it shares all the same properties as invertible linear transformations that let us carry over our results and matrix operations
+- The generalization of the fact that vector spaces can be represented by matrices: isomorphism
 
-The chapter has quite a few definitions and the theorems have simple derivations that require you to carefully think through the definitions. For all proofs we assume vector spaces $V$, and $W$ and linear transformations $T: V \to W$ 
 
 
-# Linearity of the inverse of a linear transformation
+
+# Invertibility and the linearity of the inverse of a linear transformation
 ***Definition (Inversion of a linear transformation).*** Given $T: V \to W$ a matrix $U: W \to V$ is its inverse if $TU = I_W$ and $UT = I_V$. The inverse $U$ is denoted as $T^{-1}$
 
 ***Theorem 2.17 (the inverse of a linear).*** If $T$ is linear, and invertible, than $T^{-1}$ is linear.
@@ -44,8 +47,8 @@ Colloquially, what theorem 2.20 says is that the collection of linear transforma
 Since the vector space of linear transformations is isomorphic with $m \times n$ matrices, then that means $\mathcal{L}(V,W)$ is finite dimensional $mn$.
 
 # Standardization of the representation of a vector space using the $n$-tuple vector space $F^n$.
-Now that we know any linear transformation can be uniquely represented by matrices with respect to a certain ordered base (note that the matrix that can map vector space to another vector space is technically not unique but we force it to by using a specific order of bases), we standardize the representation by choosing the $n$-tuple vector space to represent all vector spaces of $n$ dimensions
+In summary, any linear transformation can be uniquely represented by matrices with respect to a certain ordered base (note that the matrix that can map vector space to another vector space is technically not unique but we force it to by using a specific order of bases). In the beginning of [2.2 The Matrix Representation of A Linear Transformation](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%202.2%20The%20Matrix%20Representation%20of%20A%20Linear%20Transformation.md), we had defined the the coordinate vector with respect to an ordered basis, but now with the concept of isomorphism, we can see that process of mapping a vector $v\in V$ to a coordinate vector with respect to an ordered basis is just an isomorphism that maps $V\to F^n$ where $n=dim(V)$. We now discard that previous definition and proceed with one rooted in our theorems by defining it as a particular linear transformation linear transformation and as a result, we can prove that it is an isomorphism (see ***Theorem 2.21***). This demonstrates we can always represent any vector in a vector space uniquely with an equal dimension $F^n$-tuple.
 
-***Definition (standard representation of a vector space with respect to an ordered basis).*** The standard representation of $V$ with respect to an ordered basis $\beta$ is the function $\phi_{\beta}=V\to F^n$ defined by $\phi_{\beta}(x)=[x]_{\beta}$ for each $x \in V$.
+***Definition (standard representation of a vector space with respect to an ordered basis).*** The standard representation of $V$ with respect to an ordered basis $\beta$ is the function $\phi_{\beta}=V\to F^n$ defined by $\phi_{\beta}(x)=[x]_{\beta}$ for each $x \in V$. The linear transformation $\phi$ has been called the coordinate mapping or coordinate isomorphism too. 
 
 ***Theorem 2.21 (Isomorphism of the function that standardizes the representation of a vector space).*** The $\phi_{\beta}$ from the definition directly above is an isomorphism (i.e. it is bijective).

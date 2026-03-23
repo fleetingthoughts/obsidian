@@ -25,6 +25,6 @@ views:
       - property: deadline
         direction: ASC
     columnSize:
-      file.name: 371
+      file.name: 451
       formula.Progress: 106
       formula.Benchmark progress: 158
