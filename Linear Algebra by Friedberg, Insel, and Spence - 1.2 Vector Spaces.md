@@ -12,7 +12,7 @@ In the previous chapter, we had established [8 axioms](Linear%20Algebra%20by%20F
 ***Definition of a Vector Space (p. 6).*** A vector space $V$ over a field $F$ is consists of a set on which addition and scalar multiplication are defined so that any vectors in the set are closed under addition or scalar multiplication, that is, for any vector $x$ and $y$ and element $a$ in $F$, $x+y$  and  $ax$ produces a vector that is contained in $V$. Furthermore, the following 8 conditions are satisfied:
 1) Commutativity of vector addition
 2) Associativity of vector addition
-3) The existence of the null vector $0x=x$ 
+3) The existence of the null vector $0x=0$
 4) The existence of the inverse of a vector $x$ by addition denoted $-x$ 
 5) The existence of the identity scalar 1
 6) The associativity of scalar multiplication
@@ -27,7 +27,7 @@ We now spend the rest of the chapter describing important examples of vector spa
 The examples are as follows, and I will go into detail on specific ones:
 1) The set of all $n$-tuples over any $F$ field. This set is denoted $F^n$ :
 	- Vectors are $(a_1,a_2,...a_n)$ where $a_i \in F$ 
-	- Vector addition defined by element-wise addition and scalar multiplication defined by scalar multiplication of each individual elemnt
+	- Vector addition defined by element-wise addition and scalar multiplication defined by scalar multiplication of each individual element
 2) The set of all $m\times n$ matrices with entries from the field $F$ denoted as $M_{m\times n}(F)$ 
 3) The vector space of functions
 	- Let $S$ be any nonempty set and $F$ be any field, thet set of all functions that maps $S$ to $F$ is a vector space if defined as follows. Vector $f$ is of the form $f(s)$ and two vectors, $f$ and $g$ are considered equal if $f(s)=g(s)$ for all $s\in S$.
