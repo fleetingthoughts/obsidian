@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence.md",
+                "file": "Lagrange interpolating polynomial as a basis of the polynomial vector space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence"
+              "title": "Lagrange interpolating polynomial as a basis of the polynomial vector space"
             }
           },
           {
@@ -224,6 +224,9 @@
   },
   "active": "1432667f5528a4ed",
   "lastOpenFiles": [
+    "Linear Algebra by Friedberg, Insel, and Spence - 1.6 Bases and Dimension.md",
+    "Proof of the Steinitz exchange lemma.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence.md",
     "Linear Algebra - Friedberg, Insel, and Spence.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 1.7 Maximal Linearly Independent Subsets.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 1.4 Linear Combinations and Systems of Linear Equations.md",
@@ -249,9 +252,6 @@
     "/The constraints on the infinity with a compact set and closed intervals by guaranteeing the existence of a number.md",
     "/Projects.base",
     "/Linear Algebra by Friedberg, Insel, and Spence - 2.7 (Optional) Homogenous Linear Differential Equations.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
-    "/Algebra 2nd Ed. - Michael Artin.md",
-    "/5.2 Convergence in Distribution.md",
     "Pasted image 20260309234014.png",
     "/Pasted image 20260309234014.png",
     "Textbooks.base",
