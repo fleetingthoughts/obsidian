@@ -27,6 +27,7 @@ Its outside of the scope of this book, but Cauchy sequences technically don't co
 ***Theorem 2.6.4 (Cauchy Convergence Criterion).*** A sequence converges if and only if it is a Cauchy sequence
 
 The difficulty in proving the converse is that to prove the Cauchy sequence converges, we must have a proposed limit from the sequence. We have been in this situation before when proving the Monotone Convergence Theorem and the Bolzano-Weierstrass Theorem. We made use of another theorem/property as a proposed limit and tried to show we can always generally satisfy the conditions for that property/theorem:
+- The monotone convergence theorem made use of the supremum as a proposed limit
 - Bolzano-Weierstrass theorem: Use the nested interval property to imply the limit must exist and find a strategy to generate those nested intervals exist.
 and so to [prove that a sequence satisfying the Cauchy Criterion is sufficient for Convergence](Proof%20that%20a%20sequence%20satisfying%20the%20Cauchy%20Criterion%20is%20sufficient%20for%20Convergence.md), we apply a similar strategy by showing that the Cauchy criterion satisfies some condition for our proposed limit.
 

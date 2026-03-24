@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lagrange interpolating polynomial as a basis of the polynomial vector space.md",
+                "file": "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lagrange interpolating polynomial as a basis of the polynomial vector space"
+              "title": "Understanding Analysis 2nd ed. - Abbot, Stephen"
+            }
+          },
+          {
+            "id": "b94232c41faa218e",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
@@ -41,7 +51,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +233,22 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1432667f5528a4ed",
+  "active": "b94232c41faa218e",
   "lastOpenFiles": [
+    "Understanding Analysis - 2.6 The Cauchy Criterion.md",
+    "Understanding Analysis - 2.7 Properties of Infinite Series.md",
+    "Proof that a sequence satisfying the Cauchy Criterion is sufficient for Convergence.md",
+    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+    "Projects.base",
+    "Lagrange interpolating polynomial as a basis of the polynomial vector space.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 3.1 Elementary Matrix Operations and Elementary Matrices.md",
+    "Introduction to Mathematical Statistics - 5.3 Central Limit Theorem.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 3.1 Elementary Matrix Operations and Elementary Matrices.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
+    "/Introduction to Mathematical Statistics - 5.3 Central Limit Theorem.md",
+    "Introduction to Mathematical Statistics - 5.2 Convergence in Distribution.md",
+    "/Introduction to Mathematical Statistics - 5.2 Convergence in Distribution.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 1.6 Bases and Dimension.md",
     "Proof of the Steinitz exchange lemma.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence.md",
@@ -232,26 +257,12 @@
     "Linear Algebra by Friedberg, Insel, and Spence - 1.4 Linear Combinations and Systems of Linear Equations.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 1.3 Subspaces.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 1.2 Vector Spaces.md",
-    "Projects.base",
     "Theory and Reality - 14 Bayesianism and Modern Theories of Evidence.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 2.6 (Optional) Dual Spaces.md",
     "Linear Algebra by Friedberg, Insel, and Spence - 2.5 The Change of Coordinate Matrix.md",
     "Understanding Analysis - 3.5 Baire's Theorem.md",
     "The constraints on the infinity with a compact set and closed intervals by guaranteeing the existence of a number.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.7 (Optional) Homogenous Linear Differential Equations.md",
-    "5.2 Convergence in Distribution.md",
-    "/Understanding Analysis - 3.3 Compact Sets.md",
-    "/Understanding Analysis - 3.2 Open and Closed Sets.md",
-    "/Theory and Reality - 14 Bayesianism and Modern Theories of Evidence.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.6 (Optional) Dual Spaces.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.5 The Change of Coordinate Matrix.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.3 Compositions of Linear Transformations and Matrix Multiplication.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.2 The Matrix Representation of A Linear Transformation.md",
-    "/Understanding Analysis - 3.5 Baire's Theorem.md",
-    "/The constraints on the infinity with a compact set and closed intervals by guaranteeing the existence of a number.md",
     "/Projects.base",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.7 (Optional) Homogenous Linear Differential Equations.md",
     "Pasted image 20260309234014.png",
     "/Pasted image 20260309234014.png",
     "Textbooks.base",
