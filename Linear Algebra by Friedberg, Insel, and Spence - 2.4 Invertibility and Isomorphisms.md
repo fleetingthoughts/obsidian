@@ -10,17 +10,12 @@ Now that matrix operations have been defined in a way that lets us represent any
 - Definition of invertible linear transformation, properties of invertible linear transformation and the criteria for invertibility
 - Definition of invertible matrix and how it shares all the same properties as invertible linear transformations that let us carry over our results and matrix operations
 - The generalization of the fact that vector spaces can be represented by matrices: isomorphism
-
-
-
-
 # Invertibility and the linearity of the inverse of a linear transformation
 ***Definition (Inversion of a linear transformation).*** Given $T: V \to W$ a matrix $U: W \to V$ is its inverse if $TU = I_W$ and $UT = I_V$. The inverse $U$ is denoted as $T^{-1}$
 
 ***Theorem 2.17 (the inverse of a linear).*** If $T$ is linear, and invertible, than $T^{-1}$ is linear.
 
 ***Corollary.*** If $T$ is an invertible linear transformation of $V$ to $W$ then $dim(V)=dim(W)$.
-
 # Matrix representation of the inverse of a linear transformation
 We defined invertibility of a linear transformation, now we define the invertibility of a matrix and show how the inverse of a matrix is a matrix representation of the inverse
 
