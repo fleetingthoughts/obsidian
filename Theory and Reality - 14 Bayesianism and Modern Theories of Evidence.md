@@ -6,10 +6,11 @@ tags:
 date_created: 2026-03-20
 parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
 ---
-We return to the topic of confirmation after the failed attempts by the logical positivists in chapter 3. This chapter discusses the most current view of the problem of confirmation called Bayesianism which PGS is not an advocate of.  The chapter is outlined as follows:
+We return to the topic of confirmation after the failed attempts by the logical positivists in chapter 3. This chapter discusses the most current view of the problem of confirmation called Bayesianism which PGS is not a firm advocate of.  The chapter is outlined as follows:
 - The shape of philosophical discussion since the failures of logical positivism regarding confirmation
 - The breakdown of the components and what is required for confirmation using Bayes' theorem
 - Interpretation of the priori probabilities and the criteria of "rational individuals"
+- Alternative views on confirmation evidence that may complement Bayesianism.
 
 Since the failures of logical positivism in establishing a theory of confirmation, it has placed the "objective view" of science in a shaky place that has invited views from outside of science giving rise to the Science Studies. The most recent views on confirmation theory is Bayesianism. 
 

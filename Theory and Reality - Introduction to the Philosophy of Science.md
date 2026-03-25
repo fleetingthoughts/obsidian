@@ -24,7 +24,16 @@ I suggest categorizing the book by chapter and then along with the major points 
 - key people (for follow-up reading)
 - key terms used and definitions (as the philosophy of science has much to do with the use of language and its full context), 
 - historical examples.
-
+The shape of the discussion of the overall book is as follows:
+- Chapters 2-9 are an outline of the ideas in chronologically to capture the shape of the discussion as each idea is usually in response to a previous one
+- Chapters 10-14 are topical modern ideas of the philosophy of science:
+	- 10-11 is on Naturalism
+	- 12 is on Scientific Realism
+	- 13 is not a field a thought but on the topic of explanation. What is its role in science and how should it be done.
+	- 14 is the most modern theory of confirmation (evidence is the precise term used) of Bayesianism
+- Chapter 1-4 are language and logical based forms of the philosophy of science that try to establish an abstract foundation for science. 
+- Chapters 5-6 talks about the shift in the way philosophy of science is discussed starting with Kuhn
+- Chapters 7-9 are ideas on the philosophy of science that from fields outside of science namely sociology and feminism.
 The book is well organized into its chapters with a crystal thesis that one can extract or interpret. I have provided my own as follows:
 1) [Introduction](Theory%20and%20Reality%20-%201%20Introduction.md): 
 	- The two basic questions that the book will answer. 

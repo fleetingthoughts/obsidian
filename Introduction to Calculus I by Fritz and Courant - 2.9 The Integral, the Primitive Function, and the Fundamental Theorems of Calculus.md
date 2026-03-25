@@ -1,6 +1,14 @@
-
-We now derive and apply the fundamental theorem of calculus (FTC) that relates differentiation and integration as inverse operations of each other. The chapter is outlined as followed
-1) The relationship between the indefinite integral and its integrand by differentiation. The existence of at least one solution to the antiderivative of a function: the 1st part of the fundamental theorem of calculus
+---
+tags:
+  - math
+  - calculus
+  - real_analysis
+date_created: 2026-03-25
+parent: "[[Introduction to Calculus and Analysis I]]"
+---
+We now relate differentiation and integration by asking the question "Does there exist an antiderivative of a function, and if it exists, is it unique?" The result is the fundamental theorem of calculus which shows integration and differentiation are inverse operations of each other. The chapter is outlined as followed
+1) The problem of the primitive function (the antiderivative) and its relation to the indefinite integral
+. The existence of at least one solution to the antiderivative of a function: the 1st part of the fundamental theorem of calculus
 2) The primitive function, its relationship to the integral and why we need it at all given the indefinite integral. The non-uniqueness of the antiderivative: 2nd part of the fundamental theorem of calculus.
 3) Some conceptual applications of the fundamental theorem of calculus:
 	1) The use of the primitive function to determine definite integrals.

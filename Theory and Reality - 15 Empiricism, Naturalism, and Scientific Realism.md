@@ -13,7 +13,15 @@ The past 14 chapters have given both a chronological and topical overview of all
 	- The embedding of empiricism within the sociological views of science as an organization. The sociological views are a way of organizing and carrying out a strategy for science. This strategy is conducted at the local level is a naturalized empiricism.
 - Defense of empiricism from its critics
 
-In general, PGS is very skeptical of attempts to generalize and "foundationalize" anything in the philosophy of Science.
+In general, PGS is very skeptical of attempts to generalize in the philosophy of Science and prefers to hold a contextual view that uses ideas from various camps depending on the circumstances. These views are grounded though into three camps: Empiricism, Naturalism, and Scientific Realism. In order to combine the views, we examine the conflicts between the 3:
+1) Empiricism vs Naturalism
+2) Empiricism vs Realism
+3) Naturalism vs Scientific Realism
+Of these 3, it is Empiricism that poses the biggest problem. PGS proposes to solve this problem by modifying the traditional views of empiricism by casting it in a naturalist lens.
+
+
+
+
 - Empiricism vs realism: underdetermination of evidence. Cannot choose a explanatory inference
 - Naturalism vs empiricism: The basic tenet of relying on senses is foundational and prone to error. This is echoed in the sociological views of the myths of empiricism citing issues like the theory-ladenness of observation and incommensurability of standards.
 
