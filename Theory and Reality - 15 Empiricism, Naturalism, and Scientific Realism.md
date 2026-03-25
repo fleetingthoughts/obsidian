@@ -13,7 +13,7 @@ The past 14 chapters have given both a chronological and topical overview of all
 	- The embedding of empiricism within the sociological views of science as an organization. The sociological views are a way of organizing and carrying out a strategy for science. This strategy is conducted at the local level is a naturalized empiricism.
 - Defense of empiricism from its critics
 
-
+In general, PGS is very skeptical of attempts to generalize and "foundationalize" anything in the philosophy of Science.
 - Empiricism vs realism: underdetermination of evidence. Cannot choose a explanatory inference
 - Naturalism vs empiricism: The basic tenet of relying on senses is foundational and prone to error. This is echoed in the sociological views of the myths of empiricism citing issues like the theory-ladenness of observation and incommensurability of standards.
 
