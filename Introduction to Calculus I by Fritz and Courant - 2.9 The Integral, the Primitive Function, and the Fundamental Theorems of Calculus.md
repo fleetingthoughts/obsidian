@@ -17,9 +17,11 @@ The use of the <u>difference in primitive functions to evaluate definite integra
 As an extension of this, we can multiply both sides by $1/(b-a)$: $$\frac{F(b)-F(a)}{b-a}=\frac{1}{b-a}\int_{a}^b F'(u)du$$
 And this shows that the difference quotient, is precisely our intuitive understanding of the average: It is the average of the instantaneous velocities
 
-It is also worth commenting on the relationship between the two mean value theorems of integration and differentiation and the fundamental theorem of calculus. The fundamental theorem of calculus serves as the bridge between the two mean value theorems. It is tempting to say we can derive the MVT of integration, prove the fundamental theorem of calculus and then us both results to derive the MVT of differentiation, but one nuance in Richard Courant's [proof of the second part of the fundamental theorem of calculus (Newton-Leibniz Theorem)](Proof%20of%20the%20second%20part%20of%20the%20fundamental%20theorem%20of%20calculus%20(Newton-Leibniz%20Theorem).md), is that we appeal to the MVT of differentiation specifically to show that the primitive functions differ by only a constant. Because we end up having to assume differentiation anyways when starting with the MVT of integration to prove the MVT of differentiation the derivation becomes circular, so the MVT of differentiation can be seen as the more "fundamental result" that we start with:
-$$\text{MVT of differentation}\implies \text{first part of fundamental theorem of calculus}\implies \text{MVT of integration}$$
-You can also refer to this [stack exchange answer](https://math.stackexchange.com/questions/1801069/use-the-mean-value-theorem-of-integration-to-derive-the-mean-value-theorem-of-di)
+It is also worth commenting on the relationship between the two mean value theorems of integration and differentiation and the fundamental theorem of calculus. The fundamental theorem of calculus serves as the bridge between the two mean value theorems. In Richard courant's proofs:
+- The mean value theorem of integration was used to prove the existence of the antiderivative
+- The mean value theorem of differentiation was used to prove the general form of any antiderivative.
+The fundamental theorem of calculus acts as a sort of bridge between the two. It doesn't appear you can derive one MVT using just the other.
+
 # Definitions
 - ***Primitive Functions.*** Any function $F(x)$ such that $F'(x)=f(x)$ is said to be a "primitive function of $f(x)$" or simply "a primitive of $f(x)$". Essentially the primitive of a function is the antiderivative of a function.
 # Theorems
