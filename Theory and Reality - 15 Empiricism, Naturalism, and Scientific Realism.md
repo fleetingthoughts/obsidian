@@ -1,0 +1,36 @@
+---
+tags:
+  - peter_godfrey_smith
+  - philosophy
+  - science
+date_created: 2026-03-25
+parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
+---
+The past 14 chapters have given both a chronological and topical overview of all the philosophical problems and proposed solutions that concern Science. For the final chapter, Peter-Godfrey-Smith takes an overview of some of these problems and sketches a position he holds that could address some of these problems. As someone who opposes a false dichotomy, in his typical fashion, he sketches a position that is rooted in 3 ideas of philosophy of science: Empiricism, Naturalism, and Scientific Realism. In outlining his position, he goes over the following:
+- Addressing the apparent tensions between the 3 views and what specific ideas in each prevent an combination of all 3
+- Addressing the largest tensions coming from empiricism and modifying empiricism by casting it in a naturalist lens
+	- Addressing empiricism as the questioning of how much of our senses can be trusted as opposed to the direct method of determining the appropriate inference which is subject to the problems of underdetermination
+	- The embedding of empiricism within the sociological views of science as an organization. The sociological views are a way of organizing and carrying out a strategy for science. This strategy is conducted at the local level is a naturalized empiricism.
+- Defense of empiricism from its critics
+
+
+- Empiricism vs realism: underdetermination of evidence. Cannot choose a explanatory inference
+- Naturalism vs empiricism: The basic tenet of relying on senses is foundational and prone to error. This is echoed in the sociological views of the myths of empiricism citing issues like the theory-ladenness of observation and incommensurability of standards.
+
+- Most tension is in empiricism. How does PGS resolve empiricism? He casts it in a natural lens. Explain the act of perceiving the world with science itself.
+	- The framing of the unobservable and the observable world is a false analogy for sensation which is a purely biological phenomena. Looking at underdetermination of theory, we should look instead at the reliability  we have in our attempts to learn about the world
+	- Asking about reliability: How well did we do? What methods steered us well? Answers in history
+	- Broad and narrow distinguishing the ways to conduct and think about science. Narrow: constructing ideas in a way that requires exposure to experience. Broad: A larger strategy to carry out the narrow
+	- More on the broad:
+		- cooperation at a given time: Ideas in chapter 11 on the best division of labor
+		- cooperation across time: individual incentives in recognition discussed in chapter 8 and 11
+- Spends time countering the wrong way to view empiricism. Critic of the critic
+	-        Objectivity in two senses: contrast with prejudice and part of an external reality in that it is a concept that is fixed. are morals objective? Realism guides objectivity: contact with this world leads to objectivity.
+- Further questions to be answered:
+	- frameworks and paradigms. Are they useful ways of seeing science
+	- How do we link the individual to the societal. Is there a reward system we should go into
+	- Representation theory: how do we describe theories and models. The positivist view casting them in terms of logic and language is a failure. We need another model.
+# Terms
+# People and Historical Examples
+- John Dewey's work in casting empiricism in a naturalist lens.
+- Alchemy as a valid empirical endeavor that failed as a "Science" due to the lack of cooperation and the secretive nature of the work for mystical and profit reasons.
