@@ -50,9 +50,33 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "9f521fef21f743fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Understanding Analysis - 2.6 The Cauchy Criterion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Understanding Analysis - 2.6 The Cauchy Criterion"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,35 +257,37 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b94232c41faa218e",
+  "active": "9f521fef21f743fb",
   "lastOpenFiles": [
-    "Understanding Analysis - 2.6 The Cauchy Criterion.md",
-    "Understanding Analysis - 2.7 Properties of Infinite Series.md",
-    "Proof that a sequence satisfying the Cauchy Criterion is sufficient for Convergence.md",
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
-    "Understanding Analysis - 2.4 The Monotone Convergence Theorem and a First Look at Infinite Series.md",
+    "Understanding Analysis - 2.8 Double Summations and Products of Infinite Series.md",
+    "Understanding Analysis - 2.7 Properties of Infinite Series.md",
+    "Proof for the convergence for the rearrangement of an absolutely convergent series.md",
+    "Understanding Analysis - 2.3 The Algebraic and Order Limit Theorems.md",
+    "Understanding Analysis - 2.6 The Cauchy Criterion.md",
+    "Proof that a sequence satisfying the Cauchy Criterion is sufficient for Convergence.md",
     "Projects.base",
-    "Lagrange interpolating polynomial as a basis of the polynomial vector space.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 3.1 Elementary Matrix Operations and Elementary Matrices.md",
-    "Introduction to Mathematical Statistics - 5.3 Central Limit Theorem.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 3.1 Elementary Matrix Operations and Elementary Matrices.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
-    "/Introduction to Mathematical Statistics - 5.3 Central Limit Theorem.md",
-    "Introduction to Mathematical Statistics - 5.2 Convergence in Distribution.md",
-    "/Introduction to Mathematical Statistics - 5.2 Convergence in Distribution.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.6 Bases and Dimension.md",
-    "Proof of the Steinitz exchange lemma.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence.md",
-    "Linear Algebra - Friedberg, Insel, and Spence.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.7 Maximal Linearly Independent Subsets.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.4 Linear Combinations and Systems of Linear Equations.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.3 Subspaces.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 1.2 Vector Spaces.md",
-    "Theory and Reality - 14 Bayesianism and Modern Theories of Evidence.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.6 (Optional) Dual Spaces.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.5 The Change of Coordinate Matrix.md",
-    "Understanding Analysis - 3.5 Baire's Theorem.md",
-    "The constraints on the infinity with a compact set and closed intervals by guaranteeing the existence of a number.md",
+    "Understanding Analysis - 4.2 Functional Limits.md",
+    "Understanding Analysis - 4.1 Discussion and Examples of Dirichlet and Thomae.md",
+    "Understanding Analysis - 3.6 Epilogue.md",
+    "Theory and Reality - 15 Empiricism, Naturalism, and Scientific Realism.md",
+    "Proof of the second part of the fundamental theorem of calculus (Newton-Leibniz Theorem).md",
+    "Proof of the first part of the fundamental theorem of calculus.md",
+    "Pasted image 20260325182835.png",
+    "Introduction to Mathematical Statistics - 6.1 Maximum Likelihood Estimation.md",
+    "Introduction to Mathematical Statistics - 5.4 (Optional) Extensions to Multivariate Distributions.md",
+    "Introduction to Calculus I by Fritz and Courant - 3.1 The Simplest Rules for Differentiation and Their Applications.md",
+    "Introduction to Calculus I by Fritz and Courant - 2.9 The Integral, the Primitive Function, and the Fundamental Theorems of Calculus.md",
+    "/Understanding Analysis - 4.2 Functional Limits.md",
+    "/Understanding Analysis - 4.1 Discussion and Examples of Dirichlet and Thomae.md",
+    "/Understanding Analysis - 3.6 Epilogue.md",
+    "/Theory and Reality - Introduction to the Philosophy of Science.md",
+    "/Theory and Reality - 15 Empiricism, Naturalism, and Scientific Realism.md",
+    "/Theory and Reality - 14 Bayesianism and Modern Theories of Evidence.md",
+    "/Proof of the second part of the fundamental theorem of calculus (Newton-Leibniz Theorem).md",
+    "/Proof of the first part of the fundamental theorem of calculus.md",
+    "/Pasted image 20260325182835.png",
+    "/Introduction to Mathematical Statistics - 6.1 Maximum Likelihood Estimation.md",
     "/Projects.base",
     "Pasted image 20260309234014.png",
     "/Pasted image 20260309234014.png",
@@ -274,8 +300,6 @@
     "Pasted image 20260223004608.png",
     "Pasted image 20260223003638.png",
     "Pasted image 20260223002604.png",
-    "Pasted image 20260223001332.png",
-    "Pasted image 20260221195300.png",
     "/Harmony and Counterpoint.canvas",
     "A set of Sequences has a larger Cardinality than $",
     "/A set of Sequences has a larger Cardinality than $",

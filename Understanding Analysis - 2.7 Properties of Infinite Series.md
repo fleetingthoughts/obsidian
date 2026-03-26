@@ -23,7 +23,7 @@ Tests/conditions to determine wither an infinite series converges:
 
 We first must make sure we make clear the distinction between two different sequences regarding an infinite series:
 1) a sequence of its terms: $(a_1,a_2,...)$
-2) the sequence of its partial sums $(s_1,s_2,s_3,..) where $s_n = a_1+a_2+...+a_n$
+2) the sequence of its partial sums $(s_1,s_2,s_3,..)$ where $s_n = a_1+a_2+...+a_n$
 
 ***Unofficial Definition of the convergence of an infinte series:*** We now define the convergence of an infinite series in terms of the sequence: Given an infinite series $\Sigma_{i=1}^{\infty}a_i$, and a sequence of its partial sums $(s_n)$:
 $$\lim_{ n \to \infty}s_n  \iff \Sigma_{i=1}^{\infty}a_i=A$$
