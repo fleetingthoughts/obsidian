@@ -74,9 +74,19 @@
               "icon": "lucide-file",
               "title": "Understanding Analysis - 2.6 The Cauchy Criterion"
             }
+          },
+          {
+            "id": "eaa6b073100b6dc2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,7 +267,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9f521fef21f743fb",
+  "active": "eaa6b073100b6dc2",
   "lastOpenFiles": [
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "Understanding Analysis - 2.8 Double Summations and Products of Infinite Series.md",
