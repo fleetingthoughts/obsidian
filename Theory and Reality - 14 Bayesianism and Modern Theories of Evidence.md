@@ -69,7 +69,7 @@ The essential idea is that confirmation, testing and evidence's role now becomes
 - Bayesianism
 - evidence (as opposed to confirmation)
 - prior probabilities
-- liklihoods
+- likelihood's
 - posterior probabilities
 - subjectivist interpretation of probability
 - eliminative inference
