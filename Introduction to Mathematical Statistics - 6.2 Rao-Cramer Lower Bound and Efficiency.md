@@ -6,12 +6,41 @@ tags:
 date_created: 2026-03-27
 parent: "[[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig]]"
 ---
-The characteristic of a good estimator is one that minimizes
+The characteristic of a good estimator is one that minimizes variance so that we can be confident the predictor we have is close to the true parameter (if it is an unbiased estimator). In this chapter we look at the theoretical lowest variance any statistic can have called the Cramer-Rao lower bound that gives a numerical value on the error, and also the lowest variance an unbiased estimator can have. The lower bound is then applied to show that the maximum likelihood estimator can achieve this lower bound and is therefore consistent as we increase our sample size.
+
+The chapter assumes the statistical problem of a known distribution with an unknown parameter :
+- How to determine the Fischer information and score function of a random variable
+- How to determine the Rao-Cramer lower bound on the variance of a statistic and whether the statistic is an efficient estimator.
+
+Throughout this chapter, we have to make various regularity assumptions. Different theorems will require different levels of assumption. The derivation of a lot of the results are demonstrated by lucky manipulations that happen to tell us something about our pdf and so this is what we shall do. We first derive the Fischer Information and the score function by taking the derivative of the identity. Note that we'll have to assume regularity assumptions 1-5 so that we can make the differential manipulations. Taking the identity$$\begin{align}1 &=\int_{-\infty}^\infty f(x;\theta)dx  \\
+0& = \int_{-\infty}^\infty \frac{\partial f(x;\theta)}{\partial \theta}dx \\
+0& = \int_{-\infty}^\infty \ \frac{f(x;\theta)/\partial{\theta}}{f(x;\theta)}f(x;\theta)dx \\
+0&= \int_{-\infty}^\infty \frac{\partial \ln f(x;\theta)}{\partial \theta}f(x;\theta)=E\left[\frac{\partial \ln f(x;\theta)}{\partial \theta}\right]
+\end{align}$$
+Now making use of regularity assumption 4) and 5) to take a 2nd derivative: $$\begin{align} 0&= \int_{-\infty}^\infty \frac{\partial^2 \ln f(x;\theta)}{\partial \theta^2}f(x;\theta)dx + \int_{-\infty}^\infty \left(\frac{\partial \ln f(x;\theta)}{\partial \theta}\right)^2f(x;\theta) \\
+E\left[\frac{\partial^2 \ln f(x;\theta)}{\partial \theta^2}\right]&=-E\left[\left(\frac{\partial \ln f(x;\theta)}{\partial \theta}\right)^2\right]
+
+
+\end{align}$$
+Noting that these are expectations in the first and second moment, we can therefore compute the Fischer information denoted $I(\theta)$ by using these expectations and with the 2nd moment, we have choice but usually the left-hand side of the equality is easier to compute. The Fischer information is the variance of the score function which appears in the likelihood function.
+
+Now with this interesting function, what we notice is that if we take any statistic that is a function of our unknown parameter on a realized sample. If we take the derivative of the expectation of that statistic, we can derive a lower bound for the variance called the Cramer-Rao Lower Bound (CRLB). ***Theorem 6.2.1*** shows how to compute the CRLB and its corollary shows what this simplifies to if the statistic is an unbiased estimator of our parameter such that its expectation is simply our unknown parameter $\theta$ itself.
+
+The importance of the CRLB is that it gives us a numerical "ideal" for how low our variance can be and so for any statistic that is an estimator, we want its variance to be as low as possible so we want it to obtain the CRLB. Most notably, the CRLB also gives us a numerical estimate of how low our variance can be. The variance of an unbiased estimator in particular can only be as<u> low as the reciprocal of the Fischer information</u> We then give various efficiency metrics and terms to measure how close the variance of our statistic is to the CRLB in the 3 definitions ***Definitions 6.2.1-6.2.3***. I note the following significant things about this result:
+- The CRLB is a function of the Fischer Information which in turn is a function of the derivative of the pdf itself. We can compute tables of formulae of the Fischer information for various distributions and therefore determine the formula for the CRLB for each distribution
+
+In order to see how we can apply these results to the log-likelihood functions, we will not require a 6th regularity assumption in ***Assumption 6.2.2*** which allows us to take a triple derivative that is bounded. The mle's in a lot of the examples were computable in closed form but this is often not the case. Without a closed form, we don't have a function to manipulate to say something about its variance, but we are still able to show that the MLE estimators are asymptotically efficient. ***Theorem 6.2.2*** colloquially means that as we take more samples, the error (i.e. the difference between our estimator of the parameter and the true parameter) will be a normally distributed such and we achieve the lowest possible variance in the CRLB assuming our mle is unbiased.
+
+
+While the asymptotic efficiency of an estimator is closely related to the consistency of an estimator, its important to note the differences and how they complement each other:
+- An estimator can still converge to the true value even if it is not asymptotically efficient, that is an estimator can still be consistent even if it is not necessarily asymptotically efficient. Consistency implies nothing about the CRLB. The CRLB is a "stronger condition" then consistency by giving  a numerical estimate of the variance.
+- The Cramer-Rao lower bound gives an estimate of how low the variance can be for a given sample size. It is a measure of what the variance is like "right now" while the consistency is a measure of "do we eventually reach our goal if we work hard enough and collect enough samples". 
+- The CRLB can be used to show consistency IF we can show our estimator is asymptotically efficient such that its variance is its CRLB.
 # Definition
 For all definitions, the premise of our problem is that $X$ is our random variable of interest where we know the form of the distribution $f(x; \theta)$ but do not know one of its parameters $\theta$ where $\theta \in \Omega$ 
 
-- ***Fischer Information (p. 363)***
-- ***Score Function (p. 364)***
+- ***Fischer Information (p. 363)*** Denoted $I(\theta)$, the Fischer information is the variance of the partial derivative of the natural logarithm of the pdf. There are two equivalent ways to compute the 2nd moment: $$I(\theta)=Var\left[\frac{\partial \ln f(X;\theta)}{\partial \theta}\right]$$
+- ***Score Function (p. 364)*** The score function is the function of interest that the Fischer information takes the variance of $\frac{\partial \ln f(X;\theta)}{\partial \theta}$. 
 
 - ***Assumptions 6.2.1 (Additional Regularity Conditions).*** On top of the [previous 3 assumptions of regularity](Introduction%20to%20Mathematical%20Statistics%20-%206.1%20Maximum%20Likelihood%20Estimation.md), we add 2 more assumption for our theorems:
 4) The pdf of our random variable is twice differentiable with respect to the unknown parameter $\theta$
