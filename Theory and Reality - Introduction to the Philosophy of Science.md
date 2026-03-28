@@ -105,7 +105,7 @@ The book is well organized into its chapters with a crystal thesis that one can 
 	- PGS sketches out his own views that combines empiricism, naturalism, and realism and specifically addresses the problems in empiricism. Empiricism required as our connection to the real world to counter the claims from Science studies
 	- PGS's modification of empiricism as an interacting with the world to determine what is "not correct" as opposed to what "is the THE right answer" using ideas from eliminative inference
 	- PGS's view of empiricism as a strategy and the social views of science discussed as a way to organize the strategy of empiricism. Here the views from social studies do not replace empiricism, but instead complement it.
-	- PGS's extensive criticism of the views from Science Studies that strawman a specific (albeit traditional) view of empiricism but at the same time leaves no room for the scientist to respond to the natural world. Science studies' criticism of empiricism throws the baby out with the bath water and leaves a very empty model of science as a PR exercise
+	- PGS's extensive criticism of the views from Science Studies that strawman a specific (albeit traditional) view of empiricism but at the same time leaves no room for the scientist to respond to the natural world. Science studies' criticism of empiricism throws the baby out with the bath water and leaves a very empty model of science as a PR exercise 
 
 
 ![](Pasted%20image%2020260101015552.png)
