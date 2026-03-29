@@ -19,6 +19,10 @@ In general, PGS is very skeptical of attempts to generalize in the philosophy of
 3) Naturalism vs Scientific Realism
 Of these 3, it is Empiricism that poses the biggest problem. PGS proposes to solve this problem by modifying the traditional views of empiricism by casting it in a naturalist lens.
 
+PGS proposes the following changes for empiricism by exercising it through a naturalist lens:
+- Empiricism should move away from the traditional views of positively and directly verifying the one correct hypothesis have a focus on what are NOT the correct options.
+ This echoes his ideas of confirmation having a focus on eliminative inference. The driver behind this thought is to view our perceptual mechanisms as biological systems therefore from a naturalist's point of view, we can learn about how we perceive and "what kind of reliability we have to know about our attempts in the world (p. 223)." An example of this was illustrated in a counter to the [theory-ladenness of observation from a naturalist's view](Theory%20and%20Reality%20-%2010%20Naturalistic%20Philosophy%20in%20Theory%20and%20Practice.md)
+
 
 
 
