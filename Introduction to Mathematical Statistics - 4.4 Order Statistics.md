@@ -34,9 +34,4 @@ $$P(i<X<j)=\sum_{w=i}^{j-1}\binom{n}{w}p^w(1-p)^{n-w}=\gamma \text{\quad where X
 - Set a desired confidence level $\gamma$
 - Use the binomial distribution where the probability of success is $F(\xi_p)=p$ and our sample size of $n$ for the number of trials. Determine the $i$ and $j$ that satisfies the binomial probability above. If we're doing a two-tail confidence interval, just determining $P(i<=X)=\frac{\gamma}{2}$ is sufficient since the binomial distribution is symmetric. 
 - If doing a symmetric confidence interval,
-
-
-
-
-- 
 - Order statistics makes confidence intervals independent of the distribution of the original function by applying the principles of the bernoulli trial. Given a random sample, the probability that a random observation is above or below the desired quantile is essentially a success or failure bernoulli trial.
