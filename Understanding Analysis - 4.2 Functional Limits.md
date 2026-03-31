@@ -7,13 +7,19 @@ date_created: 2026-03-24
 parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
 ---
 With the challenge presented by Thomae and Dirichlet's function, we are motivated to be careful with how we define what it means to take the limit of functions. We now go take limits of functions that do not just have a domain of $\mathbb{N}$ (i.e. sequences). We had first formulated the concept of a limit for the simpler sequences before proceeding to the more general case with functions. The idea of proving a concept with a simpler case (i.e. sequences are just simpler functions), lets establish results early that we can then apply to the more general case. This not only has pedagogical value, but this is an example of developing math by proving a simpler case so that we can apply the results to the general case which we will do for ***Theorem 4.2.3*** in linking sequential limits to functional limits. In this chapter we do the following:
-- Define the functional limit both analytically and topologically
-- Derive a theorem that shows how the limit of a function depends on the possible sequences in its domain
-- Provide corollaries that show the advantage of this definition to permit the usual algebraic operations and avoids the ambiguous situations in the pathological functions such as Thomae and Dirichlet's functions.
+1) Define the functional limit both analytically and topologically
+2) Provide a bridge that lets us leverage results for sequences to functional limits: Derive a theorem that shows how the limit of a function depends on the behavior of the image for ALL presupposed convergent sequences in its domain (since limit points are assumed).
+3) Show how 2) provides a way for us to provide a counterexample to disprove whether a point is a functional limit
+4) Provide corollaries that show the advantage of this definition to permit the usual algebraic operations and avoids the ambiguous situations in the pathological functions such as Thomae and Dirichlet's functions.
 Some important things to remember from previous sections:
 - limits points do not necessarily belong to a set unless it is closed. 
 
-Definition ***4.2.1*** and ***4.2.1b*** are equivalent definitions. Some nuances and things to note with these definitions:
+Definition ***4.2.1*** and ***4.2.1b*** are equivalent definitions. The conversion of the statements in ***4.2.1*** to ***4.2.1b*** are as follows:
+- ***4.2.1*** says $|x-c|<\delta \implies |f(x)-f(c)|<\epsilon$
+- In the antecedent, setting $|x-c| <\delta$ is equivalent to saying $x \in V_{\delta}(c)$. Note we can do this because we assumed $c$ is a limit point
+- In the consequent, saying $|f(x)-f(c)|<\epsilon$ is equivalent to saying $f(x) \in V_{\epsilon}(L)$ where $L=f(c)$ is the limit. 
+
+Some nuances and things to note with these definitions
 - The domain does not have to contain its limit points. We only require it to exist, that is, the domain is not necessarily a closed set.
 - Because the domain is not necessarily a closed set, we can still determine a limit for a function even if that point does not exist in the domain of the function
 - Note that we cannot arbitrarily set $\delta$ to be as large as we want since all the points $x$ have to be in $A$, but it DOES mean that if we establish a $\delta$-neighborhood at all for a certain $\epsilon$-neighborhood, then it has to contain a the smaller $\delta$' neighborhood that simultaneously satisfies the condition of being within the $\epsilon$-neighborhood. This last statement about "all $\delta$-neighborhoods leads to ***Theorem 4.2.3.*** 

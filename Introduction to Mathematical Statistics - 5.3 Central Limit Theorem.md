@@ -15,8 +15,10 @@ This section lists a proof of the central limit theorem (CLT) using the mgf, and
 
 The CLT can equivalently be stated as $\sqrt{n}(\bar{X}-\mu) \xrightarrow{D}N(0,\sigma^2)$. Since the chapter is short, I can address each of the outline points as follows:
 1) Since the sample variance converges to $\sigma^2$, we can then apply Slutsky's theorem: the multiplication of a random variable that converges in probability and a random variable that converges in distribution results in a convergence in distribution to a multiple of the distribution
-2) fd
+2) Continuity correction: a correction of 0.5 added or subtracted from discrete values when plugged into the normal distribution to account for the fact that we're approximating a discrete function with a continuous one. For example we cannot compute $P(X= 50)$ which is valid for a discrete $X$ but not when we approximate with a normal distribution so we approximate $P_{discrete}(X=50)=P_{N(0,1)}(49.5<X<50.5)$.
 3) We can apply the results from the $\triangle$-method in chapter 5.2.2 to determine the transformation of the sample averages and the mean. Namely substituting $\theta=\mu$ and $X_{n}=\bar{X_{n}}$ we then have: $$\sqrt{n}(g(\bar{X_{n}}))-g(\mu)) \xrightarrow{D} N(0,\sigma^2(g'(\mu))^2)$$
+If we know the form of the distribution of the random variable, then we can directly compute $\sigma$, but if we do not, the sample variance can be used instead and the CLT convergence to a normal distribution is still valid as shown in 1).
+
 And so for instance we can try to determine a transformation for example that gives us a specific variance by choosing a specific $g(\mu)$ such that it has a derivative that causes the statistic to approximate to a normal distribution with the desired variance (i.e. we will have to solve a differential equation to determine the particular $g$ function that does so).
 
 # Definitions
