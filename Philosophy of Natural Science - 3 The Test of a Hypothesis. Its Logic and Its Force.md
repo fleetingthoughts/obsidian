@@ -6,27 +6,32 @@ tags:
 date_created: 2026-04-01
 parent: "[[Philosophy of Natural Science]]"
 ---
-Chapter outlined as follows:
+With the previous chapter outlining a criteria for the overall scientific process of testing and hypotheses and its inherent limitations both deductively and practically, we now look at one of these elements, testing, and discuss in further details its deductive and practical limitations. The chapter outlined as follows:
 1) 3 characteristics of an experimental test and its role in science and that it is not a distinguishing feature of science
 2) The relationship between testing and hypothesis: the reliability of a test to confirm or deny a hypothesis due to auxiliary hypotheses
 3) The unreliability of testing conclusions due to auxiliary hypotheses resulting in the possibility of ad-hoc hypotheses. Hempel's proposed guidelines for an appropriate ad hoc.
 4) The criteria of empirical import in a hypothesis to allow for testing and the nuances with testability "in-principle"
-- Three criteria for an experimental test:
-	- Technologoically realizable
-	- control of a factor. (distinguish between control with only varying one quantity which is impossible practically)
-	- actually affects the phenomenon under study.
-- The impracticality of varying one factor at a time
-- Experimentation as a means of discoveryt
-- Experimentation itself is not a demarcation of science such as astronomical ones where we have no control.
-- The reliability of experimental tests
-	- The bundle of observations
-	- When a hypothesis implies another implication
-- Testing methods to eliminate rather than confirm a hypothesis: crucial tests and their unreliability
-- The unreliability of testing introducing the possibility of ad hocs. Hempel echoes Popper's risk-taking views on refutation here
-- Hempel's proposed  guidelines for appropriate ad hocs:
-	- does it just save your hypothesis or does it account for other phenomena,
-	- does it yield further test implications
-	- Does more hypotheses have to be introduced, if so, that's a negative
+Hempel proposes 3 criteria for an experimental test:
+- The test must be technologically realizable (testability in-principle)
+- There is some control to best isolate the relevant factors (Underdetermination)
+- The test is relevant to the hypotheses by studying the effects under study (Underdetermination)
+The limitations in all three points expose the reliability of a test with their limitations in parentheses next to it that will be expounded on in this chapter, but the practical limitations can already be explored. Hempel challenges the common heuristic in testing that "only one of the quantities mentioned in the hypothesis is varied at a time, while others remain constant" but this is practically impossible as there is always the possibility that "other important factors may have been over looked (p.22)." The possibility of other overlooked factors was looked at deductively in [chapter 2](Philosophy%20of%20Natural%20Science%20-%202%20Scientific%20Inquiry,%20Invention,%20and%20Test.md) with the infinite possible hypotheses that account for a phenomena (i.e. if $p$ is true then $p \lor q$ is true as well where $q$ is any nonsense statement). Secondly, it may not be even possible to control the parameters under study (e.g. the luminosity of Cepheids by Leavitt and Shapley) and so experimental tests of the type described by Hempel cannot be the only distinguishing feature for empirical natural sciences.
+
+The biggest limitation faced by testing is the fact that a hypothesis never exists in isolation but is accompanies by auxiliary hypotheses resulting in an [underdetermination](Quine-Duhem%20Thesis%20and%20how%20its%20distinguished%20from%20the%20term%20theory-ladenness%20of%20observation.md) of the testing. The naive form of a hypothesis takes the form discussed in [chapter 2](Philosophy%20of%20Natural%20Science%20-%202%20Scientific%20Inquiry,%20Invention,%20and%20Test.md) where a hypothesis is a sufficiency condition that results in a testable implication $H \implies I$ but Hempel shows that testing actually takes two more complicated forms:
+- $H \land A_1 \land A_2 \land ...\land A_n \implies I$ (e.g. Tycho Brahe's conclusion that the solar system is geocentric. $H:$ The earth moves around the sun, $A_1$: the stars are sufficiently close to us, $A_2$: The earth takes a wide enough orbit, ... then $I$: We should observe a parallax in the stars over a year. Here the assumption that the stars were sufficiently close was false)
+- $H \implies ((A_1\land A_2 \land,...\land A_n) \implies I)$ (e.g. The Millikan Oil drop experiment: $H$: electrons are particles, $A_1$ there are no dust particles in the measurement, $A_2$: all the oil drops are sufficient spherical, etc.. then $I$: electrons will show to have a finite constant charge)
+The second point in particular is more relevant for experimental testing as the chain of auxiliary hypotheses pertain to the reliability of our experimentation setup.<u> Hempel proposes that tests actually take the two forms above and exposes the deductive limitations of a test.</u> While in [chapter 2](Philosophy%20of%20Natural%20Science%20-%202%20Scientific%20Inquiry,%20Invention,%20and%20Test.md), the deductive validation of a test was questioned while the rejection of a hypothesis was deductively valid by modus tollens, in the more complicated form it is not possible to determine solely by the validity of $I$ whether $H$ is false or the many auxiliary assumptions $A_i$ are false. The unreliability of testing is an underdetermination expressed in the [Quine-Duhem Thesis ](Quine-Duhem%20Thesis%20and%20how%20its%20distinguished%20from%20the%20term%20theory-ladenness%20of%20observation.md). 
+
+The reliability of a test is further illustrated in so called "crucial tests" (experimentum crucis), that narrow the scope of a scientific test by conducting an experiment to compare hypothesis among competitors as opposed to testing a hypothesis in isolation which is a testing of an infinite possibilities. Even in this narrowed scope, the underdetermination of a test remains and historical examples in the Foucault experiment illustrate this
+
+Due to the inherent limitations of a test in the presence of auxiliary hypothesis, it is always possible to introduce ad hocs that add or amend these ad hocs to save the hypothesis (i.e. change $A_i$ but keep $H$). Hempel's position is that ad hocs are generally not desirable and provides guidelines for when they are appropriate without further justification:
+- Ad hocs are appropriate if they account for other phenomena and do not just save the hypothesis in the face of adverse results
+- Ad hocs should yield further testing implications
+- An Ad hoc should not introduce additional assumptions to make the hypothesis more complicated
+
+Hempel concludes the chapter with a discussion by characterizing scientific hypothesis that still demands testing despite its limitations. Recognizing the limitations of an experimental test both practically and deductively, Hempel maintains that a scientific hypothesis is characterized by how amenable it is to testing. Specifically, Hempel characterizes a hypothesis by its empirical import, that is, it has bearing on empirical phenomena and is therefore "testable in-principle". This echoes the views summarized in [Theory and Reality - 2 Logic Plus Empricism](Theory%20and%20Reality%20-%202%20Logic%20Plus%20Empricism.md), by Peter-Godfrey-Smith summarized the criteria of verifiability required for a sentence to be meaningful. Notably, the positivists in the earlier days, attempted to reduce all meaningful statements into those about sensation, but Hempel here softens and allows for "testable in-principle". In essence Hempel is saying that despite all the deductive and practical limitations, a hypothesis can only carry weight if we could "hypothetically test it under ideal conditions" even if we currently are unable to do it for the various reasons listed in this chapter. While Hempel, does not clarify the tenability of the criteria of empirical import in the face of underdetermination, he instead argues for it by reductio ad absurdum using an example to where it is completely lacking such as in Thomism gravity (Aristotelian philosophy of gravity by Love). Hempel does clarify his position in the specific, case when a hypothesis exists in the form that offers barely tenable testing implications (e.g. astronomical observations or lack of technology) where further developments in science itself can conclusively develop a testing setup.
+
+
 # Definitions
 - Auxiliary hypotheses
 - Crucial tests (experimentum crucis)
