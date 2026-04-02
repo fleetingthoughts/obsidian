@@ -70,3 +70,13 @@ $$P(C_1 \cap C_2) \le 1$$
 a then applying Inclusion Exclusion Formula we have the <u>Bonferroni Inequality</u>:
 $$P(C_1)+P(C_2)-1 \le P(C_1 \cap C_2)$$
 
+# Definitions
+***Definition 1.3.1 (Kolmogorov's Probability Axioms)*** Let $C$ be a sample space and let $B$ be the set of events. Let $P$ be a real-valued function defined on $B$. Then $P$ is a probability set function if P satisfies the following 3 conditions
+1. No negative values in set functions: $P(A)\ge 0$ for all $A \in B$ 
+2. Upper bound on set functions: $P(C) = 1$
+3. Rules for additivity: if $\{A_n\}$ is a sequnce of events in $B$ and $A_m \cap A_n = \emptyset$ for all $m \ne n$, then $P(\cup_{n=1}^{\infty} A_n) = \sum_{k=0}^{\infty} k = P(A_{n})$ 
+
+***(Monotone sequence sets)*** . A <u>nondecreasing sequence</u> (nested upward) of sets $A_n$ occurs if $A_{i-1} \subset A_i$. For such a sequence we define:
+$$\lim_{ n \to \infty }A_{n}=\cup^{\infty}_{n=1}A_{n} $$
+
+# Theorems
