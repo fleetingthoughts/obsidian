@@ -12,7 +12,7 @@ In this chapter, we establish probabilities of events that are [countable](Under
 
 The mathematical definition of probability and the probability set function relies on Kolmogorov's probability axioms in ***Definition 1.3.1*** and from these axioms, we can develop several properties of the probability set function for a collection of events $A$ and $B$ in the sample space:
 - ***Theorem 1.3.1***: Complement rule
-- *Theorem 1.3.2:* Probability of an impossible event
+- ***Theorem 1.3.2**:* Probability of an impossible event
 - ***Theorem 1.3.3***: The Monotonicity property of probability set functions
 - ***Theorem 1.3.4***: The boundedness of probability
 - ***Theorem 1.3.5***: The General Addition Rule of probability set functions.
@@ -21,7 +21,7 @@ The mathematical definition of probability and the probability set function reli
 ## 1.3.1 Counting Rules
 Three counting rules from elementary algebra for a set $A$ containing $n$ elements:
 1) <u>Multiplication rule</u>: Given set $A= \{x_1, x_2,...x_{m}\}$ and $B=\{y_1,y_2,..., y_n\}$, then then there are $m \times n$ ordered pairs $(x_i, y_j)$. This is [the cartesian product](Book%20of%20Proof%20-%201%20Real%20Numbers.md) of $A \times B$ 
-2) <u>Permutations. </u>The k-tuple permutation of a set $A$ with $n$-elements is the set of k-tuples containing unique elements of the set $A$  is the permutation denoted $P^{n}_{k}=\frac{n!}{(n-k)!}$. Note that for tuples, the order of the elements make them distinct for each other for a 3-tuple $(x_1,x_2,x_3) \ne (x_2, x_1, x_3)$, but note that the permutations demand that components within the tuple do not repeat so $(x_1,x_1, x_2)$ is not a permutation of $A$. The permutation set is a subset of all the possible k-tuples of $A$ which by the <u>multiplication rule</u> is $n^k$ 
+2) <u>Permutations. </u>The $k$-tuple permutation of a set $A$ with $n$-elements is the set of $k$-tuples containing unique elements of the set $A$  is the permutation denoted $P^{n}_{k}=\frac{n!}{(n-k)!}$. Note that for tuples, the order of the elements make them distinct for each other for a 3-tuple $(x_1,x_2,x_3) \ne (x_2, x_1, x_3)$, but note that the permutations demand that components within the tuple do not repeat so $(x_1,x_1, x_2)$ is not a permutation of $A$. The permutation set is a subset of all the possible $k$-tuples of $A$ which by the <u>multiplication rule</u> is $n^k$ because it is choosing elements from $A$ without repeating, which gives rise to the another term for permutations: "sampling without replacement"
 3) <u>Combinations</u>. The number of subsets containing $k$ elements of the set $A$ is the combination denoted $C^{n}_{k}=\frac{n!}{k!(n-k)!}$=$\binom{n}{k}$ . The combinations is a subset of the permutations of $A$,  $\{P^{n}_{k}\}$ as the combinations are essentially permutations where we do not care for the ordering. We are no longer looking at ordered k-tuples but just the sets containing k-elements. Another way to see this is to take any given permutation of k-tuples and see that each of them can be ordered $k!$ different ways.
 ## 1.3.2 Additional properties of probability
 
@@ -31,8 +31,7 @@ Three counting rules from elementary algebra for a set $A$ containing $n$ elemen
 
 Boole's inequality gives us an <u>inequality relation between arbitrary unions and the probabilities of the components of that union</u>. Boole's inequality can intuitively be seen as the sum of probabilities of a collection is valid if the events are disjoin from each other, so once we take the union of these collection of events, then there may be overlapping events so the probability of this union is less. This inequality gives us a universal upper bound for the probability on the union of countable sets.
 
-As a final corollary, we can extend theorem 1.3.5 to more than just two events: 
-
+As a final corollary, we can extend ***Theorem 1.3.5*** to more than just two events: 
 ***Remark 1.3.2 (Inclusion Exclusion Formula)***. 
 $$P(C_{1}\cup C_{2} \cup C_{3})=p_{1}-p_{2}+p_{3}$$
 where:
@@ -40,7 +39,7 @@ $p_{1} = P(C_{1})+ P(C_2)+P(C_3)$
 $p_2 = P(C_1 \cap C_2) + P(C_1 \cap C_3) + P(C_2\cap C_3)$
 $p_3 = P(C_1 \cap C_2 \cap C_{3})$
 
-Put in words, every $p_k$ is just a summation of all the possible intersections between $k$-number of collections so the summation will have $C^n_k$ combinations. We obviously don't care about the ordering of the intersections! Proof of this corollary is in Exercise 1.3.9
+Put in words, every $p_k$ is just a summation of all the possible intersections between $k$-number of collections so the summation will have $C^n_k$ combinations. We obviously don't care about the ordering of the intersections! The inclusion exclusion formula can be proved by induction from ***Theorem 1.3.5***
 
 It can be seen that $p_k\le p_{k-1} \le \dots \le p_2 \le p_1$ by Boole's inequality. 
 
