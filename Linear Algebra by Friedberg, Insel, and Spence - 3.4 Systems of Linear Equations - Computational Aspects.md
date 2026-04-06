@@ -10,7 +10,7 @@ Chapter 3.3 was about uniqueness and existence of a solution to a system of line
 1) Method to determine a solution by a linear transformation to an easier form that preserves the solution set. The linear transformation to be used are elementary row operations.
 2) The goal of 1) is to obtain an easier form to solve the equation. This final form is called the reduced row echelon form.
 
-- ***Theorem 3.13*** This assures any elementary row operation we make preserves the solution set. Note column operation may preserve solutio nset
+- ***Theorem 3.13*** This assures any elementary row operation we make preserves the solution set. Note column operation may preserve solution set
 - ***Corollary to 3.13*** 
 - ***Theorem 3.14*** Gives us the method to produce the row reduced echelon form (the goal to make computation of linear equation easier).
 - ***Theorem 3.15*** shows what the general form of the reduced row echelon form should be

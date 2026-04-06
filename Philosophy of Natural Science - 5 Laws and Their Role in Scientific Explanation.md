@@ -6,7 +6,7 @@ tags:
 date_created: 2026-04-04
 parent: "[[Philosophy of Natural Science]]"
 ---
-After characteristics and limitations in the two main elements of scientific inquiry in testing and hypothesis generation; and the criteria for soundness of argument in confirmation and acceptance, this chapter aims to provide a model for a product scientific inquiry: an explanation. I would consider this to be the most important chapter that ties together the whole book as it describes one of the end goals and every element of a scientific inquiry is tied together in achieving a proper explanation. We describe the product of scientific inquiry as follows:
+The previous chapter went over the characteristics and limitations in the two main elements of scientific inquiry in testing and hypothesis generation; and the criteria for soundness of argument in confirmation and acceptance, this chapter aims to provide a model for a product produced by scientific inquiry: an explanation. I would consider this to be the most important chapter that ties together the whole book as it describes one of the end goals and every element of a scientific inquiry is tied together in achieving a proper explanation. We describe the product of scientific inquiry as follows:
 - The two characteristics of a good explanation: explanatory relevance (stronger), requirement of testability (weaker because it is implied by explanatory relevance).
 - Hempel's proposed model for a scientific explanation: the deductive-nomological model abbreviated as D-N model and also known as the covering law model
 - The requirement of covering law to be in universal form and how it is distinguished from accidental generalizations: subjunctive/counterfactual conditionals.

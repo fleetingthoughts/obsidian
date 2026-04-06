@@ -13,4 +13,3 @@ The chapter is an amalgamation short identities and theorems that bear a strikin
 - Addition theorems of hyperbolic functions.
 - Derivatives of hyperbolic functions and their corresponding differential equation
 - The inverse of the hyperbolic functions
-- 
