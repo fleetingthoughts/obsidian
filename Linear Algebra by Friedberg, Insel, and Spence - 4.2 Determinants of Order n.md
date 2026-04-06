@@ -6,14 +6,13 @@ tags:
 date_created: 2026-04-03
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-The determinant is defined for an arbitrary matrix recursively with the base case in a 2x2 matrix
+The determinant is defined for an arbitrary matrix recursively with the base case in a 2x2 matrix.
 
 # Definitions
 - ***Determinant defined for an arbitrary matrix.*** 
 - ***Cofactor Matrix.*** The cofactor of a matrix is a determinant who's magnitude is determined by the determinant of the matrix with one of its rows and columns deleted. The 
 - ***Cofactor.*** The cofactor is specified by an entry (i.e. row and column) of a matrix and is a scalar quantity that is determined from the cofactor matrix: 
-$$(-1)^{i+j}det(\tilde{A})$$ 
-
+$$(-1)^{i+j}det(\tilde{A})$$
 # Theorems
 ***Theorem 4.3 (Change in determinant with linear transformation of one row with all others constant).*** The determinant of an $n \times n$ matrix is a linear function of each row when the remaining rows are held fixed.
 

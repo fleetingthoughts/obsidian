@@ -6,20 +6,21 @@ tags:
 date_created: 2026-04-02
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
+Outline of the chapter:
 - Determinant defined by 2 x 2 matrix
 - Area of parallelogram determined by absolute value of determinant
 - Right-hand and left-hand coordinate system
 
-- Properties of determinants
-	- swapping rows makes determinant negative keeps magnitude
-	- one row added to another row does not change determinant
-	- If two rows or two columns are identical, then determinant is 0.
-	- Determinant is a linear transformation if only one row is transformed.
-	- det(AB)=det(A) det(B)
+Properties of determinants:
+- swapping rows makes determinant negative keeps magnitude
+- one row added to another row does not change determinant
+- If two rows or two columns are identical, then determinant is 0.
+- Determinant is a linear transformation if only one row is transformed.
+- $det(AB)=det(A) det(B)$ 
 # Definitions
 ***Definition of a determinant using a $2\times 2$ matrix***. The determinant of a matrix $A$ is denoted $det(A)$ or $|A|$ and is defined for the $2\times 2$ matrix which will be extended for higher dimensions.
 
-***Definition Classical Adjoint (also called Adjugate Matrix) of a matrix.***
+***Definition Classical Adjoint (also called Adjugate Matrix) of a matrix.*** See the matrix in ***Theorem 4.2*** 
 # Theorems
 ***Theorem 4.1 (change in determinant with linear combinations of one row with others fixed)*** The function $det: M_{2\times 2}(F) \to F$ is a linear function of each row a $2 \times 2$ matrix when the other row is held fixed.  
 
