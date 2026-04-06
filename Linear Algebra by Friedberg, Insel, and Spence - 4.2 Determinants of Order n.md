@@ -25,6 +25,6 @@ $$\det B = (-1)^{i+k}\det \tilde{B_{ik}}$$
 
 ***Theorem 4.5 (Swapping rows changes sign of determinant).*** If $A\in M_{n\times n}(F)$ and $B$ is a matrix obtained from $A$ by interchanging two rows, then $det(B)=-det(A)$ 
 
-***Theorem 4.5 (Determinant is invariant to multiples of an existing row added to another row).*** If $A\in M_{n\times n}(F)$ and $B$ is a matrix obtained from $A$ by adding a multiple of one row to another row, then $det(B)=det(A)$ 
+***Theorem 4.6 (Determinant is invariant to multiples of an existing row added to another row).*** If $A\in M_{n\times n}(F)$ and $B$ is a matrix obtained from $A$ by adding a multiple of one row to another row, then $det(B)=det(A)$ 
 
-***Corollary to Theorem 4.5.*** If a $n \times n$ matrix has a rank less than $n$, then its determinant is 0.
+***Corollary to Theorem 4.6.*** If a $n \times n$ matrix has a rank less than $n$, then its determinant is 0.
