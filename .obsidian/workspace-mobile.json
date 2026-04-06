@@ -108,9 +108,32 @@
               "icon": "lucide-file",
               "title": "Understanding Analysis - 3.2 Open and Closed Sets"
             }
+          },
+          {
+            "id": "172450825592b72f",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8cee67c3271e7ba6",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Projects.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Projects"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -291,13 +314,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d90bc0aa92a2b2e2",
+  "active": "8cee67c3271e7ba6",
   "lastOpenFiles": [
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
-    "Understanding Analysis - 2.7 Properties of Infinite Series.md",
-    "Understanding Analysis - 2.8 Double Summations and Products of Infinite Series.md",
+    "Understanding Analysis - 4.3 Continuous Functions.md",
+    "Understanding Analysis - 4.1 Discussion and Examples of Dirichlet and Thomae.md",
+    "Understanding Analysis - 3.4 Perfect Sets and Connected Sets.md",
+    "Understanding Analysis - 3.3 Compact Sets.md",
+    "Understanding Analysis - 3.2 Open and Closed Sets.md",
     "Understanding Analysis - 2.6 The Cauchy Criterion.md",
     "Projects.base",
+    "Introduction to Calculus I by Fritz and Courant - 3.4 Some Applications of the Exponential Function.md",
+    "Understanding Analysis - 4.5 Intermediate Value Theorem.md",
+    "Philosophy of Natural Science - 3 The Test of a Hypothesis. Its Logic and Its Force.md",
+    "Introduction to Mathematical Statistics - 1.2 Sets.md",
+    "/Introduction to Calculus I by Fritz and Courant - 3.4 Some Applications of the Exponential Function.md",
+    "/Understanding Analysis - 4.5 Intermediate Value Theorem.md",
+    "/Philosophy of Natural Science - 3 The Test of a Hypothesis. Its Logic and Its Force.md",
+    "/Introduction to Mathematical Statistics - 1.2 Sets.md",
+    "/Introduction to Mathematical Statistics - 1.2 Sets, 1.3 The Probability Set Function and Counting Rules.md",
+    "Understanding Analysis - 2.7 Properties of Infinite Series.md",
+    "Understanding Analysis - 2.8 Double Summations and Products of Infinite Series.md",
     "Piano Repertoire.base",
     "Introduction to Mathematical Statistics - 6.3 Maximum Likelihood Tests.md",
     "Introduction to Mathematical Statistics - 6.6 (Optional) The EM Algorithm.md",
@@ -309,20 +346,6 @@
     "Linear Algebra by Friedberg, Insel, and Spence - 3.4 Systems of Linear Equations - Computational Aspects.md",
     "Introduction to Mathematical Statistics - 6.5 Multiparameter Case Testing.md",
     "Introduction to Mathematical Statistics - 6.4 (Optional) Multiparameter Case Estimation.md",
-    "Introduction to Mathematical Statistics - 6.2 Rao-Cramer Lower Bound and Efficiency.md",
-    "Introduction to Calculus I by Fritz and Courant - 3.2 The Derivative of the Inverse Function.md",
-    "Continuity at a limit point included in the domain is not equivalent to the functional limit at a point included in the domain.md",
-    "/Introduction to Mathematical Statistics - 6.3 Maximum Likelihood Tests.md",
-    "/Theory and Reality - Introduction to the Philosophy of Science.md",
-    "/Introduction to Mathematical Statistics - 6.6 (Optional) The EM Algorithm.md",
-    "/Understanding Analysis - 4.4 Continuous Functions on Compact Sets.md",
-    "/Understanding Analysis - 4.3 Continuous Functions.md",
-    "/Understanding Analysis - 4.2 Functional Limits.md",
-    "/Theory and Reality - 9 Feminism.md",
-    "/Theory and Reality - 3 Induction and Confirmation.md",
-    "/Theory and Reality - 15 Empiricism, Naturalism, and Scientific Realism.md",
-    "/Theory and Reality - 14 Bayesianism and Modern Theories of Evidence.md",
-    "/Philosophy of Natural Science.md",
     "/Pasted image 20260329134619.png",
     "/Pasted image 20260328172508.png",
     "Pasted image 20260326201332.png",
