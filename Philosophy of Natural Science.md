@@ -29,4 +29,19 @@ The book discusses the empirical sciences (as opposed to non-empirical fields su
 
 As I have done with PGS's book, I will break down the text by the key terms used, and the historical examples cited since so much of philosophy is "verified" and derives their justification from past experiences. Philosophy of science in particular enjoys the experiences that are not personal to us but are of significant figures in the past, and so, it goes through a layer of historical interpretation.
 
+Hempel constructs a normative model of science and his desired criteria and characteristics while at the same time providing an overview of their limitations. It is amusing to see the way he sets up the model only to aggressively shoot it down as well. Each chapter can largely be broken up into the elements of the overall scientific process:
+- [2 Scientific Inquiry, Invention, and Test](Philosophy%20of%20Natural%20Science%20-%202%20Scientific%20Inquiry,%20Invention,%20and%20Test.md) is an overview of the scientific process that is a 2-part process of hypothesis generation and its subsequent testing:
+	- The deductive and practical limitations of scientific testing
+	- The required creative ingenuity in hypothesis generation due to lack of standard or guidelines in hypothesis generation
+	- The characterizing of science by a "criteria of sound argument"
+- [3 The Test of a Hypothesis. Its Logic and Its Force](Philosophy%20of%20Natural%20Science%20-%203%20The%20Test%20of%20a%20Hypothesis.%20Its%20Logic%20and%20Its%20Force.md) goes into the specific scientific element of testing and further elaborates on the limitations of testing
+	- The criteria of a hypothesis: empirical import and being "testable in-principle" to
+	- The characteristics of a test
+	- The further deductive limitations of a test due to the existence of auxiliary hypotheses and the potential for ad hocs
+- [4 Criteria of Confirmation and Acceptability](Philosophy%20of%20Natural%20Science%20-%204%20Criteria%20of%20Confirmation%20and%20Acceptability.md) relates two the previous two chapters by refining the "criteria of sound judgement" that cannot come from a purely deductive basis due to the limitations discussed in chapter 3. Instead of being deductively verified, they must instead be "confirmed" and eventually accepted and Hempel elaborates on the criteria required to attain the two:
+	- The required criteria of a test: quantity and diversity in a a test
+	- The required criteria of a hypothesis for confirmation: how it relates to existing accepted hypotheses, and the idea of simplicity which has no firm standard
+	- The current problems faced by a probabilistic model of confirmation
+
+
 ![](Pasted%20image%2020260329134619.png)

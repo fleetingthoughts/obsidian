@@ -12,7 +12,7 @@ Some basic definitions and theorems for set theory:
 $$\lim_{ n \to \infty }A_{n}=\cup^{\infty}_{n=1}A_{n} $$
 For a <u>nonincreasing sequence of sets</u> (nested downward) where $A_{i} \subset A_{i-1}$ , we similarly define the limit
 $$\lim_{ n \to \infty }A_{n}=\cap^{\infty}_{n=1}A_{n} $$
-Put another way, an finite or infinite sequence of monotonic sets converges to a singular set. For example the set $A = \{1,3,5,7 2n-1\}$ is a nondecreasing and by definition we have $\lim_{ n \to \infty }A_{n}= \{1,3,5, 7,....\}$ 
+Put another way, a finite or infinite sequence of monotonic sets converges to a singular set. For example the set $A = \{1,3,5,7 2n-1\}$ is a nondecreasing and by definition we have $\lim_{ n \to \infty }A_{n}= \{1,3,5, 7,....\}$ 
 
 DeMorgan's Laws:
 $$(A\cap B)^c=(A^c \cup B^c)$$
