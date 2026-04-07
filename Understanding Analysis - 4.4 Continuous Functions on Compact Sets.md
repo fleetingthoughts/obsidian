@@ -12,7 +12,7 @@ The chapter explores some useful results of continuous mappings and specifically
 - Uniform continuity and equivalent conditions to disprove whether a function is uniformly continuous or not
 - Criteria for a uniformly continuous function: continuous mapping of a compact set.
 
-When a set gets mapped, in general some of the set properties of the domain gets lost. For instance, open intervals and closed intervals do not always stay open or closed which is done by counter example. For an open set, the function $f(x) = x^2$ that maps the open interval $(1,-1)$ to a half open interval $[0,1)$. For a closed set we consider  the function $$g(x)=\frac{1}{1+x^2}$$
+When a set gets mapped, in general some of the set properties of the domain gets lost. For instance, open intervals and closed intervals do not always stay open or closed which can be shown by example. For an open set, the function $f(x) = x^2$ that maps the open interval $(1,-1)$ to a half open interval $[0,1)$. For a closed set we consider  the function $$g(x)=\frac{1}{1+x^2}$$
 and it maps $[0,\infty]$ to (0,1]. 
 
 The fact we had to use an unbounded closed interval to show closedness is not preserved is not a coincidence. ***Theorem 4.4.1.*** shows that compactness gets preserved from the domain to the image. The proof of this is a direct proof by non-construction to show that it contains all its limit points by showing any convergent subsequences in $f(K)$ also contains its limit points.:
