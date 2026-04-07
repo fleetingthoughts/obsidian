@@ -6,12 +6,12 @@ tags:
 date_created: 2026-03-26
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-Previously we've shown that matrices of matching dimensions are isomorphic to linear transformations, that is, we represent any linear transformation with a matrix and the the definitions of matrix addition and multiplication were defined specifically to match the multiplication (composition) and addition of linear transformations. To develop the tools for matrix operations is therefore to develop the tools for all linear transformations. 
+Previously we've shown that matrices of matching dimensions are isomorphic to linear transformations, we represent any linear transformation with a matrix and the the definitions of matrix addition and multiplication were defined specifically to match the multiplication (composition) and addition of linear transformations. To develop the tools for matrix operations is therefore to develop the tools for all linear transformations. 
 
 And so, in this chapter we develop some of the tools around the rank for matrix vector space that can then be applied to linear transformations. The majority of the tools are developed around the rank of a matrix and what it represents:
 - The analogy between the rank of a matrix and the rank of a linear transformation
 - The matrix operations that let us preserve the rank of a matrix using invertible matrices
-- The criteria used to determine the rank of a matrix
+- The criteria used to determine the rank of a matrix: the # of independent columns
 - Determine the rank of a matrix by its rank normal form
 - Relationship between the subspace spanned by the rows of a matrix and its rank
 - The relationship between an invertible matrix and the identity matrix.
