@@ -14,7 +14,7 @@ To determine whether a proposed subspace meets the definition, we only need to v
 1) The subspace is closed under addition
 2) The subspace is closed under scalar multiplication
 3) The subspace has a zero vector
-The other properties (commutativity and associativity of vector addition; and left/right distributive property of scalar multiplication) are not required as they were already in place when we defined the operations of addition and multiplication for the vector space and so the subspace that ISNA subset of the vector space is defined to have the same operations. The axiom of the additive inverse does not need to be checked as the other 3 conditions already imply it:
+The other properties (commutativity and associativity of vector addition; and left/right distributive property of scalar multiplication) are not required as they were already in place when we defined the operations of addition and multiplication for the vector space and so the subspace that is a subset of the vector space is defined to have the same operations. The axiom of the additive inverse does not need to be checked as the other 3 conditions already imply it:
 
 ***Theorem 1.3 (redundancy of the additive inverse condition)***. The subspace $W$ of vector space $V$ has an additive inverse if and only if the subspace is closed under addition, scalar multiplication, and it has the 0 vector.
 

@@ -31,7 +31,7 @@ We then establish the relationship between the rank and the nullity:
 ***Theorem 2.3 (Dimension Theorem/ The Rank-Nullity Theorem).*** Let $V, W$ be vector spaces with $T: V\to W$ be a linear transformation then:$$rank(T)+nullity(T)=dim(V)$$
 We discuss some interesting properties of the linear transformation and its rank and nullity.
 
-***Theorem 2.4 (Conditions for the injectivity of a transformation).*** The transformation is one-to-one (injective) if and only if $N(T)={0}$ 
+***Theorem 2.4 (Conditions for the injectivity of a transformation).*** The transformation is one-to-one (injective) if and only if $N(T)=\{0\}$. In other words, the transformation is one-to-one if the null space only contains the 0 vector.
 
 ***Theorem 2.5 (Equivalency of various criteria on the image).*** Given a linear transformation $T: V\to W$, the following are equivalent and imply each other:
 - $T$ is one-to-one (injective)
