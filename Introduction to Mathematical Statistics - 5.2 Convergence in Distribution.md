@@ -13,7 +13,7 @@ Sometimes, we cannot find a parameter that converges in probability to our param
 
 Unlike with random variables that converge in probability that shares a lot of the usual algebraic properties as real numbers, their are more restrictions on what we can do with random variables that only converge in distribution. The properties are summarized as follows:
 - The one time convergence in distribution is sufficient for convergence to probability: if a random variable converges in distribution to a constant, then it converges in probability
-- Criteria for convergence in distribution with the sum of random variables: 
+- Criteria for convergence in distribution with the sum and product of random variables: 
 	- ***Theorem 5.2.3.*** The sum of two random variables converges to the asymptotic distribution of one its addends if the addend converges in distribution to said asymptotic distribution and the other <u>addend converges in probability to 0</u>
 	- ***Theorem 5.2.5***: Slutsky's theorem demonstrates another condition for the convergence in distribution of multiple random variables if one of them converges to an asymptotic distribution while the others converge in probability to a constant
 - ***Theorem 5.2.4***: Convergence in distribution is sufficient for the convergence in distribution of the transformation of the random variable where the distribution it converges to is the transformation of original asymptotic distribution as long as the transformation is continuous

@@ -24,6 +24,4 @@ To further lay the foundations to this problem, we define the properties of a no
 
 From this we state a theorem about the span of a subset and how it relates to the original vector space
 
-***Theorem 1.5 (The span as a subspace of the original vector space).*** The span of any subset, $S$, of a vector space, $V$, is a subspace of $V$ that contains $S$. Additionally, any subspace of $V$ that contains $S$ must also contain $span(S)$. 
-
-The theorem establishes a sort of "equivalency" condition: $$span(S) \iff \text{(subspace of V containing S)}$$ Note that this implies if $V$ is a subspace containing an infinite number of vectors, then any subspace of $V$ except $\{0\}$ will have to contain infinitely many vectors as well for if it contains any $u_i$ vector then it must contain all the linear combinations of that vector.
+***Theorem 1.5 (The span of a subset of vectors as a subspace of the original vector space).*** The span of any subset, $S$, of a vector space, $V$, is a subspace of $V$ that contains $S$. Additionally, any subspace of $V$ that contains $S$ must also contain $span(S)$. 
