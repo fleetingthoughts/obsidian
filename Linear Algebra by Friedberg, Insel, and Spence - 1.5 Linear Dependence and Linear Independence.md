@@ -25,8 +25,16 @@ The following is true for any vector space:
 - A set containing a single nonzero vector is linearly independent for if it was dependent then it must just be the 0 vector
 - A set is linearly independent if the only representation of 0 is a trivial representation
 
-We derive some theorems immediately from the definitions of dependence and independence
+We derive some theorems immediately from the definitions of dependence and independence. Colloquially, the theorem and its corollary says 
+- A subset of linearly independent vectors is also independent
+- The superset of a linearly dependent set is also linearly dependent.
 
 ***Theorem 1.6 (Determining dependence of a superset based on the subset).*** For a vector space $V$, if $S_1 \subseteq S_2 \subseteq V$  and $S_1$ is a linearly dependent set of vectors, then $S_2$ is linearly dependent as well
 
-***Corollary (Determining independence of a subset by the superset).*** or a vector space $V$, if $S_1 \subseteq S_2 \subseteq V$  and $S_2$ is a linearly independent set of vectors, then $S_1$ is linearly independent as well
+***Corollary (Determining independence of a subset by the superset).*** or a vector space $V$, if $S_1 \subseteq S_2 \subseteq V$  and $S_2$ is a linearly independent set of vectors, then $S_1$ is linearly independent as well.
+
+# Summary
+- The empty set is defined to be non-empty
+- We defined properties of linear dependence and linear independence
+- A subset of linearly independent vectors is independent
+- A superset of linearly dependent vectors is dependent.
