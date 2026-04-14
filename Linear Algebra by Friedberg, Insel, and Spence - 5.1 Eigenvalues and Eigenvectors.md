@@ -4,7 +4,7 @@ tags:
   - linear_algebra
   - arnold_friedberg
 date_created: 2026-04-13
-parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
+parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
 f
 # Definitions
