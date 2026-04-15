@@ -6,6 +6,9 @@ tags:
 date_created: 2026-04-14
 parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
 ---
+disproving uniform continuity:
+- Find a sepcific n > N
+- Find a specific x for that fixed n such that we will always have an epsilon apart
 # Definitions
 ***Definition 6.2.1 (Pointwise convergence of functions).***
 
