@@ -12,10 +12,10 @@ Given $x=\phi(u)$, if we have:
 Then we have by the chain rule:
 $$F(b)-F(a)=F[\phi(\beta)]-F[\phi(\alpha)]=\int_{\alpha}^\beta F'[\phi(u)]\phi'(u) du=\int_{a}^b F'(x)$$
 
-Use the above one if we find:
-- 
+Use the above one if we find the integration is made easier by defining $x=\phi(u)$ 
 
-The reverse. Given $x=\phi(u)$
+The reverse. Made easier if we do it reverse and find a $u=\psi(x)$ Given $x=\phi(u)$
 - If $F(x)$ and $\phi(u)$ is differentiable in their arguments
 - $\phi'(u)$ does not vanish so that it has an inverse function $u=\psi(x)$ such that $\psi'(x)=1/\phi(u)$ 
+- The reason why $\psi(x)$ cannot vanish is because of the limits of the integration. How do we know what the new bounds are if the function is not one-to-one. Indefinite integrals are blind to this problem however
 
