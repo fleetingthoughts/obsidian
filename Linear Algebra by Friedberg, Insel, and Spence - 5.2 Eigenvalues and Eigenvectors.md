@@ -13,6 +13,12 @@ The previous chapters has touched on how we can identify whether a matrix is dia
 The check to test whether a linear transformation $T$ is diagonalizable is as follows:
 - The characteristic polynomial of $T$ splits
 - For each eigenvalue $\lambda$ of $T$, the multiplicity of $\lambda$ is equal to $nullity(T-\lambda I)$. In other words, the multiplicity is equal to $n-rank(T-\lambda I)$ where $n$ is the rank of the vector space where $T$ operates.
+
+# Summary and notes from exercises
+- Computation of the $n$th power of a matrix, $A^n$ is more straightforward if it is diagonalizable for then we have $PAP^{-1}=P^{-1}AP=D$ and then $A^n$ can be computed as follows: $$A^n=PD^nP^{-1}$$
+	So instead of $n$ matrix multiplication, we have the much easier powers of a diagonal matrix and two additional matrix multiplications
+
+
 # Definitions
 
 ***Definition (Polynomial splitting over a field).*** A polynomial $f(t)$ is said to split over its field if the polynomial can be decomposed into a product of linear factors: $$f(t)-c(x-a_{1})(x-a_{2})\dots(x-a_{n}) \text{\quad for\quad}a_{i}\in \mathbb{R}$$
