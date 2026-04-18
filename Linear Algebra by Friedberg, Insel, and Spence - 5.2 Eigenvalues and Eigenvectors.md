@@ -8,7 +8,7 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
 Chapter 5.1 developed necessary and sufficient conditions for diagonalizability in Theorem 5.1 with the existence of an ordered basis of eigenvectors. If the conditions are satisfied, then we know the form the matrix will take. 
 
-The previous chapters has touched on how we can identify whether a matrix is diagonlizable, but we now fill in the gaps by developing a test to determine whether the matrix can be diagonalized, and what the eigenvectors are. This is done as follows:
+The previous chapters has touched on how we can identify whether a matrix is diagonalizable, but we now fill in the gaps by developing a test to determine whether the matrix can be diagonalized, and what the eigenvectors are. This is done as follows:
 
 The check to test whether a linear transformation $T$ is diagonalizable is as follows:
 - The characteristic polynomial of $T$ splits
@@ -25,7 +25,7 @@ The check to test whether a linear transformation $T$ is diagonalizable is as fo
 
 ***Corollary to Theorem 5.5 (Sufficient condition for existence of basis of eigenvectors).*** Let $T$ be a linear operator over an $n$-dimensional $V$ vector space. The transformation $T$ is diagonalizable if it has $n$ distinct eigen values.
 
-***Theorem 5.6 (Necessary condition for diagonalizability using the characteristic polynomial).*** If a linear transformation is diagonalizable, the characteristic polynomial of linear transformation splits over the field $F$. The converse isn't necessarily true.\
+***Theorem 5.6 (Necessary condition for diagonalizability using the characteristic polynomial).*** If a linear transformation is diagonalizable, the characteristic polynomial of linear transformation splits over the field $F$. The converse isn't necessarily true.
 
 ***Theorem 5.7 (Dimension of the eigenspace bounded by the multiplicity).*** Let $T$ be a linear operator with an eigenvalue $\lambda$  of multiplicity $m$. Then the dimension of the eigenspace corresponding to $\lambda$ has it dimensions bounded as follows: $1\le dim(E_{\lambda})\le m$.
 
