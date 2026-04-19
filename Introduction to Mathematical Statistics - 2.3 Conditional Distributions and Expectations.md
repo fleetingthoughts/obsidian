@@ -30,6 +30,11 @@ The proof for 1) can be determined straight from the definitions of the expressi
 
 **Theorem 2.3.1*** can be interpreted and applied as follows. If we wanted to determine the mean of the random variable $X_2$ we can look to sample $X_2$ or $E(X_2|X_1)$, but we would lean more to the latter because by 2) the variance is smaller and can lead to a better estimation. The downside is we're likely doing more testing because we're sampling random samples of $X_2$ for multiple different $X_1 = x_{1}$ .
 
+# Summary
+1) Determine the conditional probability distribution of a random variable from a known joint distribution:
+	- Determine the marginal pdf of the random variable that is not of interest.
+	- Apply the definition, that is, divide joint pdf by the marginal pdf.
+2) Determine the conditional mean and variance
 # Definitions
 
 # Theorems
