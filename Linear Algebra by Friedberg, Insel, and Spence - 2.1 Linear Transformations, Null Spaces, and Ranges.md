@@ -46,7 +46,11 @@ Colloquially, there is only one linear transformation that maps the basis of $V$
 
 # Summary
 - Determine whether a transformation is linear by testing if it satisfies the two requirements.
-
+- The image of a linear transformation is completely determined by its transformation of the basis of the domain. In other words, the basis of the image is $T(v_i)$ where each $v_i$ is a basis vector of the domain. We also happen 
+- Determine whether a linear transformation is one-to-one by whether its nullity is 0
+- Determine whether a linear transformation is onto by whether the $rank(T)$ is equal to the rank of the codomain
+# Notes from questions
+- Question 13: It can be shown that the converse of ***Theorem 2.2*** is true in that if $T(v_i)$ is a basis of the codomain then the $v_i's$ must be a basis of the domain if the dimensions of the codomain and domain are equal or if $T$ is one-to-one.
 # Definition
 **Definition (Linear Transformation).*** Let $V$ and $W$ be vector spaces over the same field F. We call a function $T : V\to W$ a linear transformation from $V$ to $W$ if for all vectors $x, y\in V$ we have:
 1) $T(x)+T(y)=T(x+y)$
@@ -55,7 +59,7 @@ Colloquially, there is only one linear transformation that maps the basis of $V$
 # Theorem
 ***Theorem 2.1 (The kernel and image of a linear transformation are subspaces).*** Let $V,W$ be vector spaces and the transformation $T: V\to W$ be a linear transformation. Then $N(T)$ and $R(T)$ are both subspaces.
 
-***Theorem 2.2. (The span of the image of a transformation derived from the basis of the domain vector space).*** Given vector spaces $V,W$ and a linear transformation $T: V \to W$, if $V$ has the basis $\beta = {v_1,...v_n}$, then the basis for $T(x)$ for $x \in V$ is $T(\beta)= {T(v_1),...,T(v_n)}$.
+***Theorem 2.2. (The span of the image of a transformation derived from the basis of the domain vector space).*** Given vector spaces $V,W$ and a linear transformation $T: V \to W$, if $V$ has the basis $\beta = {v_1,...v_n}$, then the they form a spanning set for $T(x)$ for $x \in V$ is $T(\beta)= span\{T(v_1),...,T(v_n)\}$.
 
 ***Theorem 2.3 (Dimension Theorem/ The Rank-Nullity Theorem).*** Let $V, W$ be vector spaces with $T: V\to W$ be a linear transformation then:$$rank(T)+nullity(T)=dim(V)$$
 ***Theorem 2.4 (Conditions for the injectivity of a transformation).*** The transformation is one-to-one (injective) if and only if $N(T)=\{0\}$. In other words, the transformation is one-to-one if the null space only contains the 0 vector.
