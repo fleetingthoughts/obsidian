@@ -43,3 +43,28 @@ We discuss some interesting properties of the linear transformation and its rank
 ***Theorem 2.6 (Conditions for the uniqueness of a linear transformation).*** Let $V$ and $W$ be vector spaces over a field with basis $\{v_1,...,v_n\}$ and $\{w_1,...w_n\}$ respectively. Then there exists exactly one linear transformation $T: V\to W$ such that $T(v_i)=w_i$ for $i=1,2,..,n$
 
 Colloquially, there is only one linear transformation that maps the basis of $V$ to the basis of $W$ and in doing so, it completely maps $W$ with domain $V$. This is because the image $R(T)=span(T(v_1),..,T(v_2))=W$ 
+
+# Summary
+- Determine whether a transformation is linear by testing if it satisfies the two requirements.
+
+# Definition
+**Definition (Linear Transformation).*** Let $V$ and $W$ be vector spaces over the same field F. We call a function $T : V\to W$ a linear transformation from $V$ to $W$ if for all vectors $x, y\in V$ we have:
+1) $T(x)+T(y)=T(x+y)$
+2) $T(cx)=cT(x)$
+
+# Theorem
+***Theorem 2.1 (The kernel and image of a linear transformation are subspaces).*** Let $V,W$ be vector spaces and the transformation $T: V\to W$ be a linear transformation. Then $N(T)$ and $R(T)$ are both subspaces.
+
+***Theorem 2.2. (The span of the image of a transformation derived from the basis of the domain vector space).*** Given vector spaces $V,W$ and a linear transformation $T: V \to W$, if $V$ has the basis $\beta = {v_1,...v_n}$, then the basis for $T(x)$ for $x \in V$ is $T(\beta)= {T(v_1),...,T(v_n)}$.
+
+***Theorem 2.3 (Dimension Theorem/ The Rank-Nullity Theorem).*** Let $V, W$ be vector spaces with $T: V\to W$ be a linear transformation then:$$rank(T)+nullity(T)=dim(V)$$
+***Theorem 2.4 (Conditions for the injectivity of a transformation).*** The transformation is one-to-one (injective) if and only if $N(T)=\{0\}$. In other words, the transformation is one-to-one if the null space only contains the 0 vector.
+
+***Theorem 2.5 (Equivalency of various criteria on the image).*** Given a linear transformation $T: V\to W$, the following are equivalent and imply each other:
+- $T$ is one-to-one (injective)
+- $T$ is onto (surjective)
+- $rank(T)=dim(V)$
+- $dim(R(T)) = dim(W)=rank(T)$
+
+***Theorem 2.6 (Conditions for the uniqueness of a linear transformation).*** Let $V$ and $W$ be vector spaces over a field with basis $\{v_1,...,v_n\}$ and $\{w_1,...w_n\}$ respectively. Then there exists exactly one linear transformation $T: V\to W$ such that $T(v_i)=w_i$ for $i=1,2,..,n$
+
