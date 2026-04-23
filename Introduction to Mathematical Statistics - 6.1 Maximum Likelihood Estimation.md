@@ -13,8 +13,8 @@ In section [Introduction to Mathematical Statistics - 4.1 Sampling and Statistic
 - Demonstrate that the estimator produced by the mle method is consistent.
 
 Recall that we have defined some concepts to formalize a criteria for a "good" estimator. Some of these include:
-- unbiasedness: the idea that the estimator doesn't overestimate or underestimate given the "CURRENT" size
-- consistency: the idea that if we take enough samples, the estimator will eventually match our estimator.
+- Unbiasedness: the idea that the estimator doesn't overestimate or underestimate for whatever sample size we have.
+- Consistency: the idea that if we take enough samples, the estimator will eventually match our estimator. 
 An illustration of this is the uncorrected sample variance compared to the Bessel corrected sample variance. The uncorrected sample variance is biased, but it is still a consistent estimator because if we take enough samples, the difference of 1 in the denominator "washes away" and it becomes pretty much identical to the unbiased Bessel corrected sample variance anyways.
 
 In this chapter we show the justification for the method in obtaining this estimator and then show that this estimator has the desirable quality of consistency to our true sample mean. I will try to provide an intuitive understanding to understand the moral solution rather than dive into the proofs which is more fitting for an analysis book outside the scope of this one.

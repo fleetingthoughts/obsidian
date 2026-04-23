@@ -52,40 +52,6 @@
             }
           },
           {
-            "id": "9f521fef21f743fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding Analysis - 2.6 The Cauchy Criterion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Understanding Analysis - 2.6 The Cauchy Criterion"
-            }
-          },
-          {
-            "id": "eaa6b073100b6dc2",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "d90bc0aa92a2b2e2",
             "type": "leaf",
             "state": {
@@ -107,16 +73,6 @@
               },
               "icon": "lucide-file",
               "title": "Understanding Analysis - 3.2 Open and Closed Sets"
-            }
-          },
-          {
-            "id": "172450825592b72f",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
             }
           },
           {
@@ -142,9 +98,19 @@
               "icon": "lucide-file",
               "title": "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig"
             }
+          },
+          {
+            "id": "42f615b02557f0ea",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -325,35 +291,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8cee67c3271e7ba6",
+  "active": "42f615b02557f0ea",
   "lastOpenFiles": [
+    "Introduction to Mathematical Statistics - 6.1 Maximum Likelihood Estimation.md",
+    "Linear Algebra by Friedberg, Insel, and Spence - 4.4 Summary - Important Facts About Determinants.md",
+    "Understanding Analysis - 5.3 The Mean Value Theorems.md",
+    "Philosophy of Natural Science - 6 Theories and Theoretical Explanation.md",
+    "Introduction to Calculus I by Fritz and Courant - 3.9 The Method of Substitution.md",
+    "Introduction to Calculus I by Fritz and Courant - 3.8 Table of Elementary Integrals.md",
+    "Introduction to Calculus I by Fritz and Courant - 3.6 Maximo and Minima.md",
+    "Introduction to Calculus I by Fritz and Courant - (Optional) 3.7 The Order of Magnitude of Functions.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 4.4 Summary - Important Facts About Determinants.md",
+    "/Introduction to Mathematical Statistics - 5.1 Convergence in Probability.md",
+    "/Understanding Analysis - 5.3 The Mean Value Theorems.md",
+    "/Philosophy of Natural Science.md",
+    "/Philosophy of Natural Science - 6 Theories and Theoretical Explanation.md",
+    "/Philosophy of Natural Science - 5 Laws and Their Role in Scientific Explanation.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 1.6 Bases and Dimension.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 1.4 Linear Combinations and Systems of Linear Equations.md",
+    "/Linear Algebra by Friedberg, Insel, and Spence - 1.3 Subspaces.md",
+    "/Introduction to Mathematical Statistics - 5.2 Convergence in Distribution.md",
+    "/Introduction to Calculus I by Fritz and Courant - 3.9 The Method of Substitution.md",
+    "/Introduction to Calculus I by Fritz and Courant - 3.8 Table of Elementary Integrals.md",
+    "/Introduction to Calculus I by Fritz and Courant - 3.6 Maximo and Minima.md",
+    "/Introduction to Calculus I by Fritz and Courant - (Optional) 3.7 The Order of Magnitude of Functions.md",
+    "Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Projects.base",
     "Understanding Analysis - 4.2 Functional Limits.md",
-    "Understanding Analysis - 5.2 Derivatives and the Intermediate Value Property.md",
-    "Understanding Analysis - 5.1 Discussion. Are Derivatives Continuous.md",
-    "Understanding Analysis - 4.7 Epilogue.md",
-    "/Understanding Analysis - 5.2 Derivatives and the Intermediate Value Property.md",
-    "/Understanding Analysis - 5.1 Discussion. Are Derivatives Continuous.md",
-    "/Understanding Analysis - 4.7 Epilogue.md",
-    "/Understanding Analysis - 4.4 Continuous Functions on Compact Sets.md",
-    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
-    "Understanding Analysis - 4.1 Discussion and Examples of Dirichlet and Thomae.md",
-    "Understanding Analysis - 3.3 Compact Sets.md",
-    "Understanding Analysis - 3.2 Open and Closed Sets.md",
-    "Linear Algebra - Friedberg, Insel, and Spence.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 4.3 Properties of Determinants.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 4.3 Properties of Determinants.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.3 Compositions of Linear Transformations and Matrix Multiplication.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.2 The Matrix Representation of A Linear Transformation.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
     "Textbooks.base",
-    "Philosophy of Natural Science - 5 Laws and Their Role in Scientific Explanation.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 4.2 Determinants of Order n.md",
-    "Linear Algebra by Friedberg, Insel, and Spence - 4.1 Determinants of Order 2.md",
-    "Introduction to Calculus I by Fritz and Courant - 3.5 The Hyperbolic Function.md",
-    "Theorem for why we can algebraically manipulate a function to determine its limit.md",
-    "Philosophy of Natural Science - 4 Criteria of Confirmation and Acceptability.md",
     "Pasted image 20260405020016.png",
     "/Pasted image 20260405020016.png",
     "Piano Repertoire.base",
