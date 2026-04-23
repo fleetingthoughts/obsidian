@@ -28,4 +28,16 @@ We derive some useful properties of the conditional expectation and variance.
 2) $Var[E(X_2|X_1)] \le Var(X_2)$ 
 The proof for 1) can be determined straight from the definitions of the expressions of the left-hand and right-hand side of the equalities.
 
-Theorem 2.3.1 can be interpreted and applied as follows. If we wanted to determine the mean of the random variable $X_2$ we can look to sample $X_2$ or $E(X_2|X_1)$, but we would lean more to the latter because by 2) the variance is smaller and can lead to a better estimation. The downside is we're likely doing more testing because we're sampling random samples of $X_2$ for multiple different $X_1 = x_{1}$ .
+**Theorem 2.3.1*** can be interpreted and applied as follows. If we wanted to determine the mean of the random variable $X_2$ we can look to sample $X_2$ or $E(X_2|X_1)$, but we would lean more to the latter because by 2) the variance is smaller and can lead to a better estimation. The downside is we're likely doing more testing because we're sampling random samples of $X_2$ for multiple different $X_1 = x_{1}$ .
+
+# Summary
+1) Determine the conditional probability distribution of a random variable from a known joint distribution:
+	- Determine the marginal pdf of the random variable that is not of interest.
+	- Apply the definition, that is, divide joint pdf by the marginal pdf.
+2) Determine the conditional mean and variance
+# Definitions
+
+# Theorems
+***Theorem 2.3.1. (Properties of the expectation and variance of conditional expectation and conditional variance).*** Let $(X_1,X_2)$ be a random vector such that the variance of the $X_2$ (the marginal distribution) is finite so then by [Theorem 1.10.1, the expectation must exist as well](Introduction%20to%20Mathematical%20Statistics%20-%201.10%20Important%20Inequalities.md). Then we have:
+1) $E[E(X_2|X_1)]=E(X_2)$ (note that $E(X_2|X_1)$ is the expectation of $X_2 = x_2$  but a function of $X_1$)
+2) $Var[E(X_2|X_1)] \le Var(X_2)$ 
