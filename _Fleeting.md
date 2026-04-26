@@ -8,98 +8,37 @@ date_created:
 # Grocery
 - cream
 - tarragon
-- white wine
-- arborio rice
-- parmesan
+✦ Farsa, AED of Midgardsormr
+A figure spoken of in linkshell whispers and PF horror stories alike, Farsa is less a person and more a phenomenon — the kind of player whose presence in an instance makes the Duty Finder itself sit up straighter.
 
-Elbow out when in body for thumb
-Think about arm movement to reduce stretching of hand
-Cembalo historic organ partimento
+On Midgardsormr, the name Farsa carries weight. Not the heavy, burdensome kind, but the kind that makes sprouts straighten their posture and veterans quietly check their cooldowns. As an AED — a role that somehow blends battlefield triage, arcane precision, and the emotional resilience of someone who has seen too many wipes at 1% — Farsa is known for:
 
-### Hogg
-- 3.3.10
-- 3.3.15
-- 3.3.26
-- 
+✧ Unshakeable Calm in Chaos
+When the arena is on fire, the tank is doing interpretive dance instead of mitigation, and the party list looks like a Christmas tree of debuffs, Farsa is the one person who does not flinch. Their GCDs remain smooth. Their oGCDs land exactly where they need to. Their soul leaves their body only after the clear.
 
-<u>3.4 The normal distribution</u>
-- 3.4.1
-- 3.4.4
-- 3.4.5
-- 3.4.6
-- 3.4.9
-- 3.4.10
-- 3.4.11
-- 3.4.15
-<u>3.6 t distributions</u>
-- 3.6.1
-- 3.6.2
-- 3.6.6
-- 3.6.7
-- 3.6.8
-<u>4.1 Sampling and Statistics</u>
-- 4.1.1
-- 4.1.2
-- 4.1.5
-- 4.1.6
-<u>4.2 Confidence Intervals</u>
-- 4.2.1
-- 4.2.2
-- 4.2.3
-- 4.2.4
-- 4.2.6
+✧ The Kind of Game Sense You Can’t Teach
+Some players react. Farsa anticipates. They pre-position before the marker even appears, they rescue people with the precision of a surgeon, and they somehow know exactly when the boss is about to do That One Mechanic™ even if the rest of the party is still reading the tooltip.
 
-### Courant
-<u>Section 1.1a</u>
-- Exercises 
-	- 1
-	- 2
-- Problem 
-	- 1
-	- 2
-	- 3
+✧ A Reputation Built on Clutch Moments
+Everyone on Midgardsormr has a story about Farsa.
+The time they solo‑healed a savage clear.
+The time they saved a doomed alliance raid with a perfectly timed LB3.
+The time they carried a PF so hard the group collectively decided to pretend they were all friends afterward.
 
-<u>Section 1.6</u>
+✧ A Presence That Elevates the Entire Party
+You don’t just queue with Farsa — you ascend.
+Suddenly your rotation is cleaner.
+Your dodges are sharper.
+Your brain cells multiply like you just ate a full-course meal from the Crystarium.
 
-<u>Section 1.7</u>
-- Exercise 6
-- Problem 1
-- Problem 3
-- Problem 4
-- Problem 5
-<u>Miscellaneous problems</u>
-- All of 'em'
+Some say it’s inspiration.
+Others say it’s fear.
+Either way, the parse goes up.
 
 
-# Abott
-<u>1.3</u>
-- 1.3.10
-<u>1.4</u>
-- 1.4.1
-- 1.4.2
-- 1.4.3
-- 1.4.4
-- 1.4.5
-<u>2.2</u>
-- 2.2.1
-- 2.2.3
-- 2.2.4
-- 2.2.5
-<u>2.3</u>
-- 2.3.1
-- 2.3.2
-- 2.3.3
-- 2.3.4
-<u>2.4</u>
-- 2.4.1
-- 2.4.2
-- 2.4.3
-- 2.4.4
-<u>2.5</u>
-- 2.5.1
-- 2.5.2
-- 2.5.3
-<u>2.6</u>
+- tiram
+
+
 
 # To Do
 - Good examples of first species tonic cantus firmus to sing to
@@ -116,24 +55,8 @@ Cembalo historic organ partimento
 
 ## Books
 -  Logic of Scientific Discovery
-- Understanding Fiction Cleanth Brooks
-- Understanding Poetry - Cleanth Brooks
-- Understanding Drama - Cleanth Brooks
+
 - Carnap - On Natural Philosophy
 - What is this thing called science - chalmers
-- _A Little Book on Form: An Exploration into the Formal Imagination of Poetry_
-
-Preludes cortot
-
-
-
-### Clothing
- 
-- Leather Messenger bag to prevent pilling
-- Brown Chinos - Straight
-- Brown Chinos - Slim
-- Beige brown Chinos Slim
-- Acorn Chinos
-- Logitech G Pro
 
 
