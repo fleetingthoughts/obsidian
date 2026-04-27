@@ -33,10 +33,9 @@ Your brain cells multiply like you just ate a full-course meal from the Crystari
 
 Some say it’s inspiration.
 Others say it’s fear.
-Either way, the parse goes up.
+Either way, the parse 
 
 
-- tiram
 
 
 
