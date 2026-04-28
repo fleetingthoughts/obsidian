@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Philosophy of Natural Science.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "Philosophy of Natural Science"
             }
           }
         ],
@@ -235,9 +235,9 @@
   },
   "active": "b098a7374a8bcd62",
   "lastOpenFiles": [
+    "_Fleeting.md",
     "Philosophy of Natural Science.md",
     "Textbooks.base",
-    "_Fleeting.md",
     "Philosophy of Natural Science - 7 Concept Formation.md",
     "Understanding Analysis - 6.1  Discussion The Power of Power Series.md",
     "Understanding Analysis - 5.5 Epilogue.md",
