@@ -34,7 +34,8 @@ For the final third point, Operationism narrows the scope of science by renderin
 Hempel instead proposes we go back to his model of theoretical explanations where terms are given systematic import by the internal principles of a theory that solves problem 3) and 2) and uses bridging principles to provide a variety of applications to solve 1) and 3).
 # Terms
 - ***Stipulative Definitions.*** A special definition outside of the commonly accepted meaning that is assigned to a term.
-- ***Analytic Definitions.*** Also called descriptive definitions. These are colloquially and commonly accepted meaning of a term.
+- ***Descriptive Definitions***. Colloquially and commonly accepted meaning of a term.
+- ***Analytic Definitions.*** A more specific <u>descriptive definitions</u>. The definiendum is derived deductively from another concept or term so that the definiens is a tautology for another definiens.
 - ***Definiendum.*** The term to be defined
 - ***Definiens.*** The defining expression
 - ***Primitive Terms.*** Undefined terms that are axiomatically accepted to use as a starting point for all our following definitions
