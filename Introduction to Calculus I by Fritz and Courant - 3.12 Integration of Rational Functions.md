@@ -16,4 +16,4 @@ parent: "[[Introduction to Calculus and Analysis I]]"
 # Theorems
 ***Integration of Rational functions (p.282/304).*** All rational functions $R(x)$ of a variable $x$ can be integrated explicitly in terms of elementary integrals.
 
-***Resolution of partial fraction into fundamental types(p. 286-287/308-309).*** 
+***Resolution of partial fraction into fundamental types (p. 286-287/308-309).*** 
