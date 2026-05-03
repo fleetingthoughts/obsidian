@@ -11,6 +11,7 @@ We formalize and define a general mathematical operation imbued in a vector spac
 The following inner products were defined:
 - The standard inner product on the $F^n$ vector space over the real or complex field
 - The vector space of real-valued functions defined as the integral
+- The Frobenius inner product defined for square matrices over the the real or complex field.
 # Definitions
 ***Definition (Inner Product).*** Let $V$ be a vector space defined over a field $F$. The inner product is a function that assigns a scalar in $F$ to an ordered pair of vectors $x, y \in V$ denoted as $\langle x, y\rangle$. The inner product function has the following defined properties:
 1) $\langle x+z, y\rangle= \langle x, y\rangle + \langle z, y\rangle$
