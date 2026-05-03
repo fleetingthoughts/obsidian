@@ -24,7 +24,7 @@ $$E[u(X_2)|x_1]=\int_{-\infty}^{\infty}u(x_2)f_{2|1}(x_2|x_{1})dx_2$$Notice that
 We derive some useful properties of the conditional expectation and variance.
 
 ***Theorem 2.3.1. (Properties of the expectation and variance of conditional expectation and conditional variance).*** Let $(X_1,X_2)$ be a random vector such that the variance of the $X_2$ (should be the marginal distribution) is finite so then by [Theorem 1.10.1, the expectation must exist as well](Introduction%20to%20Mathematical%20Statistics%20-%201.10%20Important%20Inequalities.md). Then we have:
-1) $E[E(X_2|X_1)]=E(X_2)$ (note that $E(X_2|X_1)$ is the expectation of $X_2 = x_2$  but a function of $X_1$)
+1) $E[E(X_2|X_1)]=E(X_2)$ Note that $E(X_2|X_1)$ is a function of $X_1$ so it is a random variable. What $E[E(X_2|X_1)]$ means is that we have some $Y = u(X_1)$ where $u$ is the same function of $X_1$ as $E[E(X_2|X_1)]$ and we are determining $E(Y)$.
 2) $Var[E(X_2|X_1)] \le Var(X_2)$ 
 The proof for 1) can be determined straight from the definitions of the expressions of the left-hand and right-hand side of the equalities.
 
@@ -39,5 +39,5 @@ The proof for 1) can be determined straight from the definitions of the expressi
 
 # Theorems
 ***Theorem 2.3.1. (Properties of the expectation and variance of conditional expectation and conditional variance).*** Let $(X_1,X_2)$ be a random vector such that the variance of the $X_2$ (the marginal distribution) is finite so then by [Theorem 1.10.1, the expectation must exist as well](Introduction%20to%20Mathematical%20Statistics%20-%201.10%20Important%20Inequalities.md). Then we have:
-1) $E[E(X_2|X_1)]=E(X_2)$ (note that $E(X_2|X_1)$ is the expectation of $X_2 = x_2$  but a function of $X_1$)
+1) $E[E(X_2|X_1)]=E(X_2)$. Note that $E(X_2|X_1)$ is the expectation of $X_2 = x_2$  but a function of $X_1$
 2) $Var[E(X_2|X_1)] \le Var(X_2)$ 
