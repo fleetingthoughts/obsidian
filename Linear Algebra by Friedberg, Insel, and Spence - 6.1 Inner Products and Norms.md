@@ -6,6 +6,7 @@ tags:
 date_created: 2026-05-01
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
+We formalize and define a general mathematical operation imbued in a vector space that will have wider applications. As is common in mathematics, the results in a wide variety of fields such as perpendicularity, length, etc.. were explored first before they were reduced to a definition to produce a theoretical reduction. The theoretical reduction in this case is the dot product.
 
 # Definitions
 ***Definition (Inner Product).*** Let $V$ be a vector space defined over a field $F$. The inner product is a function that assigns a scalar in $F$ to an ordered pair of vectors $x, y \in V$ denoted as $\langle x, y\rangle$. The inner product function has the following defined properties:
@@ -16,7 +17,7 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 
 ***Definition (Inner Product Space).*** A vector space $V$ over $F$ that has an inner product generally defined is referred to as the inner product space. To be specific, the inner product space refers to the vector space itself. If $F$ is the complex or real numbers, then the vector space is called the complex and real inner product space respectively.
 
-***Unofficial Definition(Standard Inner Product).*** The inner product space is called the standard inner product if it is on the $F^n$ vector space and over the field of real numbers (i.e. $F = \mathbb{R}$).
+***Unofficial Definition(Standard Inner Product).*** The inner product space is called the standard inner product if it is on the $F^n$ vector space and over the field of real numbers (i.e. $F = \mathbb{R}$). The standard inner product is denoted $x\cdot y$ instead of $\langle x, y \rangle$ 
 
 ***Definition (Conjugate Transpose of a matrix).*** Let $A \in M_{m\times n}(F)$ be a matrix. The conjugate transpose of $A$ is the $n \times m$ matrix $A*$ such that $(A*)_{ij}=\bar{A}_{ji}$. The conjugate transpose of a matrix is also called the adjoint of a matrix. 
 
