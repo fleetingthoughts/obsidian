@@ -40,6 +40,7 @@ Using the inner product space defined in the previous chapter, we now relate the
 
 ***Theorem 6.6 (The possibility to decompose a vector into orthogonal components from any general subspace and its orthogonal complement).*** Let $W$ be a subspace of a finite dimensional inner product space $V$. For any general vector $y \in V$, the vector $y$ can be expressed as a sum $y= u +z$ with $u \in W$ and $z \in W^{\perp}$. Furthermore, if the subspace $W$ has an orthonormal basis $\{v_1,..,v_n\}$ then the Fourier coefficients of $u$ can be determined as follows: $$u=\sum_{i=1}^n \langle y, v_i \rangle v_i$$
 
-***Corollary to Theorem 6.6 (The orthogonal projection of a vector as the best approximation of the vector in terms of vectors from a specific subspace).***
+***Corollary to Theorem 6.6 (The orthogonal projection of a vector as the best approximation of the vector in terms of vectors from a specific subspace).*** Let $W$ be a subspace of a finite dimensional inner product space $V$. For any general vector $y \in V$, the vector $y$ can be expressed as a sum $y= u +z$ with $u \in W$ and $z \in W^{\perp}$. The vector $u$ is the unique vector in the subspace $W$ such that: $$||y-u|| \le ||y-x|| \text{\quad} \forall x\in W$$
+
 
 ***Theorem 6.7 (The Steinitz exchange lemma for orthonormal vectors).***
