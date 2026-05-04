@@ -50,9 +50,43 @@
               "icon": "lucide-file",
               "title": "Philosophy of Natural Science"
             }
+          },
+          {
+            "id": "a72f74011061cd98",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "32ec41355b277948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Fleeting"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,11 +267,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b098a7374a8bcd62",
+  "active": "32ec41355b277948",
   "lastOpenFiles": [
-    "_Fleeting.md",
-    "Philosophy of Natural Science.md",
     "Textbooks.base",
+    "Introduction to Mathematical Statistics - 7.2 A Sufficient Statistic for a Parameter.md",
+    "/Introduction to Mathematical Statistics - 7.2 A Sufficient Statistic for a Parameter.md",
+    "Philosophy of Natural Science.md",
+    "_Fleeting.md",
     "Philosophy of Natural Science - 7 Concept Formation.md",
     "Understanding Analysis - 6.1  Discussion The Power of Power Series.md",
     "Understanding Analysis - 5.5 Epilogue.md",
@@ -259,8 +295,6 @@
     "/Linear Algebra by Friedberg, Insel, and Spence - 5.2 Eigenvalues and Eigenvectors.md",
     "/Linear Algebra by Friedberg, Insel, and Spence - 5.1 Eigenvalues and Eigenvectors.md",
     "/Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges.md",
-    "/Introduction to Mathematical Statistics - 2.3 Conditional Distributions and Expectations.md",
-    "/Introduction to Calculus I by Fritz and Courant - 3.9 The Method of Substitution.md",
     "Projects.base",
     "Pasted image 20260405020016.png",
     "/Pasted image 20260405020016.png",
