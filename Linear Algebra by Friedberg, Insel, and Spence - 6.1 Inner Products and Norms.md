@@ -9,8 +9,8 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 We formalize and define a general mathematical operation imbued in a vector space that will have wider applications. As is common in mathematics, the results in a wide variety of fields such as perpendicularity, length, etc.. were explored first before they were reduced to a definition to produce a theoretical reduction. The theoretical reduction in this case is the dot product.
 
 The following inner products were defined:
-- The standard inner product on the $F^n$ vector space over the real or complex field
-- The vector space of real-valued functions defined as the integral
+- The standard inner product on the $F^n$ vector space over the real or complex field.
+- The vector space of real-valued functions defined as the integral.
 - The Frobenius inner product defined for square matrices over the the real or complex field.
 # Definitions
 ***Definition (Inner Product).*** Let $V$ be a vector space defined over a field $F$. The inner product is a function that assigns a scalar in $F$ to an ordered pair of vectors $x, y \in V$ denoted as $\langle x, y\rangle$. The inner product function has the following defined properties:
