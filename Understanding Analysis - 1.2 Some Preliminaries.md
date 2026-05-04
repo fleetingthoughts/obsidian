@@ -23,3 +23,8 @@ The fundamental principle behind induction is that if $S$ is some subset of $\ma
 Then $S = \mathbb{N}$ . 
 Why is it a valid argumentative technique and what are its implications on natural numbers? This will be discussed later.
 
+# Definitions
+***Definition 1.2.3 (Function, domain, and range).***
+
+# Theorems
+***Theorem 1.2.6 (Analytic equivalence condition to equality).***

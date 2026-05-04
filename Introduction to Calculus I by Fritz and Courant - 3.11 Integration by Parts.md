@@ -17,6 +17,6 @@ The recursive formulae for $\sin^n(x)$ is useful to compute $\pi$.
 
 # Notes from exercises
 - Problem 1 demonstrates $\int x^n e^{-x^2}$ can be reduced to elementary functions if $n$ is a positive odd number. 
-- Problem 3 and 4 forms Cauchy's formula for repeated integration which lets us describe repea
+- Problem 3 and 4 forms Cauchy's formula for repeated integration which lets us reduce repeated integration into a single integral.
 
 
