@@ -6,8 +6,10 @@ tags:
 date_created: 2026-05-06
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-The adjoint of a linear operation.
+We establish preliminaries about the adjoint of a linear operator and how the past three concepts of dot product, linear operator, and adjoint linear operator all relate to each other. The preliminaries and relations will help us solve two critical problem in statistics called the least squares approximation, and the minimal solution of a non-unique consistent solution.
 # Definitions
+***Definition (Minimal Solution).*** Given a consistent system of linear equations $Ax=b$ that has no unique solution. A solution vector $s$ is called the minimal solution if it satisfies $||s|| \le ||u||$ for all other solutions $u$ the system of equations.
+
 # Theorems
 ***Theorem 6.8 (The linear transformation converted into a dot product with a specific vector unique to the transformation function).***
 
@@ -25,6 +27,6 @@ The adjoint of a linear operation.
 
 ***Corollary to Lemma 2 (Sufficient condition for the invertibility of $A^*A$).***
 
-***Theorem 6.12.***
+***Theorem 6.12 (Existence of the least squares vector and determination of the vector if the rank is equal to number of columns).*** 
 
-***Theorem 6.13***
+***Theorem 6.13 (The existence of a minimal solution for a system of linear equations that has no unique solutions and computation of the minimal solution).***
