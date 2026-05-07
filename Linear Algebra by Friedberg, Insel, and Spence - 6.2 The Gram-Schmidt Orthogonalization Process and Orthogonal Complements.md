@@ -11,7 +11,7 @@ Using the inner product space defined in the previous chapter, we now relate the
 	- Orthogonality implies linear independence. Converse is not necessarily true
 2) The Gram-Schmidt Process that constructs a orthogonal or orthonormal set of vectors with the same span as a set of linearly independent vectors.
 	- Any finite dimensional vector space has a orthogonal basis.
-3) General form of the coefficients of a vector in a vector space in terms of an orthogonal basis.
+3) General form of the coefficients of a vector in a vector space in terms of an orthogonal basis: determination of the Fourier coefficients.
 
 
 # Summary and important notes
