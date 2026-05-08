@@ -17,6 +17,7 @@ Using the inner product space defined in the previous chapter, we now relate the
 # Summary and important notes
 - Linear independence does not imply orthogonality but the converse is true. See corollary to ***Theorem 6.3)
 - Infinite dimensional vector do not necessarily have a orthogonal basis but finite ones do.
+- Only non-zero orthogonal vectors can be linearly independent. Any set containing 0 is automatically linearly dependent.
 
 # Definition
 ***Definition (Orthonormal Basis).***
