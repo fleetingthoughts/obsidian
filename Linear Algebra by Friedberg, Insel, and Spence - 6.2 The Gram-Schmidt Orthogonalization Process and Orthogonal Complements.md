@@ -12,6 +12,9 @@ Using the inner product space defined in the previous chapter, we now relate the
 2) The Gram-Schmidt Process that constructs a orthogonal or orthonormal set of vectors with the same span as a set of linearly independent vectors.
 	- Any finite dimensional vector space has a orthogonal basis.
 3) General form of the coefficients of a vector in a vector space in terms of an orthogonal basis: determination of the Fourier coefficients.
+4) An arbitrary vector decomposed into the sum of a vector of an arbitrary subspace and a vector in its orthogonal complement.
+	- Calculation of the vector if we know the orthonormal basis of the arbitrary subspace.
+5) The decomposed vector in 4) is a unique vector in the subspace that is closest to the arbitrary vector in the sense that the difference between the two has the smallest norm.
 
 
 # Summary and important notes
