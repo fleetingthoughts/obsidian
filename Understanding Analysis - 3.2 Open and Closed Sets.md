@@ -8,10 +8,18 @@ parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
 ---
 This chapter contains several definition and simple theorems whose main difficulty rely on you understanding the definitions really carefully. It is therefore useful to organize my thoughts by compiling all the definitions and theorems in separate lists colloquially restated. In this section, we defined open sets, closed sets, and how to prove whether a set is either of these.
 
+We begin with a preliminary on what $\epsilon$-neighborhood of a point $x=a$ is and use it to define an open set. The definition leads us to the following examples of an open set:
+- The set of real numbers $\mathbb{R}$ is an open set
+- The empty set is an open set
+- Open intervals on $\mathbb{R}$
+From the definition, we can also show what kind of operations we can perform on open sets to preserve openness. In ***Theorem 3.2.3***, the union of open sets remains open.
+
+
+# Summary of computational or proof based aspects of this chapter
 To prove a set is an open set:
 - Prove straight from definition by showing any arbitrary point will have at least 1 neighborhood contained in the set
 - Show the set is a union of an infinite or finite collection of open sets or an intersection of a finite number of open sets
-- If the complement of the set is closed
+- Prove the complement of the set is closed
 
 To prove a set is a closed set:
 - Show it is a union of a finite collection of closed sets or the intersection of an infinite or finite number of closed sets.
@@ -20,8 +28,16 @@ To prove a set is a closed set:
 - If the complement of the set is open
 
 
+# Review concepts used as preliminaries
+- Reminder that what a neighborhood of a point is. The $\epsilon$-neighborhood of a point $x= a$, denoted $V_{\epsilon}(a)$, can be seen as a function where you input the following:
+	- A point $x=a$
+	- A parameter $\epsilon$
+	The function outputs an interval of length $\epsilon$ centered on $a$.
+
+-
+
 # Definitions
-- Reminder of definition of neighborhood of a point: a $\epsilon$-neighborhood of a point $a$ is denoted $V_{\epsilon}$ and is the set $V_{\epsilon}=\{x\in \mathbb{R}:|x-a|<\epsilon\}$ 
+- ***Reminder of definition (Neighborhood of a point)***: a $\epsilon$-neighborhood of a point $a$ is denoted $V_{\epsilon}$ and is the set $V_{\epsilon}=\{x\in \mathbb{R}:|x-a|<\epsilon\}$ 
 - ***Definition 3.2.1 (Open Sets).*** A set $O\subseteq \mathbb{R}$ is open if for every point $a\in O$, a neighborhood of a is contained in $O$ as well. Clarification of this definition. To prove a set is open, you only need to show any arbitrary point has at least 1 neighborhood that is completely contained in the set. This breaks down in closed intervals because any neighborhood around the endpoints will contain points outside the set.
 - ***Definition 3.2.4 (Limit Points).*** A point, $x$ that has the condition that every $V_{\epsilon}(x)$ intersects with $O$ other than at $x$ itself. You can think of it as a point infinitely close to $O$ but is yet not in it OR a point that is right at the edge (i.e. endpoint of closed interval). In other words, it is like a limit and this limit can be contained in the set or not contained in the set.
 - ***Definition 3.2.6 (Isolated point).*** An <u>isolated point of a set</u> (isolated point is defined relative to a certain set), is a point in the set that is not a limiting point.
