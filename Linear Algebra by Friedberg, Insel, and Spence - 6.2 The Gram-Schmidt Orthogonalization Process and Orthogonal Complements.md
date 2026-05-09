@@ -32,6 +32,8 @@ The chapter is outlined as follows:
 
 ***Definition (Orthogonal complement).*** Let $S$ be non-empty subset in a vector space $V$. The set of all vectors orthogonal to $S$ is called the orthogonal complement of $S$ and is denoted $S^{\perp}$. Namely $S^{\perp}=\{x\in V: \langle x, y \rangle = 0, \forall y \in S\}$ 
 
+***Definition (Orthogonal projection).***
+
 # Theorems
 ***Theorem 6.3 (Expansion of a vector in terms of orthogonal vectors).*** Let $V$ be an inner product space with an orthogonal non-zero subset $S=\{v_1,...,v_n\}$. A vector $y \in span\{S\}$ can then be expressed as a linear combination of the orthogonal subset in the following form: $$y=\sum_{i=1}^n\frac{\langle y, v_{i}\rangle}{||v_{i}||^2}v_{i}$$
 
@@ -50,4 +52,7 @@ The chapter is outlined as follows:
 ***Corollary to Theorem 6.6 (The orthogonal projection of a vector as the best approximation of the vector in terms of vectors from a specific subspace).*** Let $W$ be a subspace of a finite dimensional inner product space $V$. For any general vector $y \in V$, the vector $y$ can be expressed as a sum $y= u +z$ with $u \in W$ and $z \in W^{\perp}$. The vector $u$ is the unique vector in the subspace $W$ such that: $$||y-u|| \le ||y-x|| \text{\quad} \forall x\in W$$
 
 
-***Theorem 6.7 (The Steinitz exchange lemma for orthonormal vectors).***
+***Theorem 6.7 (Relationship between the orthonormal basis of the vector space, a subspace, and the orthogonal complement of the subspace).*** Suppose $S = \{v_1,...,v_k\}$ is an orthonormal set in a $n$-dimensional inner product space $V$. Then we have the following properties:
+1) (Steinitz Exchange Lemma for orthonormal set). $S$ can be extended to $\{v_1,...v_k,...,v_n\}$ to form an orthonormal basis for $V$
+2) If a subspace $W=span(S)$, then the extension of $S$ to the orthonormal basis of $V$ denoted $S_1=\{v_{k+1},...,v_n\}$ is an orthonormal basis of orthogonal complement of $W$
+3) If $W$ is any subspace of $V$, then $dim(V) = dim(W)+dim(W^{\perp})$. So $V$ is the direct sum of a subspace and its orthogonal complement.
