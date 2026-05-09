@@ -43,6 +43,9 @@ To prove a set is a closed set:
 - Show that every Cauchy sequence in the set has a limit that is an element in the set.
 - If the complement of the set is open
 
+# Summary of concepts
+- A closed set can be closed by virtue of containing no limit points. It becomes [vacuously true](The%20Empty%20Set%20and%20Vacuous%20Truths.md) that it is empty
+- To identify a closed set, you just have to show that there exists at least one sequence in the set that converges to a limit. So if your set is defined as a sequence itself, you need to check if the subsequence converges. By Bolzano-Weierstrass, any bounded sequence will have a convergent subsequence, so all bounded sequences will have limit points.
 
 # Review concepts used as preliminaries
 - Reminder that what a neighborhood of a point is. The $\epsilon$-neighborhood of a point $x= a$, denoted $V_{\epsilon}(a)$, can be seen as a function where you input the following:
