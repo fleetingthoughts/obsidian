@@ -16,7 +16,19 @@ From the definition, we can also show what kind of operations we can perform on 
 
 A closed set is a set that contains all its limit points so we need to define a limit point and how to identify them. 
 - ***Definition 3.2.4*** defines a limit point with respect to a set $A$ as a point that can be made infinitely close to $A$ in the sense that every neighborhood of the limit point has a non-empty intersection with $A$. 
-- ***Theorem 3.2.5*** is an equivalence statement showing how we can identify a limit point of a set by showing that we have at least one sequence in $A$ that converges to the limit point. The limit of a sequence in $A$ is logically equivalent to a limit point.
+- ***Theorem 3.2.5*** is an equivalence statement showing how we can identify a limit point of a set by showing that we have at least one sequence $(a_n)$ in $A$ that converges to the limit point and <u>the limit point is not contained in the sequence.</u> The limit of a sequence in $A$ is logically equivalent to a limit point.
+A nuance we note in ***Theorem 3.2.5***  is that in identify limit points, we have to show there is a sequence $(a_n)$<u> that does not have the limit point in the sequence </u>with the limit point $a$ as a limit. If we allowed the limit point to be in the sequence, then our theorem becomes uninteresting because we can always construct the sequence of just the limit point $(a,a,a.,...)$ and it trivially converges. 
+
+By setting the requirement that we need to find a sequence not containing the limit point, we can distinguish isolated points from limit points. As defined in ***Definition 3.2.6***, isolated points are always contained in the set, but a limit point doesn't have to be. This is a binary definition in the sense that for all points in a set $A$, it is either closed or isolated. There is no third option. Therefore to prove a point is isolated is to prove it is not a limit point and vice versa.
+
+Closed sets end up playing an important role and so we look at the operation of closing a set by the union with its limit point. Note that ***Definition 3.2.11*** for the closure of a set only defines an operation and despite its no name, it doesn't guarantee that the resulting union is a closed set, but ***Theorem 3.2.12*** assures us this operation produces a closed set and is actually the smallest closed set containing the original open set.
+
+To conclude, Abbott provides additional tools to identify whether a set is open or closed by looking at its complement:
+- ***Theorem 3.2.13*** lets us identify whether a set is open or closed by looking at the complement of the set.
+***Theorem 3.2.13*** is required to prove the conditions that allow us to preserve closedness under union or intersection of other closed sets. The conditions are the opposite of the open set:
+- The intersection and union of a finite and infinite number of open sets respectively preserves openness
+- Theorem intersection and union of an infinite and finite number of closed sets respectively preserves closedness.
+The last point is formalized in ***Theorem 3.2.14*** and combines  ***Theorem 3.2.13 (Determination of closedness and openness of a set by its complement)*** and ***Theorem 3.23 (Conditions for the preservation of openness under union and intersection of open sets)*** and applies DeMorgan's law to say something about closed sets.
 
 
 # Summary of computational or proof based aspects of this chapter
