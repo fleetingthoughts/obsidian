@@ -17,7 +17,8 @@ The chapter is outlined as follows:
 4) The vector space as a direct sum of any subspace and its orthogonal complement.
 	- An arbitrary vector in the vector space is a sum of a unique vector from the subspace and a unique vector from the orthogonal complement. Computation of the orthogonal complement
 5) The orthogonal projection of a vector to the subspace is a unique vector in the subspace with the property that the difference has the smallest norm
-	
+
+
 
 
 # Summary and important notes
