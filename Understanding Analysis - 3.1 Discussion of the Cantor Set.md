@@ -24,3 +24,7 @@ Another way to understand the Cantor set is by its dimensions. Abbot applies the
 
 In trying to apply this concept to the Cantor set, we can define the "scaling" of  the Cantor set by a factor of 3 by scaling the length of $C_0$ and then subjecting it to the iterative set minus operation. The original $C_0=[0,1]$ would then become $[0,3]$ and when we set minus this, $C_1 = [0,1] \cup [2,3]$, and we see that we have essentially produced two copies of the original $C_o$. Somehow, by our understanding of dimension, the Cantor set seemingly has a dimension between 0 and 1!
 
+# Summary
+
+- By iteratively removing open middle thirds, Abbott demonstrates that the Cantor set defies standard intuition by remaining uncountable and perfect despite having a total length of zero.
+
