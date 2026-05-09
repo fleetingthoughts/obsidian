@@ -12,7 +12,11 @@ We begin with a preliminary on what $\epsilon$-neighborhood of a point $x=a$ is 
 - The set of real numbers $\mathbb{R}$ is an open set
 - The empty set is an open set
 - Open intervals on $\mathbb{R}$
-From the definition, we can also show what kind of operations we can perform on open sets to preserve openness. In ***Theorem 3.2.3***, the union of open sets remains open.
+From the definition, we can also show what kind of operations we can perform on open sets to preserve openness. In ***Theorem 3.2.3***, the union of  arbitrary number of open sets remains open, but the intersection of only a finite number of open sets remains open. The reason being that the proof involves a minimum operation on the collection of open sets because if a point is in the intersection of the set, then only the smallest neighborhood can be contained in all the sets and therefore be in the intersection. We can only perform the minimum operation on a finite collection.
+
+A closed set is a set that contains all its limit points so we need to define a limit point and how to identify them. 
+- ***Definition 3.2.4*** defines a limit point with respect to a set $A$ as a point that can be made infinitely close to $A$ in the sense that every neighborhood of the limit point has a non-empty intersection with $A$. 
+- ***Theorem 3.2.5*** is an equivalence statement showing how we can identify a limit point of a set by showing that we have at least one sequence in $A$ that converges to the limit point. The limit of a sequence in $A$ is logically equivalent to a limit point.
 
 
 # Summary of computational or proof based aspects of this chapter
