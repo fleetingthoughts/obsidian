@@ -43,7 +43,9 @@ To round off the discussion on the dimension of vector spaces, Friedberg provide
 2) Determine a basis for a vector space
 	1) Determine the dimension $n$ of the vector space
 	2) Find $n$ number of independent vectors
-	
+3) Determine the number of dimensions of a subspace $W$ based on the dimension of the $n$-dimensional vector space $V$:
+	1) $\dim W\le \dim V=n$ 
+	2) If there exists a vector $w\in W$ that is a linear combination of $n$ independent vectors, then $\dim W=n$ 
 # Definitions
 ***Definition (Basis).*** A basis $\beta$ for a vector space $V$ is a linearly independent subset of $V$ that generates $V$. We also say the vectors of $\beta$ form a basis for $V$.
 
