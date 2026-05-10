@@ -11,7 +11,8 @@ date_created:
 
 
 
-The random variable is a essentially a function that maps an event onto the set of real numbers.
+The random variable is a essentially a function that maps an event onto the set of real numbers. When we refer to a random variable $X$, we refer to a function that maps an outcome in the sample space to the reals. We commonly denote the lowercase $x$ as the specific real number that the outcome is mapped to. In other words, $x$ is the output of the function $X$. Some notational nuances of this:
+- Probability distribution functions that take a real number must take $x$ and not $X$ for it takes a real number as an input. Using $X$ as an argument is to give it a function. We only care about the output of $X$.
 
 We try to ascribe some kind of math object to represent our sample space and often preferably with real numbers. Notice that we defined the image of the random variable as the set of ALL real numbers? We can simply set the other numbers that obviously aren't part of the sample as just 0. The probability function instead of mapping our sample space can now map real numbers to other real numbers with our random variable function. The probability functions that act on random variables (i.e. real numbers) are referred to as the probability mass function (pmf) in the case of discrete random variables and probability density functions (pdf) in the case of continuous random variables.
 
