@@ -18,4 +18,10 @@ $$ \rho = \frac{Cov(X,Y)}{\sigma_{1}\sigma_{2}}$$
 
 ***Theorem 2.5.3 (a null covariance as a necessary condition for independent random variables).*** Given $(X,Y)$ random variables that are independent, the independence of the random variables is a sufficient condition for $Cov(X,Y) = 0$.
 
-Proof of this follows from [theorem 2.4.4](Introduction%20to%20Mathematical%20Statistics%20-%202.4%20Independent%20Random%20Variables.md) on the expectation of the product of independent random variables. Note that for theorem 2.5.3, it is a sufficiency condition but a covariance of 0 is not sufficient for the random variables to be independent. There are dependent random variables with a covariance of 0. It is worth noting though as a corollary that <u>the contrapositive of theorem 2.5.3 IS TRUE, that is, if $\rho \ne 0$, then $X$ and $Y$ are necessarily dependent.</u>
+Proof of this follows from [theorem 2.4.4](Introduction%20to%20Mathematical%20Statistics%20-%202.4%20Independent%20Random%20Variables.md) on the expectation of the product of independent random variables. ***Theorem 2.4.4*** is a sufficiency condition but is not necessary. A covariance of 0 is not sufficient for the random variables to be independent. There are dependent random variables with a covariance of 0. It is worth noting though as a corollary that the contrapositive of ***Theorem 2.5.3*** is true, that is, if $\rho \ne 0$, then $X$ and $Y$ are necessarily dependent.
+
+# Computation summary
+- To compute the covariance using the joint distribution $f(x,y)$ from the definition, we'll need to compute three expectations:
+	1) $E(X)=\mu_{1}$
+	2) $E(Y)=\mu_2$
+	3) $E(XY) = \int_{\infty}^{\infty}xyf(x,y)dx dy$ 
