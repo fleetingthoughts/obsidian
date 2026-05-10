@@ -25,3 +25,16 @@ Proof of this follows from [theorem 2.4.4](Introduction%20to%20Mathematical%20St
 	1) $E(X)=\mu_{1}$
 	2) $E(Y)=\mu_2$
 	3) $E(XY) = \int_{\infty}^{\infty}xyf(x,y)dx dy$ 
+# Concepts from Exercises
+***Exercise 2.4.8 (Computation of the mean, variance of the individual variables and the covariance using the cumulant).*** The cumulant is the logarithm of the moment generating function $M$. For a joint distribution $f(x,y)$, the cumulant is defined as $\psi(t_1,t_2)=\ln[M(t_1,t_2)]$. The partial derivatives of the cumulant can directly compute the mean, variance and covariance more directly than partial derivative of the moment generating function $M$ as the partial derivatives of the mgf produce moments of the random variable instead. 
+$$
+\begin{array}{|l|l|l|}
+\hline \text{To Find...} & \text{Use This Derivative} & \text{Notation} \\
+\hline \text{Mean of } X & \frac{\partial \psi}{\partial t_1} \Big|_{t=0} & \mu_X \\
+\hline \text{Mean of } Y & \frac{\partial \psi}{\partial t_2} \Big|_{t=0} & \mu_Y \\
+\hline \text{Variance of } X & \frac{\partial^2 \psi}{\partial t_1^2} \Big|_{t=0} & \sigma^2_X \\
+\hline \text{Variance of } Y & \frac{\partial^2 \psi}{\partial t_2^2} \Big|_{t=0} & \sigma^2_Y \\
+\hline \text{Covariance} & \frac{\partial^2 \psi}{\partial t_1 \partial t_2} \Big|_{t=0} & \sigma_{XY} \\
+\hline
+\end{array}
+$$
