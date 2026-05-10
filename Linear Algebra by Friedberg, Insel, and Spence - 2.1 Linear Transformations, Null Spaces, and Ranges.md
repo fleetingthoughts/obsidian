@@ -12,12 +12,12 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 
 In general if the field is the set of real numbers then 1) implies 2) but some fields are independent of that. There are two important linear transformations $T$ that we define:
 - The identity transformation $I(x) = x$
-- The zero transformation $T(x) = 0$ 
+- The zero transformation $T(x) = \vec{0}$ 
 
 We define two important sets of vectors derived from linear transformations $T: V\to W$
 - The null space (or kernel) of a linear transformation $T$ is denoted $N(T)$ and it is the set of vectors $x\in V$ such that $T(x)= 0$. For example the null space of the identity matrix $N(I) = {0}$. <u>Note the kernel is a subset of</u> $V$
-- The range, denoted $R(T)$ is the set of all the $T(x)$ vectors for $x \in V$. For example the range of the identity matrix is $R(I)= V$ or the entire vector space $V$. In other words $R(T)=w \in W$. <u>Note the image is a subset of </u>$W$
-By ***Theorem 2.1,*** the null space and range are subspaces which is proven by verifying the [4 requirements of a subspace](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.3%20Subspaces.md).
+- The range, denoted $R(T)$ is the set of all the $T(x)$ vectors for $x \in V$. For example the range of the identity matrix is $R(I)= V$ or the entire vector space $V$. In other words $R(T)\subseteq W$. <u>Note the image is a subset of </u>$W$
+By ***Theorem 2.1,*** the null space and range are subspaces which is proven by verifying the [3 requirements of a subspace](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.3%20Subspaces.md).
 
 Since the range is a subspace, we are interested in determining a basis for it so that we can completely describe it. The basis of a null space is more complicated, but if we know the basis of the domain vector space, we can determine the basis of the range. ***Theorem 2.2*** states that the basis for the range <u>will be a subset of the set of transformed basis vectors from the domain</u>. So given a linear transformation, if we know the basis of the domain, we can completely determine describe the range since we can derive the basis for the range. 
 
@@ -33,19 +33,21 @@ The nullity and rank of a linear transformation are useful because they say some
 	2) The linear transformation is onto
 	3) The range has the same dimension as the domain (by [Theorem 1.11](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.6%20Bases%20and%20Dimension.md)).
 
-We now distinguish an especially important linear transformation that relates two vector spaces.
-***Theorem 2.6 (Conditions for the uniqueness of a linear transformation).*** Let $V$ and $W$ be vector spaces over a field with basis $\{v_1,...,v_n\}$ and $\{w_1,...w_n\}$ respectively. Then there exists exactly one linear transformation $T: V\to W$ such that $T(v_i)=w_i$ for $i=1,2,..,n$
+There is a special result that makes linear transformations especially important and useful for vector spaces. Given, the basis of a $n$-dimensional vector space $V$ and $n$ arbitrary vectors in another vector space $W$ then ***Theorem 2.6*** supplies us with the following existence and uniqueness theorem:
+1) There exists a linear transformation that bijectively maps the each of the vectors in the basis $V$ to the $n$ arbitrary vectors in $W$
+2) The linear transformation from 1) is unique. This means if we find two transformations $T$ and $S$ that satisfy 1, then $T(v)=S(v)$ for all $v\in V$
+***Theorem 2.6*** is general because it applies to any $n$ vectors in the codomain, but we could alternatively try to map to the basis of $W$. There is only one linear transformation that maps the basis of $V$ to the basis of $W$ and in doing so, it completely maps $W$ with domain $V$. 
 
-Colloquially, there is only one linear transformation that maps the basis of $V$ to the basis of $W$ and in doing so, it completely maps $W$ with domain $V$. This is because the image $R(T)=span(T(v_1),..,T(v_2))=W$ 
-
-# Conceptual summary
+# Conceptual summary and nuances
 - Restrict ourselves to a special kind of function of vectors: linear transformations. All the theorems in this book will apply to this special kind of function.
 - The image of a linear transformation is completely determined by its transformation of the basis of the domain. In other words, the basis of the image is $T(v_i)$ where each $v_i$ is a basis vector of the domain.
 - The nullity tells us whether a transformation is injective
 - Injectivity and surjectivity are separate properties to develop except in the special case where the codomain (NOT THE RANGE) has the same dimension.
+- ***The power of knowing the transformation rule of the basis vectors of a domain.***
+	- Knowing the transformation of the basis vectors completely describes the range ***Theorem 2.2***. 
+	- Knowing the mapping of the basis vectors uniquely determines the linear transformation by ***Theorem 2.6***. Conversely if we know which output vectors we want each basis to map to, then the linear transformation uniquely exists.
 # Computational summary
-1) 
-2) ***Determine the basis of the range.*** By ***Theorem 2.2***, we can generate a spanning set for the range so by [Theorem 1.6](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.6%20Bases%20and%20Dimension.md) a basis for the range exists and its a subset of spanning set:
+1) ***Determine the basis of the range.*** By ***Theorem 2.2***, we can generate a spanning set for the range so by [Theorem 1.6](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.6%20Bases%20and%20Dimension.md) a basis for the range exists and its a subset of spanning set:
 	1) Determine the basis for the domain
 	2) Apply the transformation to each vector in the basis. This will be a spanning set of our range
 	3) Find a linearly independent subset of the spanning set of the range. The new subset will be a basis for the range.
