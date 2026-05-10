@@ -38,7 +38,7 @@ We can also demonstrate independence by looking at the relationship of the raw p
 
 ***Theorem 2.4.3 (Determine independence from the raw probabilities).*** The random variables $X_1$ and $X_2$ are said to be independent if the following relationship holds:
 $$P(a \lt X_1 \le b, c \lt X_2 \le d) = P(a \lt X_1 \le b)P(c \lt X_2 \le d)$$
-This can be easily proved by definition of the cdf and relating it to theorem 2.4.2. Note the right hand equalities are strict by [derived properties of the cdf](Introduction%20to%20Mathematical%20Statistics%20-%201.7%20Continuous%20Random%20Variables.md). 
+This can be easily proved by definition of the cdf and relating it to ***Theorem 2.4.2***. Note the right hand equalities are strict by [derived properties of the cdf](Introduction%20to%20Mathematical%20Statistics%20-%201.7%20Continuous%20Random%20Variables.md). 
 
 ***Theorem 2.4.3*** shows that the calculation of probabilities is greatly simplified and we can look at the variables one at a time. This simplification extends to other important parameters as well:
 
