@@ -7,7 +7,11 @@ tags:
   - "#real_analysis"
 date_created:
 ---
-In this section, we now formalize a lot of intuition we have about the different fields within and including R and how $N, Q, Z$ fit into $R$ as well we deduce a theorem that formalizes the idea of the set of real numbers having no "gaps" in it. 
+In this section, we now formalize a lot of intuition we have about the different fields within and including R and how $N, Q, Z$ fit into $R$ as well we deduce a theorem that formalizes the idea of the set of real numbers having no "gaps" in it. We derive the following properties of real numbers from the AoC:
+1) The nested interval property
+2) The Archimedean property
+3) Density of rationals on $\mathbb{R}$
+4) The existence of square roots on $\mathbb{R}$ 
 
 For the latter, the idea of no gaps is the following theorem
 
@@ -36,5 +40,5 @@ An analogous proof can be adopted for the density of irrational numbers (Exercis
 
 We can also prove the existence of certain irrational numbers like $\sqrt2$  in the real using only rational numbers by constructing a bounded set of rational numbers (therefore by the AoC it MUST have a supremum) and that the supremum must be some quantity $\alpha$ such that $\alpha^2 =2$. The proof by constructing a bounded set with a supremum equal to the number we want to prove the existence of shows a property resulting from AoC called the property or Dedekind cut and is a method of constructing the numbers we want to prove the existence of by partitioning a set into two precisely at the number we want to "construct" or prove the existence of. In fact this cut property is logically equivalent to AoC and we could use either as our starting point to define real numbers as the set of rational numbers with irrational numbers filling the gaps (see Exercise 1.3.10).
 
-Some interesting notes from doing exercises:
-- Exercise 1.4.1: [[The set of Irrational numbers is not closed under addition or multiplication]]
+# Exercises
+***Exercise 1.4.1***: [[The set of Irrational numbers is not closed under addition or multiplication]]
