@@ -43,12 +43,10 @@ To prove a set is a closed set:
 - Show that every Cauchy sequence in the set has a limit that is an element in the set.
 - If the complement of the set is open
 
-# Concepts from exercises and nuances
+# Summary of concepts and nuances
+- All open sets in $\mathbb{R}$ will look like some open interval of $\mathbb{R}$ or is just the reals itself.
 - A closed set can be closed by virtue of containing no limit points. It becomes [vacuously true](The%20Empty%20Set%20and%20Vacuous%20Truths.md) that it is empty
 - To identify a closed set, you just have to show that there exists at least one sequence in the set that converges to a limit. So if your set is defined as a sequence itself, you need to check if the subsequence converges. By Bolzano-Weierstrass, any bounded sequence will have a convergent subsequence, so all bounded sequences will have limit points.
-- ***Exercise 3.2.4 (The supremum and its relation to a bounded above open or closed set).*** If a set $A$ is bounded above, the exists a supremum of the $\sup{A}=s$. The existence of the supremum depends on whether the set is open or closed:
-	- If $A$ is closed, $\sup(A)\in A$. Alternatively, if $A$ is open, then $\sup(A)\in \bar{A}$ 
-	- If $A$ is open, $s \notin A$.
 
 # Review concepts used as preliminaries
 - Reminder that what a neighborhood of a point is. The $\epsilon$-neighborhood of a point $x= a$, denoted $V_{\epsilon}(a)$, can be seen as a function where you input the following:
@@ -57,6 +55,10 @@ To prove a set is a closed set:
 	The function outputs an interval of length $\epsilon$ centered on $a$.
 
 - The rational and irrationals are infinitely dense on the real number line in the sense that for any two real numbers no matter how close, you can always find a rational or irrational number between them.
+# Concepts from exercises
+- ***Exercise 3.2.4 (The supremum and its relation to a bounded above open or closed set).*** If a set $A$ is bounded above, the exists a supremum of the $\sup{A}=s$. The existence of the supremum depends on whether the set is open or closed:
+	- If $A$ is closed, $\sup(A)\in A$. Alternatively, if $A$ is open, then $\sup(A)\in \bar{A}$ 
+	- If $A$ is open, $s \notin A$.
 
 # Definitions
 - ***Reminder of definition (Neighborhood of a point)***: a $\epsilon$-neighborhood of a point $a$ is denoted $V_{\epsilon}$ and is the set $V_{\epsilon}=\{x\in \mathbb{R}:|x-a|<\epsilon\}$ 

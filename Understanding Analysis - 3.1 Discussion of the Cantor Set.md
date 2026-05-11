@@ -12,7 +12,7 @@ The chapter introduces the new mathematical playground by providing moral unders
 - How the Cantor set is iteratively constructed by set subtraction
 - The points that are preserved in each iteration and the form it takes
 - The Cantor set is infinitely set subtracted from yet remains uncountable
-- The Cantor set has a dimension in between 1 and 0.
+- Scaling the interval by a factor of 3 only doubles the size of the Cantor set. So the Cantor set has a dimension in between 1 and 0.
 
 The standard cantor set, $C_o$ is constructed with the single closed unit interval $[0,1]$ and removing the open middle third interval thereby splitting the original interval into two forming a new set, $C_1$, that is a union of these two sets. Mathematically, this creation of $C_1$ is denoted as
 $$C_1 =C_0 \setminus (\frac{1}{3}, \frac{2}{3}) = [0,\frac{1}{3}] \cup  []\frac{2}{3},1]$$
