@@ -26,6 +26,9 @@ In our search for the MVUE, we therefore restrict our search to functions of a s
 - If we can modify the MLE in a way to make it unbiased, then it is likely the MVUE. It is not always the case that we can modify it in a closed form to make it unbiased.
 
 A common misconception is to assume that by Rao-Blackwell's theorem the unbiased statistic can be conditioned with any arbitrary statistic that isn't necessarily sufficient. The issue is that the function $E(Y_2|Y_1)$ if $Y_1$ isn't sufficient isn't even a statistic because the conditional probability $f_{Y_2|Y_1}=u(X_{1},\dots X_{n},\theta)$ will be a function of the parameter as well so it won't even be a statistic. This causes all previous theorems to fall apart so that $E(Y_2|Y_1)$ cannot be used as an estimator of $\theta$ because it contains $\theta$ itself.
+
+# Summary of concepts
+- If there are two sufficient statistics.
 # Definitions
 
 # Theorems
