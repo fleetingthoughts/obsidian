@@ -14,6 +14,9 @@ We establish preliminaries about the adjoint of a linear operator and how the pa
 - The existence, uniqueness, and linearity of the adjoint of a linear transformation is guaranteed for a finite dimensional inner product space, but the existence is not guaranteed in an infinite dimensional inner product space
 
 # Summary of computational
+- ***Determine the Riesz representor of a linear functional.*** Given a linear functional $g: V\to F$  that maps a vector to a scalar, the Riesz representor $y$ in the domain is the vector such that $g(x) =\langle x,y\rangle$:
+	1) Determine the orthonormal basis $\beta=\{v_{1},\dots v_{n}\}$ of $V$
+	2) Compute $y$ by the following formula: $$y=\sum_{i=1}^n \overline{g(v_i)} v_i$$
 - ***Computation of the adjoint of a linear transformation.*** 
 	1) Determine the matrix representation of the original linear transformation
 	2) The adjoint of the matrix in 1) is the matrix representation of the adjoint linear transformation
