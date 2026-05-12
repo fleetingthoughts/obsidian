@@ -17,13 +17,10 @@ We establish preliminaries about the adjoint of a linear operator and how the pa
 - ***Determine the Riesz representor of a linear functional.*** Given a linear functional $g: V\to F$  that maps a vector to a scalar, the Riesz representor $y$ in the domain is the vector such that $g(x) =\langle x,y\rangle$:
 	1) Determine the orthonormal basis $\beta=\{v_{1},\dots v_{n}\}$ of $V$
 	2) Compute $y$ by the following formula: $$y=\sum_{i=1}^n \overline{g(v_i)} v_i$$
-- ***Determine the adjoint of a linear transformation.*** Given a linear transformation $T$ on a finite $n$-dimensional inner product space, the adjoint of the linear transformation must exist (not guaranteed if infinite dimensional) and is determined as follows:
+- ***Determine the adjoint operator.*** Given a linear transformation $T$ on a finite $n$-dimensional inner product space, the adjoint of the linear transformation must exist (not guaranteed if infinite dimensional) and is determined as follows:
 	1) Determine a orthonormal basis $\beta$ for the domain of the linear transformation.
 	2) Compute $[T]_{\beta}$ as in [2.2 The Matrix Representation of A Linear Transformation](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%202.2%20The%20Matrix%20Representation%20of%20A%20Linear%20Transformation.md).
 	3) Then the matrix representation of the adjoint transformation relative to the same orthonormal basis $\beta$ is given by $[T^*]_{\beta}=([T]_{\beta})^*$ 
-- ***Computation of the adjoint of a linear transformation.*** 
-	1) Determine the matrix representation of the original linear transformation.
-	2) The adjoint of the matrix in 1) is the matrix representation of the adjoint linear transformation.
 - ***Determine the least squares approximation.*** If a system of linear equations $Ax=y$ has no solutions, we can determine of the vector $x_o$ that is the "closest" answer. To determine the closest solution we need the following:
 	1) $A\in M_{m\times n}(F)$.
 	2) The rank of the matrix in 1) is equal to the number of columns $rank(A)=n$.
