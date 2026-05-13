@@ -21,12 +21,9 @@ Ayer tackles the purpose of philosophical inquiry from the perspective of langua
 6) Examples of propositions violating the verifiability criteria
 7) Metaphysical statements that also are not a priori statement or tautology are non-sense
 8) The source of metaphysical nonsense by the grammatical construction of our sentences such that it is easy to presume the existence of the subject of a sentence when we speak of its properties
-	- Existence is not an attribute Our language makes us presume existence as an attribute along with its other properties. A proposition and therefore the existence is only significant if we can verify its attributes 
+	- Existence is not an attribute. Our language makes us presume existence as an attribute along with its other properties. A proposition and therefore the existence is only significant if we can verify its attributes 
 	- Ayer agrees with Kant that attributes imply existence. To describe existence as an attribute renders all positive existential propositions into tautologies.
 
-
-
-"a man who is readt to prove metaphsics is impossible is a brother with a rival theory of his own"
 # Terms
 - ***Verifiability in principle***
 - ******
