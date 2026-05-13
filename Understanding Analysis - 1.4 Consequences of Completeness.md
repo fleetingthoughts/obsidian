@@ -13,20 +13,19 @@ In this section, we now formalize a lot of intuition we have about the different
 3) Density of rationals on $\mathbb{R}$
 4) The existence of square roots on $\mathbb{R}$ 
 
-For the latter, the idea of no gaps is the following theorem
+The nested interval properties (NIP) is colloquially the property that the real numbers have no gaps.
 
-***Theorem 1.4.1. (The Nested Interval Property).*** For a given closed interval $I_n = [a_n, b_n]=\{x\in R: a_n \le x \le b_n\}$, with $I_n$ such that $I_1 \subseteq I_2 \subseteq I_3 ...$ then  $\cap I_n \ne \emptyset$  
+***Theorem 1.4.1. (The Nested Interval Property).*** For a given closed interval $I_n = [a_n, b_n]=\{x\in R: a_n \le x \le b_n\}$, with $I_n$ such that $I_n \subseteq I_{n-1} \subseteq \dots \subseteq I_1$ then  $\cap I_n \ne \emptyset$  
 
-This theorem means that for a closed nested interval, it must always contain the same element. Note that a closed interval is used so that we can talk about a specific element being part of the set. This can be shown by looking at the set of either the right left hand endpoints and showing that they constitute a bounded set and must have a supremum or infimum that is included in the set (i.e. it is a maximum/minimum). This particular proof shows that the point contained for any nested interval is the supremum of the set of the $\{a_n\}$ left hand points (and I'm thinking you can show this is the same as the infimum of the right hand points? Can I prove $sup(\{a_n\})=inf(\{b_n\}))$
+The NIP means that for a closed nested interval, it must always contain an element. A closed interval is required so that we can talk about a specific element being part of the set. This can be shown by looking at the set of either the right left hand endpoints and showing that they constitute a bounded set and must have a supremum or infimum that is included in the set (i.e. it is a maximum/minimum). This particular proof shows that the point contained for any nested interval is the supremum of the set of the $\{a_n\}$ left hand points (and I'm thinking you can show this is the same as the infimum of the right hand points? Can I prove $sup(\{a_n\})=inf(\{b_n\}))$
 
 Furthermore, the Nested Interval Property only applies for closed for interval, for if open intervals is used, then the intersection of an infinite nested interval is null. I can probably show that the intersection of half open nested intervals may or may not contain a number depending on <u>how its nested</u>?
-
 
 Now we look at how $N$ is infinite within $R$, namely,  the set of all natural numbers is not bounded and so has no least greater bound per the AoC:
 
 ***Theorem 1.4.2 (Archimedean property: the set of natural numbers is unbounded)***. Given any $x \in R$, there exists an $n \in N$ such that $n \gt x$. Furthermore ii) Given any real number $y \gt 0$, there exists an $n \in N$ such that $1/n \lt y$ 
 
-Essentially this theorem says that we can never find an upper bound for the set of all natural numbers and so there will never be a supremum and is trivially proven. It seems like non-sense but the idea of $R$ being an extension of $Q$ necessitates us to double check we didn't unwittingly create upper bounds for $N$ for there are ordered field extensions that actually do that. This can be proven by contradiction using Lemma 1.3.8 and using a specific case of $\epsilon$ =1 to show that no real number can be an upper bound. The proof assumes the AoC, but it also assumes that $N$ is a closed ordered field such that if an additive operation is carried out on an $n\in N$ then this $n+1$ (1 is a natural number) is still contained in $N$ 
+Essentially this theorem says that we can never find an upper bound for the set of all natural numbers and so there will never be a supremum and is trivially proven. It seems like non-sense but the idea of $R$ being an extension of $Q$ necessitates us to double check we didn't unwittingly create upper bounds for $N$ for there are ordered field extensions that actually do that. This can be proven by contradiction using Lemma 1.3.8 and using a specific case of $\epsilon$ =1 to show that no real number can be an upper bound. The proof assumes the AoC, but it also assumes that $N$ is a closed under addition meaning if an additive operation is carried out on an $n\in N$ then this $n+1$ (1 is a natural number) is still contained in $N$ 
 
 The Archimedean property also guarantees we can always construct a number smaller than any real number or find a real number larger than any given real number.
 
