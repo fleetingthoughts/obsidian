@@ -33,3 +33,11 @@ Rational numbers were described as an operation between two integers. How can we
 
 This axiom is also described by [Understanding Analysis - 1.3 The Axiom of Completeness](Understanding%20Analysis%20-%201.3%20The%20Axiom%20of%20Completeness.md). The axiom guarantees no gaps in the real axis and gives us a way to describe irrational numbers in terms of rational numbers: by a sequence of nested intervals described by rational numbers. An example of this is demonstrated in 1.1c, where the decimal base system of a number $x$ that is contained within a closed interval say $c_0 \le x \le c_0+1$ where $c_0$ is a rational number. And then this interval is subdivided into 10 parts ($c_0 +1/10, c_0+2/10,..., c_0+9/10$). Then the subinterval containing $x$ say $c_1+c_{1}/10 \le x \le c_0+c_1/10+1/10$  where $c_1$ is a number 0-9 is further subdivided $n$ times until: $$c_o +\frac{c_1}{10^1} +...+\frac{c_n}{10+n} \le x \le c_o +\frac{c_1}{10^1} +...+\frac{c_n}{10^n} +\frac{1}{10^n}$$
 This is effectively what is meant by the "decimal base system". In fact we can carry out this process not subdivision of 10 equal parts, but by divisions of 2 or 3 for a base 2 or base 3 representation of $x$. This representation of $x$ does create ambiguity for rational numbers that can lie on an actual endpoint of one of the sub intervals. Say for example 0.3. By our process, for a choice of $c_0=0$ (and a similar situation arises for the choice of any $c_0$), the number 0.3 lies in $[0.2,0.3]$ and $[0.3,0.4]$. if we choose the former interval, we find the representation of 0.3 =0.2999...., the latter results in 0.30000. The author's solution is to simply exclude decimal representations of terminating in infinite 9's.
+
+# Summary of computations
+The chapter is most potent in providing us the following tricks:
+1) Inequalities
+	1) Use the fact the square of any number is greater than or equal to 0 to prove the inequality
+	2) The geometric mean is always less than the arithmetic mean
+	3) The Cauchy-Schwarz inequality
+	4) Try eliminating an absolute value operator by squaring it
