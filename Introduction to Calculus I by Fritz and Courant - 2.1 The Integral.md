@@ -20,11 +20,11 @@ We start with some familiar properties of area that we take for granted and are 
 - An area can be exhaustively decomposed into small rectangles ad infinitum.
 
 The first part of the chapter is a geometric approach to calculate the area that results in an infinite series. This limit is defined as the Riemann integral and the existence of the limit as a finite value is stated as a theorem whose proof is left to the Supplement.
-***Definition of the Riemann integral.*** Given a function $f(x)$ defined on a closed interval $[a,b]$, with a partition $P_{n}=\{x_1,...,x_n\}$ and a choice of intermediate points $\eta_i$ within each subinterval. The integral is defined as the limit of the Riemann sum $S$: $$\lim_{ n \to \infty } S(f,\eta_{i},P_{n})=\lim_{ n \to \infty }\sum_{i=1}^{n}f(\eta_{i})\triangle x_{i}$$
-Where $\triangle x_i$ is the length of $n$ subintervals of $[a,b]$ and $\eta_i$ is a point in each corresponding subinterval. The Riemann sum is a function of three things:
+***Definition of the Riemann integral.*** Given a function $f(x)$ defined on a closed interval $[a,b]$, with a partition $P=\{x_1,...,x_n\}$ and a choice of intermediate points $\eta_i$ within each subinterval. The integral is defined as the limit of the Riemann sum $S$: $$\lim_{ n \to \infty } S(f,\eta_{i},P_{n})=\lim_{ n \to \infty }\sum_{i=1}^{n}f(\eta_{i})\triangle x_{i}$$
+Where $\triangle x_i$ is the length of the $i$th subintervals of $[a,b]$ and $\eta_i$ is a point in each corresponding subinterval. The Riemann sum is a function of three things:
 1) The function $f(x)$ to be integrated
 2) The choice of partition $P_n$
-3) The choice of intermediate points $\eta_i$ within each partition.
+3) The choice of intermediate points $\eta_i$ within each subinterval of the partition.
 
 ***Theorem on the existence of the integral as a limit (p. 125).*** For any continuous function $f(x)$, in a closed interval $[a,b]$, the integral over this interval exists as a limit independently of the choice of subdivision or choice of intermediate points in the subinterval as long as the largest subinterval length tends to 0.
 
