@@ -18,7 +18,7 @@ The chapter contains a review of the basic concepts for real analysis. The autho
 - Properties of inequalities
 	- absolute value in inequalities
 	- triangle inequality
-	- [Cauchy-Schwartz Inequality](Cauchy-Schwartz%20Inequality.md)
+	- [Cauchy-Schwarz Inequality](Cauchy-Schwartz%20Inequality.md)
 
 Rational number are in the form $p/q$ where $p$ and $q\ne 0$ are integers. Further more, the rational operations (addition, multiplication, subtraction and division) are closed within the rational numbers, that is, any operation between rational numbers will produce rational numbers. This is not the case with natural numbers as $1-2=-1$  is not a natural number.
 
@@ -27,7 +27,7 @@ $$x\lt \frac{m}{n} \lt y$$
 
 ***Definition of Commensurability:*** Two quantities $a$ and $b$ are commensurable if $\frac{a}{b}$ is a rational number. 
 
-Rational numbers were described as an operation between two integers. How can we describe rational numbers? We describe rational numbers by the Postulate of Nested Intervals
+Rational numbers were described as an operation between two integers. How can we describe reals? We describe reals by the Postulate of Nested Intervals
 
 ***Axiom: Postulate of Nested Intervals (Axiom of Continuity)***. If $I_1, I_2, I_3, ...$ form a nested sequence of intervals with rational end points, there is a point $x$ that is contained in all $I_n$ 
 
