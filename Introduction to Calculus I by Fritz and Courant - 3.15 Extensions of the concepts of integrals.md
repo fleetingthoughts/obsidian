@@ -22,7 +22,22 @@ The strategy of using the integral to represent a wide class of functions was ad
 	2) The Dirichlet integral. The reason for its convergence and absolute divergence
 	3) Fresnel integrals
 
+The Riemann integral is defined over a closed interval where the integrand is well-defined, and we are motivated to determine the effects of extending the definition to open intervals or a finite number of undefined points. Geometric intuition and appeal to area shows that the Riemann integral can have a value for areas with finite discontinuities, but a rigorous proof requires measure theory that is beyond the scope of this book so we take it for granted that it is possible. We propose a definition of the integral with an interval of integration with finite discontinuities or undefined points, show that this definition is consistent with the definition of the Riemann integral with arbitrarily defined endpoints. We take for granted from measure theory that this Riemann integral with arbitrary endpoints is consistent with the value of the Riemann integral of finite discontinuities, we then show our definition is consistent with the Riemann integral.
 
+The improper integral $F$ over the open interval $(a,b)$ is defined by a sequence of its limits of integration that approach $a$ and $b$:  $$F=\lim_{ \epsilon \to 0}\int^{\beta_{\epsilon}}_{\alpha_{\epsilon}}f(x)dx \text{\quad; } \lim_{ \epsilon \to 0 } a_{\epsilon}=a; \text{\quad} \lim_{ \epsilon \to 0}b_{\epsilon}  $$ The improper integral is said to converge to $F$ as $\epsilon \to 0$ and is independent of the particular choice of $\alpha_{\epsilon}$ and $\beta_{\epsilon}$. 
+
+The definition treats the integral of an open interval as the limit of a sequence of proper integrals integrated over a closed interval. It is proven by Cauchy's convergence test that the improper integral converges if we have the following:
+- The integrand $f(x)$ is continuous in $(a,b)$.
+- The integrand is bounded such that $|f(x)| \le M$
+
+It is known that the Riemann integral exists if the integrand is continuous and the invariant to whatever we choose for $f(a)$ and $f(b)$. This Riemann integral with arbitrarily defined endpoints can be shown to have the same value as our improper integral, and so our definition is consistent with the definition of the Riemann integral and its results.
+
+While the improper integral exists over an open interval if the integrand is bounded and continuous in an open interval, we look at the conditions for the integral to converge under two different scenarios:
+1) The integrand becomes infinite in the open interval that has a finite length
+2) Integration over an interval of infinite length
+Our test for each is as follows:
+- For 1), the integral converges if the integrand becomes infinite of a lower order than the first: $$|f(x)| \le \frac{M}{(b-x)^{\mu}} \text{\quad for }\mu<1 $$
+- The integral vanishes at infinity to a higher order than the first: $$|f(x)|\le \frac{M}{x^v} \text{\quad for }v>1$$
 
 
 - The values at the endpoints do not matter and the limit of the integral function and the Riemann sum yield the same value independent of actual value at the endpoints.
