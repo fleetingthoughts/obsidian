@@ -16,12 +16,12 @@ From the definition, we can also show what kind of operations we can perform on 
 
 A closed set is a set that contains all its limit points so we need to define a limit point and how to identify them. 
 - ***Definition 3.2.4*** defines a limit point with respect to a set $A$ as a point that can be made infinitely close to $A$ in the sense that every neighborhood of the limit point has a non-empty intersection with $A$. 
-- ***Theorem 3.2.5*** is an equivalence statement showing how we can identify a limit point of a set by showing that we have at least one sequence $(a_n)$ in $A$ that converges to the limit point and <u>the limit point is not contained in the sequence.</u> The limit of a sequence in $A$ is logically equivalent to a limit point.
-A nuance we note in ***Theorem 3.2.5***  is that in identify limit points, we have to show there is a sequence $(a_n)$<u> that does not have the limit point in the sequence </u>with the limit point $a$ as a limit. If we allowed the limit point to be in the sequence, then our theorem becomes uninteresting because we can always construct the sequence of just the limit point $(a,a,a.,...)$ and it trivially converges. 
+- ***Theorem 3.2.5*** is an equivalence statement showing how we can identify a limit point of a set by showing that we have at least one sequence $(a_n)$ in $A$ that converges to the limit point without containing the limit point. The limit of a sequence in $A$ is logically equivalent to a limit point.
+In ***Theorem 3.2.5***  we did not allow the limit point to be included in the constructed convergent sequence. If we allowed the limit point to be in the sequence, then our theorem becomes uninteresting because we can always construct the sequence of just the limit point $(a,a,a.,...)$ and it trivially converges. 
 
-By setting the requirement that we need to find a sequence not containing the limit point, we can distinguish isolated points from limit points. As defined in ***Definition 3.2.6***, isolated points are always contained in the set, but a limit point doesn't have to be. This is a binary definition in the sense that for all points in a set $A$, it is either closed or isolated. There is no third option. Therefore to prove a point is isolated is to prove it is not a limit point and vice versa.
+By setting the requirement that we need to find a sequence not containing the limit point, we can distinguish isolated points from limit points. ***Definition 3.2.6*** defines isolated points as always contained in the set, but a limit point doesn't have to be. This is a binary definition so that for all points in a set $A$, it is either a limit point or isolated. There is no third option. Therefore to prove a point is isolated is to prove it is not a limit point and vice versa.
 
-Closed sets end up playing an important role and so we look at the operation of closing a set by the union with its limit point. Note that ***Definition 3.2.11*** for the closure of a set only defines an operation and despite its no name, it doesn't guarantee that the resulting union is a closed set, but ***Theorem 3.2.12*** assures us this operation produces a closed set and is actually the smallest closed set containing the original open set.
+Closed sets end up playing an important role and so we look at the operation of closing a set by the union with its limit point. ***Definition 3.2.11*** defines the closure of a set by an operation, it doesn't guarantee that the resulting union is a closed set by itself. ***Theorem 3.2.12*** assures us this operation produces a closed set and is actually the smallest closed set containing the original open set.
 
 To conclude, Abbott provides additional tools to identify whether a set is open or closed by looking at its complement:
 - ***Theorem 3.2.13*** lets us identify whether a set is open or closed by looking at the complement of the set.
@@ -32,20 +32,20 @@ The last point is formalized in ***Theorem 3.2.14*** and combines  ***Theorem 3.
 
 
 # Summary of computational or proof based aspects of this chapter
-To prove a set is an open set:
-- Prove straight from definition by showing any arbitrary point will have at least 1 neighborhood contained in the set
-- Show the set is a union of an infinite or finite collection of open sets or an intersection of a finite number of open sets
-- Prove the complement of the set is closed
+1) ***To prove a set is an open set***:
+	- Prove straight from definition by showing any arbitrary point will have at least 1 neighborhood contained in the set
+	- Show the set is a union of an infinite or finite collection of open sets or an intersection of a finite number of open sets
+	- Prove the complement of the set is closed
 
-To prove a set is a closed set:
-- Show it is a union of a finite collection of closed sets or the intersection of an infinite or finite number of closed sets.
-- Show that any sequence inside the set converges to a limit that is inside the set as well. Note that any finite sequence is trivially contained in the set so we look at infinite sequences instead (if any).
-- Show that every Cauchy sequence in the set has a limit that is an element in the set.
-- If the complement of the set is open
+2) ***To prove a set is a closed set***:
+	- Show it is a union of a finite collection of closed sets or the intersection of an infinite or finite number of closed sets.
+	- Show that any sequence inside the set converges to a limit that is inside the set as well. Note that any finite sequence is trivially contained in the set so we look at infinite sequences instead (if any).
+	- Show that every Cauchy sequence in the set has a limit that is an element in the set.
+	- If the complement of the set is open
 
 # Summary of concepts and nuances
 - All open sets in $\mathbb{R}$ will look like some open interval of $\mathbb{R}$ or is just the reals itself.
-- A closed set can be closed by virtue of containing no limit points. It becomes [vacuously true](The%20Empty%20Set%20and%20Vacuous%20Truths.md) that it is empty
+- A closed set can be closed by virtue of containing no limit points. It becomes a [vacuous truth](The%20Empty%20Set%20and%20Vacuous%20Truths.md)
 - To identify a closed set, you just have to show that there exists at least one sequence in the set that converges to a limit. So if your set is defined as a sequence itself, you need to check if the subsequence converges. By Bolzano-Weierstrass, any bounded sequence will have a convergent subsequence, so all bounded sequences will have limit points.
 
 # Review concepts used as preliminaries
