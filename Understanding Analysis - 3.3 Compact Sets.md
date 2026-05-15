@@ -6,14 +6,15 @@ tags:
 date_created: 2026-03-16
 parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
 ---
-Continuing our discussion on sets, we describe a property that will be used to ascribe a concrete analytical way to describe concepts related to mathematical infinity (e.g. limits, derivatives, integrals). The property developed and the focus of the chapter will be the compact set, but this property will be shown to be equivalent to other properties. The chapter will proceed as follows:
-- Definition of compact sets
-- Definition of bounded sets and equivalency condition with compactness in $\mathbb{R}$. 
-- Alternative way to describe compactness with "open covers" and "finite subcovers".
-- The equivalency of all three properties (Heine-Borel Theorem).
+In addition to openness and closedness of a set, we will look at the properties of compactness that will be used as a analytical way to describe concepts related to mathematical infinity (e.g. limits, derivatives, integrals). The property developed and the focus of the chapter will be the compact set, but this property will be shown to be equivalent to other properties. The chapter will proceed as follows:
+1) Definition of compact sets
+2) Definition of bounded sets.
+3) A bounded and closed set is equivalent to a compact set in $\mathbb{R}$. Compact sets are a subset of closed sets.
+4) Alternative way to describe compactness with "open covers" and "finite subcovers".
+5) The equivalency of all three properties summarized in the Heine-Borel Theorem.
 It should be noted the chapter will focus on sets with elements in $\mathbb{R}$ and so all the sets discussed will be subsets of $\mathbb{R}$. So then for any set $A$, we have $A \cup A^c=\mathbb{R}$
 # Definition of compactness and the 1st equivalency condition
-***Definition 3.3.1*** defines compactness as a set that has all its sequences contained in it converging to a limit that is also in the set. By the definition, the two main criteria to check for compactness are:
+***Definition 3.3.1*** defines compactness as a set that has all its sequences contained in it converging to a limit that is also in the set. By the definition, the two main criteria to check for compactness are the following:
 1) EVERY sequence has a subsequence that converges (not necessarily to the same limit)
 2) the limit of all the convergent sequences are contained in the set.
 The most basic example of a compact set is the closed interval as boundedness guarantees convergence by the Boltzmann-Weierstrass theorem and the fact that its a closed set means it contains its limit points. It can be shown that these properties in general guarantee and are a equivalency condition to compactness. 
