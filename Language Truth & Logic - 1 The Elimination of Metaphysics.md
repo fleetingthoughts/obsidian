@@ -17,9 +17,9 @@ Ayer tackles the purpose of philosophical inquiry from the perspective of langua
 5) Ayer distinguishes the kind of verificationism needed to make a statement significant
 	- ***Practical verification vs verifiability in principle.*** Ayer favors verifiability in principle
 	- ***Strong vs weak verification.*** Strong verification is too stringent that would render every statement insignificant
-	- ***Strength of refutability***
+	- ***Refutability of propositions.*** Propositions cannot be adamantly refuted either.
 6) Examples of propositions violating the verifiability criteria
-7) Metaphysical statements that also are not a priori statement or tautology are non-sense
+7) ***Clarification on the essence of metaphysics that is faulty.*** Metaphysical statements that are a priori or analytic are legitimate analytic propositions, but metaphysical statements that claim a synthetic truth are nonsense.
 8) The source of metaphysical nonsense by the grammatical construction of our sentences such that it is easy to presume the existence of the subject of a sentence when we speak of its properties
 	- Existence is not an attribute. Our language makes us presume existence as an attribute along with its other properties. A proposition and therefore the existence is only significant if we can verify its attributes 
 	- Ayer agrees with Kant that attributes imply existence. To describe existence as an attribute renders all positive existential propositions into tautologies.
@@ -27,7 +27,7 @@ Ayer tackles the purpose of philosophical inquiry from the perspective of langua
 
 # The foil used to distinguish logical positivism: the nonsensical philosophy of metaphysics
 
-# Defining the verifiability criteria as the central dogma of logical positivism
+# Logical Positivism is a criteria of language.
 
 # Weaponizing the verifiability criteria to futher criticize metaphysics and explain how nonsense arises linguistically.
 

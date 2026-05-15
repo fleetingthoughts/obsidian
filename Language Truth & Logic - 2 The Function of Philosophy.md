@@ -10,7 +10,6 @@ parent: "[[Language Truth & Logic]]"
 1) The purpose of philosophy is not to construct a deductive system with a priori
 	- Descartes' attempt at a deductive system "cogito ergo sum" and counterarguments by Hume
 	- No a prior can be a synthetic statement so any attempts at a deductive system results in analytic tautologies. We assume we cannot say something about the universe with tautologies.
-	
 2) Philosophy should be interested in science but it does not operate in parallel to science as a some special non-empirical inquiry.
 3) Philosophy does not attempt to solve Hume's problem of induction. The two ways to approach the problem of induction do not work so the only fruitful strategy is to abandon it completely:
 	- ***Epistemic Regress/ Hume's Dilemma.*** Attempting to determine a priori that derives induction such as a "uniformity of nature" only shifts the problem to that a priori. 
