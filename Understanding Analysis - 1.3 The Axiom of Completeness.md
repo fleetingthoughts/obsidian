@@ -7,11 +7,11 @@ date_created:
 ---
 
 
-We assume that $\mathbb{R}$ is an ordered field which contains $\mathbb{Q}$ as a subfield (explored in section 8). This lets us perform the basic algebraic and inequality math on any elements within the set. We now formulate the Axiom of Completeness (AoC)
+We assume that $\mathbb{R}$ is an ordered field which contains $\mathbb{Q}$ as a subfield (explored in section 8). This lets us perform the basic algebraic and inequality math on any elements within the set. We now formulate the Axiom of Completeness (AoC).
 
 ***Axiom of Completeness***. **Every nonempty set of real numbers that is bounded has a least upper bound**
 
-To develop some understanding of this. We first need to understand what the least upper bound is which is also referred to as the supremum:
+To develop some understanding of this, we first need to understand what the least upper bound is which is also referred to as the supremum:
 
 ***Definition 1.3.1***. A set $A$ $\subseteq$ $\mathbb{R}$ is bounded above if there exists a number $b$ $\in$ $\mathbb{R}$ such that $a\le b$ for all $a \in A$ . The number $b$ is called an upper bound for $A$. 
 
@@ -35,14 +35,13 @@ The AoC axiom and the algebraic manipulation of the $\mathbb{R}$ field lets us p
 
 Note that nowhere in AoC do we postulate the existence of an infimum. All we need is the definition of an infimum, assume the existence of the supremum and apply the property of multiplication by constant on the supremum to produce the infimum.
 
-Property 2) of Definition 1.3.2 of the supremum can be reformulated as this lemma:
+Property 2) of ***Definition 1.3.2*** can be reformulated equivalently as the following lemma:
 
 ***Lemma 1.3.8***. Assume $s\in \mathbb{R}$ is an upper bound for $A\in \mathbb{R}$ then $s=sup(A)$ if and only if for any arbitrary $\epsilon \gt0$, there exists an element $a\in A$ such that $a \gt s-\epsilon$ .^e12bd5
 
-Colloquially, this is saying that the least upper bound is a special bound such that any infinitesimally small amount subtracted away from it will result in it no longer bein an upper bound at all. 
+Colloquially, this is saying that the least upper bound is a special bound such that any infinitesimally small amount subtracted away from it will result in it no longer being an upper bound at all. 
 
-Note that the lemma calls for any arbitrary epsilon and that $A$ has to be in the real for the supremum to exist. The proof can be done by proving the forward (if $s=sup(A)$ then $s-\epsilon$  is no longer an upper bound) and converse direction (if s is an upper bound such that any $s-\epsilon$ makes it no longer an upper bound then it must be the supremum by satisfying property 2 of definition 1.3.2) as it is a logical equivalent if and only if statement. Also it is for any arbitrary $\epsilon$ and we may choose specific values for proof by specific counterexample choice of $\epsilon$ 
-
+The lemma calls for any arbitrary epsilon and that $A$ has to be in the real for the supremum to exist. The proof can be done by proving the forward (if $s=sup(A)$ then $s-\epsilon$  is no longer an upper bound) and converse direction (if s is an upper bound such that any $s-\epsilon$ makes it no longer an upper bound then it must be the supremum by satisfying property 2 of definition 1.3.2) as it is a logical equivalent if and only if statement. Also it is for any arbitrary $\epsilon$ and we may choose specific values for proof by specific counterexample choice of $\epsilon$ 
 # Definition
 
 ***Definition (Axiom of Completeness).*** Every nonempty set of bounded real numbers has a least upper bound
@@ -55,5 +54,4 @@ Note that the lemma calls for any arbitrary epsilon and that $A$ has to be in th
 
 
 # Theorems
-
 ***Lemma 1.3.8.*** Given an upper bound $s$ of a set $A \subseteq R$, then $s=sup(A)$ if and only if for any arbitrary $\epsilon >0$, there exists an element $a\in A$ such that $s-\epsilon < a$.

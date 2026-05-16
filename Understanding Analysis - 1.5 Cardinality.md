@@ -7,16 +7,15 @@ tags:
   - real_analysis
 date_created:
 ---
-
-We explore the big brain of Georg Cantor who found a way to compare infinities and show how some infinities are larger than others. In this section we develop the following:
-- A method and definition to compare the "size" of a set to another set
-- Use this method to show that $\mathbb{N}$ is the same "size" as $\mathbb{Z},\mathbb{Q}$ but $\mathbb{R}$ is "larger" than $\mathbb{N}$ which implies that there are way more irrational numbers than rational numbers
+The final consequence of the AoC is the type of infinity it produces in the real numbers. We explore the work of Georg Cantor and show how the size of infinite sets can be compared. In this section we develop the following:
+1) A method and definition to compare the "size" of a set to another set by cardinality.
+2) Use the method of 1) to show that $\mathbb{N}$ is the same "size" as $\mathbb{Z}$ and $\mathbb{Q}$,  but $\mathbb{R}$ is "larger" than $\mathbb{N}$ which implies that there are way more irrational numbers than rational numbers.
 
 We use the idea of a function's 1-1 mapping to compare the size of a set by saying that a set can be thought of as equal "size" to another set if there exists a function such that every element in that set can be mapped out. 
 
-We first define the tools we will use.
-
-***Definition 1.5.1.*** a function $f: A\to B$ has a one-to-one (1-1, injective)  if $a_1\ne a_2$ then $f(a_1) \ne f(a_2)$. The function is "onto" (surjective) if for every $b \in B$ there exists an $a \in A$ such that $f(a) = b$ 
+We first define the tools we will use in ***Definition 1.5.1.***  Given a function $f: A\to B$ , the following is defined
+1) The function is one-to-one (1-1, injective)  if $a_1\ne a_2$ then $f(a_1) \ne f(a_2)$. 
+2) The function is "onto" (surjective) if for every $b \in B$ there exists an $a \in A$ such that $f(a) = b$ 
 
 A function being [1-1](Surjectivity,%20Injectivity,%20and%20Bijectivity.md) means that if an element in $B$ is mapped, then precisely only one unique $a$ gets mapped by it. Every value in the domain gets its own unique value in the range and no two values in the domain map to the same range value. And [onto](Surjectivity,%20Injectivity,%20and%20Bijectivity.md)] means that the image of the function contains all of $B$. This is also called a surjective function and the implication is that EVERY element of  $B$ is being mapped. The set containing being mapped to, $B$, is called the codomain, and the elements in $B$ that are actually mapped are referred to as the  $image$ of the function, so for a surjective function, the entire codomain $B$ basically becomes the image. 
 
@@ -37,14 +36,38 @@ The important examples to put cardinality in action is to compare the size of $N
 $f(n)= (n-1)/2$   if $n$ is odd
 $f(n) =-n/2$         if n is even
 
-The book doesn't prove that this function is 1-1 and onto so just take it for granted that $\mathbb{N} \sim \mathbb{Z}$ . The wild thing is that we can map $\mathbb{N}$ to $Q$ as well. 
+The book doesn't prove that this function is 1-1 and onto so just take it for granted that $\mathbb{N} \sim \mathbb{Z}$ . The wild thing is that we can map $\mathbb{N}$ to $\mathbb{Q}$ as well. 
 
-A set being a similar size to $N$ is a special property that we give a definition
+A set being a similar size to $\mathbb{N}$ is a special property that we give a definition
+
+***Definition 1.5.5***. Countable. A set $A$ is countable if the set of natural numbers $\mathbb{N}$ is $\mathbb{N}\sim A$ .
+
+We now prove by contradiction that the set of real numbers is NOT countable. Showing this gives some formal mathematical framework to show that the infinitely big set of real numbers is more than the infinitely big set of natural numbers. This proof is done by assuming we have a function that somehow maps 1-1 and onto the real numbers but that this set of real numbers does not satisfy the AoC namely the nested interval property by producing a counter example of a infinitely nested closed set that cannot contain any elements. The nested interval property is for any arbitrary set of nested closed intervals, but we'll invoke a specific case of nested intervals as a specific counterexample of the property not being satisfied and so it violates the AoC.
+
+# Summary of concepts and nuances
+- All closed or open interval of real numbers have the same cardinality even if their lengths are different
+# Summary of proof strategies
+- ***Prove a set is countable.*** To prove a set is countable, we can demonstrate the following:
+	1) $\exists$  a bijective function that maps a domain in $\mathbb{N}$ to the set
+	2) The set is a union of countable sets
+	3) The set is a subset of a countable set
+
+# Concepts from exercises
+
+# Definitions
+
+***Definition 1.5.1.*** a function $f: A\to B$ has a one-to-one (1-1, injective)  if $a_1\ne a_2$ then $f(a_1) \ne f(a_2)$. The function is "onto" (surjective) if for every $b \in B$ there exists an $a \in A$ such that $f(a) = b$ 
+
+***Definition 1.5.2 Cardinality.*** A set $A$ has the same cardinality as a set $B$ if there exists a function $f: A\to B$ that is 1-1 and onto. This is denoted $A\sim B$ 
 
 ***Definition 1.5.5***. Countable. A set $A$ is countable if the set of natural numbers $N$ is $N\sim A$ .
 
-We now prove by contradiction that the set of real numbers is NOT countable. Showing this gives some formal mathematical framework to show that the infinitely big set of real numbers is more than the infinitely big set of natural numbers. This proof is done by assuming we have a function that somehow maps 1-1 and onto the real numbers but that this set of real numbers does not satisfy the AoC namely the nested interval property. The nested interval property is for any arbitrary set of nested intervals, but we'll invoke a specific case of nested intervals as a specific counterexample of the property not being satisfied and so it violates the AoC.
+# Theorems
 
+***Theorem 1.5.6 (The Rationals are countable and the reals are uncountable)***
 
+***Theorem 1.5.7 (The subset of a countable set is also countable or finite).***
+
+***Theorem 1.5.8 (Countability is preserved under union).***
 
 
