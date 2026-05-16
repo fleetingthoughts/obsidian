@@ -54,6 +54,7 @@ We now prove by contradiction that the set of real numbers is NOT countable. Sho
 	3) The set is a subset of a countable set
 
 # Concepts from exercises
+***Exercise 1.5.1 (Application of the well-ordering principle).*** The well-ordering principle and the logically equivalent principle of induction is an defined property of natural numbers only and certain subsets of the natural numbers, but It does not apply to countable sets in general. The well-ordering principle does not apply to integers for instance.
 
 # Definitions
 
