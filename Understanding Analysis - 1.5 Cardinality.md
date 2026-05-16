@@ -55,8 +55,11 @@ We now prove by contradiction that the set of real numbers is NOT countable. Sho
 - ***Finite sets are not countable.*** Countability is defined by the ability for a function to map bijectively from the entire domain of $\mathbb{N}$. If the set is finite, then at some point, we run out of points to keep mapping from $\mathbb{N}$.
 
 # Concepts from exercises
+- The majority of the exercises practices proof by construction involving creativity in the way we construct our sets. This includes:
+	- Using existence theorems or properties like the Archimedean property and the well-ordering principle to guarantee the ability to construct or find a certain number
 - ***Exercise 1.5.1 (Application of the well-ordering principle).*** The well-ordering principle and the logically equivalent principle of induction is an defined property of natural numbers only and certain subsets of the natural numbers, but It does not apply to countable sets in general. The well-ordering principle does not apply to integers for instance.
 - ***Exercise 1.5.2 (The NIP does not apply to $\mathbb{Q}$).*** You can construct closed intervals centered around a irrational number so that no rational numbers is contained in it.
+- ***Exercise 1.5.3
 
 
 # Definitions
