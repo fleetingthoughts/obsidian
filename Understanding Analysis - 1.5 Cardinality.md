@@ -7,7 +7,7 @@ tags:
   - real_analysis
 date_created:
 ---
-The final consequence of the AoC is the type of infinity it produces in the real numbers. We explore the work of Georg Cantor and show how the size of infinite sets can be compared. In this section we develop the following:
+The final consequence of the AoC is the size of infinity it produces in the real numbers. We explore the work of Georg Cantor and show how the size of infinite sets can be compared. In this section we develop the following:
 1) A method and definition to compare the "size" of a set to another set by cardinality.
 2) Use the method of 1) to show that $\mathbb{N}$ is the same "size" as $\mathbb{Z}$ and $\mathbb{Q}$,  but $\mathbb{R}$ is "larger" than $\mathbb{N}$ which implies that there are way more irrational numbers than rational numbers.
 
@@ -17,7 +17,7 @@ We first define the tools we will use in ***Definition 1.5.1.***  Given a functi
 1) The function is one-to-one (1-1, injective)  if $a_1\ne a_2$ then $f(a_1) \ne f(a_2)$. 
 2) The function is "onto" (surjective) if for every $b \in B$ there exists an $a \in A$ such that $f(a) = b$ 
 
-A function being [1-1](Surjectivity,%20Injectivity,%20and%20Bijectivity.md) means that if an element in $B$ is mapped, then precisely only one unique $a$ gets mapped by it. Every value in the domain gets its own unique value in the range and no two values in the domain map to the same range value. And [onto](Surjectivity,%20Injectivity,%20and%20Bijectivity.md)] means that the image of the function contains all of $B$. This is also called a surjective function and the implication is that EVERY element of  $B$ is being mapped. The set containing being mapped to, $B$, is called the codomain, and the elements in $B$ that are actually mapped are referred to as the  $image$ of the function, so for a surjective function, the entire codomain $B$ basically becomes the image. 
+ If an element in $B$ is mapped by a [1-1](Surjectivity,%20Injectivity,%20and%20Bijectivity.md) function, then precisely one unique $a$ gets mapped to it. Every value in the domain gets its own unique value in the range and no two values in the domain map to the same range value. And [onto](Surjectivity,%20Injectivity,%20and%20Bijectivity.md) means that the image of the function contains all of $B$. This is also called a surjective function and the implication is that EVERY element of  $B$ is being mapped. The set containing being mapped to, $B$, is called the codomain, and the elements in $B$ that are actually mapped are referred to as the  $image$ of the function, so for a surjective function, the entire codomain $B$ basically becomes the image.
 
 If a function $f: A\to B$  is 1-1 and onto (surjective and injective) then it is bijective. This implies that the function $f$ is invertible such that there exists another function $f^{-1}$ such that $f^{-1}: B \to A$ 
 
@@ -46,6 +46,7 @@ We now prove by contradiction that the set of real numbers is NOT countable. Sho
 
 # Summary of concepts and nuances
 - All closed or open interval of real numbers have the same cardinality even if their lengths are different
+- ***The set of irrationals is "more infinite" than $\mathbb{Q}$ .*** The set of reals is defined as the union of the rationals and the irrationals. Since the union of countable sets is countable and $\mathbb{Q}$ is countable, the set of irrational numbers is uncountable and a larger cardinality than the rationals. 
 # Summary of proof strategies
 - ***Prove a set is countable.*** To prove a set is countable, we can demonstrate the following:
 	1) $\exists$  a bijective function that maps a domain in $\mathbb{N}$ to the set
