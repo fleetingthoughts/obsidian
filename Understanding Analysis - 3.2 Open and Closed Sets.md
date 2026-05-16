@@ -32,16 +32,16 @@ The last point is formalized in ***Theorem 3.2.14*** and combines  ***Theorem 3.
 
 
 # Summary of computational or proof based aspects of this chapter
-1) ***To prove a set is an open set***:
-	- Prove straight from definition by showing any arbitrary point will have at least 1 neighborhood contained in the set
-	- Show the set is a union of an infinite or finite collection of open sets or an intersection of a finite number of open sets
-	- Prove the complement of the set is closed
+1) ***A set is an open set if any of the following is proven***:
+	- Any arbitrary point in the set will have at least 1 neighborhood contained in the set.
+	- The is a union of an infinite or finite collection of open sets or an intersection of a finite number of open sets
+	- the complement of the set is closed
 
-2) ***To prove a set is a closed set***:
-	- Show it is a union of a finite collection of closed sets or the intersection of an infinite or finite number of closed sets.
-	- Show that any sequence inside the set converges to a limit that is inside the set as well. Note that any finite sequence is trivially contained in the set so we look at infinite sequences instead (if any).
-	- Show that every Cauchy sequence in the set has a limit that is an element in the set.
-	- If the complement of the set is open
+2) ***A set is a closed set if any of the following is proven***:
+	- Prove the set is a union of a finite collection of closed sets or the intersection of an infinite or finite number of closed sets.
+	- Any sequence inside the set converges to a limit that is inside the set as well. Note that any finite sequence is trivially contained in the set so we look at infinite sequences instead (if any).
+	- Every Cauchy sequence in the set has a limit that is an element in the set.
+	- The complement of the set is open
 
 # Summary of concepts and nuances
 - All open sets in $\mathbb{R}$ will look like some open interval of $\mathbb{R}$ or is just the reals itself.

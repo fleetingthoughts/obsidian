@@ -14,8 +14,8 @@ In addition to openness and closedness of a set, we will look at the properties 
 5) The equivalency of all three properties summarized in the Heine-Borel Theorem.
 It should be noted the chapter will focus on sets with elements in $\mathbb{R}$ and so all the sets discussed will be subsets of $\mathbb{R}$. So then for any set $A$, we have $A \cup A^c=\mathbb{R}$
 # Definition of compactness and the 1st equivalency condition
-***Definition 3.3.1*** defines compactness as a set that has all its sequences contained in it converging to a limit that is also in the set. By the definition, the two main criteria to check for compactness are the following:
-1) EVERY sequence has a subsequence that converges (not necessarily to the same limit)
+***Definition 3.3.1*** defines compactness as a set where all the sequences contained in the set converge to a limit that is also in the set. By the definition, the two main criteria to check for compactness are the following:
+1) Every sequence has a subsequence that converges (not necessarily to the same limit)
 2) the limit of all the convergent sequences are contained in the set.
 The most basic example of a compact set is the closed interval as boundedness guarantees convergence by the Boltzmann-Weierstrass theorem and the fact that its a closed set means it contains its limit points. It can be shown that these properties in general guarantee and are a equivalency condition to compactness. 
 
@@ -24,7 +24,7 @@ The advantage in defining the compact set as a stronger closed set (i.e. with th
 ***Theorem 3.3.4.*** shows that compactness is equivalent to a set that has the following 2 properties:
 - The set is bounded
 - The set is closed
-The relationship between compactness and closed sets is made clear by ***Theorem 3.3.4.*** which shows a compact set in $\mathbb{R}$ is equivalent to a closed interval. The equivalency between the two can be demonstrated by showing that a property closed intervals have in $\mathbb{R}$ is also shared by compact sets. ***Theorem 3.3.5 (The nested compact sets property)*** demonstrates that compact sets also have a "nested interval property" exhibited by closed intervals (again both the set and intervals are in the real). The NIP shows how compact sets or closed intervals can contain infinite number of elements [but the nature of their infinities have constraints](The%20constraints%20on%20the%20infinity%20with%20a%20compact%20set%20and%20closed%20intervals%20by%20guaranteeing%20the%20existence%20of%20a%20number.md)
+The relationship between compact sets and closed sets is clear by ***Theorem 3.3.4.*** where a compact set in $\mathbb{R}$ is equivalent to a closed interval. The equivalency between the two can be demonstrated by showing that a property closed intervals have in $\mathbb{R}$ is also shared by compact sets. ***Theorem 3.3.5 (The nested compact sets property)*** demonstrates that compact sets also have a "nested interval property" exhibited by closed intervals (again both the set and intervals are in the real). The NIP shows how compact sets or closed intervals can contain infinite number of elements [but the nature of their infinities have constraints](The%20constraints%20on%20the%20infinity%20with%20a%20compact%20set%20and%20closed%20intervals%20by%20guaranteeing%20the%20existence%20of%20a%20number.md)
 # Definition of open covers and finite subcovers and the 2nd equivalency condition to compactness
 The equivalency between compact sets and sets that are bounded and closed demonstrates that we could've defined bounded and closed sets first and show the exhibit the property of compactness, namely: "bounded and closed sets have a convergent subsequences with their limits in the set." We now describe a second set of properties that are also equivalent to compactness
 
@@ -37,6 +37,7 @@ Now armed with this 3rd property of open sets  and finite subcovers, we establis
 - A compact set
 - A set that is closed and bounded
 - Every open cover of the set has a finite subcover.
+
 # Definitions 
 ***Definition 3.3.1 (Compactness).*** A set $K \subseteq \mathbb{R}$ is called "compact" if every sequence in $K$ has a subsequence that converges to a limit that is also in $K$.
 
