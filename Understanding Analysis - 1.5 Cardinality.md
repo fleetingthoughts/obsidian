@@ -52,9 +52,12 @@ We now prove by contradiction that the set of real numbers is NOT countable. Sho
 	1) $\exists$  a bijective function that maps a domain in $\mathbb{N}$ to the set
 	2) The set is a union of countable sets
 	3) The set is a subset of a countable set
+- ***Finite sets are not countable.*** Countability is defined by the ability for a function to map bijectively from the entire domain of $\mathbb{N}$. If the set is finite, then at some point, we run out of points to keep mapping from $\mathbb{N}$.
 
 # Concepts from exercises
-***Exercise 1.5.1 (Application of the well-ordering principle).*** The well-ordering principle and the logically equivalent principle of induction is an defined property of natural numbers only and certain subsets of the natural numbers, but It does not apply to countable sets in general. The well-ordering principle does not apply to integers for instance.
+- ***Exercise 1.5.1 (Application of the well-ordering principle).*** The well-ordering principle and the logically equivalent principle of induction is an defined property of natural numbers only and certain subsets of the natural numbers, but It does not apply to countable sets in general. The well-ordering principle does not apply to integers for instance.
+- ***Exercise 1.5.2 (The NIP does not apply to $\mathbb{Q}$).*** You can construct closed intervals centered around a irrational number so that no rational numbers is contained in it.
+
 
 # Definitions
 
