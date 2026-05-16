@@ -53,6 +53,7 @@ $$M(t_1,t_2) \equiv M(t_1,0)M(0,t_2)$$The proof follows from the definition of t
 # Conceptual Summary and nuances
 - How to determine the support of a joint distribution given the support of the marginal distribution: the support of the joint probability of two independent random variables is the cartesian product of the supports. This means the support of the joint distribution changes to the cartesian product of the support of the respective marginal distributions
 - If we are able to factorize a joint distribution into two nonnegative functions $f(x,y)=g(x)h(y)$, those two functions  differ from the marginal pdfs by a multiplicative constant, that is we have the following: $$f_x=c_1g(x) \quad \text{and\quad} f_y=c_2h(y)$$
+- A random variable in general is never independent with itself. This means the expectation of the 2nd moment cannot be written as follows: $E[X^2]=(E[X])^2$. Nor can the pdf be written as the product of two separate pdfs of the same random variable.
 # Computational Summary
 1) How to determine if the random variables of a joint distribution are independent directly from the definition:
 	- If we know the marginal distributions or compute the marginal distributions. Take the product and determine if we get back the joint distribution
