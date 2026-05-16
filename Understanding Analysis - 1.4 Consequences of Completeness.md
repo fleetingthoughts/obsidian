@@ -17,11 +17,11 @@ The nested interval properties (NIP) is colloquially the property that the real 
 
 ***Theorem 1.4.1. (The Nested Interval Property).*** For a given closed interval $I_n = [a_n, b_n]=\{x\in R: a_n \le x \le b_n\}$, with $I_n$ such that $I_n \subseteq I_{n-1} \subseteq \dots \subseteq I_1$ then  $\cap I_n \ne \emptyset$  
 
-The NIP means that for a closed nested interval, it must always contain an element. A closed interval is required so that we can talk about a specific element being part of the set. This can be shown by looking at the set of either the right left hand endpoints and showing that they constitute a bounded set and must have a supremum or infimum that is included in the set (i.e. it is a maximum/minimum). This particular proof shows that the point contained for any nested interval is the supremum of the set of the $\{a_n\}$ left hand points (and I'm thinking you can show this is the same as the infimum of the right hand points? Can I prove $sup(\{a_n\})=inf(\{b_n\}))$
+The NIP implies that any nested closed interval must always contain an element. A closed interval is required so that we can talk about a specific element being part of the set. This can be shown by looking at the set of either the right-hand endpoints and left-hand endpoints and showing that they constitute a bounded set and must have a supremum or infimum that is included in the set (i.e. it is a maximum/minimum). This particular proof shows that the point contained for any nested interval is the supremum of the set of the $\{a_n\}$ left hand points (and I'm thinking you can show this is the same as the infimum of the right hand points.
 
-Furthermore, the Nested Interval Property only applies for closed for interval, for if open intervals is used, then the intersection of an infinite nested interval is null. I can probably show that the intersection of half open nested intervals may or may not contain a number depending on <u>how its nested</u>?
+Furthermore, the Nested Interval Property only applies for closed for interval, for if open intervals is used, then the intersection of an infinite nested interval does not necessarily contain an element. 
 
-Now we look at how $N$ is infinite within $R$, namely,  the set of all natural numbers is not bounded and so has no least greater bound per the AoC:
+Now we look at how $\mathbb{N}$ is infinite within $\mathbb{R}$, namely,  the set of all natural numbers is not bounded and so has no least upper bound per the AoC:
 
 ***Theorem 1.4.2 (Archimedean property: the set of natural numbers is unbounded)***. Given any $x \in R$, there exists an $n \in N$ such that $n \gt x$. Furthermore ii) Given any real number $y \gt 0$, there exists an $n \in N$ such that $1/n \lt y$ 
 

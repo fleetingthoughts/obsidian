@@ -6,7 +6,9 @@ tags:
 date_created: 2026-03-16
 parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
 ---
-In addition to openness and closedness of a set, we will look at the properties of compactness that will be used as a analytical way to describe concepts related to mathematical infinity (e.g. limits, derivatives, integrals). The property developed and the focus of the chapter will be the compact set, but this property will be shown to be equivalent to other properties. The chapter will proceed as follows:
+In addition to openness and closedness of a set, we will look at the properties of compactness that will be used as a analytical way to describe concepts related to mathematical infinity (e.g. limits, derivatives, integrals). An important use of compact sets is in functions. Often the function becomes well-behaved if its domain is well-behaved, and compact sets are one of them.
+
+The property developed and the focus of the chapter will be the compact set, but this property will be shown to be equivalent to other properties as follows:
 1) Definition of compact sets
 2) Definition of bounded sets.
 3) A bounded and closed set is equivalent to a compact set in $\mathbb{R}$. Compact sets are a subset of closed sets.
@@ -38,6 +40,8 @@ Now armed with this 3rd property of open sets  and finite subcovers, we establis
 - A set that is closed and bounded
 - Every open cover of the set has a finite subcover.
 
+# Summary of concepts
+- Technically a set with only one element is a compact set
 # Definitions 
 ***Definition 3.3.1 (Compactness).*** A set $K \subseteq \mathbb{R}$ is called "compact" if every sequence in $K$ has a subsequence that converges to a limit that is also in $K$.
 
