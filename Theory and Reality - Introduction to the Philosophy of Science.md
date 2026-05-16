@@ -44,7 +44,7 @@ The book is well organized into its chapters with a crystal thesis that one can 
 	- Two central dogmas to their philosophy
 	- The challenges to their two dogmas
 3) [Induction and Confirmation](Theory%20and%20Reality%20-%203%20Induction%20and%20Confirmation.md)
-	- The logical empiricists/positivists approach to the problem of induction and the application of confirmation
+	- The logical empiricists/positivist's approach to the problem of induction and the application of confirmation.
 	- Different types of nondeductive inferences
 	- Hypothetico-deductivism
 	- 2 thought experiment problems that any theory of confirmation must answer
