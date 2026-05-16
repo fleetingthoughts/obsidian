@@ -17,6 +17,9 @@ parent: "[[Language Truth & Logic]]"
 - The problem of perception: The issue with trying to reduce material things into sentences about sense contents. This is a form of phenomenalism 
 	- Subjectivity of sense contents which Ayer acknowledges
 - Resolve subjectivity problem of perception: by defining a material thing as a direct or indirect resemblence of sense contents in specific circumstances and to say two material things are equivalent is to say they are directly or indirectly continuous in sense contents. This is a symmetric relation
+- Provision to translate talk about "real" quality of a thing as a way to characterize those things in general and not necessarily an at the moment proposition of sense contents under "privileged conditions"
+- Two statements having "same meaning" t in common parlance is not the same as "equivalent". Ayer recognizes emotional impact that a proposition and cites it as a source of metaphysical confusion.
+- We should not be concerned with finding a separate language to define a way of talking logically in our current natural language. That results in infinite regress of apriori of finding the language that best describes that language to infinity.
 
 When a logician says "entailment forces implication," they mean that if $P \models Q$ holds true at the meta-level, it guarantees that the sentence $(P \implies Q)$ is a universal truth at the object-level.
 
