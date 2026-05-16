@@ -8,6 +8,7 @@ parent: "[[Language Truth & Logic]]"
 ---
 - Philosophy is not the search for explicit definitions
 - We follow bertrand's theory of definition descriptions which establishes which statements entail the others as opposed to a synonymous relation.
+	- This promotes understanding and by establishing relationships between sentences
 
 When a logician says "entailment forces implication," they mean that if $P \models Q$ holds true at the meta-level, it guarantees that the sentence $(P \implies Q)$ is a universal truth at the object-level.
 
