@@ -21,6 +21,7 @@ The NIP implies that any nested closed interval must always contain an element. 
 
 Furthermore, the Nested Interval Property only applies for closed for interval, for if open intervals is used, then the intersection of an infinite nested interval does not necessarily contain an element. 
 
+# The natural numbers are not bounded on the reals. They have no supremum.
 Now we look at how $\mathbb{N}$ is infinite within $\mathbb{R}$, namely,  the set of all natural numbers is not bounded and so has no least upper bound per the AoC:
 
 ***Theorem 1.4.2 (Archimedean property: the set of natural numbers is unbounded)***. Given any $x \in R$, there exists an $n \in N$ such that $n \gt x$. Furthermore ii) Given any real number $y \gt 0$, there exists an $n \in N$ such that $1/n \lt y$ 
@@ -31,6 +32,7 @@ The Archimedean property also guarantees we can always construct a number smalle
 
 Using Theorem 1.4.2, we can now formalize the idea that $R$ is an "extension" of $Q$ by containing all the irrational numbers as well. The idea here is that $Q$ is "infinitely dense" and we can find any possible combination of it within the real numbers. This is formalized as follows:
 
+# The Rationals are dense on the reals. Every 
 ***Theorem 1.4.3 (Density of Q in R)***. For every two real numbers $a \lt b$ , there exists a rational number $r$ such that $a \lt r\lt b$.
 
 Note that we use $\lt$ and not $\le$. My opinion is that this is a stronger proof as it contains it in a smaller set. we essentially. This is proven assuming there's a rational number $r=\frac{m}{n}$ and using the Archimedean property to determine a suitable denominator and then showing how a choice of an integer $m$ in satisfying one of the inequalities (say $a \lt r$), it simultaneously satisfies the other inequality.  
