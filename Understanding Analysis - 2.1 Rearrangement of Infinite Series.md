@@ -13,4 +13,4 @@ Consider for example the series of $\sum_{n=1}^{\infty}(-1)^n$ which we assume m
 $$S+S=(-1+1)+(-1+1)+(-1+1)+.... = 0+0+0+...=0$$
 Whereas another grouping yields an entirely different result:
 $$S+S=-1+(1-1)+(1-1)+.... = -1 +0+0+0+...=-1S$$
-Manipulations that are legitimate in finite settings, do not always extend to infinite settings. In these chapters we show the criteria required for us to algebraically manipulate the sums of these infinite series, namely convergence and the limit.
+Manipulations that are legitimate in finite settings can yield consistent, but do not yield different results to infinite settings. In these chapters we show the criteria required for us to algebraically manipulate the sums of these infinite series, namely convergence and the limit.
