@@ -15,6 +15,8 @@ We first lay some foundations by defining some key terms like "bounded" in the c
 
 ***Definition 2.3.1 (Bounded sequence).*** A sequence $(x_n)$ is bounded if there exists a number $M>0$ such that $|x_n|\le M$ for all $n \in N$. 
 
+One way to see boundedness in the sequence of real numbers, is that a sequence converges if there is an interval $[-M,M]$ symmetric about 0 that contains all the terms of the sequence.
+
 ***Definition 2.3.1*** is different from the definition of [bounded above](Understanding%20Analysis%20-%201.3%20The%20Axiom%20of%20Completeness.md) when postulating the Axiom of Completeness. In this definition, we are describing a sequence that is contained within an interval $[-M, M]$. With the definition of boundedness, we prove the following:
 
 ***Theorem 2.3.2 (Convergence of bounded sequences).*** Every convergent sequence is bounded.
@@ -43,11 +45,14 @@ A remark on the properties we derived for limits. Convergence only depends on th
 
 ***Exercise 2.2.7 Eventually*** Given a set $A$, a property is "eventually" in the set if there exists $N_{1} \in N$ such that the property applies to all $a_n \in A$ when $n \ge N_1$ 
 
+# Summary of proof techniques
+- ***Equations containing a term from a convergent sequence can be made into an inequality involving an arbitrary constant or a finite difference from a known limit.*** 
+	1) By ***Theorem 2.3.2***, convergent series are bounded, but more important, it guarantees the existence of an inequality that relates to a constant. Existence theorems are powerful for constructive proofs.
+	2) Given a convergent series and we know the limit, we can also choose $n$ large enough so that we're a finite difference from the limit which gives us an inequality of the form $|a_n-a| < M$ 
 # Definitions
 ***Definition 2.3.1 (Bounded).*** A sequence $(x_n)$ is bounded if there exists a number $M>0$ such that $|x_n|\le M$ for all $n \in N$.
 
 # Theorems
-
 ***Theorem 2.3.2 (Convergence of bounded sequences).*** Every convergent sequence is bounded.
 
 ***Theorem 2.3.3 (Algebraic Limit Theorem).*** Let  $lim_{n \to \infty}a_n=a$
