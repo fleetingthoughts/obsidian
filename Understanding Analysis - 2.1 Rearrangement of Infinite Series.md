@@ -14,3 +14,5 @@ $$S+S=(-1+1)+(-1+1)+(-1+1)+.... = 0+0+0+...=0$$
 Whereas another grouping yields an entirely different result:
 $$S+S=-1+(1-1)+(1-1)+.... = -1 +0+0+0+...=-1S$$
 Manipulations that are legitimate in finite settings can yield consistent, but do not yield different results to infinite settings. In these chapters we show the criteria required for us to algebraically manipulate the sums of these infinite series, namely convergence and the limit.
+
+What seems to be happening (which we will confirm is the case) is that in some infinite series, the addition is commutative and associative, but in others, it is not. The familiar operations do not work in the infinite setting! Is there a "kind of infinity" where these operations do work?

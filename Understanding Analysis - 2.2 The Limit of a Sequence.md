@@ -7,14 +7,17 @@ tags:
   - real_analysis
 date_created:
 ---
-Historically, the field of calculus was developed without rigor leading to useful results but eventually run into unintuitive answers. To explain the unintuitive results, we go back to the results we derived and attempt to reduce the problem to the bare minimum definitions and properties required to produce these results. In calculus, many of the results were reduced to reduced to results about definitions of sequences, and so, the strategy is to crystallize the properties and definitions of sequences required to produce the desirable results and then re-derive all of calculus. This is precisely what we do in this chapter and explain the definitions and properties of sequences that derive the rest of calculus:
+Historically, the field of calculus was developed without rigor leading to useful results but we eventually run into unintuitive answers called pathologies such as the situations where associativity and commutativity are not valid in some infinite series. To explain the unintuitive results, we go back to the results we derived and attempt to reduce the problem to the bare minimum definitions and properties required to produce these results. In calculus, many of the results were reduced to results about definitions of sequences, and so, the strategy is to crystallize the properties and definitions of sequences required to produce the desirable results and then re-derive all of calculus. This is precisely what we do in this chapter and explain the definitions and properties of sequences that derive the rest of calculus:
 1) Definition of a sequence
-2) ***Binary characterization of an infinite sequence.*** We wish to categorize infinite sequences in a binary fashion by whether they converge or diverge
+2) ***Binary characterization of an infinite sequence.*** We wish to categorize infinite sequences in a binary fashion by whether they converge or diverge. The definition of convergence is the most important definition in calculus.
 3) ***Properties of convergent sequences.*** The limit of a convergent sequence is unique.
 
-***Definition 2.2.1 (Sequences)*** A sequence is a function whose domain is the natural numbers $\mathbb{N}$. 
+***Definition 2.2.1 (Sequences)*** A sequence is a function whose domain is the natural numbers $\mathbb{N}$.
 
-***Definition 2.2.3 (Convergence of a sequence)***. A sequence $(a_n)$ converges to a number $a$  if for any arbitrary positive $\epsilon \gt 0$, then $|a_n -a | \lt \epsilon$ for all $n > N$ for some natural number $N$.
+Some notational nuances differentiate sequences from sets:
+- A sequence can be ordered using the well-ordered set of natural numbers. Sets are not ordered.
+
+***Definition 2.2.3 (Convergence of a sequence)***. A sequence $(a_n)$ converges to a number $a$  if for any arbitrary positive $\epsilon \gt 0$, there exists an $N\ge0$ such that if $n\ge N$, then $|a_n -a | \lt \epsilon$ 
 
 This definition of convergence restated basically states that if the sequence converges to some specific number, then we can make an infinitely many terms of the sequence arbitrarily close to the limit. In other words, outside of some $N$ terms, we can make the infinite sequence within $\epsilon$ of the limit. We say that with a converging sequence, the "$\epsilon$ -neighborhood" of the limit $a$ contains all but a finite number of terms
 
