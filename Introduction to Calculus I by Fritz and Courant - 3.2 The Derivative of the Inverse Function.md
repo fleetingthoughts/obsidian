@@ -18,7 +18,12 @@ Critical points are cases when $f'(x)=0$. If the derivative is consistently 0 in
 - The monotonicity does not change and we simply have an inflection point.
 
 A significant application of these results is the determination of the the inverse of trigonometric functions. Note that to guarantee the inverse exists, we must limit the domain accordingly.
-![](Pasted%20image%2020260328172508.png)
+$$
+\begin{aligned}
+\int \frac{1}{\sqrt{1 - x^2}} dx = \text{arc sin } x, \quad & \int \frac{1}{\sqrt{1 - x^2}} dx = -\text{arc cos } x, \\
+\int \frac{1}{1 + x^2} dx = \text{arc tan } x, \quad & \int \frac{1}{1 + x^2} dx = -\text{arc cot } x.
+\end{aligned}
+$$
 
 As we know the derivative of the logarithm by its definition as an indefinite integral and the application of the fundamental theorem of calculus, we can then determine the derivative of the exponential function. We can continue to determine the derivative of an exponential with respect to any base. We first recall the inverse function: $$x=\log_{a}y=\frac{\ln y}{\ln a}$$
 Then the derivative of $a^x$ is the inverse of the derivative of $x$ with respect to $y$: $$\frac{da^x}{dx}=\frac{1}{\frac{d(\log_{a}y)}{dy}}=y(\ln a)=a^x(\ln a)$$
