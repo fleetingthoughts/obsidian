@@ -32,10 +32,13 @@ and $lim_{n \to \infty}b_n=b$. Then we have:
 
 
 # Limits and Order
-
 After showing that convergent sequences are well-behaved under algebraic operations, we show that they also respect order operations:
 
-
+***Theorem 2.3.4 (Order Limit Theorem).*** Assume $\lim_{n \to \infty}a_{n} = a$  and $\lim_{n \to \infty} b_n = b$.
+1. If $a_n ≥ 0$  for all $n ∈ N$, then $a ≥ 0$.
+2. If $a_n ≤ b_n$ for all $n ∈ N$, then $a ≤ b$ (proved by applying theorem 2.3.3)
+3. If there exists $c ∈ R$ for which $c ≤ b_n$ for all $n ∈ N$, then $c ≤ b$. Similarly,
+4. $a_n ≤ c$ for all $n ∈ N$, then $a ≤ c$.
 
 A remark on the properties we derived for limits. Convergence only depends on the what happens to the "tail-end" of a sequence. Notice that convergence assumes something about the infinite number of terms at the end of the term and excludes a finite number of $n < N_1$ terms. We essentially don't care what we tack on or how many of those finite terms there are as long as we expect a certain behavior from the infinite terms at the "tail-end" of the sequence. Generally we care about what happens "eventually" to a sequence
 
