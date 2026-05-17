@@ -55,11 +55,19 @@ We now prove by contradiction that the set of real numbers is NOT countable. Sho
 - ***Finite sets are not countable.*** Countability is defined by the ability for a function to map bijectively from the entire domain of $\mathbb{N}$. If the set is finite, then at some point, we run out of points to keep mapping from $\mathbb{N}$.
 
 # Concepts from exercises
-- The majority of the exercises practices proof by construction involving creativity in the way we construct our sets. This includes:
+- The majority of the exercises require constructive proofs and are exercises in creativity and to pull mathematical objects out of thin air. This includes:
 	- Using existence theorems or properties like the Archimedean property and the well-ordering principle to guarantee the ability to construct or find a certain number
 - ***Exercise 1.5.1 (Application of the well-ordering principle).*** The well-ordering principle and the logically equivalent principle of induction is an defined property of natural numbers only and certain subsets of the natural numbers, but It does not apply to countable sets in general. The well-ordering principle does not apply to integers for instance.
 - ***Exercise 1.5.2 (The NIP does not apply to $\mathbb{Q}$).*** You can construct closed intervals centered around a irrational number so that no rational numbers is contained in it.
-- ***Exercise 1.5.3
+- ***Exercise 1.5.3 (The cardinality of the cartesian product of natural numbers)***. The Cantor triangular array (or the Cantor enumeration array) of natural numbers demonstrates that the ordered pair of natural numbers is countable: $\mathbb{N} \times \mathbb{N}\sim \mathbb{N}$ . The cardinality between the two allows us to show the infinite union of countable sets is countable as [induction cannot prove statements about infinity](Why%20Induction%20Stops%20at%20Infinity.%20The%20Finite-Step%20Fallacy..md)
+- ***Exercise 1.5.4 (The cardinality of open and closed intervals and the Hilbert's Grand Hotel technique).*** The cardinality of any arbitrary open intervals are obviously equal but interestingly the cardinality of closed or half-closed intervals is also equal to open intervals. Closed intervals differ from open intervals by a finite number of points, so we have to show that we can always "shift" the infinite open set a countable number of times to make room for the finite points. The shifting to make room for a countable number of elements is called the Hilbert Grand Hotel Technique and is summarized as follows:
+	1) Produce a sequence (function of the natural numbers) contained in the open interval that follows some rule for a index $n\in \mathbb{N}$ 
+	2) We can map an $m$ number of points to the sequence in 1) by mapping it to the first few terms $m$ and shifting the mapping of the other points down to $n+m$
+	The concept is that the size of the real numbers always gives us room to add a countable number of points.
+- ***Exercise 1.5.4 (Equipollence and countability is an equivalence relation).*** Because we have the following 3 relationships, Cantor's relation between infinite sets is an equivalence relation:
+	1) ***Reflexivity.*** A set has the same cardinality with itself
+	2) ***Symmetry.*** If a set has the same cardinality as another set, then the converse is true
+	3) ***Transitivity.*** 
 
 
 # Definitions
