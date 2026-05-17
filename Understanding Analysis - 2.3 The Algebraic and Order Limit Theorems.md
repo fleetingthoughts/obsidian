@@ -23,14 +23,13 @@ We first lay some foundations by defining some key terms like "bounded" in the c
 
 We now show that convergent infinite sequences behave well with respect to addition, subtraction, division, multiplication, and order as a property of the sequences, the limit, behaves as usual under these operations:
 
-***Theorem 2.3.3 (Algebraic Limit Theorem).*** Let  $lim_{n \to \infty}a_n=a$
-and $lim_{n \to \infty}b_n=b$. Then we have:
+***Theorem 2.3.3 (Algebraic Limit Theorem).*** Let  $lim_{n \to \infty}a_n=a$ and $lim_{n \to \infty}b_n=b$. Then we have:
 1. $\lim_\limits{n \to \infty}(ca_n)= ca$ = ca, for all $c ∈ R$.
 2. $\lim_\limits{n \to \infty}(a_n + b_n) = a + b$; (proved using the triangular inequality).
 3. $\lim_\limits{n \to \infty}(a_nb_n) = ab$; (prove using triangular inequality and using the trick of adding extra terms that sum to 0. We also have to apply Theorem 2.3.2).
 4. $\lim_\limits{n \to \infty}= a/b$ , provided $b \ne  0$.
 
-
+Note the assumption of ***Theorem 2.3.3.*** The algebraic manipulation of limits is only valid if the underlying sequences are convergent. A useful way to see the algebraic limit theorems is in terms of symbol pushing and operators. Taking the limit is an operation; we can push the limit operator past algebraic symbols like addition or multiplication, provided the underlying sequences convergent.
 # Limits and Order
 After showing that convergent sequences are well-behaved under algebraic operations, we show that they also respect order operations:
 
