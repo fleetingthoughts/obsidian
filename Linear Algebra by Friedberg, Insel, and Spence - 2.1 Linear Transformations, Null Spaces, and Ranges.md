@@ -39,8 +39,9 @@ There is a special result that makes linear transformations especially important
 ***Theorem 2.6*** is general because it applies to any $n$ vectors in the codomain, but we could alternatively try to map to the basis of $W$. There is only one linear transformation that maps the basis of $V$ to the basis of $W$ and in doing so, it completely maps $W$ with domain $V$. 
 
 # Conceptual summary and nuances
-- Restrict ourselves to a special kind of function of vectors: linear transformations. All the theorems in this book will apply to this special kind of function.
-- The image of a linear transformation is completely determined by its transformation of the basis of the domain. In other words, the basis of the image is $T(v_i)$ where each $v_i$ is a basis vector of the domain.
+- ***Linear algebra is about one kind of function.*** The linear algebra studied is restricted to a special kind of function of vectors: linear transformations. All the theorems in this book will apply to this special kind of function.
+- ***All linear transformations have the same output for the zero vector.*** Any linear transformation of the zero vector must result in the zero vector
+- ***The transformation of the basis vector uniquely determines the linear transformation.*** The image of a linear transformation is completely determined by its transformation of the basis of the domain. In other words, the basis of the image is $T(v_i)$ where each $v_i$ is a basis vector of the domain.
 - The nullity tells us whether a transformation is injective
 - Injectivity and surjectivity are separate properties to develop except in the special case where the codomain (NOT THE RANGE) has the same dimension.
 - ***The power of knowing the transformation rule of the basis vectors of a domain.***
