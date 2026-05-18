@@ -8,14 +8,15 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
 
 
-We now ascribe mathematical objects to represent linear transformations: matrices. The chapter is outlined as follows:
-- The definition of a matrix representation of a linear transformation. This is defined by the transformation of the ordered basis of the domain vector vector space and the coefficients of the linear combination of the ordered basis in the image vector space
-- Demonstrate that the collection of all linear transformations from $T: V \to W$  denoted $\mathcal{L}(V,W)$ obeys the vector space axioms and is itself a vector space
-- Prove that the resulting transformation of a linear combination of linear transformations has a matrix representation equal to the same linear transformation performed on the original matrix representations.
+To do math analytically, we need to ascribe mathematical objects to the concepts we talk about, and so in this chapter, we use matrices to represent linear transformations. The chapter is outlined as follows:
+1) The definition of a matrix representation of a linear transformation. This is defined by the transformation of the ordered basis of the domain vector vector space and the coefficients of the linear combination of the ordered basis in the image vector space
+2) Define the operations of addition and scalar multiplication with linear transformations
+3) From 2), we deduce that the collection of all linear transformations from $T: V \to W$  denoted $\mathcal{L}(V,W)$ obeys the vector space axioms and is itself a vector space
+4) Prove that the matrix representation of a linear transformation is itself a linear transformation.
 
 We start out by defining some key terms:
-- ordered basis: a sequence of vectors that form the basis of a vector space. For two ordered vector spaces $\beta = \{v_1,v_2,v_3\}$ and $\alpha = \{v_1,v_3,v_2\}$, we have that $\alpha \ne \beta$.
-- Given any vector $x\in V$, it is known that $x = \sum_{i=1}^na_iv_i$ where $v_i$ is the basis for $V$. We describe the coefficients of that linear combination using the coordinate vector. The coordinate vector is always relative to a certain ordered basis. We call the vector of the coefficients relative to a specific ordering of the sequence of basis of the vector space the following: the coordinate vector of $x$ relative to ordered basis $\beta$ denoted $[x]_{\beta}=(a_{1},a_{2},\dots,a_{n})$.
+- ***Ordered basis***: a sequence of vectors that form the basis of a vector space. For two ordered vector spaces $\beta = \{v_1,v_2,v_3\}$ and $\alpha = \{v_1,v_3,v_2\}$, we have that $\alpha \ne \beta$.
+- Given any vector $x\in V$, it is known that $x = \sum_{i=1}^na_iv_i$ where $v_i$ is the basis for $V$. We describe the coefficients of that linear combination using the coordinate vector. The coordinate vector is always relative to a certain ordered basis. We call the vector of the coefficients relative to a specific ordering of the sequence of basis of the vector space the following: the coordinate vector of $x$ relative to ordered basis $\beta$ denoted $[x]_{\beta}=(a_{1},a_{2},\dots,a_{n})$. T<u>he coordinate vector defined this way is a linear transformation</u> to the $F^n$ vector space.
 
 We then define a way of producing a matrix that represents a linear transformation acting on a basis vector $v_j \in V$ to bring to a vector $w \in W$ which is completely described by its respective ordered basis that is: $$T(v_{j})=w = \sum_{i=1}^na_{ij}w_i$$
 We then define the linear transformation as a matrix by the following algorithm that produces each column of $T$:
@@ -26,8 +27,8 @@ The matrix generated this way is denoted $[T]^{\gamma}_{\beta}$. In summary, we 
 
 This is leading to the fact that this matrix $[T]^{\gamma}_{\beta}$ when multiplied by a vector in the domain takes it to the range, but at this stage, we haven't defined matrix multiplication. We only have a defined this representation. 
 
-With this algorithm, we note the following:
-1) The matrix will depend on the specific order of the basis we choose. The matrix that results from our particular choice of ordered basis $\gamma$ and $\beta$ is then denoted as $[T]^{\gamma}_{\beta}$ where the top symbol is for the image.
+We note the following nuances when using the definition to represent a linear transformation by a matrix:
+1) The matrix will depend on the specific order of the basis we choose. The matrix that results from our particular choice of ordered basis $\gamma$ and $\beta$ is then denoted as $[T]^{\gamma}_{\beta}$ where the top symbol is for ordered basis of the range.
 2) There will be as many columns as there are basis vectors in the ordered basis of $V$. $col(T) = dim(V)$
 3) There will be as many rows as there are basis vectors in the range $row(T)=dim(W)$
 
@@ -42,13 +43,13 @@ We can then show that the sum and multiples of linear transformations are themse
 
 The fact that the collections of linear transformations is itself a vector space (i.e. the collection of linear transformations obey the vector space axioms), we can relate the vector space of matrices to $\mathcal{L}(V,W)$ as shown in ***Theorem 2.8 (Matrix representation of a linear combination of linear transformations)***
 # Definitions
-- Ordered Basis
-- Coordinate vector of a vector relative to an ordered basis
-- Definition of addition and scalar multiplication of linear transformations
-- Matrix Representation of a linear transformation in the ordered basis of the domain vector space and the codomain vector space
+- ***Definition (Ordered Basis).***
+- ***Definition. (Coordinate vector of a vector relative to an ordered basis)***
+- ***Definition. (Addition and scalar multiplication operations of linear transformations)***
+- ***Definition. (Matrix Representation of a linear transformation in the ordered basis of the domain vector space and the codomain vector space)***
 # Theorems
 ***Theorem 2.7 (Linearity of linear transformations themselves).*** Given two linear transformations $T, U: V\to W$ over a field $F$, we have that for any $a,b \in F$ 
 - $(aT+bW)(x)$ is a linear transformation
 - Therefore the the collection of all linear transformations satisfies the vector space axioms and is itself a vector space over $F$ denoted as $\mathcal{L}(V,W)$ 
 
-***Theorem 2.8 (matrix representation of linear combinations of linear transformations).*** Let $V, W$ be vector spaces with ordered bases $\beta$ and $\gamma$ respectively, then if we know the matrix representation of the two linear transformations $T,U: V\to W$ over a field $F$, then we can determine the linear combination of these transformations $(aT+bU)(x)$ for $a,b \in F$ and $x \in V$  as follows: $$[aT+bU]^{\gamma}_{\beta}= a[T]_{\beta}^{\gamma}+b[U]_{\beta}^{\gamma}$$
+***Theorem 2.8 (matrix representation of a linear transformation is itself a linear transformation).*** Let $V, W$ be vector spaces with ordered bases $\beta$ and $\gamma$ respectively, then if we know the matrix representation of the two linear transformations $T,U: V\to W$ over a field $F$, then we can determine the linear combination of these transformations $(aT+bU)(x)$ for $a,b \in F$ and $x \in V$  as follows: $$[aT+bU]^{\gamma}_{\beta}= a[T]_{\beta}^{\gamma}+b[U]_{\beta}^{\gamma}$$
