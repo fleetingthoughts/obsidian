@@ -8,7 +8,7 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
 In [1.5 Linear Dependence and Linear Independence](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.5%20Linear%20Dependence%20and%20Linear%20Independence.md), we discussed conditions that a subset spanning a subspace must satisfy to be considered the smallest possible set: linear independence. We call this minimal set the basis of a vector space if it spans the entire vector space. Finding the smallest set not only eliminates redundant information like linearly dependent vectors thus reducing computations, we also show how a set of linearly independent vectors ca
 n completely describe the vector space in the sense that any vector in the vector space is a linear combination of the basis. The chapter is outlined as follows:
-- ***Motivation for learning about linearly independent vectors (Theorem 1.8).*** Define a set of linear independent vectors in a vector space called the basis and show that if it exists, it has the useful property of uniquely describing every vector in the subspace.
+- ***Motivation for learning about linearly independent vectors (Theorem 1.8).*** Define a set of linear independent vectors in a vector space called the basis and show that if it exists, it has the useful property of <u>uniquely</u> describing every vector in the subspace.
 - ***Make our definition of basis useful. Establish conditions for existence of a basis (Theorem 1.9).*** If we happen to know a finite set of vectors (not necessarily linearly independent) spans a subspace, then some subset of it is a basis.
 - ***The number of vectors in a basis uniquely characterizes the vector space (Theorem 1.10).*** Every linearly independent subset of a vector space can be extended to span the set and as a result, there's a specific number linearly independent vectors that is allowed to do so. This unique number is called the dimension.
 
@@ -18,7 +18,11 @@ From this definition, we can derive the following result that is the main motiva
 
 The basis does not have to be a finite number and an infinite number of vectors can be required to span a subspace, but we are primarily concerned with bases with a finite number of vectors. ***Theorem 1.9*** gives us an entry point to determine whether a vector space has a basis, in other words, if there is a finite subset of vectors that generates a vector space, then the basis must exist. Colloquially, this can be restated as follow: "any finite set of vectors that spans a vector space can be reduced to the basis of that vector space."
 
-The most important theorem from which we derive some crucial corollaries is the Steinitz exchange lemma. [[Proof of the Steinitz exchange lemma]] involves ***Theorem 1.6*** which establishes that if the basis exists (***Theorem 1.9 establishes sufficient conditions)***, then it is distinguished by the number of vectors in it. The unique property that every subspace has is the number of vectors in its basis, not the basis itself 
+The most important theorem from which we derive some crucial corollaries is the Steinitz exchange lemma. [[Proof of the Steinitz exchange lemma]] involves ***Theorem 1.5***. 
+
+We now deduce that the basis of a vector space contains a unique number of vectors. If a finite set of vectors generates a vector space, we then know:
+- we can always create a generating set starting with an independent set of vectors by the Steinitz exchange lemma
+- A basis must exist by ***Theorem 1.9 (If a finite set spans a vector space then it has a basis)***
 
 The fact that any basis of a vector space has the same number of vectors makes the # of vectors in a basis an intrinsic property of the vector space that we define as the dimension:
 
@@ -51,7 +55,7 @@ To round off the discussion on the dimension of vector spaces, Friedberg provide
 
 ***Definition (Dimension of a Vector Space).*** A vector space, $V$, is called finite-dimensional if it has a basis containing a finite number of vectors and is infinite dimensional otherwise. The number of vectors required in a basis of $V$ is called the dimension of $V$ denoted as $dim(V)$.
 # Theorems
-***Theorem 1.8 (The ability of a basis to completely describe a vector space).*** Let $V$ be a vector space and $\{u_1,..u_n\} \in V$. Then $\beta = \{u_1,..u_n\}$ is a basis for $V$ if and only if every $v \in V$ can be uniquely expressed as a linear combination of vectors in $\beta$. 
+***Theorem 1.8 (Uniqueness of a vector's representation as a span of the basis).*** Let $V$ be a vector space and $\{u_1,..u_n\} \in V$. Then $\beta = \{u_1,..u_n\}$ is a basis for $V$ if and only if every $v \in V$ can be uniquely expressed as a linear combination of vectors in $\beta$. 
 
 ***Theorem 1.9 (Property of Vector spaces with a finite basis).*** If a vector space $V$ is spanned by a finite set $S$, then some subset of $S$ is a basis for $V$.
 

@@ -6,9 +6,17 @@ tags:
 date_created: 2026-03-10
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
+We define and determine the properties of special functions of vectors called linear transformations and define certain subspaces with respect to any linear transformation that completely describe the domain vector space.:
+1) The two properties that define a linear transformation
+2) Definition of two sets of vectors called the null space and range related to any linear transformation that are proven to be subspaces.
+3) There is always a generating span of the range of a linear transformation. It is the span of the transformation of the domain basis vector and it isn't always linearly independent
+4) Definition of the dimensions of the null space called the nullity and the rank respectively. 
+5) The dimension of the domain vector space is the sum of the nullity and the rank. 
+6) The injectivity and surjectivity of a function is completely characterized by its nullity and rank
+7) There always exists a linear transformation that maps $n$ basis vectors to $n$ other vectors that aren't necessarily unique. The linear transformation that does so is also unique.
 ***Definition (Linear Transformation).*** Let $V$ and $W$ be vector spaces over the same field F. We call a function $T : V\to W$ a linear transformation from $V$ to $W$ if for all vectors $x, y\in V$ we have:
-1) $T(x)+T(y)=T(x+y)$
-2) $T(cx)=cT(x)$
+8) $T(x)+T(y)=T(x+y)$
+9) $T(cx)=cT(x)$
 
 In general if the field is the set of real numbers then 1) implies 2) but some fields are independent of that. There are two important linear transformations $T$ that we define:
 - The identity transformation $I(x) = x$
@@ -46,7 +54,8 @@ There is a special result that makes linear transformations especially important
 - Injectivity and surjectivity are separate properties to develop except in the special case where the codomain (NOT THE RANGE) has the same dimension.
 - ***The power of knowing the transformation rule of the basis vectors of a domain.***
 	- Knowing the transformation of the basis vectors completely describes the range ***Theorem 2.2***. 
-	- Knowing the mapping of the basis vectors uniquely determines the linear transformation by ***Theorem 2.6***. Conversely if we know which output vectors we want each basis to map to, then the linear transformation uniquely exists.
+	- Knowing the mapping of the basis vectors uniquely determines the linear transformation by ***Theorem 2.6***. Conversely if we know which output vectors we want each basis to map to, then the linear transformation uniquely exists
+- ***Common mistake.*** The basis of the null space is not guaranteed to be independent from the basis vectors of the range.
 # Computational summary
 1) ***Determine the basis of the range.*** By ***Theorem 2.2***, we can generate a spanning set for the range so by [Theorem 1.6](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.6%20Bases%20and%20Dimension.md) a basis for the range exists and its a subset of spanning set:
 	1) Determine the basis for the domain

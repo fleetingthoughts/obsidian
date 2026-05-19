@@ -17,9 +17,9 @@ Then the goal for the proof by induction is to prove the following two things:
 - Show there there is a $H \subseteq G$ containing $n-(m+1)$ vectors such that $L\cup H$ generates $V$
 
 Some facts we will use:
-1) Arbitrarily construct from the given $L' =\{v_1,..v_m\}$
-2) Arbitrarily construct from the given $H' =\{u_1,...u_{n-m}\}$
-3) Arbitrarily construct from the given $L = \{v_1,...,v_{m+1}\}=L'\cup\{v_{m+1}\}$
+1) Arbitrarily construct  $L' =\{v_1,..v_m\}$
+2) Arbitrarily construct  $H' =\{u_1,...u_{n-m}\}$
+3) Arbitrarily construct  $L = \{v_1,...,v_{m+1}\}=L'\cup\{v_{m+1}\}$
 4) By 3), $L' \subseteq L$ 
 5) The additional vector $v_{m+1}\in span\{L'\cup H'\}$ := by $L'\cup H' = V$
 6) By 4) and the assumption $L' \cup H'$ generates $V$, the union of $L$ and $H'$ also spans the vector space: $span \{L\cup H'\}=V$ 
