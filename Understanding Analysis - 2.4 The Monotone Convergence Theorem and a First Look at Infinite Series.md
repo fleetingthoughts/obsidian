@@ -42,4 +42,11 @@ Some interesting notes from doing the exercises:
 - Exercise 2.4.6: [[The inequality of the arithmetic mean and geometric mean (AM-GM inequality)]] 
 
 
+# Definitions
+***Definition 2.4.1 (Monotonicity).***
 
+***Definition 2.4.3 (Convergence of a Series as a Convergence of a Sequence of its Partial Sums).***
+
+# Theorems
+
+***Theorem 2.4.2 (Monotone Convergence Theorem).***
