@@ -14,14 +14,17 @@ We define and determine the properties of special functions of vectors called li
 5) The dimension of the domain vector space is the sum of the nullity and the rank. 
 6) The injectivity and surjectivity of a function is completely characterized by its nullity and rank
 7) There always exists a linear transformation that maps $n$ basis vectors to $n$ other vectors that aren't necessarily unique. The linear transformation that does so is also unique.
+
+# The transformation subject of our study
 ***Definition (Linear Transformation).*** Let $V$ and $W$ be vector spaces over the same field F. We call a function $T : V\to W$ a linear transformation from $V$ to $W$ if for all vectors $x, y\in V$ we have:
-8) $T(x)+T(y)=T(x+y)$
-9) $T(cx)=cT(x)$
+1) $T(x)+T(y)=T(x+y)$
+2) $T(cx)=cT(x)$
 
 In general if the field is the set of real numbers then 1) implies 2) but some fields are independent of that. There are two important linear transformations $T$ that we define:
 - The identity transformation $I(x) = x$
 - The zero transformation $T(x) = \vec{0}$ 
 
+# The null space and the range. The null space must have a basis.
 We define two important sets of vectors derived from linear transformations $T: V\to W$
 - The null space (or kernel) of a linear transformation $T$ is denoted $N(T)$ and it is the set of vectors $x\in V$ such that $T(x)= 0$. For example the null space of the identity matrix $N(I) = {0}$. <u>Note the kernel is a subset of</u> $V$
 - The range, denoted $R(T)$ is the set of all the $T(x)$ vectors for $x \in V$. For example the range of the identity matrix is $R(I)= V$ or the entire vector space $V$. In other words $R(T)\subseteq W$. <u>Note the image is a subset of </u>$W$
@@ -34,6 +37,7 @@ While ***Theorem 2.2*** gives us a direct way to determine the basis for the ran
 - The dimension of $R(T)$ is called the rank and is denoted $rank(T)$.
 We then establish the relationship between the rank and the nullity using ***Theorem 2.3 (Rank-nullity Theorem).***
 
+# Characterize a linear transformation by the nullity and rank
 The nullity and rank of a linear transformation are useful because they say something general about the linear transformation:
 - A nullity of 0 is equivalent to the linear transformation being injective (***Theorem 2.4***).
 - If the domain and codomain of the linear transformation have equal dimension, then by ***Theorem 2.3 (Rank-nullity),*** we can derive ***Theorem 2.5*** which states that all the following statements are equivalent:
@@ -41,10 +45,10 @@ The nullity and rank of a linear transformation are useful because they say some
 	2) The linear transformation is onto
 	3) The range has the same dimension as the domain (by [Theorem 1.11](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%201.6%20Bases%20and%20Dimension.md)).
 
-There is a special result that makes linear transformations especially important and useful for vector spaces. Given, the basis of a $n$-dimensional vector space $V$ and $n$ arbitrary vectors in another vector space $W$ then ***Theorem 2.6*** supplies us with the following existence and uniqueness theorem:
+There is a special result that makes linear transformations especially important and useful for vector spaces. Given, the basis of a $n$-dimensional vector space $V$ and $n$ arbitrary vectors in another vector space $W$ then ***Theorem 2.6*** tells us the linear transformation that maps the basis to arbitrary vectors must exist and is also unique:
 1) There exists a linear transformation that bijectively maps the each of the vectors in the basis $V$ to the $n$ arbitrary vectors in $W$
 2) The linear transformation from 1) is unique. This means if we find two transformations $T$ and $S$ that satisfy 1, then $T(v)=S(v)$ for all $v\in V$
-***Theorem 2.6*** is general because it applies to any $n$ vectors in the codomain, but we could alternatively try to map to the basis of $W$. There is only one linear transformation that maps the basis of $V$ to the basis of $W$ and in doing so, it completely maps $W$ with domain $V$. 
+What this means is when defining a linear transformation, we do not have to give a general rule for what it does for an arbitrary vector $v\in V$ in the domain. We can also say how it maps every basis vector in the domain and be assured that it is a linear transformation and it is the only one that has the rule we just assigned. ***Theorem 2.6*** is general because it applies to any $n$ vectors in the codomain, but we could alternatively try to map to the basis of $W$. There is only one linear transformation that maps the basis of $V$ to the basis of $W$ and in doing so, it completely maps $W$ with domain $V$. 
 
 # Conceptual summary and nuances
 - ***Linear algebra is about one kind of function.*** The linear algebra studied is restricted to a special kind of function of vectors: linear transformations. All the theorems in this book will apply to this special kind of function.

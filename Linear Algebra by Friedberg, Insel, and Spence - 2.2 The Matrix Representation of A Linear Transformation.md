@@ -8,12 +8,13 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
 
 
-To do math analytically, we need to ascribe mathematical objects to the concepts we talk about, and so in this chapter, we use matrices to represent linear transformations. The chapter is outlined as follows:
-1) The definition of a matrix representation of a linear transformation. This is defined by the transformation of the ordered basis of the domain vector vector space and the coefficients of the linear combination of the ordered basis in the image vector space
+To do math analytically, we need to ascribe mathematical objects to the concepts we talk about, and so in this chapter, we use matrices to represent linear transformations. Our defined matrix representation method is a linear transformation because it has the properties of additivity and homogeneity. We define the addition and scalar multiplication of linear transformation such that the collection of linear transformations is also a vector space. The chapter is outlined as follows:
+1) The definition of a matrix representation of a linear transformation. This is defined by the transformation of the ordered basis of the domain vector vector space and the coefficients of the linear combination of the ordered basis in the image vector space. The way we define the matrix representation is by design to give us nice properties in matrices and their ability to describe linear transformations
 2) Define the operations of addition and scalar multiplication with linear transformations
 3) From 2), we deduce that the collection of all linear transformations from $T: V \to W$  denoted $\mathcal{L}(V,W)$ obeys the vector space axioms and is itself a vector space
 4) Prove that the matrix representation of a linear transformation is itself a linear transformation.
 
+# Define the way to represent a linear transformation by a matrix. 
 We start out by defining some key terms:
 - ***Ordered basis***: a sequence of vectors that form the basis of a vector space. For two ordered vector spaces $\beta = \{v_1,v_2,v_3\}$ and $\alpha = \{v_1,v_3,v_2\}$, we have that $\alpha \ne \beta$.
 - Given any vector $x\in V$, it is known that $x = \sum_{i=1}^na_iv_i$ where $v_i$ is the basis for $V$. We describe the coefficients of that linear combination using the coordinate vector. The coordinate vector is always relative to a certain ordered basis. We call the vector of the coefficients relative to a specific ordering of the sequence of basis of the vector space the following: the coordinate vector of $x$ relative to ordered basis $\beta$ denoted $[x]_{\beta}=(a_{1},a_{2},\dots,a_{n})$. T<u>he coordinate vector defined this way is a linear transformation</u> to the $F^n$ vector space.
@@ -34,19 +35,22 @@ We note the following nuances when using the definition to represent a linear tr
 
 The Kronecker delta is defined as $\delta_{ij}= 1$ if $i=j$ and 0 otherwise. We then denote the identity matrix of size $n\times n$ by $I_n$ and define it its entries by $(I_n)_{ij}=\delta_{ij}$ 
 
-
+# Definition of addition and scalar multiplication of a linear transformation. We turn linear transformations into a vector space
 We now lead to a powerful result by showing that linear transformations can themselves be a vector space. To do so, we have to define the operations of addition and scalar multiplication:
 
-***Definition (sum of two linearly transformed vectors).*** Given vector spaces $V$ and $W$ with linear transformations $T: V \to W$ and $U: V\to W$, we denote the sum of a vector $x\in V$ transformed in these two different ways as follows: $$U(x)+T(x)=(U+T)(x)$$
+***Definition (sum of two linear transformations and scalar multiplication on a linear transformation).*** Given vector spaces $V$ and $W$ with linear transformations $T: V \to W$ and $U: V\to W$, we denote the sum of a vector $x\in V$ transformed in these two different ways as follows: $$U(x)+T(x)=(U+T)(x)$$
+The scalar multiplication $(aT)(x)$ of a linear transformation is then defined by the following: $$(aT)(x)=aT(x)$$ 
 We can then show that the sum and multiples of linear transformations are themselves linear transformations which leads to a powerful result in ***Theorem 2.7***: the collection of vector spaces are themselves vector spaces.
 
+The fact that the collections of linear transformations is itself a vector space (i.e. the collection of linear transformations obey the vector space axioms), we can relate the vector space of matrices to $\mathcal{L}(V,W)$ as shown in ***Theorem 2.8 (Matrix representation of a linear combination of linear transformations)***. ***Theorem 2.8*** implies that our defined way of mapping the matrix representation is a linear transformation because it has the two properties of linear transformations and we know that both the $\mathcal{L}(V,W)$ and the collection of $m\times n$ matrices are vector spaces.
 
-The fact that the collections of linear transformations is itself a vector space (i.e. the collection of linear transformations obey the vector space axioms), we can relate the vector space of matrices to $\mathcal{L}(V,W)$ as shown in ***Theorem 2.8 (Matrix representation of a linear combination of linear transformations)***
 # Definitions
 - ***Definition (Ordered Basis).***
 - ***Definition. (Coordinate vector of a vector relative to an ordered basis)***
 - ***Definition. (Addition and scalar multiplication operations of linear transformations)***
 - ***Definition. (Matrix Representation of a linear transformation in the ordered basis of the domain vector space and the codomain vector space)***
+- ***Definition. (The collection of linear transformations that map the vector space $V$ to the codomain $W$).*** We prove in ***Theorem 2.7*** that the collection of all linear transformations $T: V\to W$ is a vector space defined by the domain and codomain. We denote the collection of all such such linear transformations by $\mathcal{L}(V,W)$. 
+
 # Theorems
 ***Theorem 2.7 (Linearity of linear transformations themselves).*** Given two linear transformations $T, U: V\to W$ over a field $F$, we have that for any $a,b \in F$ 
 - $(aT+bW)(x)$ is a linear transformation
