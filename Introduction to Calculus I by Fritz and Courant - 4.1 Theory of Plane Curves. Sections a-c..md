@@ -5,8 +5,8 @@ tags:
 date_created: 2026-05-19
 parent: "[[Introduction to Calculus and Analysis I]]"
 ---
-Implicit relations:
-1) The definition of implicit relations and parametric representation
+Up to this point, we've only looked at single-variable functions which can represent a limited number of curves. Parametric functions are a more general class of functions that single-variable functions belong to and can represent more functions.
+1) The definition of implicit relations and parametric representation. The focus will be on implicit relations and
 2) The single-variable function is reduced to the parametric representation. The parametric representation gives us a rigorous definition for direction along a curve by the increase in the parameter.
 3) The change in parameter is done with a monotonic function on the parameter
 4) Examples of parametric representation in the following examples:

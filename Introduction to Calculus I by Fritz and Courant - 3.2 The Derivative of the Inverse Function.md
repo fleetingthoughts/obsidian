@@ -6,7 +6,9 @@ tags:
 date_created: 2026-03-28
 parent: "[[Introduction to Calculus and Analysis I]]"
 ---
-This chapter continues our application of our results from Chapter 2 to generally determine the derivatives of inverse functions to then determine the derivatives of the trigonometric functions and the exponential function with arbitrary base. The main tool developed is the derivative of the inverse of a function who's derivative is already known. The chapter is outlined as follows
+This chapter continues our application of our results from Chapter 2 to generally determine the derivatives of inverse functions. This lets us compute derivatives of a wider class of transcendental functions that are beyond the arithmetic properties of our [derivative properties in 3.1](Introduction%20to%20Calculus%20I%20by%20Fritz%20and%20Courant%20-%203.1%20The%20Simplest%20Rules%20for%20Differentiation%20and%20Their%20Applications.md). 
+
+We show how the derivative of the inverse of a function is determined once we know the derivative of the original function. We then apply the technique to determine the derivatives of the trigonometric functions and the exponential function with arbitrary base. The main tool developed is the derivative of the inverse of a function who's derivative is already known. The chapter is outlined as follows
 - The relationship between the derivative of a function to the derivative of the inverse
 - How to determine the derivative of the inverse of a function
 - The edge cases called critical points where the results of this chapter when the inverse of the function is not guaranteed and our results in this chapter may not apply at the critical points when the derivative is 0.
