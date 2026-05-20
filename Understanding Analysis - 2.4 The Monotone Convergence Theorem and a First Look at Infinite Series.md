@@ -38,15 +38,23 @@ $$\le \sum_{n=0}^{\infty}b_{n}=(b_{1})+(b_{2}+b_{2})+(b_{4}+b_{4}+b_{4}+b_{4}+b_
 Notice that the above term must have two times less terms than the original sum. And with this new series as an upper bound, we already have by hypothesis that it converges and has a bound so then the original series must have a bound.
 
 Some interesting notes from doing the exercises:
-- Exercise 2.4.5: [[Newton's method or the Babylonian method for calculating Square Roots]]
-- Exercise 2.4.6: [[The inequality of the arithmetic mean and geometric mean (AM-GM inequality)]] 
+- ***Exercise 2.4.1 and 2.4.2 (Solving the limit of recursive sequence).*** We look at the sequence $(x_n)$ defined recursively by $x_{n+1}=f(x_n)$. 
+	1) If the sequence is shown to converge, 
+	2) It can be proven that $\lim x_{n+1}=\lim x_n=L$ so that 
+	3) We can solve for $L$ by the equation $L=f(L)$ 
+- ***Exercise 2.4.5:*** [[Newton's method or the Babylonian method for calculating Square Roots]]
+- ***Exercise 2.4.6:*** [[The inequality of the arithmetic mean and geometric mean (AM-GM inequality)]] 
 
 
 # Definitions
-***Definition 2.4.1 (Monotonicity).***
+***Definition 2.4.1 (Monotonicity).*** A sequence $(a_n)$ is monotonically increasing if $a_{n}\le a_{n+1}$. A sequence is monotonically decreasing if $a_{n+1} \le a_{n}$. A monotonic sequence is either of these two. 
 
-***Definition 2.4.3 (Convergence of a Series as a Convergence of a Sequence of its Partial Sums).***
-
+***Definition 2.4.3 (Convergence of a Series as a Convergence of a Sequence of its Partial Sums).*** Let $(a_n)$ be an infinite sequence. An infinite series is defined as the infinite summation of the sequence: $$\sum_{i=1}^{\infty}a_i=a_{1}+a_{2}+a_{3}+\dots$$
+The partial sums are the sequence of $(s_m)$ that are the sums of the first $m$ terms: $$s_{m}=\sum_{i=1}^{m}a_i=a_{1}+a_{2}+a_{3}+\dots+a_{m}$$ An infinite series is said to converge if the sequence of its partial sums $(s_m)$ converges.
 # Theorems
+***Theorem 2.4.2 (Monotone Convergence Theorem).*** A sequence that is monotonic and bounded is guaranteed to converge.
 
-***Theorem 2.4.2 (Monotone Convergence Theorem).***
+***Theorem 2.4.6 (Cauchy Condensation Test: equivalence condition for convergence of an infinite series).*** Given an infinite sequence $(b_n)$, the infinite series of the sequence converges if and only if the following conditions are satisfied:
+1) $b_{n+1}\le b_{n}$ $\forall n$
+2) $0\le b_{n}$ $\forall n$ 
+3) The following modified sum converges: $$\sum_{k=0}^{\infty}2^kb_{2^k}= b_{1}+2b_{2}+4b_{4}+8b_{8}+16b_{16}+32b_{32}+\dots$$ 
