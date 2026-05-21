@@ -7,7 +7,7 @@ tags:
 date_created: 2026-05-15
 parent: "[[Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig]]"
 ---
-The previous chapters looked at determining the MVUE of the parameter from a well-known distribution. We now look at how to determine the MVUE of a function of a parameter if we know the MVUE of the parameter itself. The majority of the book is computational. We look at two different techniques and one method to estimate the standard error of an MVUE:
+The previous chapters looked at determining the MVUE of the parameter from a well-known distribution. We determine the MVUE of a function of a parameter if we know the MVUE of the parameter itself. We look at two different techniques and one method to estimate the standard error of an MVUE:
 1) Modifying the expected value of the function of the parameter. 
 	- Determine the asymptotic distribution of the MVUE of a function of a parameter using the mle. This method is not guaranteed to work.
 2) Use the conditional distribution given a sufficient statistic.
