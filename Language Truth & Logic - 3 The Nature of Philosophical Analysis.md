@@ -6,9 +6,9 @@ tags:
 date_created: 2026-05-16
 parent: "[[Language Truth & Logic]]"
 ---
-- Philosophy is not the search for explicit definitions
+- Philosophy is not the search for explicit definitions. It is the search for definitions in use.
 - We follow Bertrand's theory of definition descriptions which establishes rules for statements that entail the others as opposed to a synonymous relation.
-	- This promotes understanding and by establishing relationships between sentences
+	- Justification for definitions in use. It promotes understanding and by establishing relationships between sentences
 - The trap in using everyday English: ambiguity. Same word or phrase means different things.
 - Definitions by logical construction: they are a matter of convenience to truncate complicated webs of sensory data
 	- Explain by a common misunderstanding that that logical constructions are hypothetical fictitious objects that do not exist and are false. We are constructing a language to talk about truth and false, creating a logical construction is not the same as saying Hamlet is real. 
@@ -16,7 +16,7 @@ parent: "[[Language Truth & Logic]]"
 - Explicit definitions spawn metaphysical nonsense
 - The problem of perception: The issue of subjectivity when trying to reduce material things into sentences about sense contents. This is a form of phenomenalism 
 	- Subjectivity of sense contents which Ayer acknowledges
-- Resolve subjectivity problem of perception: by defining a material thing as a direct or indirect resemblence of sense contents in specific circumstances and to say two material things are equivalent is to say they are directly or indirectly continuous in sense contents. This is a symmetric relation
+- Resolve subjectivity problem of perception with definitions in use and logical constructions. by defining a material thing as a direct or indirect resemblence of sense contents in specific circumstances and to say two material things are equivalent is to say they are directly or indirectly continuous in sense contents. This is a symmetric relation
 - Provision to translate talk about "real" quality of a thing as a way to characterize those things in general and not necessarily an at the moment proposition of sense contents under "privileged conditions"
 - Two statements having "same meaning"  in common parlance is not the same as "equivalent". Ayer recognizes emotional impact that a proposition and cites it as a source of metaphysical confusion.
 - We should not be concerned with finding a separate language to define a way of talking logically in our current natural language. That results in infinite regress of a priori of finding the language that best describes that language to infinity.
