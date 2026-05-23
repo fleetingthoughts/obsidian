@@ -7,10 +7,13 @@ date_created: 2026-04-11
 parent: "[[Philosophy of Natural Science]]"
 ---
 Continuing the discussion from [chapter 5](Philosophy%20of%20Natural%20Science%20-%205%20Laws%20and%20Their%20Role%20in%20Scientific%20Explanation.md) on the outputs of scientific inquiry, we expand on types of explanations and look at theories and kind of explanations they offer as distinguished from empirical laws. The chapter is outlined as follows:
-- The two characteristics of a theory
-- What makes a good theory
+- The 2 criteria of a theory: internal principles and bridging principles
+- 3 characteristics of a good theory: 
+	1) Its standing with other established theories
+	2) Its ability to explain a phenomena of interest as only a special case of the internal principles. The one explanation does not trivially follow from the internal principles
+	3) From 2), the theory is therefore generalizable to cases outside the scope of the original explanation. 
 - Hempel's counterarguments to the critics of the realism of abstract ideas of a theory
-- Hempel's criticizes the need for theories to provide intuitive explanations and understanding
+- Hempel's criticizes the need for theories to provide intuitive explanations and understanding. Gaining understanding is the goal and intuitive understanding is not a requirement
 
  As he has in previous chapters, Hempel begins with a comparison between accepted and good scientific theories and bad theories such as the neovitalistic doctrines to provide an intuitive understanding of a proper scientific theory. In his comparison, Hempel highlights that scientific theories are form of explanation and have the same necessary requirements, testability in principle and explanatory import. What distinguishes a scientific theory is how these requirements are manifested.
  - Internal principles: The abstract concepts that are invented to provide explanatory import, that is, they provide the deductive reason that a phenomena occurs. The internal principles are characterized by its abstract ideas couched in the positivists language theory in <u>theoretical terms</u> that are defined by <u>antecedently available terms</u> also referred to as <u>pretheoretical terms</u>.

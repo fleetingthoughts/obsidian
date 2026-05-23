@@ -8,7 +8,7 @@ parent: "[[Philosophy of Natural Science]]"
 ---
 
 The final chapter examines the reduction of one scientific field into another. The concepts are explained and argued using the recurring example of the neovitalistic doctrine of vital forces and entelechies. The neovitalistic doctrine proposes that living systems are driven by vital forces and entelechies that cannot be explained by physical sciences alone. Hempel has repeatedly used this doctrine as a counterexample of improper science and it will be the central illustrative example of this chapter. The chapter is outlined as follows:
-- The structure of a theoretical reduction of one field into another characterized by two processes:
+- The structure of a theoretical reduction of one field into another characterized by two processes using the proposed reduction of biology into the theory of physics and chemistry as an example:
 	1) The characteristics of biology can be fully described in terms of the concepts of physics and chemistry
 	2) The concepts of biology can be explained by the laws and theories of physics and chemistry
 - The 

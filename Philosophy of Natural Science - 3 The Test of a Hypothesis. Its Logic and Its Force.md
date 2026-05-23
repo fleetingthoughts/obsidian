@@ -8,7 +8,7 @@ parent: "[[Philosophy of Natural Science]]"
 ---
 With the previous chapter outlining a criteria for the overall scientific process of testing and hypotheses and its inherent limitations both deductively and practically, we now look at one of these elements, testing, and discuss in further details its deductive and practical limitations. The chapter outlined as follows:
 1) 3 characteristics of an experimental test and its role in science and that it is not a distinguishing feature of science
-2) The relationship between testing and hypothesis: the reliability of a test to confirm or deny a hypothesis due to auxiliary hypotheses
+2) Beyond the deductive limitations in testing a hypothesis: the reliability of a test to confirm or deny a hypothesis due to auxiliary hypotheses
 3) The unreliability of testing conclusions due to auxiliary hypotheses resulting in the possibility of ad-hoc hypotheses. Hempel's proposed guidelines for an appropriate ad hoc.
 4) The criteria of empirical import in a hypothesis to allow for testing and the nuances with testability "in-principle"
 Hempel proposes 3 criteria for an experimental test:

@@ -6,9 +6,9 @@ tags:
 date_created: 2026-03-29
 parent: "[[Philosophy of Natural Science]]"
 ---
-In this chapter, Carl Hempel proposes that the essential criteria that distinguishes empirical natural sciences from non-empirical sciences and social sciences in its aim to discover the world through a process called the scientific inquiry. The chapter outlines a proposed basic structure of a scientific inquiry (i.e. hypothetico-deductive method that is not coined by him) from which specific elements such as the confirmation, the standard by which a proposition is accepted, etc. are explored in future chapters. The overview of the scientific inquiry is outlined as follows
+In this chapter, Carl Hempel proposes that the essential criteria that distinguishes empirical natural sciences from non-empirical sciences and social sciences is its aim to discover the world through a process called the scientific inquiry. The chapter outlines a proposed basic structure of a scientific inquiry (i.e. hypothetico-deductive method that is not coined by him) from which specific elements such as the confirmation, the standard by which a proposition is accepted, etc. are explored in future chapters. The overview of the scientific inquiry is outlined as follows
 - A historical case study in the scientific inquiry by Ignaz Semmelweiss to determine why one of the divisions experienced more childbirth deaths than another ward and how to prevent it.
-- The dichotomy of a scientific inquiry in the formulation of a hypothesis and the testing of a hypothesis
+- The two components scientific inquiry: hypothesis generation and the testing of a hypothesis
 - Hempel's proposed "method of hypothesis" (hypothetico-deductive method) of testing of the deductions of a hypothesis and an assessment of the deductively valid and invalid conclusions
 - The formulation of a hypothesis. The caveats with inductive inference and Hempel's criticism of the narrow inductivist conception of scientific inquiry in which hypotheses are formed by inductive inference from antecedently collected data
 - The role of imagination and creativity in the inductive and deductive inquiries due to the inability to formulate deductive rules to guide inferential procedures that formulate a conclusion from presupposed data
