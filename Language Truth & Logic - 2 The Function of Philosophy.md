@@ -15,7 +15,8 @@ If metaphysics and inquiries into a transcendent reality outside of our senses i
 3) Philosophy does not attempt to solve Hume's problem of induction. The two ways to approach the problem of induction do not work so the only fruitful strategy is to abandon it completely:
 	- ***Epistemic Regress/ Hume's Dilemma.*** Attempting to determine a priori that derives induction such as a "uniformity of nature" only shifts the problem to that a priori. 
 	- Using empirical statements to justify the problem of induction is circular reasoning
-4) Two things we try to satisfy in defining the purpose of philosophy:
+4) Because it is an impossible to justify scientific inquiry, we have to define it. The rationality of science is defined analytically by the success of their outcomes.
+5) Two things we try to satisfy in defining the purpose of philosophy:
 	- Philosophy is some kind of special branch of knowledge which aligns with the verifiability criteria.  Metaphysics fails this
 	- Consistent with past philosophers.
 5) Provide several examples of great philosophers whose work respects the verifiability criteria and does not fall victim to nonsensical metaphysics

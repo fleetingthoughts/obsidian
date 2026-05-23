@@ -7,7 +7,7 @@ tags:
 date_created: 2026-05-18
 parent: "[[Language Truth & Logic]]"
 ---
-We adopt the verification criteria and admit to a form of empiricism; therefore, we deal with the traditional criticisms against empiricism: the effectiveness of mathematics and their apperant certainties. We assert that math contains no factual content as they are necessarily true tautologies and its usefulness is in giving us a consistent linguistic way to talk in a uncontradictory way about synthetic propositions  and the sense of "effectiveness" is psychological:
+We adopt the verification criteria and admit to a form of empiricism; therefore, we deal with the traditional criticisms against empiricism: the effectiveness of mathematics and their apparent certainties. We assert that math contains no factual content as they are necessarily true tautologies and its usefulness is in giving us a consistent linguistic way to talk in a uncontradictory way about synthetic propositions and the sense of "effectiveness" is psychological:
 1) Hume's problem of induction means we can never be logically certain about any synthetic proposition and so it is irrational for us to believe. We solve the problem by flipping it around. It is irrational to assume that it is irrational for us to only believe something when it is logically guaranteed for that is expecting the impossible.
 2) Our version of empiricism asserts [no fact can be guaranteed](Language%20Truth%20&%20Logic%20-%201%20The%20Elimination%20of%20Metaphysics.md), so we provide an explanation for the statements that are a certainty, namely in mathematics. There have been two traditional approaches to this:
 	1) We deny that they are certainties to begin with, in which case we have to account for the possibility that they are
