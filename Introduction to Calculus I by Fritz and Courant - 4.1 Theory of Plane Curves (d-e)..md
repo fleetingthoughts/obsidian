@@ -18,3 +18,6 @@ We define terms that will serve as the preliminary foundation for the sense of d
 5) $x$ and $y$ component.
 6) Derive the directional cosines of a curve that parametrizes a curve in polar coordinates.
 
+
+# Summary of points and nuances
+- The sense of a curve is defined by increasing with respect to a chosen reference parameter. If we apply a change in parameter with a monotonically decreasing parameter then the direction with respect to that new parameter is the opposite direction
