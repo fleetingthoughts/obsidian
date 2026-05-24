@@ -8,16 +8,16 @@ date_created: 2026-02-17
 parent: "[[Introduction to Calculus and Analysis I]]"
 ---
 The chapter contains a review of the basic concepts for real analysis. The authors go over the following key concepts:
-- Rational numbers
-- An intuitive appeal to understand the denseness of Rational Numbers on the number line (yet to be defined)
-- The existence of incommensurable quantities
-- Demonstration of proof by contradiction
-- A description of irrational numbers in terms of rational numbers.
-- Postulate of Nested Intervals (or [Axiom of continuity](Understanding%20Analysis%20-%201.3%20The%20Axiom%20of%20Completeness.md)).
-- Decimal representation of a number as a nested intervals of lengths divisible by 10.
-- Properties of inequalities
-	- absolute value in inequalities
-	- triangle inequality
+1) The axiomatic operations of addition, multiplication with the field properties
+2) An intuitive appeal to understand the denseness of Rational Numbers on the number line
+3) The existence of incommensurable quantities
+4) Demonstration of proof by contradiction
+5) A description of irrational numbers in terms of rational numbers.
+6) Postulate of Nested Intervals (or [Axiom of continuity](Understanding%20Analysis%20-%201.3%20The%20Axiom%20of%20Completeness.md)).
+7) Decimal representation of a number as a nested intervals of lengths divisible by 10.
+8) Properties of inequalities
+	- Absolute value in inequalities.
+	- Triangle inequality.
 	- [Cauchy-Schwarz Inequality](Cauchy-Schwartz%20Inequality.md)
 
 Rational number are in the form $p/q$ where $p$ and $q\ne 0$ are integers. Further more, the rational operations (addition, multiplication, subtraction and division) are closed within the rational numbers, that is, any operation between rational numbers will produce rational numbers. This is not the case with natural numbers as $1-2=-1$  is not a natural number.

@@ -20,7 +20,8 @@ The author goes through examples to prove the continuity of a function. In gener
 
 The $\delta$ in the definition of continuity is referred to as the "modulus of continuity" and can be thought of as a way of communicating how sensitive a function changes with respect to its variable. The modulus of continuity is not unique for when we find a modulus of continuity that satisfies an $\epsilon$, we can always choose a smaller $\delta' <\delta$ that satisfies the same $\epsilon$. We define different types of continuity on the way way $\delta$ changes with $\epsilon$:
 - ***Uniform Continuity.*** The function distance $|f(x)-f(x_o)|<\epsilon$ can be made arbitrarily small for any two points $x$ and $x_o$ as long as $|x-x_o|$ is less than some $\delta$. In other words, the modulus of continuity is solely a function of our $\epsilon$.
-- ***Lipschitz Continuity.***
+- ***Lipschitz Continuity.*** The desired tolerance is proportional to the required modulus of continuity: $$|f(x)-f(x_0)|<L|x-x_o| \text{\quad for }L\in\mathbb{R}$$ 
+ 
 - ***Holder Continuity.***
 
 A property of continuous functions is the fact that it has no "jumps" so that if it passes through any two numbers, it must also have gone through all the numbers in between. 
