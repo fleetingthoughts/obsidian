@@ -24,8 +24,9 @@ The $\delta$ in the definition of continuity is referred to as the "modulus of c
  
 - ***Holder Continuity.***
 
-A property of continuous functions is the fact that it has no "jumps" so that if it passes through any two numbers, it must also have gone through all the numbers in between. 
-***Intermediate Value Theorem (p.44)***. Given a function $f(x)$ that is continuous at every point in the interval $[a,b]$. Let $\theta$ be a number in $(f(a), f(b))$, then there must exist a number $\gamma$ such that $a< \gamma < b$ so that $\theta = f(\gamma)$.
+A property of continuous functions is the fact that it has no "jumps" so that if it passes through any two numbers, it must also have gone through all the numbers in between.
+
+***Intermediate Value Theorem (p.44)***. Given a function $f(x)$ that is continuous at every point in the interval $[a,b]$. Let $\theta$ be a number between $(f(a), f(b))$, then there must exist a number $\gamma$ such that $a< \gamma < b$ so that $\theta = f(\gamma)$.
 
  In the definition of continuity, we are effectively determining whether there's a function that maps our choice of $\epsilon>0$ to $\delta$ (i.e. find $\delta(\epsilon)$ ) Note that this does not mean the converse is true, that is, for function that is continuous by our original definition, given a $\delta>0$ we may not necessarily find a $\epsilon$ . We for instance cannot reverse the roles of $\delta$ and $\epsilon$ in the definition of continuity as :
 
