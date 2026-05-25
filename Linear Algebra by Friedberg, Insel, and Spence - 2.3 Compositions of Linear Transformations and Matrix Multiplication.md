@@ -30,6 +30,9 @@ The fact that compositions of linear functions are themselves linear transformat
 - ***Theorem 2.12***: Distributive property of matrix multiplication and associativity with scalar multiplication.
 - ***Theorem 2.16***: Associativity of matrix multiplication
 
+# Summary of computational aspects
+1) Notice in the representation of composition of linear transformations by matrix multiplication how the ordered basis line up in the domain and the codomain.
+
 
 # Definitions
 - Left multiplication matrix denoted $L_A:F^n \to F^m$ where $L_A$ has a $m \times n$ matrix representation. 
