@@ -7,9 +7,14 @@ parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
 
 Now that matrix operations have been defined in a way that lets us represent any linear transformations, we are now in a position to look at the inverse of linear transformations and show that matrices can be used in general to relate any general vector spaces that satisfy the criteria of isomorphism. The chapter is outlined as follows:
-- Definition of invertible linear transformation, properties of invertible linear transformation and the criteria for invertibility
-- Definition of invertible matrix and how it shares all the same properties as invertible linear transformations that let us carry over our results and matrix operations
-- The generalization of the fact that vector spaces can be represented by matrices: isomorphism
+1) Definition of invertible linear transformation by composition of functions resulting in the identity linear transformation
+2) The inverse of a linear transformation is also a linear transformation
+3) Definitions of the inverse of a matrix by matrix multiplication resulting in a product of the identity matrix
+4) A linear transformation is invertible if and only if its matrix representation is also invertible.
+5) The definition of two vector spaces being isomorphic if there exists an isomorphism: a invertible linear transformation.
+6) Two vector spaces are isomorphic if and only if they have the same dimensions
+7) The transformation of matrix representation of a linear transformation is an isomorphism between the collection of linear transformations and the appropriate $m \times n$ matrix vector space.
+8) Define the standard representation of a vector space by the isomorphism to matrix representation
 # Invertibility and the linearity of the inverse of a linear transformation
 ***Definition (Inversion of a linear transformation).*** Given $T: V \to W$ a matrix $U: W \to V$ is its inverse if $TU = I_W$ and $UT = I_V$. The inverse $U$ is denoted as $T^{-1}$
 
@@ -35,15 +40,37 @@ Unofficial theorem: The inverse of an invertible matrix is unique
 
 This lets us use the $n$-tuple vector space $F^n$ to relate to any vector space since it is isomorphic with any vector space with a dimension of $n$.
 
-***Theorem 2.20 (Relationship between linear transformations and $m \times n$ matrices).*** Given a vector space $V$ and $W$ with dimensions $n$ and $m$ respectively and with ordered bases $\beta$ and $\gamma$ respectively, then the function $\Phi_{\beta}^{\gamma}: \mathcal{L}(V,W)\to M_{m\times n}(F)$ defined by $\Phi_{\beta}^{\gamma}(T)=[T]_{\beta}^{\gamma}$ for $T \in mathcal{L}(V,W)$ 
+***Theorem 2.20 (Relationship between linear transformations and $m \times n$ matrices).*** Given a vector space $V$ and $W$ with dimensions $n$ and $m$ respectively and with ordered bases $\beta$ and $\gamma$ respectively, then the function $\Phi_{\beta}^{\gamma}: \mathcal{L}(V,W)\to M_{m\times n}(F)$ defined by $\Phi_{\beta}^{\gamma}(T)=[T]_{\beta}^{\gamma}$ for $T \in \mathcal{L}(V,W)$ is an isomorphism 
 
-Colloquially, what theorem 2.20 says is that the collection of linear transformations from vector spaces of dimensions $n$ to vector spaces of dimension $m$ is isomorphic with the vector space of $m \times n$ matrices. The function $\Phi$ is one that takes the linear transformations and ascribes a $m \times n$ matrix to it, and it is a bijective function (invertible and an isomorphism). 
+The significance of isomorphisms is in ***Theorem 2.19***. All vector spaces with the same definitions have an invertible linear transformation that can map between them and ***Theorem 2.20*** gives us a candidate for what vector space we can use to centralize all of them: the matrix vector space. This lets us use the matrix vector space as the "standard" to represent all same dimensioned vector spaces which is formalized as a definition below. 
 
-Since the vector space of linear transformations is isomorphic with $m \times n$ matrices, then that means $\mathcal{L}(V,W)$ is finite dimensional $mn$.
+Now that we have a candidate to standardize the vector spaces of the same dimension, what about the change of vectors within those vector spaces to another vector space of a different dimension. We can only talk about linear transformations (since that's all we study) and the collection of all linear transformations too is a vector space. So as with before, we can standardize that vector space by the matrix vector space as ***Theorem 2.20*** proves because the matrix representation of a linear transformation is a invertible linear transformation.
+
+In summary, any talk about vector spaces and talk about changes of vectors by linear transformation can be standardized by a matrix representation
+
 
 # Standardization of the representation of a vector space using the $n$-tuple vector space $F^n$.
 In summary, any linear transformation can be uniquely represented by matrices with respect to a certain ordered base (note that the matrix that can map vector space to another vector space is technically not unique but we force it to by using a specific order of bases). In the beginning of [2.2 The Matrix Representation of A Linear Transformation](Linear%20Algebra%20by%20Friedberg,%20Insel,%20and%20Spence%20-%202.2%20The%20Matrix%20Representation%20of%20A%20Linear%20Transformation.md), we had defined the the coordinate vector with respect to an ordered basis, but now with the concept of isomorphism, we can see that process of mapping a vector $v\in V$ to a coordinate vector with respect to an ordered basis is just an isomorphism that maps $V\to F^n$ where $n=dim(V)$. We now discard that previous definition and proceed with one rooted in our theorems by defining it as a particular linear transformation linear transformation and as a result, we can prove that it is an isomorphism (see ***Theorem 2.21***). This demonstrates we can always represent any vector in a vector space uniquely with an equal dimension $F^n$-tuple.
 
 ***Definition (standard representation of a vector space with respect to an ordered basis).*** The standard representation of $V$ with respect to an ordered basis $\beta$ is the function $\phi_{\beta}=V\to F^n$ defined by $\phi_{\beta}(x)=[x]_{\beta}$ for each $x \in V$. The linear transformation $\phi$ has been called the coordinate mapping or coordinate isomorphism too. 
+
+***Theorem 2.21 (Isomorphism of the function that standardizes the representation of a vector space).*** The $\phi_{\beta}$ from the definition directly above is an isomorphism (i.e. it is bijective).
+
+# Definitions
+***Definition (Inversion of a linear transformation).*** 
+
+***Definition (isomorphic vector spaces and isomorphism).***
+
+***Definition (standard representation of a vector space with respect to an ordered basis).*** 
+
+# Theorems
+
+***Theorem 2.17 (the inverse of a linear).***
+
+***Theorem 2.18 (Invertibility of a linear transformation is equivalent to the invertibility of its matrix representation).***
+
+***Theorem 2.19. (Equivalence criteria for isomorphism).*** 
+
+***Theorem 2.20 (Relationship between linear transformations and $m \times n$ matrices).
 
 ***Theorem 2.21 (Isomorphism of the function that standardizes the representation of a vector space).*** The $\phi_{\beta}$ from the definition directly above is an isomorphism (i.e. it is bijective).

@@ -6,9 +6,20 @@ tags:
 date_created: 2026-03-14
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-In 2.2, we had demonstrated how the representation of linear transformations by matrices can describe the sum of two different transformations of a vector. We now discuss the representation of a composition of linear transformations which leads to a definition of matrix multiplication to represent it. Throughout this chapter $V$, $Z$, and $W$ will be vector spaces over $F$ and $T V\to W$ will be linear transformations $T$ and $U$ that take vector in $V$ to vectors in $W$.
+In 2.2, we had demonstrated how the representation of linear transformations by matrices can describe the sum of two different transformations of a vector. The addition operation between matrices was defined to result in a sum that is the matrix representation of the sum of the linear transformations. We now execute the same strategy and define a matrix multiplication operation that matches the "multiplication" of linear transformation known as the composition of linear transformations:
+1) Define multiplication between matrices in the $m \times n$ matrix vector space. The structural requirements in the number of rows and columns for matrix multiplication to be defined
+2) The composition of linear transformations is a linear transformation
+3) Linking 1) and 2), the definition in 1) was created explicitly so that the resulting linear transformation has a matrix representation that is the product of the constituent linear transformations.
+4) Properties of matrix multiplication the $m \times n$ vector space that will be used to show they are consistent with the properties of a linear transformation
+	1) It is distributive
+	2) It is associative
+5) Matrix multiplication is used to represent the transformation on a singular vector.
+6) Define the linear transformation $L_A(x):F^n \to F^m$ that takes a $n$-tuple vector, and left multiplies it by the matrix $A$ to result in a $m$-tuple. This can be proven to be a linear transformation
 
-We first propose the reason why we're interested in the representation of a composition of linear transformations. To denote a composition of linear transformations, say the transformation by $T$ first and then taking the resulting image and transforming it with $U$ is represented as $U(T(x))$. As ***Theorem 2.9 (Linearity of composition of linear transformations)*** demonstrates, this composition is itself linear which motivates us to find some operation between the component matrices that results in the final compositional matrix. We also show in ***Theorem 2.10*** that a composition of matrix have the following properties in common with the usual algebraic operations of real numbers:
+
+We first propose the reason why we're interested in the representation of a composition of linear transformations. To denote a composition of linear transformations, say the transformation by $T$ first and then taking the resulting image and transforming it with $U$ is represented as $U(T(x))$. As ***Theorem 2.9 (Linearity of composition of linear transformations)*** demonstrates, this composition is itself linear which motivates us to find some operation between the component matrices that results in the final compositional matrix. 
+
+We also show in ***Theorem 2.10*** that a composition of matrix have the following properties in common with the usual algebraic operations of real numbers:
 - Right and left distributive properties
 - Associativity of transformations
 - Existence of multiplicative identity
@@ -16,7 +27,7 @@ We first propose the reason why we're interested in the representation of a comp
 Notice that we do not have commutativity between linear transformations. 
 
 The fact that compositions of linear functions are themselves linear transformations means we can be motivated to represent compositions with a matrix derived from the composite matrices. W<u>e define a form of matrix multiplication specifically so that composition of linear transformations result in a linear transformation that can be derived by their matrix multiplication</u> as derived in ***Theorem 2.11.*** In defining matrix multiplication this way, we satisfy all the properties of linear transformations derived in ***Theorem 2.9***:
-- 
+- ***Theorem 2.12***: Distributive property of matrix multiplication and associativity with scalar multiplication.
 - ***Theorem 2.16***: Associativity of matrix multiplication
 
 
@@ -25,7 +36,7 @@ The fact that compositions of linear functions are themselves linear transformat
 # Theorems
 - ***Theorem 2.9 (The linearity of composition of linear transformations).*** Given a linear transformation $T:V \to W$, and $U: W \to Z$ , the transformation $UT:V \to Z$ is linear
 - ***Theorem 2.10 (Properties of compositions of linear transformations). Given $T, U_1, U_2 \in \mathcal{L}(V)$. Then we have the following properties
-	1) Right and left distributive properties:  $T(U_1+U_2)=TU_1+tU_2$ and $(U_1+U_2)T = U_1T+U_2T$. (Notice that we do not imply commutativity here
+	1) Right and left distributive properties:  $T(U_1+U_2)=TU_1+TU_2$ and $(U_1+U_2)T = U_1T+U_2T$. (Notice that we do not imply commutativity here
 	2) Associative properties: $T(U_1U_2)=(TU_1)U_2$ 
 	3) Existence of the identity: $TI=IT=T$
 	4) Commutativity and associativity of scalar multiplication: $a(U_1U_2)=(aU_1)U_2=U_1(aU_2)$ 
