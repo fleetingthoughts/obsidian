@@ -15,6 +15,7 @@ We deal with the proposition that statements of value and aesthetic are syntheti
 5) We reject that our position is a radical subjectivist position as subjectivism attempts to validate propositions by one's own personal feelings, but the type of propositions analyzed are not about one's feelings, it is a mere by-product. 
 	1) Subjectivist assert the existence of feelings is necessary and sufficient to propositions of judgements.
 	2) We assert those are two
+6) We reject G.E Moore's claim that ethical propositions cannot be emotive or be equivalent to one's personal feelings at all on the grounds that the ethical propositions that Moore presupposes are not empirical propositions at all to begin with.
 
 # Terms
 - Subjectivist ethics
