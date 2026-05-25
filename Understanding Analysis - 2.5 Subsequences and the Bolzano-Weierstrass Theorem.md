@@ -7,7 +7,10 @@ tags:
   - stephen_abbot
 date_created:
 ---
-We set aside infinite series for now and return to infinite sequences and look at the subsequence.
+We look at the properties of sequences within a sequence called a subsequence. Some problems can be modelled as subsequences of an original sequence, but the subsequence can tell us something about the original sequence such as the value of the limit:
+1) The definition of the subsequence. How to prove a sequence is a subsequence of another sequence
+2) The properties of the original sequence constrain the subsequences: the subsequence converges to the same limit as the original sequence
+3) The Bolzano-Weierstrass Theorem: bounded sequences have convergent subsequences.
 
 ***Definition 2.5.1 (Subsequences).*** Let $(a_n)$ be a sequence of real numbers and let $n_1\lt n_2 \lt n_3\dots$  be an increasing sequence of natural numbers. Then the sequence
 $$ (a_{n_{1}},a_{n_{2}},a_{n_{3}},\dots)$$ is called a subsequence of $(a_n)$ and denoted by $(a_{n_k})$ where the $k \in N$ indexes the subsequence.
@@ -20,7 +23,6 @@ From these subsequences we have interesting properties that can tell us somethin
 
 ***Theorem 2.5.2 (Convergence of the subsequence).*** Subsequences of a convergent sequence must converge to the same limit as the original sequence.
 
-Proof. Since $a_n$ converges, this means $|a_n -a| \lt \epsilon$ for $n \ge N$. For any subsequence, it is then sufficient to set a $n_{k} \ge n \ge N \to k\ge N$    so that $|a_{n_k} -a| \lt \epsilon$  
 
 This property of subsequence lets us figure out something about any original sequence it can be a part of. For example it is hard to figure out what the original sequence converges to, but knowing it converges to the same limit as the subsequence gives us an equation to work with. See the example in the book that shows how if $0 \lt b \lt 1$, that we can show the sequence of $(b^n)$ converges by showing $(b^{2n})$ converges to $l$ so that  $b^{2n}= b^n b^n \to l*l = l$ . The book doesn't mention that it is possible that $l$ could be 1 but a quick check by the epsilon-delta definition will confirm that isn't the case so it must be 0.
 
@@ -39,3 +41,13 @@ Proof. The proof is done by producing a set of nested intervals and appealing to
 It can be seen that the length of this nested interval is $M(1/2)^{k-1}$ that converges to 0 (this technically entails us proving that $\frac{1}{2^{k-1}}$ converges to 0) and so this means we can make the the length of $I_k$ less than $\epsilon$ for some $k\ge N$ . Because we selected an interval that contains an infinite number of terms, we can always choose some term $a_{n_k}$ from the interval $I_k$ such that $n_k > n_{k-1}$ and the relative ordering of the original $(a_n)$ sequence doesn't change. Also we can choose an $x$ which implies $|a_{n_k}-x|\lt \epsilon$ for some $k\ge N$.
 
 <u>Question: </u>how can we show that the $a_{n_k}$ that we choose for each bisection interval is such that we can always construct $n_1 <n_2 < n_3\dots$ that is we need to be able to construct a subsequence that does not change the relative order of the elements from the original sequence. Answer: Its because we always select an interval with infinite terms from the original sequence.
+
+# Definitions
+***Definition 2.5.1 (Subsequences).***
+
+# Theorems
+
+***Theorem 2.5.2 (Convergence of the subsequence).***
+
+***Theorem 2.5.5 (Bolzano-Weierstrass Theorem).***
+
