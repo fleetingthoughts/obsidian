@@ -31,7 +31,7 @@ The fact that compositions of linear functions are themselves linear transformat
 - ***Theorem 2.16***: Associativity of matrix multiplication
 
 # Summary of computational aspects
-1) Notice in the representation of composition of linear transformations by matrix multiplication how the ordered basis line up in the domain and the codomain.
+1) ***Ensure ordered basis for each linear transformation in a composition or in matrix multiplication match up.*** Notice in the representation of composition of linear transformations by matrix multiplication how the ordered basis line up in the domain and the codomain. 
 
 
 # Definitions

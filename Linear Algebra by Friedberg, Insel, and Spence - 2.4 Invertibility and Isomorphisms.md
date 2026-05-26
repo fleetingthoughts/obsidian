@@ -56,6 +56,15 @@ In summary, any linear transformation can be uniquely represented by matrices wi
 
 ***Theorem 2.21 (Isomorphism of the function that standardizes the representation of a vector space).*** The $\phi_{\beta}$ from the definition directly above is an isomorphism (i.e. it is bijective).
 
+# Summary of theoretical aspects
+- ***What does knowing that two vector spaces are isomorphic tell us.***
+	1) $\exists$ a invertible linear transformation between the two. We usually standardize both by the matrix vector space called the standard representation
+# Summary of computational aspects
+- ***Determine whether two vector spaces are isomorphic.***:
+	1) Check if their dimensions are equal
+-  ***Determine whether a linear transformation is an isomorphism.***
+	1) First check if the domain has the same dimensions as the codomain
+	2) Linear transformation must be bijective
 # Definitions
 ***Definition (Inversion of a linear transformation).*** 
 
