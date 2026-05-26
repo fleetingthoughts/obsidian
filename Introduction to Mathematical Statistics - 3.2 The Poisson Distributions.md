@@ -6,6 +6,13 @@ tags:
   - "#robert_hogg"
 date_created: 2026-02-13
 ---
+We study the properties of the Poisson distribution and show what situations create them:
+- The pdf of the Poisson distribution and can be proven as a pdf by applying the Maclaurin series of the $e^x$
+- The Poisson distribution arises from Poisson processes which have 3 fundamental properties:
+	1) Homogeneity with the parameter of interest. 
+	2) Independence with other intervals
+	3) Singularity. Multiple event cannot occur simultaneously.
+
 The Poisson random variable is a discrete one that has the following distribution:
 $$p(x) = \frac{\lambda^xe^{-\lambda}}{x!}$$
 where $x = 0,1,2,3,..$ is a natural number and the probability is 0 anywhere else. The cdf is in general not analytic. To demonstrate a lot of the properties of the Poisson distribution, we make use of the series expansion for all real numbers $z$
@@ -25,7 +32,7 @@ The book does not explain this, but note that axiom 1) implies stationarity, tha
 It is then proven that the [[Sum of random variables with the identical Poisson distribution is itself a Poisson distribution]]. <u>Note that in general, a linear combination of Poisson distributed random variables is not a Poisson distribution itself (i.e. the coefficients must be 1)</u>
 ***Theorem 3.2.1 (Sum of Random variables with a Poisson distribution).*** Suppose $X_1,  X_2,..,X_n$ are random variables with a Poisson distribution each with a corresponding parameter $\lambda_i$. If $Y= \Sigma^{\infty}_{i=1}X_i$, then $Y$ is a Poisson distribution with the parameter $Y= \Sigma^{\infty}_{i=1}\lambda_i$ 
 
-Some interesting properties of the Poisson distribution from doing exercises:
+# Concepts from exercises
 - Exercise 3.2.4: [[Recursive property of the probability of Poisson Random variables]]
-- Exercise 3.2.14: [[The mode of the Poisson Distribution]]
+- Exercise 3.2.7: [[The mode of the Poisson Distribution]]
 
