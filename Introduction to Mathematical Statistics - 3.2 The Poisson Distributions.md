@@ -33,6 +33,7 @@ It is then proven that the [[Sum of random variables with the identical Poisson 
 ***Theorem 3.2.1 (Sum of Random variables with a Poisson distribution).*** Suppose $X_1,  X_2,..,X_n$ are random variables with a Poisson distribution each with a corresponding parameter $\lambda_i$. If $Y= \Sigma^{\infty}_{i=1}X_i$, then $Y$ is a Poisson distribution with the parameter $Y= \Sigma^{\infty}_{i=1}\lambda_i$ 
 
 # Concepts from exercises
-- Exercise 3.2.4: [[Recursive property of the probability of Poisson Random variables]]
-- Exercise 3.2.7: [[The mode of the Poisson Distribution]]
+- ***Exercise 3.2.4 (The recursive property of the Poisson Distribution) [[Recursive property of the probability of Poisson Random variables]]
+- ***Exercise 3.2.7 the mode of the Poisson distribution is around $X=\lambda$ depending on whether $\lambda$ is an integer or not***: [[The mode of the Poisson Distribution]]
+- ***The Binomial distribution tends to a Poisson distribution as the number of trials increases where $p=\lambda$.***
 
