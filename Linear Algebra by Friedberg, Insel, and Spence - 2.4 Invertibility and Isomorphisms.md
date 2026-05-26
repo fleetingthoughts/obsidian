@@ -21,6 +21,9 @@ Now that matrix operations have been defined in a way that lets us represent any
 ***Theorem 2.17 (the inverse of a linear).*** If $T$ is linear, and invertible, than $T^{-1}$ is linear.
 
 ***Corollary.*** If $T$ is an invertible linear transformation of $V$ to $W$ then $dim(V)=dim(W)$.
+
+The inverse of an invertible linear transformation $A$  is defined by its commutativity with $A$ and that their product results in the identity matrix.
+
 # Matrix representation of the inverse of a linear transformation
 We defined invertibility of a linear transformation, now we define the invertibility of a matrix and show how the inverse of a matrix is a matrix representation of the inverse
 
@@ -28,7 +31,8 @@ We defined invertibility of a linear transformation, now we define the invertibi
 
 ***Corollary.*** The matrix $A$ is invertible if and only if its left multiplication $L_A$ is invertible. 
 
-Unofficial theorem: The inverse of an invertible matrix is unique
+Unofficial theorem: The inverse of an invertible matrix is unique.
+
 
 ***Theorem 2.18 (Invertibility of a linear transformation is equivalent to the invertibility of its matrix representation).*** A linear transformation is invertible <u>if and only if</u> its matrix representation $[T]^{\gamma}_{\beta}$ is invertible, that is there exists a $T^{-1}$. Furthermore, the matrix representation of the linear transformation is $[T^{-1}]^{\beta}_{\gamma}= ([T]^{\gamma}_{\beta})^{-1}$ .
 
@@ -59,12 +63,15 @@ In summary, any linear transformation can be uniquely represented by matrices wi
 # Summary of theoretical aspects
 - ***What does knowing that two vector spaces are isomorphic tell us.***
 	1) $\exists$ a invertible linear transformation between the two. We usually standardize both by the matrix vector space called the standard representation
+- ***The transpose of the multiplication of matrices.*** $(AB)^t=(B^tA^t)$
 # Summary of computational aspects
 - ***Determine whether two vector spaces are isomorphic.***:
 	1) Check if their dimensions are equal
 -  ***Determine whether a linear transformation is an isomorphism.***
 	1) First check if the domain has the same dimensions as the codomain
 	2) Linear transformation must be bijective
+- ***Prove that a matrix $A$ has an inverse or $B$ is the inverse of A.*** 
+	1) To prove an inverse exists is to prove $\exists$  $B$ ,  $BA=AB=I$ 
 # Definitions
 ***Definition (Inversion of a linear transformation).*** 
 
