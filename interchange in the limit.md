@@ -40,3 +40,46 @@ Because both conditions of the composite limit theorem are fulfilled by Courant'
 $$\lim_{x_1 \to x} \frac{x_1 - x}{y_1 - y} \equiv \lim_{y_1 \to y} \frac{x_1 - x}{y_1 - y}$$
 
 Would you like to move on to the next step of Courant's proof where he evaluates this inverted limit, or do you want to look at another theorem from this chapter?
+
+The formal rule governing this operation is known as the ==Change of Variables Theorem for Limits== (or the Limit of a Composite Function Theorem).
+
+---
+
+## Theorem: Change of Variables for Limits
+
+Let $f$ and $G$ be real-valued functions. Let $x$, $y$, and $L$ be real numbers.
+
+## Hypotheses (The Conditions)
+
+The interchange of symbols is valid if and only if the following conditions are met:
+
+1. Inner Limit Exists:  
+    $$\lim_{x_1 \to x} f(x_1) = y$$
+2. Outer Function is Continuous:  
+    The function $G$ is continuous at $y$, meaning:  
+    $$\lim_{y_1 \to y} G(y_1) = G(y)$$
+
+## Conclusion (The Mathematical License)
+
+If both conditions are true, then you are legally allowed to change the limit variables:  
+$$\lim_{x_1 \to x} G(f(x_1)) = \lim_{y_1 \to y} G(y_1) = G(y)$$
+
+---
+
+## The Alternative "Deleted Neighborhood" Condition
+
+If the outer function $G$ is not continuous at $y$, you can still perform this symbol change under one specific exception:
+
+- The Rule: The inner function $f(x_1)$ must never actually hit the value $y$ when $x_1$ is near $x$.
+- The Formal Phrasing: There must exist a punctured neighborhood of $x$ where $f(x_1) \neq y$ for all $x_1 \neq x$.
+
+If either Continuity or this Punctured Neighborhood rule holds, the symbol swap is mathematically true. If both are broken, the operation fails completely.
+
+---
+
+If you want to see exactly how this works in practice, tell me:
+
+- A specific limit problem you are trying to solve.
+- Or if you want a numerical example where this rule breaks down.
+
+I can break down the math for you step by step!
