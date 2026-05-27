@@ -10,7 +10,7 @@ This chapter continues our application of our results from Chapter 2 to generall
 
 We show how the derivative of the inverse of a function is determined once we know the derivative of the original function. We then apply the technique to determine the derivatives of the trigonometric functions and the exponential function with arbitrary base. The main tool developed is the derivative of the inverse of a function who's derivative is already known. The chapter is outlined as follows
 - The relationship between the derivative of a function to the derivative of the inverse
-- How to determine the derivative of the inverse of a function
+- How to determine the derivative of the inverse of a function. This involves an [[interchange in the limit]]
 - The edge cases called critical points where the results of this chapter when the inverse of the function is not guaranteed and our results in this chapter may not apply at the critical points when the derivative is 0.
 - Application of the theorem to determine the derivative of inverse trigonometric functions from the derivative of trigonometric functions
 - Derivation of the derivative of the exponential function from the derivative of the logarithm
