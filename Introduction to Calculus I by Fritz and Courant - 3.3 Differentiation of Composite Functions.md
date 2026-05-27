@@ -20,7 +20,7 @@ The issue with the proof here is that it is in general undefined at points where
 We can then replace our "naive proof" by substituting with the identity:$$g(\phi(x+h))-g(\phi(x))=[g'(\phi(x))+\epsilon]h \text{\quad and also\quad} \phi(x+h)-\phi(x)=[\phi'(x)+\eta]h$$
 For both $\epsilon$ and $\eta$ must go to 0 as $h$ goes to 0 and so we define them to be 0. If we do not define them at 0, then the functions $g$ and $\phi$ are no longer continuous and we have a contradiction. The trick here is that we are replacing the "naive proof" with an algebraic identity that is identical with the derivative $f'(x)$ except at the one point where it was undefined for $\phi'(x)=0$. [Functions that are identical except at one point will have the same limit at that one point](Theorem%20for%20why%20we%20can%20algebraically%20manipulate%20a%20function%20to%20determine%20its%20limit.md) so we have replaced our "naive proof" with a function that is computable at $\phi'(x)=0$ 
 
-# Complete our analytical definition of the power function and use chain rule to easily compute the derivative of power functions.
+# Application of chain rule: complete our analytical definition of the power function and use chain rule to easily compute the derivative of power functions.
 One of the powers of calculus is it allows us to reformulate our naive conception of functions to a more general function that extends the domain of the function called analytic continuation. We use calculus to complete the analytic continuation of the power function to irrational exponents
 
 A naive conception of the power function $x^{\alpha}$ was to view it as a number $x$ multiplied $\alpha$ times and $x^{1/\alpha}$ is the inverse operation. This formulation holds well for rational exponents but lacks meaning for irrational numbers. We can define power functions to irrational exponents by an infinite sequence of irrational numbers but this is cumbersome for computation and proofs as you have to show the limit exists and is unique for all possible sequences. 
@@ -29,7 +29,7 @@ In [chapter 2.7](Introduction%20to%20Calculus%20I%20by%20Fritz%20and%20Courant%2
 
 The problem with the analytic continuation of the power function with this new definition is that it is now a composite function and we had no means of computing the derivative, but we can with the chain rule. Application of the chain rule to powers with rational exponents also shows our definition is consistent with the results we derived in [chapter 2.2](Introduction%20to%20Calculus%20I%20by%20Fritz%20and%20Courant%20-%202.2%20Elementary%20Examples%20of%20Integration.md) to ensure we didn't create a monster.
 
-# Cauchy's Mean Value Theorem
+# Application of chain rule: proving Cauchy's Mean Value T.heorem
 One conceptual application of the chain rule is the ***generalized mean value theorem of differential calculus.*** Given two functions $G(x)$ and $F(x)$ that are 
 - Continuous on a closed interval $[a,b]$ 
 - Differentiable on the $(a,b)$
