@@ -83,3 +83,69 @@ If you want to see exactly how this works in practice, tell me:
 - Or if you want a numerical example where this rule breaks down.
 
 I can break down the math for you step by step!
+
+To prove this using the exact notation and style of Richard Courant without relying on $\epsilon$-$\delta$ or sequences, we ==use Courant’s fundamental concept of a continuous, monotonic mapping and the functional substitution rule for limits==.
+
+Here is the rigorous proof written entirely in Courant's symbols: $x, x_1, y, y_1$, and $\phi(y)$.
+
+---
+
+## 1. Define Courant's Functional Relations
+
+From the text, we have two mutually inverse, continuous functions:
+
+1. $y_1 = f(x_1)$ with $y = f(x)$
+2. $x_1 = \phi(y_1)$ with $x = \phi(y)$
+
+We are evaluating the limit of the difference quotient as $x_1 \to x$:  
+$$\lim_{x_1 \to x} \frac{x_1 - x}{y_1 - y}$$
+
+By substituting $y_1 = f(x_1)$, this expression is purely a function of $x_1$. Let us define it as Courant often defines auxiliary expressions:  
+$$Q(x_1) = \frac{x_1 - x}{f(x_1) - f(x)}, \quad \text{where } x_1 \neq x$$
+
+---
+
+## 2. The Substitution Step
+
+To change the limit variable to $y_1$, we substitute the identity $x_1 = \phi(y_1)$ directly into $Q(x_1)$. This transforms the expression into a composite function of $y_1$:  
+$$Q(\phi(y_1)) = \frac{\phi(y_1) - x}{y_1 - y}, \quad \text{where } y_1 \neq y$$
+
+---
+
+## 3. The Rigorous Justification for $\lim_{x_1 \to x} = \lim_{y_1 \to y}$
+
+To mathematically establish that $\lim_{x_1 \to x} Q(x_1) = \lim_{y_1 \to y} Q(\phi(y_1))$ without hand-waving, we must satisfy two functional conditions required by Courant's limit substitution rule:
+
+## Condition A: Continuity of the Variable Transformation
+
+Courant states that $x = \phi(y)$ is a continuous function. By the definition of functional continuity:  
+$$\lim_{y_1 \to y} \phi(y_1) = \phi(y) = x$$ This mathematically ensures that as $y_1$ approaches $y$, the transformed variable $x_1$ automatically approaches $x$.
+
+## Condition B: Non-Vanishing of the Intermediate Difference (Injectivity)
+
+The fatal flaw in standard limit switching is if $\phi(y_1) = x$ when $y_1 \neq y$, which would make $Q(x_1)$ undefined at a distance.  
+However, Courant explicitly specifies the hypothesis: "either $f'(x) > 0$ or $f'(x) < 0$ throughout the interval."
+
+- A non-vanishing derivative implies $f(x)$ is strictly monotonic.
+- Therefore, its inverse $\phi(y)$ is also strictly monotonic.
+- For any $y_1$ in a deleted neighborhood of $y$ ($y_1 \neq y$), strict monotonicity guarantees that:  
+    $$\phi(y_1) \neq \phi(y) \implies x_1 \neq x$$
+
+---
+
+## 4. Final Conclusion
+
+Because $x_1 = \phi(y_1)$ is continuous (Condition A) and never equals $x$ when $y_1 \neq y$ (Condition B), the operational limit law for functional composition is completely satisfied.
+
+Therefore, evaluating the limit of $Q(x_1)$ as $x_1 \to x$ is identical to evaluating the limit of $Q(\phi(y_1))$ as $y_1 \to y$:
+
+$$\lim_{x_1 \to x} \frac{x_1 - x}{y_1 - y} = \lim_{y_1 \to y} \frac{\phi(y_1) - \phi(y)}{y_1 - y}$$
+
+Since Courant writes $\phi(y_1) = x_1$ and $\phi(y) = x$, this translates exactly to the bottom line of your image:  
+$$\mathbf{\lim_{x_1 \to x} \frac{x_1 - x}{y_1 - y} = \lim_{y_1 \to y} \frac{x_1 - x}{y_1 - y}}$$
+
+$$\tag*{$\blacksquare$}$$
+
+---
+
+If you want to continue analyzing Courant's text, we can look at how he evaluates this right-hand limit to conclude that it equals $\phi'(y)$, or how he handles higher-order derivatives of inverse functions. Let me know what you would like to do!
