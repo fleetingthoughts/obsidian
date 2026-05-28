@@ -47,5 +47,5 @@ Armed with these definitions and properties, we now establish the Jensen's inequ
 $$f[E(X)] \le E[f(X)]$$
 If $f$ is strictly convex, then the inequality is strict unless $X$ is a constant random variable.
 
-Some interesting notes from doing the problem:
-- Exercise 1.10.5 [[Chernoff's bound]]
+# Concepts from Exercises
+ ***Exercise 1.10.5 [[Chernoff's bound]]*** 
