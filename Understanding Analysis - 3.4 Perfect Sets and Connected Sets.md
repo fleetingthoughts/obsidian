@@ -7,8 +7,18 @@ date_created: 2026-03-17
 parent: "[[Understanding Analysis 2nd ed. - Abbot, Stephen]]"
 ---
 Continuing our development of properties to analytically describe mathematical infinity from 3.3, we now describe perfect sets and connected sets. The chapter is outlined as follows:
-- Definition of perfect sets and their relationship to the infinity of uncountability
-- Definition of connected sets and two equivalency conditions to connected sets
+1) Define a perfect set by requiring two conditions:
+	1) Closed
+	2) Has no isolated points
+2) Perfectness is sufficient for uncountability. To disprove a perfect set is to show it is countable.
+	- The proof follows by contradiction assuming it is countable but then showing any bounded set of intervals (and therefore compact because it contains only limit points), must does not satisfy the NIP
+3) Definition of separation as a relation between two sets $A$ and $B$ such that
+	1) $\bar{A}\cap B=A\cap \bar{B}=\emptyset$ 
+4) Definition of a disconnected set $C$ if it can be written as the union of two separated sets:
+	- $\forall A, B,  A \cup B = C \land (\bar{A}\cap B=A\cap \bar{B}=\emptyset)$ 
+5) A connected set is the negation of a disconnected set and is proven as follows:
+	- $\forall A, B,  A \cup B = C \land (\bar{A}\cap B \ne \emptyset \lor A\cap \bar{B}=\emptyset)$ 
+	- 
 The entire chapter continues in the same vein as 3.3 where we aim to analytically describe the fundamental properties of mathematical objects that exhibit a phenomena of interest. The concept of closed intervals for instance exhibits the property of compactness, but we were able to derive equivalency conditions to show that other kinds of set can exhibit compactness as well so that compact sets can be seen as a generalization of closed intervals. 
 
 We now try to crystallize another property similarly that generalizes a certain kind of infinity. ***Definition 3.4.1 (Perfect Sets)*** defines a perfect set and ***Theorem 3.4.3 (Sufficiency for uncountability)***, shows that perfect sets exhibit the phenomena of "infinite" in being uncountable.
