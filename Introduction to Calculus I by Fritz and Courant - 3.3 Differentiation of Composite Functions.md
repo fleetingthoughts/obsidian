@@ -16,8 +16,8 @@ We derive the chain rule technique to solve the derivative of a composition of f
 
 # The two proofs of the chain rule. A Naive proof and a refined proof that shows the same formula applies to more situations
 A naive proof of the derivative of the function $f(x)=g(\phi(x))$ can follow from a "strategic multiplication of 1":$$f'(x)=\lim_{ h \to 0 } \frac{g(\phi(x+h))-g(\phi(x))}{h}=\lim_{ h \to 0 } \frac{g(\phi(x+h))-g(\phi(x))}{\phi(x+h)-\phi(x)}\frac{\phi(x+h)-\phi(x)}{h}$$
-The issue with the proof here is that it is in general undefined at points where $\phi'(x)=0$, but we can prove the chain rule still holds for $g'(x)=0$ by defining a helper function $\epsilon$ and $\eta$  that follows from the direct definition of the limit which happens to be Weierstrass' definition of a derivative: $$\epsilon=\frac{g(x+h)-g(x)}{h}-g'(x)\text{\quad and also\quad} \eta=\frac{\phi(x+h)-\phi(x)}{h}-\phi'(x)$$
-We can then replace our "naive proof" by substituting with the identity:$$g(\phi(x+h))-g(\phi(x))=[g'(\phi(x))+\epsilon]h \text{\quad and also\quad} \phi(x+h)-\phi(x)=[\phi'(x)+\eta]h$$
+The issue with the proof here is that it is in general undefined at points where $\phi'(x)=0$, but we can prove the chain rule still holds for $\phi'(x)=0$ by defining a helper function $\epsilon$ and $\eta$  that follows from the direct definition of the limit which happens to be Weierstrass' definition of a derivative: $$\epsilon=\frac{g(x+h)-g(x)}{h}-g'(x)\text{\quad and also\quad} \eta=\frac{\phi(x+h)-\phi(x)}{h}-\phi'(x)$$
+We can then replace our "naive proof" by substituting with the identity:$$g(\phi(x+h))-g(\phi(x))=[g'(\phi(x))+\epsilon](\phi(x+h)-\phi(x)) \text{\quad and also\quad} \phi(x+h)-\phi(x)=[\phi'(x)+\eta]h$$
 For both $\epsilon$ and $\eta$ must go to 0 as $h$ goes to 0 and so we define them to be 0. If we do not define them at 0, then the functions $g$ and $\phi$ are no longer continuous and we have a contradiction. The trick here is that we are replacing the "naive proof" with an algebraic identity that is identical with the derivative $f'(x)$ except at the one point where it was undefined for $\phi'(x)=0$. [Functions that are identical except at one point will have the same limit at that one point](Theorem%20for%20why%20we%20can%20algebraically%20manipulate%20a%20function%20to%20determine%20its%20limit.md) so we have replaced our "naive proof" with a function that is computable at $\phi'(x)=0$ 
 
 # Application of chain rule: complete our analytical definition of the power function and use chain rule to easily compute the derivative of power functions.
@@ -29,7 +29,7 @@ In [chapter 2.7](Introduction%20to%20Calculus%20I%20by%20Fritz%20and%20Courant%2
 
 The problem with the analytic continuation of the power function with this new definition is that it is now a composite function and we had no means of computing the derivative, but we can with the chain rule. Application of the chain rule to powers with rational exponents also shows our definition is consistent with the results we derived in [chapter 2.2](Introduction%20to%20Calculus%20I%20by%20Fritz%20and%20Courant%20-%202.2%20Elementary%20Examples%20of%20Integration.md) to ensure we didn't create a monster.
 
-# Application of chain rule: proving Cauchy's Mean Value T.heorem
+# Application of chain rule: proving Cauchy's Mean Value Theorem
 One conceptual application of the chain rule is the ***generalized mean value theorem of differential calculus.*** Given two functions $G(x)$ and $F(x)$ that are 
 - Continuous on a closed interval $[a,b]$ 
 - Differentiable on the $(a,b)$
