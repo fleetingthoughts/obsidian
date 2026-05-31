@@ -5,10 +5,6 @@ tags:
   - fleeting
 date_created:
 ---
-# Grocery
-- cream
-
-
 # To Do
 - [Quiz 1](Quiz%201.md)
 - [Quiz 2](Quiz%202.md)
@@ -19,6 +15,7 @@ date_created:
 - [Quiz 2 Day 1-4](Quiz%202%20Day%201-4.md)
 - [Quiz 2 Day 5-7](Quiz%202%20Day%205-7.md)
 - [Philosophy quiz](Philosophy%20quiz)
+- 
 - Scriabin
 - Grieg
 - Dividers lots of it
