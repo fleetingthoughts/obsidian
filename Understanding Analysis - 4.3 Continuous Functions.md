@@ -25,7 +25,8 @@ As such it is tempting to say that if $f(x)$ is continuous at $x=c$ then since $
 # The three equivalent conditions to prove continuity.
 Since all 4 statements in ***Theorem 4.3.2*** are equivalency statements (if and only if), then it holds that if any of those conditions are false, we no longer have continuity. ***Corollary 4.3.3*** Therefore provides a condition to disprove continuity by counter example with a sequence in the domain such that the function does not become arbitrarily close to the limit
 
-
+# Summary of concepts:
+- ***Distinction between the functional limit as $x$ goes to $c$ and continuity at $x=c$.*** The functional limit looks at the trend of what $f(c)$ should be without caring what $f(c)$ actually is or if $x=c$ is even a point in the domain. Continuity checks if we actually match that trend and cares about the value at $x=c$. This does not apply if $x=c$ is not a limit a point.
 
 # Summary from Exercises
 - [[Continuity at a limit point included in the domain is not equivalent to the functional limit at a point included in the domain]]
