@@ -6,15 +6,14 @@ tags:
 date_created: 2026-03-26
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-Previously we've shown that matrices of matching dimensions are isomorphic to linear transformations, we represent any linear transformation with a matrix and the the definitions of matrix addition and multiplication were defined specifically to match the multiplication (composition) and addition of linear transformations. To develop the tools for matrix operations is therefore to develop the tools for all linear transformations. 
-
-And so, in this chapter we develop some of the tools around the rank for matrix vector space that can then be applied to linear transformations. The majority of the tools are developed around the rank of a matrix and what it represents:
-- The analogy between the rank of a matrix and the rank of a linear transformation
-- The matrix operations that let us preserve the rank of a matrix using invertible matrices
-- The criteria used to determine the rank of a matrix: the # of independent columns
-- Determine the rank of a matrix by its rank normal form
-- Relationship between the subspace spanned by the rows of a matrix and its rank
-- The relationship between an invertible matrix and the identity matrix.
+Continuing the standardization of vector spaces and their linear transformations by matrices, we demonstrate how the rank of a linear transformation and their properties are completely determined by their matrix representations:
+1) The rank of a matrix defined in terms of the specific $L_A$ linear transformation
+2) The equivalence between the rank of a linear transformation and the rank of its matrix representation
+3) Multiplication of an arbitrary matrix by an invertible matrix preserves its rank
+4) The criteria used to determine the rank of a matrix: the # of independent columns
+5) The existence of the rank normal form for any matrix to easily compute its rank
+6) The rank of a matrix is equivalent to the rank of its transpose. This relates the row space with the vector space.
+7) An invertible matrix is the product of elementary matrices
 
 We had previously defined the rank of a linear transformation, and now we define the rank of a matrix specifically to make it equivalent to the rank of a linear transformation represented by the matrix. The definition of a matrix is represented by the left matrix multiplication, but as we had shown in chapter 2, this is equivalent to the matrix representation of a linear transformation which is formalized in ***Theorem 3.3.***
 
@@ -29,23 +28,28 @@ Some important conclusions from this result are as follows:
 Point 3) in particular gives us a method to compute the inversion of an invertible matrix, we need to determine the series of row operations to bring it to the identity matrix and then apply the inverse of those operations to the identity matrix to determine the inverse.
 
 As the collection of linear transformations between vector spaces is isomorphic to the vector space of matrices, we can compute the rank of matrices by examining the the image of the linear transformation. This is how the rank of a product of matrices is derived in ***Theorem 3.7***
+
+# Summary of Proof Techniques
+- ***Showing the subspaces are equivalent is easier than showing properties of the subspace such as dimension are equivalent.*** In the proof to show the following two theorems:
+	1) The rank of a matrix is equal to the rank of its corresponding linear transformation
+	2) The $rank(TU)\le rank(T)$ 
+	Instead of showing the dimensions are equal, we are able to show the dimensions are equal if the output space (i.e. the range) are equivalent in the case of 1) or is a subset in the case of 2).
 # Definitions
-For all definitions, $A \in M_{m \times n}(F)$ is a $m\times n$ matrix
-- ***Definition of rank of a matrix (p.152).*** The rank of a matrix $A$ denoted $rank(A)$ is the rank of the linear transformation $L_A: F^n \to F^m$ 
+***Definition of rank of a matrix (p.152).*** The rank of a matrix $A$ denoted $rank(A)$ is the rank of the linear transformation $L_A: F^n \to F^m$ 
 
 # Theorems
-- ***Theorem 3.3 (The rank of a linear transformation is equivalent to the rank of the matrix representing the linear transformation).*** Let $T: V \to W$ be a linear transformation between finite-dimensional vector spaces, and let $\beta$ and $\gamma$ be ordered bases for $V$ and $W$, respectively. Then $rank(T) = rank([T]_{\beta}^{\gamma})$ 
+***Theorem 3.3 (The rank of a linear transformation is equivalent to the rank of the matrix representing the linear transformation).*** Let $T: V \to W$ be a linear transformation between finite-dimensional vector spaces, and let $\beta$ and $\gamma$ be ordered bases for $V$ and $W$, respectively. Then $rank(T) = rank([T]_{\beta}^{\gamma})$ 
 
-- ***Theorem 3.4 (Conditions for the preservation of rank in composite linear transformations)*** Let $A$ be a $m \times n$ matrix. Let $P$ and $Q$ be invertible $m \times m$ and $n \times n$ matrices respectively. Then the ranks of the multiplication of these matrices are as follows:
+***Theorem 3.4 (Conditions for the preservation of rank in composite linear transformations)*** Let $A$ be a $m \times n$ matrix. Let $P$ and $Q$ be invertible $m \times m$ and $n \times n$ matrices respectively. Then the ranks of the multiplication of these matrices are as follows:
 	1) $rank(AQ)=rank(A)$
 	2) $rank(PA)=rank(A)$ 
 	3) Therefore by 1) and 2), $rank(PAQ)=rank(A)$ 
 
-- ***Corollary to Theorem 3.4*** Elementary row and column operationns on a matrix are rank-preserving.
+***Corollary to Theorem 3.4*** Elementary row and column operations on a matrix are rank-preserving.
 
-- ***Theorem 3.5 (Determining the rank of a matrix).*** The rank of a matrix equals the maximum number of its linearly independent columns. In other words, the rank of a matrix is the dimension of the subspace generated by the span of its columns.
+***Theorem 3.5 (Determining the rank of a matrix).*** The rank of a matrix equals the maximum number of its linearly independent columns. In other words, the rank of a matrix is the dimension of the subspace generated by the span of its columns.
 
-- ***Theorem 3.6 (Reduction of a matrix to its Rank Normal Form).*** Let $A$ be a $m \times n$ matrix of rank $r$. Then $r \le m$ or $r \le n$ and by means of elementary row and column operations, $A$ can be transformed into the following form called the <u>rank normal form</u>:$$
+***Theorem 3.6 (Reduction of a matrix to its Rank Normal Form).*** Let $A$ be a $m \times n$ matrix of rank $r$. Then $r \le m$ or $r \le n$ and by means of elementary row and column operations, $A$ can be transformed into the following form called the <u>rank normal form</u>:$$
 \begin{bmatrix}I_{r} & 0_{1}\\0_{2} & 0_{3}\end{bmatrix}$$
 Where $0_i$ are zero matrices and so $D_{ii}=1$ for $i \le r$ and $D_{ij}=0$ otherwise. 
 

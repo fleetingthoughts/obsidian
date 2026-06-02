@@ -14,7 +14,7 @@ date_created:
 - [Quiz Day 5-7](Quiz%20Day%205-7.md)
 - [Quiz 2 Day 1-4](Quiz%202%20Day%201-4.md)
 - [Quiz 2 Day 5-7](Quiz%202%20Day%205-7.md)
-- [Philosophy quiz](Philosophy%20quiz)
+- [Philosophy quiz 1-4](Philosophy%20quiz%201-4.md)
 - 
 - Scriabin
 - Grieg
