@@ -33,5 +33,5 @@ views:
       - property: RCM
         direction: ASC
     columnSize:
-      file.name: 369
+      file.name: 513
       note.RCM: 143

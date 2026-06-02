@@ -29,6 +29,12 @@ Some important conclusions from this result are as follows:
 Point 3) in particular gives us a method to compute the inversion of an invertible matrix, we need to determine the series of row operations to bring it to the identity matrix and then apply the inverse of those operations to the identity matrix to determine the inverse.
 
 As the collection of linear transformations between vector spaces is isomorphic to the vector space of matrices, we can compute the rank of matrices by examining the the image of the linear transformation. This is how the rank of a product of matrices is derived in ***Theorem 3.7***
+
+# Summary of Proof Techniques
+- ***Showing the subspaces are equivalent is easier than showing properties of the subspace such as dimension are equivalent.*** In the proof to show the following two theorems:
+	1) The rank of a matrix is equal to the rank of its corresponding linear transformation
+	2) The $rank(TU)\le rank(T)$ 
+	Instead of showing the dimensions are equal, we are able to show the dimensions are equal if the output space (i.e. the range) are equivalent in the case of 1) or is a subset in the case of 2).
 # Definitions
 For all definitions, $A \in M_{m \times n}(F)$ is a $m\times n$ matrix
 - ***Definition of rank of a matrix (p.152).*** The rank of a matrix $A$ denoted $rank(A)$ is the rank of the linear transformation $L_A: F^n \to F^m$ 
