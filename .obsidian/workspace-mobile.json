@@ -84,9 +84,22 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "626946d0edfcc6c3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Piano Repertoire.base",
+                "viewName": "intermediate practice"
+              },
+              "icon": "lucide-table",
+              "title": "Piano Repertoire"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -267,13 +280,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8d4b3aa50351c376",
+  "active": "64c52edce050839d",
   "lastOpenFiles": [
+    "/Linear Algebra - Friedberg, Insel, and Spence.md",
+    "Philosophy quiz 1-4.md",
     "_Fleeting.md",
     "Quiz 1.md",
     "Quiz Day 5-7.md",
     "Philosophy quiz 5-7.md",
-    "Philosophy quiz 1-4.md",
     "/Linear Algebra by Friedberg, Insel, and Spence - 3.2 The Rank of a Matrix and Matrix Inverses.md",
     "/_Fleeting.md",
     "/Quiz Day 5-7.md",
@@ -296,7 +310,6 @@
     "Quiz 2.md",
     "Quiz 2 Day 5-7.md",
     "Proof that Convergent Sequences are Bounded.md",
-    "Proof of the Nested Interval Property as a Consequence of the Axiom of Completeness.md",
     "Pasted image 20260531022545.png",
     "Pasted image 20260512001229.png",
     "Pasted image 20260510030501.png",
