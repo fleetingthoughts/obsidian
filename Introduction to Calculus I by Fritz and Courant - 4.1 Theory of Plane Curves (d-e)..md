@@ -10,13 +10,13 @@ We define terms that will serve as the preliminary foundation for the sense of d
 1) Intuitive definitions with no rigor:
 	- Sense of a curve.
 	- Simple closed and simple connected curves.
-	- A points angle of inclination.
+	- A points angle of inclination. the angle subtended by a ray from the origin to a point and the positive x-axis.
 	- Positive and negative side of a curve.
+	- Regarding simple closed curves: A simple closed curve has a counter-clockwise orientation if the inner portion is the positive side and clockwise orientation the opposite.
 2) If we given a curve defined by $(x(t),y(t))$, we can restrict an interval such that $x(t)$ is monotonic so that an inverse exists and we can describe a function $y=f(x)$ and therefore a derivative.
 3) Define equation of the line tangent to a point on the curve with respect to the derivative of the $x$ and $y$ component.
-4) Derive the equation of the normal to a point on the curve with respect to the derivative of the 
-5) $x$ and $y$ component.
-6) Derive the directional cosines of a curve that parametrizes a curve in polar coordinates.
+4) Derive the equation of the normal to a point on the curve with respect to the derivative of the  $x$ and $y$ component.
+5) Derive the directional cosines of a curve that parametrizes a curve in polar coordinates.
 
 
 # Summary of points and nuances
