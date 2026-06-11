@@ -89,13 +89,24 @@
             "id": "626946d0edfcc6c3",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Piano Repertoire.base",
-                "viewName": "intermediate practice"
+                "file": "Philosophy quiz 1-4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Piano Repertoire"
+              "icon": "lucide-file",
+              "title": "Philosophy quiz 1-4"
             }
           }
         ],
@@ -178,7 +189,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "f8cc0ea6a5a3f29a",
@@ -280,11 +291,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "64c52edce050839d",
+  "active": "626946d0edfcc6c3",
   "lastOpenFiles": [
+    "_Fleeting.md",
+    "Quiz Day 1-4.md",
+    "Piano Repertoire.base",
     "/Linear Algebra - Friedberg, Insel, and Spence.md",
     "Philosophy quiz 1-4.md",
-    "_Fleeting.md",
     "Quiz 1.md",
     "Quiz Day 5-7.md",
     "Philosophy quiz 5-7.md",
@@ -295,7 +308,6 @@
     "/Piano Repertoire.base",
     "/Philosophy quiz 5-7.md",
     "/Philosophy quiz 1-4.md",
-    "Quiz Day 1-4.md",
     "Projects.base",
     "Quiz 2 Day 1-4.md",
     "Philosophy quiz.md",
@@ -309,7 +321,6 @@
     "The Pedagogical and Empirical Problem of Applying Formal Logic to Synthetic Propositions..md",
     "Quiz 2.md",
     "Quiz 2 Day 5-7.md",
-    "Proof that Convergent Sequences are Bounded.md",
     "Pasted image 20260531022545.png",
     "Pasted image 20260512001229.png",
     "Pasted image 20260510030501.png",
@@ -317,7 +328,6 @@
     "Textbooks.base",
     "Pasted image 20260405020016.png",
     "/Pasted image 20260405020016.png",
-    "Piano Repertoire.base",
     "Pasted image 20260329134619.png",
     "Pasted image 20260328172508.png",
     "/Pasted image 20260329134619.png",
