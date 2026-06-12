@@ -6,8 +6,8 @@ tags:
 date_created:
 ---
 # To Do
-- [Quiz 1](Quiz%201.md)
-- [Quiz 2](Quiz%202.md)
+
+
 - [Flashcards 1](Flashcards%201.md)
 - [Flash card 2](Flash%20card%202.md)
 - [Quiz Day 1-4](Quiz%20Day%201-4.md)
