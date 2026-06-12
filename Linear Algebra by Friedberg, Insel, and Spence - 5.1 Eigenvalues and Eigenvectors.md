@@ -6,7 +6,6 @@ tags:
 date_created: 2026-04-13
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-f
 # Definitions
 ***Definitions (Diagonalizability of a linear transformation and a matrix).*** A linear operator $T$ on a finite dimensional vector space $V$ is called diagonalizability if there is an ordered basis $\beta$ for $V$ such that $[T]_{\beta}$ is a diagonal matrix. A square matrix $A$ is called diagonalizability if $L_A$ is diagonalizable.
 

@@ -1,5 +1,5 @@
 ---
-deadline: 2026-10-22
+deadline: 2026-12-22
 milestones: "60"
 project: study
 author: " George F. Simmons"
