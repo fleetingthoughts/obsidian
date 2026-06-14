@@ -8,90 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a72f74011061cd98",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "cda20bc1fa23addf",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "f9e86224d1975fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quiz 2 Day 1-4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Quiz 2 Day 1-4"
-            }
-          },
-          {
-            "id": "26846b57373894c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy quiz 1-4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Philosophy quiz 1-4"
-            }
-          },
-          {
-            "id": "8d4b3aa50351c376",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "626946d0edfcc6c3",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Textbooks.base",
+                "viewName": "general reading"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Textbooks"
+            }
+          },
+          {
+            "id": "d450e1690ae4fad8",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2abae404c83d1b7c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy quiz 1-4.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,11 +51,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Philosophy quiz 1-4"
+              "title": "_Fleeting"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,13 +236,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "626946d0edfcc6c3",
+  "active": "2abae404c83d1b7c",
   "lastOpenFiles": [
-    "_Fleeting.md",
+    "Philosophy of Natural Science - 8 Theoretical Reduction.md",
+    "Philosophy of Natural Science.md",
+    "Textbooks.base",
+    "Projects.base",
     "Quiz Day 1-4.md",
+    "_Fleeting.md",
     "Piano Repertoire.base",
-    "/Linear Algebra - Friedberg, Insel, and Spence.md",
     "Philosophy quiz 1-4.md",
+    "Philosophy of Natural Science - 3 The Test of a Hypothesis. Its Logic and Its Force.md",
+    "/Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (e-g). The Length of a Curve. The Arclength as a parameter.md",
+    "/Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (d-e)..md",
+    "/Linear Algebra - Friedberg, Insel, and Spence.md",
     "Quiz 1.md",
     "Quiz Day 5-7.md",
     "Philosophy quiz 5-7.md",
@@ -308,7 +260,6 @@
     "/Piano Repertoire.base",
     "/Philosophy quiz 5-7.md",
     "/Philosophy quiz 1-4.md",
-    "Projects.base",
     "Quiz 2 Day 1-4.md",
     "Philosophy quiz.md",
     "conflict-files-obsidian-git.md",
@@ -317,15 +268,10 @@
     "interchange in the limit.md",
     "Why Logical Positivism Distinguishes Between Analytic and Synthetic Propositions.md",
     "Why Induction Stops at Infinity. The Finite-Step Fallacy..md",
-    "Untitled.md",
-    "The Pedagogical and Empirical Problem of Applying Formal Logic to Synthetic Propositions..md",
-    "Quiz 2.md",
-    "Quiz 2 Day 5-7.md",
     "Pasted image 20260531022545.png",
     "Pasted image 20260512001229.png",
     "Pasted image 20260510030501.png",
     "/Pasted image 20260510030501.png",
-    "Textbooks.base",
     "Pasted image 20260405020016.png",
     "/Pasted image 20260405020016.png",
     "Pasted image 20260329134619.png",
