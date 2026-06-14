@@ -7,14 +7,9 @@ date_created:
 ---
 # To Do
 
+- [2026-06-15 Quiz](2026-06-15%20Quiz.md)
 
-- [Flashcards 1](Flashcards%201.md)
-- [Flash card 2](Flash%20card%202.md)
-- [Quiz Day 1-4](Quiz%20Day%201-4.md)
-- [Quiz Day 5-7](Quiz%20Day%205-7.md)
-- [Quiz 2 Day 1-4](Quiz%202%20Day%201-4.md)
-- [Quiz 2 Day 5-7](Quiz%202%20Day%205-7.md)
-- [Philosophy quiz 1-4](Philosophy%20quiz%201-4.md)
+- [Philosophy Quiz 2026-06-15](Philosophy%20Quiz%202026-06-15.md)
 - 
 - Scriabin
 - Grieg
