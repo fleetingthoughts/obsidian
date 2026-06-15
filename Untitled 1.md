@@ -1,6 +1,6 @@
 ---
-parent: "[["
-author:
+parent:
+author: Plato
 edition:
 original publisher:
 reprint publisher:
