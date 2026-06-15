@@ -7,10 +7,13 @@ reprint publisher: Basic Books
 original publication year: "1968"
 edition publication year: October 3, 1991
 isbn-13: 978-0465069347
-cover:
+cover: https://i.ebayimg.com/images/g/S6kAAOSwx6pYrlff/s-l400.jpg
 tags:
+  - book
+  - plato
+  - philosophy
 status:
 rating out of 10:
-date_created: 2025-12-29
+date_created: 2026-05-29
 ---
 
