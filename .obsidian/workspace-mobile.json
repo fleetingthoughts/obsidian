@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus Quiz 2026-06-15.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calculus Quiz 2026-06-15"
+              "title": "_Fleeting"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "active": "2abae404c83d1b7c",
   "lastOpenFiles": [
+    "Calculus Quiz 2026-06-15.md",
     "_Fleeting.md",
     "Math 2026-06-15 Quiz.md",
     "Projects.base",
@@ -242,7 +243,6 @@
     "The Republic.md",
     "Crito.md",
     "The Apology.md",
-    "Calculus Quiz 2026-06-15.md",
     "/_Fleeting.md",
     "/The Republic.md",
     "/Crito.md",
