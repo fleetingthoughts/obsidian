@@ -11,22 +11,9 @@
             "id": "626946d0edfcc6c3",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Textbooks.base",
-                "viewName": "general reading"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Textbooks"
-            }
-          },
-          {
-            "id": "2abae404c83d1b7c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Plato Quiz 2026-06-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,11 +28,82 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "Plato Quiz 2026-06-14"
+            }
+          },
+          {
+            "id": "2abae404c83d1b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus Quiz 2026-06-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Calculus Quiz 2026-06-15"
+            }
+          },
+          {
+            "id": "eaeec834be783a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Calculus I by Fritz and Courant - 3.6 Maxima and Minima.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Calculus I by Fritz and Courant - 3.6 Maxima and Minima"
+            }
+          },
+          {
+            "id": "35be40f23020944b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,35 +284,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2abae404c83d1b7c",
+  "active": "626946d0edfcc6c3",
   "lastOpenFiles": [
-    "Calculus Quiz 2026-06-15.md",
     "_Fleeting.md",
-    "Math 2026-06-15 Quiz.md",
+    "Language Truth & Logic - 7 The Self and the Common World.md",
+    "Language Truth & Logic.md",
+    "Language Truth & Logic - 6 Critiques of Ethics and Theology.md",
+    "Introduction to Calculus I by Fritz and Courant - 3.6 Maxima and Minima.md",
+    "Calculus Quiz 2026-06-15.md",
+    "Introduction to Calculus and Analysis I.md",
     "Projects.base",
+    "Textbooks.base",
+    "Philosophy of Natural Science.md",
+    "Philosophy of Natural Science - 3 The Test of a Hypothesis. Its Logic and Its Force.md",
+    "Math 2026-06-15 Quiz.md",
+    "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
+    "Theory and Reality - Introduction to the Philosophy of Science.md",
+    "Theory and Reality - 3 Induction and Confirmation.md",
+    "Plato Quiz 2026-06-14.md",
+    "Philosophy Quiz 2026-06-15.md",
+    "Theory and Reality - 12 Scientific Realism.md",
+    "The challenge to scientific realism from the Bas Van Fraasen's version of instrumentalism.md",
+    "The challenges to scientific realism from the view that science is a metaphysical construction of itself.md",
+    "Theory and Reality - 8 The Challenge from Sociology of Science.md",
+    "The challenges to scientific realism from traditional empiricists such as logical positivists.md",
+    "/_Fleeting.md",
+    "/Plato Quiz 2026-06-14.md",
     "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "Understanding Analysis - 3.2 Open and Closed Sets.md",
-    "Textbooks.base",
     "The Republic Quiz 2026-06-14.md",
-    "Theory and Reality - Introduction to the Philosophy of Science.md",
-    "Theory and Reality - 8 The Challenge from Sociology of Science.md",
-    "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
-    "Philosophy Quiz 2026-06-15.md",
     "The Republic.md",
-    "Crito.md",
-    "The Apology.md",
-    "/_Fleeting.md",
-    "/The Republic.md",
-    "/Crito.md",
-    "/The Republic Quiz 2026-06-14.md",
-    "/The Apology.md",
-    "/Philosophy Quiz 2026-06-15.md",
-    "/Math 2026-06-15 Quiz.md",
-    "/Calculus Quiz 2026-06-15.md",
-    "Philosophy quiz 1-4.md",
-    "/Linear Algebra by Friedberg, Insel, and Spence - 5.1 Eigenvalues and Eigenvectors.md",
-    "/Differential Equations with Applications and Historical Notes 3rd edition - George F. Simmons.md",
-    "Philosophy of Natural Science - 8 Theoretical Reduction.md",
     "Piano Repertoire.base",
     "/Piano Repertoire.base",
     "Pasted image 20260531022545.png",
