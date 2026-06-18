@@ -4,6 +4,7 @@ tags:
   - "#fleeting"
 date_created: 2026-06-14
 ---
+
 ## Day 1: Definitions of Justice & Socratic Beginnings
 
 ## 1. In _Republic_ Book 1, Cephalus defines justice as speaking the truth and paying back one's debts. How does Socrates practically challenge this?
