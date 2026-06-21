@@ -1,3 +1,9 @@
+---
+parent: "[[_Fleeting]]"
+tags:
+  - "#fleeting"
+date_created: 2026-06-20
+---
 Here is your updated, context-rich daily interleaved curriculum with the answer key completely removed to preserve the integrity of your self-directed testing.
 
 ---
