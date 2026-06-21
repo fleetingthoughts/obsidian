@@ -1,5 +1,5 @@
 ---
-deadline: 2026-11-30
+deadline:
 milestones: "70"
 project: study
 author: Michael Artin
