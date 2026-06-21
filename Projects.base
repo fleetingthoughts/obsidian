@@ -22,6 +22,8 @@ views:
     sort:
       - property: formula.Benchmark progress
         direction: DESC
+      - property: milestones
+        direction: DESC
       - property: deadline
         direction: ASC
     columnSize:
