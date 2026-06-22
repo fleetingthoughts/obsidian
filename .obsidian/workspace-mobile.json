@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plato Quiz 2026-06-14.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plato Quiz 2026-06-14"
+              "title": "_Fleeting"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,10 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks"
+              "title": "_Fleeting"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,36 +285,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "626946d0edfcc6c3",
+  "active": "35be40f23020944b",
   "lastOpenFiles": [
-    "_Fleeting.md",
-    "Language Truth & Logic - 7 The Self and the Common World.md",
-    "Language Truth & Logic.md",
-    "Language Truth & Logic - 6 Critiques of Ethics and Theology.md",
-    "Introduction to Calculus I by Fritz and Courant - 3.6 Maxima and Minima.md",
     "Calculus Quiz 2026-06-15.md",
+    "_Fleeting.md",
+    "Math 2026-06-15 Quiz.md",
+    "Language Truth & Logic.md",
+    "Language Truth & Logic - 7 The Self and the Common World.md",
+    "Textbooks.base",
+    "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
+    "Introduction to Calculus I by Fritz and Courant - 3.6 Maxima and Minima.md",
+    "Philosophy Quiz 2026-06-15.md",
+    "Plato Quiz 2026-06-14.md",
+    "The Republic - Book 4.md",
+    "Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (k). Integrals Expressing Area within Closed Curves.md",
+    "Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (i). Change of Coordinate Axes. Invariance.md",
+    "Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (h). Curvature.md",
+    "/The Republic - Book 4.md",
+    "/Plato Quiz 2026-06-14.md",
+    "/Language Truth & Logic - 3 The Nature of Philosophical Analysis.md",
+    "/Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (k). Integrals Expressing Area within Closed Curves.md",
+    "/Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (i). Change of Coordinate Axes. Invariance.md",
+    "/Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (h). Curvature.md",
+    "Language Truth & Logic - 6 Critiques of Ethics and Theology.md",
     "Introduction to Calculus and Analysis I.md",
     "Projects.base",
-    "Textbooks.base",
     "Philosophy of Natural Science.md",
     "Philosophy of Natural Science - 3 The Test of a Hypothesis. Its Logic and Its Force.md",
-    "Math 2026-06-15 Quiz.md",
-    "Theory and Reality - 7 Lakatos, Laudan, Feyerabend, and Frameworks.md",
     "Theory and Reality - Introduction to the Philosophy of Science.md",
     "Theory and Reality - 3 Induction and Confirmation.md",
-    "Plato Quiz 2026-06-14.md",
-    "Philosophy Quiz 2026-06-15.md",
-    "Theory and Reality - 12 Scientific Realism.md",
-    "The challenge to scientific realism from the Bas Van Fraasen's version of instrumentalism.md",
-    "The challenges to scientific realism from the view that science is a metaphysical construction of itself.md",
-    "Theory and Reality - 8 The Challenge from Sociology of Science.md",
-    "The challenges to scientific realism from traditional empiricists such as logical positivists.md",
-    "/_Fleeting.md",
-    "/Plato Quiz 2026-06-14.md",
-    "Understanding Analysis 2nd ed. - Abbot, Stephen.md",
-    "Understanding Analysis - 3.2 Open and Closed Sets.md",
-    "The Republic Quiz 2026-06-14.md",
-    "The Republic.md",
     "Piano Repertoire.base",
     "/Piano Repertoire.base",
     "Pasted image 20260531022545.png",
