@@ -54,6 +54,9 @@ This will be an unbiased estimator.
 
 For the continuous, we define the $I_j$ statistic and the estimator similarly, but note that there is infinitely many choices in how we can define these classes (also called bins)  where $I_j=1$. Therefore, the resulting picture can change quite heavily if the classes change. The book provides a [Mathematical description of the dependency of the histogram estimator on the definition of the bins](Mathematical%20description%20of%20the%20dependency%20of%20the%20histogram%20estimator%20on%20the%20definition%20of%20the%20bins.md)
 
+# Definitions
+
+# Theorems
 
 
 

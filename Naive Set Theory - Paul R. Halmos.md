@@ -1,5 +1,5 @@
 ---
-deadline: 2026-12-30
+deadline:
 milestones: "25"
 project: study
 author: Paul R. Halmos

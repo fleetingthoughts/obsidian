@@ -1,5 +1,5 @@
 ---
-deadline: 2026-11-30
+deadline:
 milestones: "40"
 project: study
 author: " Elias M. Stein, Rami Shakarchi"
