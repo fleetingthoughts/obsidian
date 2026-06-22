@@ -1,5 +1,5 @@
 ---
-deadline: 2026-10-30
+deadline:
 milestones: "60"
 project: study
 author: " Ronald Graham, Donald Knuth, Oren Patashnik"
