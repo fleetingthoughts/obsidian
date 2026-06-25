@@ -13,78 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Fleeting"
-            }
-          },
-          {
-            "id": "2abae404c83d1b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus Quiz 2026-06-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Calculus Quiz 2026-06-15"
-            }
-          },
-          {
-            "id": "eaeec834be783a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Calculus I by Fritz and Courant - 3.6 Maxima and Minima.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Calculus I by Fritz and Courant - 3.6 Maxima and Minima"
-            }
-          },
-          {
-            "id": "35be40f23020944b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Philosophy Quiz 2026-06-22.md",
                 "mode": "source",
                 "source": false,
@@ -103,8 +31,7 @@
               "title": "Philosophy Quiz 2026-06-22"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,9 +212,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "35be40f23020944b",
+  "active": "626946d0edfcc6c3",
   "lastOpenFiles": [
     "_Fleeting.md",
+    "The Republic - Book 4.md",
+    "The Republic.md",
+    "Textbooks.base",
     "Calculus Quiz 2026-06-22.md",
     "Math Quiz 2026-06-22.md",
     "Philosophy Quiz 2026-06-22.md",
@@ -312,9 +242,6 @@
     "/Math Quiz 2026-06-22.md",
     "/Linear Algebra - Friedberg, Insel, and Spence.md",
     "/Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
-    "/Introduction to Mathematical Statistics - 4.1 Sampling and Statistics.md",
-    "/Introduction to Calculus and Analysis II.md",
-    "Textbooks.base",
     "Projects.base",
     "Piano Repertoire.base",
     "/Piano Repertoire.base",
