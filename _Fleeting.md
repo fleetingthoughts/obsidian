@@ -17,6 +17,10 @@ date_created:
 - [Calculus Quiz 2026-06-15](Calculus%20Quiz%202026-06-15.md)
 - [Plato Quiz 2026-06-14](Plato%20Quiz%202026-06-14.md)
 
+- onions
+- green pepper
+- avocado
+- pumpkin
 # To Do
 - Scriabin
 - Grieg

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy Quiz 2026-06-22.md",
+                "file": "_Fleeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Philosophy Quiz 2026-06-22"
+              "title": "_Fleeting"
+            }
+          },
+          {
+            "id": "ab8ad23cc1d80a61",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ]
@@ -214,34 +224,34 @@
   },
   "active": "626946d0edfcc6c3",
   "lastOpenFiles": [
+    "Philosophy Quiz 2026-06-22.md",
     "_Fleeting.md",
+    "Calculus Quiz 2026-06-22.md",
+    "Math Quiz 2026-06-22.md",
+    "Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (l). Center of Mass and Moments of a curve.md",
+    "Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (m). Area and Volume. Surface of Revolution.md",
+    "/Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (l). Center of Mass and Moments of a curve.md",
+    "/Understanding Analysis 2nd ed. - Abbot, Stephen.md",
+    "/The Republic - Book 2.md",
+    "/The Republic - Book 1.md",
+    "/Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
+    "/Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (m). Area and Volume. Surface of Revolution.md",
     "The Republic - Book 4.md",
     "The Republic.md",
     "Textbooks.base",
-    "Calculus Quiz 2026-06-22.md",
-    "Math Quiz 2026-06-22.md",
-    "Philosophy Quiz 2026-06-22.md",
     "The Republic - Book 2.md",
     "The Republic - Book 3.md",
     "The Republic - Book 1.md",
     "Simonides' Riddle of Justice.md",
     "Crito - Summary.md",
-    "/The Republic - Book 2.md",
     "/Projects.base",
     "/Introduction to Calculus and Analysis I.md",
     "/Algebra 2nd Ed. - Michael Artin.md",
     "/_Fleeting.md",
-    "/Understanding Analysis 2nd ed. - Abbot, Stephen.md",
     "/The Republic - Book 3.md",
-    "/The Republic - Book 1.md",
     "/Simonides' Riddle of Justice.md",
     "/Principles of Mathematical Analysis 3rd ed. - Walter Rudin.md",
     "/Philosophy Quiz 2026-06-22.md",
-    "/Partial Differential Equations 2nd edition - Walter A. Strauss.md",
-    "/Naive Set Theory - Paul R. Halmos.md",
-    "/Math Quiz 2026-06-22.md",
-    "/Linear Algebra - Friedberg, Insel, and Spence.md",
-    "/Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Projects.base",
     "Piano Repertoire.base",
     "/Piano Repertoire.base",
