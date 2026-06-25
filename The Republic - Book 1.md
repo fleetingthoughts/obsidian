@@ -73,8 +73,9 @@ The plot is outlined as follows:
 # Propositions
 
 
-# Side notes
-- Cephaus comments on the values o
+# Concepts
+- Thrasymachus' qua ruler definition
+- R
 # Dramatis Personae
 - Glaucon, son of Ariston
 - Socrates
