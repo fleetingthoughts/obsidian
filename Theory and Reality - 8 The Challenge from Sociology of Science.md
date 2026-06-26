@@ -8,7 +8,7 @@ parent: "[[Theory and Reality - Introduction to the Philosophy of Science]]"
 ---
 Since Kuhn's ***Structures,*** different fields have provided their ideas on what characterizes Science, and PGS will discuss the sociological views. The chapter looks chronologically at the development of ideas of Science from a sociological view making it easier to illustrate main points as new ideas are in reaction to and can be contrasted against old ideas. The sociological views explored are as follows:
 1) Old view of sociology by Robert Merton that provides the general factors that characterize and motivate all scientists
-2) New sociological view of the "Strong Programme" which postulated factors that influence the beliefs within particular scientific groups
+2) New sociological view of the "Strong Programme" which postulated factors that influence the beliefs within particular scientific groups rather.
 3) The ideas in ***Leviathan and the Air Pump*** by Steven Shapin and Simon Schaffer which further developed the ideas of the Strong Programme
 4) The ideas in ***Laboratory Life*** by Steven Woolgar and Bruno Latour which is as being critical of the Strong Programme by the new sociologists.
 
