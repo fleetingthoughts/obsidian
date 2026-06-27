@@ -45,5 +45,9 @@ We now state some properties of the operations between vectors and scalars in a 
 1) $0x=0$
 2) $(-a)x=-a(x)=a(-x)$
 3) $a0=0$ 
-
+# Computational summary
+- ***How to prove a definition of addition and multiplication between mathematical objects is a vector space.*** We must show it satisfies the following:
+	- Closure under addition
+	- Closure under scalar multiplication
+	- Satisfies the 8 field axioms
 

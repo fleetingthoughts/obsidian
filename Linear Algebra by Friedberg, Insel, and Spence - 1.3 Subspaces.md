@@ -6,9 +6,15 @@ tags:
 date_created: 2026-02-20
 parent: "[[Linear Algebra - Friedberg, Insel, and Spence]]"
 ---
-***Definition of Subspaces.*** A subset $W$ of a vector space $V$ over a field $F$ is called a subspace of $V$ if $W$ is a vector space over $F$ with operations of additions and scalar multiplication defined for $V$
-
-By this definition $V$ and $\{0\}$ are subspaces of $V$ , that is the set containing only the zero vector is a subspace of any vector space and any vector space is a subspace of itself.
+We define a subset of the vector space called the subspace and derive the criteria required for a subspace:
+1) ***Definition of the subspace.*** A vector space that is a subset of an original vector space
+2) ***Criteria to be satisfied to be considered a subspace.*** A proposed vector space is considered a vector space if it satisfies additive and scalar multiplicative closure and has the additive inverse.
+3) Prove that one of the 4 properties, the existence of the additive inverse, is redundant once we prove the other properties.
+4) ***General properties of the subspaces*** The intersection of subspaces is always a subspace but the union of subspace is not necessarily a subspace unless one of the subspaces is a subset of the other.
+To illustrate the definition of the subspace, the following are subspaces of a vector space $V$:
+- $V$ and 
+- $\{0\}$ 
+The set containing only the zero vector is a subspace of any vector space and any vector space is a subspace of itself.
 
 To determine whether a proposed subspace meets the definition, we only need to verify the following:
 1) The subspace is closed under addition
@@ -33,7 +39,7 @@ The proof follows by checking if the set $W$ that is the intersection of other s
 
 In general, unions of subspaces do not result in subspaces themselves because they are not necessarily closed under addition. It is shown in Exercise 19 that the union of subspaces result in a subspace if and only if one of the subspaces contains the other.
 # Definitions
-
+- ***Definition of Subspaces.*** A subset $W$ of a vector space $V$ over a field $F$ is called a subspace of $V$ if $W$ is a vector space over $F$ with operations of additions and scalar multiplication defined for $V$
 # Theorems
 
 ***Theorem 1.3 (redundancy of the additive inverse condition)***. The subspace $W$ of vector space $V$ has an additive inverse if and only if the subspace is closed under addition, scalar multiplication, and it has the 0 vector.
