@@ -25,7 +25,9 @@ These questions motivate the definitions of eigenvector and eigenvalues to reduc
 - ***Exercise 12 (Definition of a scalar matrix. A matrix is diagonizable with only 1 eigenvalue if and only if it is a scalar matrix):
 	- A scalar matrix is defined as a diagonal matrix with the same coefficient $\lambda$ for its diagonal entries, that is, $A$ is a scalar matrix if $A=\lambda I$ 
 	- If it is determined that the matrix has only one eigenvalue, then it is diagonizable if and only if that matrix is a scalar matrix.
-- ***Exercise 13 (Similar matrices have the same characteristic polynomial and the characteristic polynomial is independent of choice of basis).*** The characteristic polynomial of a linear operator is dependent on its matrix representation which is not unique, but this doesn't matter as the polynomial is the same for any choice of basis you have:
+- ***Exercise 13 (Similar matrices have the same characteristic polynomial and the characteristic polynomial is independent of choice of basis).*** The characteristic polynomial of a linear operator is dependent on its matrix representation which is not unique, but this doesn't matter as the polynomial is the same for any choice of basis you have.
+- ***Exercise 15 (A matrix and its transpose have the same characteristic polynomial and therefore have the same eigenvalues).***
+- ***Exercise 16 (If $v$ is an eigenvector of a linear transformation $T$ or a matrix $A$, then it is also an eigenvector of powers of that matrix).
 # Definitions
 ***Definitions (Diagonalizability of a linear transformation and a matrix).*** A linear operator $T$ on a finite dimensional vector space $V$ is called diagonalizability if there is an ordered basis $\beta$ for $V$ such that $[T]_{\beta}$ is a diagonal matrix. A square matrix $A$ is called diagonalizability if $L_A$ is diagonalizable.
 
