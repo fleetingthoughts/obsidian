@@ -13,8 +13,7 @@ We define a subset of the vector space called the subspace and derive the criter
 4) ***General properties of the subspaces*** The intersection of subspaces is always a subspace but the union of subspace is not necessarily a subspace unless one of the subspaces is a subset of the other.
 To illustrate the definition of the subspace, the following are subspaces of a vector space $V$:
 - $V$ and 
-- $\{0\}$ 
-The set containing only the zero vector is a subspace of any vector space and any vector space is a subspace of itself.
+- $\{0\}$  that is the set containing only the zero vector is a subspace of any vector space and any vector space is a subspace of itself.
 
 To determine whether a proposed subspace meets the definition, we only need to verify the following:
 1) The subspace is closed under addition

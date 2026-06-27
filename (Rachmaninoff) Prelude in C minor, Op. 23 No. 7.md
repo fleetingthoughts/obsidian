@@ -9,6 +9,7 @@ mastery: repertoire
 RCM: ARCT
 ABRSM: ARSM
 deadline: 2027-01-30
+difficulty type:
 ---
 Difficulty as follows:
 - ARBSM 2024 ARSM repertoire

@@ -5,9 +5,10 @@ tags:
   - "#mozart"
   - "#repertoire"
 date_created: 2025-11-30
-mastery: practice
+mastery:
 RCM: "8"
 ABRSM: "6"
+difficulty type: intermediate
 ---
 
 

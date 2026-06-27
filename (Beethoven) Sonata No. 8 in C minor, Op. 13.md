@@ -9,6 +9,7 @@ mastery: repertoire
 RCM: ARCT
 ABRSM: ARSM
 deadline: 2026-05-30
+difficulty type:
 ---
 Sonata is dubbed the "Sonata Pathetique" originally dubbed "Grande sonate pathetique" (endorsed by Beethoven) by the publisher in 1799dedicated to Beethoven's friend Prince Karl von Lichnowsky. The song was composed in 1798 when Beethoven was 27 and is a representation of Beethoven's earlier styles
 

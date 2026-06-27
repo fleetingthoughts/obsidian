@@ -20,12 +20,20 @@ views:
     name: intermediate practice
     filters:
       and:
-        - mastery.contains("practice")
+        - note["difficulty type"].containsAny("intermediate", "weekly", "monthly")
     order:
       - file.name
       - RCM
       - ABRSM
+      - mastery
+      - difficulty type
     sort:
+      - property: difficulty type
+        direction: ASC
+      - property: difficulty
+        direction: ASC
+      - property: mastery
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: ABRSM

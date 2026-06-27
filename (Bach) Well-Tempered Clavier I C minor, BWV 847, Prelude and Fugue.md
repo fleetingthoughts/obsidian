@@ -5,8 +5,10 @@ tags:
   - "#bach"
   - "#repertoire"
 date_created: 2025-11-30
-mastery: practice
+mastery:
 RCM: "9"
 ABRSM: "8"
+difficulty:
+difficulty type: intermediate
 ---
 

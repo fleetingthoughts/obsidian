@@ -9,6 +9,7 @@ mastery: repertoire
 RCM: ARCT
 ABRSM:
 deadline:
+difficulty type:
 ---
 Considered one of the easier ballades.
 

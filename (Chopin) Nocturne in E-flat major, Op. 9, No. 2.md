@@ -5,7 +5,8 @@ tags:
   - "#chopin"
   - "#piano"
 date_created: 2025-11-28
-mastery: practice
+mastery:
 RCM: "9"
+difficulty type: intermediate
 ---
 One of the most recognized nocturnes.

@@ -9,5 +9,6 @@ mastery: repertoire
 RCM: ARCT
 ABRSM: ARSM
 deadline:
+difficulty type:
 ---
 This sonata is dubbed the "Moonlight Sonata".

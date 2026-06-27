@@ -9,5 +9,6 @@ mastery: repertoire
 RCM: ARCT
 ABRSM:
 deadline: 2026-09-30
+difficulty type:
 ---
 Considered an ARCT level piece

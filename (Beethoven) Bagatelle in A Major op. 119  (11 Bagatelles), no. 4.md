@@ -1,5 +1,5 @@
 ---
-mastery: practice
+mastery:
 RCM: "6"
 ABRSM:
 parent:
@@ -8,5 +8,6 @@ tags:
   - piano
   - repertoire
 date_created: 2025-12-04
+difficulty type: intermediate
 ---
 
