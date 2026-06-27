@@ -1,5 +1,5 @@
 ---
-mastery:
+mastery: practiced
 RCM: "8"
 ABRSM:
 parent:

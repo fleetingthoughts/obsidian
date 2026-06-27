@@ -1,6 +1,6 @@
 ---
 mastery:
-RCM:
+RCM: "8"
 ABRSM:
 parent:
 tags:

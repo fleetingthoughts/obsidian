@@ -28,13 +28,13 @@ views:
       - mastery
       - difficulty type
     sort:
+      - property: file.name
+        direction: ASC
       - property: difficulty type
         direction: ASC
       - property: difficulty
         direction: ASC
       - property: mastery
-        direction: ASC
-      - property: file.name
         direction: ASC
       - property: ABRSM
         direction: ASC
