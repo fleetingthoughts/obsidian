@@ -12,7 +12,10 @@ date_created:
 - [Philosophy Quiz 2026-06-22](Philosophy%20Quiz%202026-06-22.md)
 
 
-- 15% error triable
+- Have a clear image of what you want to achieve: 
+	- tempo, shaping, dynamics, inflection
+	- 
+- Anything not achived in image is an error do: 15% error triable
 - CONCEPT OF ERROR IS NOT JUST WRONG NOTE, ITS EXPRESSION
 - Doabalize IMMEDIATELY: tempo, make smaller chunk so that you can realize the 15% error
 - THINK BETWEEN TRIALS
