@@ -22,7 +22,10 @@ date_created:
 - Memory:
 	- Associate image/words with chunks
 	- backwards chain or create memory points
-	- 
+
+![](Pasted%20image%2020260628101808.png)
+
+![](Pasted%20image%2020260628101921.png)
 # To Do
 - Scriabin
 - Grieg
