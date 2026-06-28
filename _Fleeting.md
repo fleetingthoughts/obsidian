@@ -12,6 +12,14 @@ date_created:
 - [Philosophy Quiz 2026-06-22](Philosophy%20Quiz%202026-06-22.md)
 
 
+- 15% error triable
+- CONCEPT OF ERROR IS NOT JUST WRONG NOTE, ITS EXPRESSION
+- Doabalize IMMEDIATELY: tempo, make smaller chunk so that you can realize the 15% error
+- THINK BETWEEN TRIALS
+- Memory:
+	- Associate image/words with chunks
+	- backwards chain or create memory points
+	- 
 # To Do
 - Scriabin
 - Grieg
