@@ -5,6 +5,13 @@ tags:
 date_created: 2026-06-17
 parent: "[[The Republic]]"
 ---
+# Outline
+1) ***Completion of our model of a well-governed city.*** We justify the need for moderately sufficient lifestyle to maximize happiness of the whole, the limitation of a cities size and excessive wealth fractions the city and produces diplomatic and strategic disadvantages, and justify the necessity of a virtuous education to produce standard practices in the city that govern our way of life that the literal letter of the law cannot practically cover.
+2) ***The search for 4 cardinal virtues in the city.*** Wisdom is with the rulers, courage is the preservation of our values and education, moderation is a harmony between all three classes. By process of elimination, the last thing required of a well-governed city must then be justice: the adherence of each individual to their respective role in the city.
+3) ***The city's model is a consequence of the model of the human individual soul. The 3 parts of the soul and the 3 classes in a city***
+4)  ***The model of a well-governed city is a reflection of its individuals. We connect our propositions on the virtues in a city to the human soul to show that the model of the human soul is exemplified in the city.***
+5) ***The answer to Glaucon's question: what is justice in the individual and consequently on the macro level.***
+6) ***The questions of from the sons of Ariston to be answered by this model of the human soul.***
 # Plato completes his description of the republic
 1) Adeimantus: How can we justify letting guardians live like mercenaries.
 	- The goal is to maximize happiness for the larger group, in this case a city, as opposed to the happiness of just one group of people such as the guardians.
@@ -42,10 +49,34 @@ parent: "[[The Republic]]"
 9) We assume the sum is made up of its parts. We can classify the 4 virtues of the city only because its citizens and the human soul is split into the 4 same values of wisdom, courage, modesty, and justice
 10) Do we act based on what one part of the soul does or with the whole soul once all 4 parts are in unity? Socrates and glaucon acknowledge its difficulty
 	1) Analogy standing still and moving is a contradiction
-	2) We assume an even more precise definition of 1) even if a man is standing still but moving his hands or head, he is still considred standing still. 
-11) How we define someone who wants something but doesn't do it. At some point we distinguish the two parts when we have conflicting actions (thirsty but not drinking) between the soul and spirit
-12) There is a third part that is auxiliary to the calculating
-13) Socrates equivocates the 3 classes in the city to the 3 parts in the soul continue our assumption of the city being the sum of its individual parts
+	2) We assume an even more precise definition of 1) even if a man is standing still but moving his hands or head, he is still considred standing still but his parts move
+	3) One same thing cannot do contradictory things simultaneously we defined by this analogy. But as shown in 1) and 2), it is the constituent parts that can do something contradicting something else
+11) Define desires as wanting of a definite thing separate from the additions. Like thirst is for liquid but thirst for hot or cold drink is caused by additions to the property of thirst
+12) Relations are defined only between elements belonging to the same set. Having "MORE" knowledge is a relation within same kind of knowledge. We do not compare knowledge of carpentry with dancing. More knowledge in carpentry is relative to other carpenters
+13) We now explain how someone can house contradictory thoughts. Explain how one can thirst and resist the urge to drink. It is because there are two parts of a whole that conflict. This distinguishes two parts of the soul
+	1) from 10), one thing cannot do two things simultaneously
+	2) So when we thirst  and dont drink there are necessarily two parts. Socrates calls the other the calculating part and the other the one that hungers and is irrational
+14) Glaucon makes the connection that the spirit is liek the auxiliary obedient to the ruler and Socrates draws a connection that this must a 3rd part of a soul rather than a common part of the previous two parts distinguished:
+	1) The stories clearly put the spirit in conflict with desire at times. So is it aligned with the calculating part?
+	2) Glaucon notes that children have spirits misaligned with their calculating part.
+	3) Socrates cites examples in Homer where there appears to be a 3rd part.
+15) We draw the connection between the city and the individual and how the city is a reflection of the sum of its parts: just as there are three classes, there are 3 parts of the soul and we can identify the cardinal virtues in the individual:
+	1) Calculating part is wisdom and the spirits its allies. Gymnastics and music trains the upbrining of these parts of the soul
+	2) Courage is then the part that preserves the virtuous opinions of what is good and bad which is dictated by the wisdom calculating part of the soul
+	3) Moderation is harmony with all 3 parts of the soul.
+16) We still test our proposition which we arrived at by process of elimination of the last good thing required in a city: justice is minding your own business. We test it by thought experiments and conclucde justice is minding internal business of soul
+17) dfds
+	1) We assume just actions produce justice, injust actions produce injustice
+	2) Justice is then to promote mastery of the parts of the soul with respect to their individual parts and injustice isn't.
+	3) Using our previouis argument that justice is virtue. Virtue is related to the soul
+18) Socrates puts down the remaining questions to answer: is it now profitable to do justice things even if unnoticed or to be unjust and be so good at it that you don't pay the penalty.
+19) Glaucon initially thinks we have answered the question now. In the same way that a body isn't worth living if sickly, is life worth living with a unvirtuous soul that we established requires justice.
+20) We now have a model for human virtue and and how justice plays a role in it and manifests itself in the larger part as city. We should test the profitability of virtue in the various models of the souls. Because city reflects the soul, we can look at different models of the city.
+21) Socrates proposes a third part of the soul called the spirit using an anecdote. There is a part of us that assesses ourselves during moments of conflict: anger at giving into desire, guilt, etc..
+	1) 
+22) How we define someone who wants something but doesn't do it. At some point we distinguish the two parts when we have conflicting actions (thirsty but not drinking) between the soul and spirit
+23) There is a third part that is auxiliary to the calculating
+24) Socrates equivocates the 3 classes in the city to the 3 parts in the soul continue our assumption of the city being the sum of its individual parts
 	1) The calculating part of the soul rules
 	2) The spirit is obedient to the ally and is soothed by harmony and is the auxialiary
 	
@@ -56,16 +87,25 @@ parent: "[[The Republic]]"
 # Assumptions
 - ***There are 4 essential virtues of a city which are the same virtues of the individual soul***. These 4 values are wisdom, courage, modesty, and justice
 - ***Virtue resides in the few and is rarer than the unvirtuous.*** 
+- ***The definition of virtue as practical excellence. Virtue is the efficacy of thing in its intended task. ***
 # Propositions
+
+- ***Justification for the moderately sufficient lifestyle.*** We argue that this maximizes happiness for the city as a whole
+2) ***The limitation of the size of a city.*** We argue that cities that are too large and luxurious are fractioned and fragile which puts them at a strategic disadvantage 
+3) ***The political value of an unchanging art and education.*** Socrates makes no concrete argument but rather cites Damon that political change always accompanies change in music
+4) ***The inadequacy of the law and the necessity of a virtuous upbringing to establish good practices that fill in the gaps in the law.*** It is impractical for the law to cover every single aspect of our life and too many laws become a hinderance. We require standard practices to guide our way of life where laws can't which comes about from a proper virtuous education
+- Maximize happiness of the whole city rather than that of the individual group.
 - Excessive poverty or wealth dulls an art and dulls guardians.
 - Art and education must not change to maintain order.
 - The true law give does not bother with a class of laws as it accomplishes nothing, needlessly complicates and it will resolve itself by best practice from other laws already established.
 - The nature of wisdom of a city and where it resides
 - The nature of courage of a city and where it resides
+- (book I) Justice is a form of virtue
+
 
 # External References
 - ***Damon's citation that political change accompanies change in music***
-- Leonitus son of aglaion and conflictingg desires
+- Leonitius son of Aglaion and conflicting desires
 # Terminology
 # Dramatis Personae
 - Adeimantus
