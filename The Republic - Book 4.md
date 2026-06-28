@@ -84,10 +84,12 @@ parent: "[[The Republic]]"
 
 # Questions 
 
-# Assumptions
-- ***There are 4 essential virtues of a city which are the same virtues of the individual soul***. These 4 values are wisdom, courage, modesty, and justice
+# Assumptions and definitions
+- ***There are 4 essential virtues of a city which are the same virtues of the individual soul***. Wisdom, courage, modesty, and justice are presumed as the cardinal virtues required for a well-governed city
 - ***Virtue resides in the few and is rarer than the unvirtuous.*** 
-- ***The definition of virtue as practical excellence. Virtue is the efficacy of thing in its intended task. ***
+- ***The definition of virtue as practical excellence. Virtue is the efficacy of thing in its intended task.***
+- ***The sum is a reflection and a consequence of its parts.*** "Isn't it quitre necessary for us to agree that the very same forms and dispositions are in the city are in each of us (435e)." The assumption is used to connect the propositions about cities and individuals to each other.
+- ***The principle of non-contradiction*** Used to argue that there must exist different parts of soul to explain the conflict between our thoughts and our actions.
 # Propositions
 
 - ***Justification for the moderately sufficient lifestyle.*** We argue that this maximizes happiness for the city as a whole
