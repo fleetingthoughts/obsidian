@@ -55,7 +55,26 @@ parent: "[[The Republic]]"
 	3) first notes that what he has is an ideal and not an argument of practicality. He compares this to a painter. "We were not seeking them for the sake of proving that it's possible for these things to come into being" (472a).
 29) Socrates will now outlien the suffiicient conditions for his ideal city to be realized which will highlight why its so hard to obtain. This will be his 3rd wave of arguments: PHILOSOPHERS MUST BE KINGS:
 	1) Define to love something as to love one specific thing and only that thing. Loving of something else makes it a mixture of loving -> Philosopher is a lover of wisdom only. That is the esense of philosophers
-	2) The forms of knowledge is binary. E.g. there are beautiful things and not beautiful things
+	2) The binary classification of knowledge (forms). E.g. there are beautiful things and not beautiful things (i.e. ugly)  "this is how I separe them out. On one side I put those of whom you were just speaking, the lovers of sights, the lovers of arts, and the practical men; on the other, those whom the argument concerns, whome alone one could rightly call philosophers."
+	3) He calls lovers of sights dreamers and philosophers as being awake
+	4) assumption of forms being knowable and to have knowledge is to know what the form IS.
+	5) Ignorance defined as not knowing
+	6) Define the power of cognitive faculties by two criteria
+		1) What it depends on 
+		2) What it accomplishes
+	7) Adeimantus's classification of knowledge and power: knowledge never makes mistakes and power does. Therefore opinion and knowledge accomplish different things and have different power
+	8) By principle of non-contradiction, because they have different powers they cannot be same thing so opinion is not knowledge and by extension, it is not knowing something. Opinion must therefore lie somewhere between knowing and not knowing.
+	9) Now we must answer what we can opine about. What is simultaneously to be and not to be.
+	10) By empirical evidence we argue reality consists of mixed forms: "Now of these many fair things, you best of men,.., is there any that won't also look ugly".  
+		1) Someone will call a marble statue beautiful while another calls it ugly. 
+		2) The forms are pure ideals that are binarily classifeid. the form of beauty can never be ugly
+		3) therefore material things are not forms.
+		4) The lover of sights conflates the real material thing with the idea of the form itself so they never know the form. 
+		5) Lovers of sights are therefore not knowers and know a mixture of two. They are opiners
+	11) Socrates concludes the point of this argument: to define the philosopher when we call him a knower and ddistinguish him from lovers of sights. He separates the material from the form.
+		1) we determined what knowing and opining is in relation to forms.
+		2) We define the knower as knowing and the opiner as opining and gave examples of this in the material world. The opiner conflates material world with knowing the form. While the knower can separate the material from the form
+		3) When we define philosophers as lovers of knowledge, we therefore have concretely defined what it means to know in relation to forms and the material world and how they are distinguished from disingenuous philosophers (opiners).
 # Terms
 - Nature
 - War vs faction
@@ -64,7 +83,7 @@ parent: "[[The Republic]]"
 - Knowledge
 - Ignorance
 - Opinion
-- 
+- Forms
 # Assumptions and Definitions
 - ***Definition of nature.*** Nature is defined as our predisposition to more easily learn or acquire a virtue a skill
 - ***The assumption of specialization of natures from Book 1.*** 
@@ -76,7 +95,10 @@ parent: "[[The Republic]]"
 - Family bonds create unity
 - Other greeks outside our city are a kindred spirit to ours.
 - Acting in close approximation to an ideal of a virtue is defined as acting virtuously even if you don't obtain the ideal.
-- The law of identity with regards to forms of knowledge
+- The binary classification of a form of knowledge
+- Knowledge is knowing what IS. Forms are knowable./
+- Forms are knowable, they are not the absence of something
+- Reality consists of mixed forms
 # Propositions
 - Opinion has a different power from knowledge 
 - Our predisposition to learn an art or virtue is dictated by our nature rather than our biological traits like our biological sex
