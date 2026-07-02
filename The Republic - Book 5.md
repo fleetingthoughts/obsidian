@@ -35,7 +35,7 @@ parent: "[[The Republic]]"
 18) Results of this proposition: we also conclusively solve the problem of soldiers cynically viewing their ascetic lifestyle: it is because they are looking to the benefit of community not family. The self-interest and common-interest are in perfect unison. They will feel greater than olympic victors
 19) Further they'll be better at war because they are in unisonj
 20) Aside on education of children must be brough to war for their upbringing despite the risks
-	1) assumption that we shoould not avoid all risks
+	1) assumption that we should not avoid all risks
 	2) it also motivates the people to fight better]
 	3) Children should be on horseback
 21) Punishment of desertion
