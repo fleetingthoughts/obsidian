@@ -7,9 +7,9 @@ date_created:
 ---
 # Quiz
 
-- [Math Quiz 2026-06-29](Math%20Quiz%202026-06-29.md)
-- [Calculus Quiz 2026-06-29](Calculus%20Quiz%202026-06-29.md)
-- [Philosophy Quiz 2026-06-29](Philosophy%20Quiz%202026-06-29.md)
+[Analysis Quiz](Analysis%20Quiz.md)
+[Statistics Quiz](Statistics%20Quiz.md)
+[Linear Algebra Quiz](Linear%20Algebra%20Quiz.md)
 
 
 - Have a clear image of what you want to achieve: 
