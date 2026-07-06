@@ -10,6 +10,7 @@ date_created:
 [Analysis Quiz](Analysis%20Quiz.md)
 [Statistics Quiz](Statistics%20Quiz.md)
 [Linear Algebra Quiz](Linear%20Algebra%20Quiz.md)
+[Philosophy Quiz](Philosophy%20Quiz.md)
 
 
 - Have a clear image of what you want to achieve: 
