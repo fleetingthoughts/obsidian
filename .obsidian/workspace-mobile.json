@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Republic - Book 5.md",
+                "file": "The Republic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +38,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Republic - Book 5"
+              "title": "The Republic"
+            }
+          },
+          {
+            "id": "ee281d5459f3553b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Fleeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Fleeting"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,17 +247,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "dc5656dd4e4a231e",
+  "active": "ee281d5459f3553b",
   "lastOpenFiles": [
-    "The Republic.md",
     "Textbooks.base",
+    "The Republic.md",
+    "The Republic - Book 6.md",
+    "The Republic - Book 5.md",
     "Projects.base",
     "Calculus Quiz 2026-06-29.md",
     "_Fleeting.md",
     "Math Quiz 2026-06-29.md",
     "Philosophy Quiz 2026-06-29.md",
-    "The Republic - Book 5.md",
-    "The Republic - Book 6.md",
     "/_Fleeting.md",
     "/The Republic - Book 5.md",
     "/The Republic - Book 6.md",
