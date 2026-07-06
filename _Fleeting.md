@@ -7,9 +7,8 @@ date_created:
 ---
 # Quiz
 
-- [Math Quiz 2026-06-29](Math%20Quiz%202026-06-29.md)
-- [Calculus Quiz 2026-06-29](Calculus%20Quiz%202026-06-29.md)
-- [Philosophy Quiz 2026-06-29](Philosophy%20Quiz%202026-06-29.md)
+[Quiz](Quiz.md)
+[Philosophy Quiz](Philosophy%20Quiz.md)
 
 
 - Have a clear image of what you want to achieve: 

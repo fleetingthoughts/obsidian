@@ -7,6 +7,9 @@ date_created: 2026-06-20
 parent: "[[The Republic]]"
 ---
 
+1) Socrates, Cephalus, and Polemarchus address [Simonides' Riddle of Justice](Simonides'%20Riddle%20of%20Justice.md):
+	- Justice is only useful for useless things
+2) 
 The plot is outlined as follows:
 1) Socrates goes to Piraeus with Glaucon to pray to the goddess and see how the Thracians conducted a festival they were conducting for the first time
 2) A slave boy owned by Cephalus stops Socrates so Polemarchus can catch up and jokingly strong arms Socrates to his home
@@ -62,12 +65,12 @@ The plot is outlined as follows:
 	3) Now with definitions 1), and 2), what is the virtue of a soul is defined to be the good life
 	4) Justice is virtue of the soul as carried over from 20). therefore justice supports a good life. THIS IS VERY UNCONVINCING FOR ME. If we agree that justice is virtue and human excellence from 20), that does not mean it is the virtue of the soul specifically. There seems to be another underlying assumption that the virtue of the soul requires human excellence. In 20), we were looking at human excellence towards other people and "getting the better of the like or unlike",  Socrates seems to make a direct 1:1 translation of human excellence between people to individual human excellence
 24) At the end aporia: Socrates humbly compares himself to a glutton who grabs at what he can letting go of what he was currently holding. He initially intended to define justice but had let go of that argument to refute Thrasymachus' defintion of justice.
-# Elenchus
+# Terms
 1) Socrates, Cephalus, and Polemarchus address [Simonides' Riddle of Justice](Simonides'%20Riddle%20of%20Justice.md):
 	- Justice is only useful for useless things
 2) 
 
-# Questions
+# Assumptions
 1) Is justice giving a man what they are owed?
 
 # Propositions

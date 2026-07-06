@@ -32,33 +32,32 @@ Socrates defense is a defense for philosophizing itself as it transcends his own
 # Socrates' defense against his old and new accusers
 A running theme in the Apology and all of Plato's dialogue is Socrates' humbleness both in character and his questioning crystallized in the opening line of the dialogue "I do not know, men of Athens \[...\]". Socrates warns his jurymen that although he is accused of a silver tongue, he suggests that his defense will reveal anything but. Instead, he will speak in the conversational dialect of the marketplace, his native tongue.
 
-### The defense against the old accusers. Socrates' god given mission to question and his thesis on human wisdom and the impact of his teaching
+### The defense against the old accusers. 
 
 Instead of addressing his current accusations, Socrates addresses the root cause of his current situation whom he calls his "old accusers". Those who slandered Socrates throughout his now old life whom he believes to be more dangerous because his current jury were impressionable youths at the time. Explicitly, Socrates calls out his caricatural portrayal in the arts which may be the cause of Plato's views on arts in [The Republic - Book 2]. Socrates attempts to paraphrase the arguments as if they were accusers:
 	1) Socrates busies himself with things in the sky and below the earth
 	2) He makes the stronger argument worse and the worse argument stronger
 	3) He teaches all this to others.
 Socrates does not charge a fee and later in the dialogue, he jokingly notes that Meletus was wise enough to not make it an accusation for he will have trouble finding a witness that can attest to it. 
-
+### Socrates' god given mission to question and his thesis on human wisdom and the impact of his teaching
 But where do these accusations come form? What has Socrates done to incur the wrath of all these people? Socrates starts from the beginning when Chaerephon, who is now dead and Socrates asks his brother to attest to it, approached the Oracle of Delphi who stated that Socrates was the wisest of them all. Socrates was confused by the proclamation for he knew he was not wise at all and that surely others were wiser than him. To answer this question he interrogated politicians and realized that they knew nothing as well but thought themselves wise. Through this questioning to answer the Oracle's riddle, Socrates realized he was wise in the sense that he knew he was not wise. Socrates continued questioning other people and summarized his journey as follows:
 1) After questioning the politicians, he questioned the poets and realized they could not explain their own works of arts. "Poets do not compose their poems with knowledge, but by some inborn talent and by inspiration, like seers and prophets who also say many fine things without understanding of what they say." (22 b). 
 2) He finally questioned the craftsman and realized they also erroneously believed themselves to be wise in areas outside their craft. The knowledge of their craft was overshadowed by their arrogance. 
 The irony is that although Socrates is accused of trying to appear wise and making "the stronger argument weaker" he was in fact doing the opposite and revealing that no one really knew anything.<u> Socrates surmises that Oracle must be implying that human wisdom is miniscule compared to true wisdom belonging to the gods if the wisest human knows that they know nothing at all.</u>
 
 Socrates continues this mission and his story reveals the pious nature of his journey. His questioning is in service to the gods. In his questioning, other young people have imitated him without his direct teaching and this is the reason why he is accused of corrupting the youth. Not because he actually taught them, but because they followed in example
-
 # Socrates' current accusers. 
 There are two charges against Socrates laid out by Meletus:
 1) Socrates is guilty of corrupting the youth
 2) Socrates does not believe in the gods and teaches about other spiritual beings
 Socrates addresses each point individually revealing his stance on ethics and his method of interrogation. The accusers represent different factions of the city
-- Meletus represents the politicians
-- Anytus represents the craftsman and poets
+- Meletus represents the poets
+- Anytus represents the politicians and craftsman
 - Lycon represents the orators
 ### Socrates ethical stance on he nature of wrong doing
 Socrates first addresses the 1st charge by questioning Meletus who is compelled by the court to answer albeit reluctantly and makes him answer as follows:
 - Who improves the men? The laws and when asked to be more specific, it is the people practicing the laws so the rest of Athens. It is only Socrates alone who corrupts
-Socrates notes if this were true, it would be a happy state of affairs giving an analogy to a horse who is only improved by the one trainer and not the mainy
+Socrates notes if this were true, it would be a happy state of affairs giving an analogy to a horse who is only improved by the one trainer and not the many
 - Do bad people do harm? Yes.
 - Do people want harm done to them? No.
 From these two premise, Socrates surmises the ridiculousness of the charge of corrupting the youth for it will create bad people who will harm him. Therefore, if such wrongdoing is done, it must be done unintentionally. Unintentional wrongdoing is not against the law and the more appropriate resolution is to take Socrates aside and admonish him.
@@ -71,7 +70,7 @@ Now Socrates gets into his methods. He inquires Meletus as follows:
 - Spirits are children of god or gods themselves? Yes
 From these two premise, it is therefore a contradiction to believe in other spirits while simultaneously not believing in the gods and so Meletus contradicts himself in his charge.
 
-# The virtue of Socrates' mission
+## The intensity of Socrates' mission. What is right transcends material concerns.
 After directly addressing his charges, Socrates impresses the intensity of his mission and way of life to the public by addressing two supposed defects in his way of life: his poverty, and physical harm from the people he questions.
 
 On the latter, Socrates addresses the fear of death by citing respected anecdotes where great feats were done despite the consequence of death
@@ -81,18 +80,18 @@ Socrates notes that no one knows what death actually entails so to fear it is fo
 
 Regarding his poverty, Socrates reveals his stance on the meaning of a good human life. Material wealth is nothing compared to the excellence of his soul, and in spite of the accusations of impiety, it is better to be in service to the gods. As his mission was given by the Oracle of Delphi, Socrates sees his duty as a god given one that supersedes any material concerns. "Wealth does not bring about excellence, but excellence makes wealth and everything else good for men, both individually and collectively." As a result, Socrates does not fear death or the penalties of his court. Socrates invokes the famous analogy and sees it as his duty to be the gadfly that pesters the sluggish horse that is Athens.
 
-# The private life of a philosopher
+## The private life of a philosopher
 Socrates addresses why he engages in his pursuit in private affairs as opposed to public affairs. Socrates notes this is a necessity as he would be dead if he hadn't done so and gives anecdotal evidence of this:
 - When Athens was a democracy, he served on the council that convicted 10 generals for failing to save survivors of a naval battle. In hindsight, this is considered wrong but only Socrates along argued against it and could've been put to death
 - When Athens was ruled by the 30, he abandoned the order to apprehend Leon from Salamis. He likely would've been put to death if the government didn't collapse.
 
-# The impacts of his teaching
+## The impacts of his teaching
 Socrates remarks that he has done this for a long time. If he truly corrupted youth, these people would've grown up and there surely would be some who realized his corruption and will testify against him. Instead Socrates notes only supporters: Crito, Critobulus, Antiphon, Adeimantus, Plato
 
-# The Socratic method does not argue from emotion
+## The Socratic method does not argue from emotion
 While it is common in the court of law for people to appeal to emotion and weep, Socrates has done none of that despite having the means. Socrates quotes Homer in that he is not "born from rock or earth" and is human with 3 sons, one adolescent and two children. He has not brought any of them to the court because he does not believe in arguing from emotions and those who do so are truly worth convicting in spite of the common practices in the court.
 
-# Socrates is determined to be guilty and the penalty is to be decided.
+## Socrates is determined to be guilty and the penalty is to be decided.
 At this stage, Socrates has not been sentenced to death but only deemed guilty. The vote was slim. As part of the custom, the accuser puts forth a penalty and the defendant can argue for a counter penalty. Meletus has proposed death.
 
 Socrates, in accordance with his faith, is undeterred by fear of the potential penalties and even goes so far as to joke what his penalty should be: a reward of free meals at the Prytaneum.
@@ -103,35 +102,37 @@ Socrates suspects that exile or to stop philosophizing would be the most natural
 
 Socrates ends with yet another joke by proposing the common penalty of a fine. But because he has no money, he jokes that it should be a penny. He also suggests his friends could likely pay a modest fee of 30 minas.
 
-# Socrates is sentenced to death
-1) Socrates believes he is sentenced because he was not shameless enough to appeal to emotion and cry
-2) He does not fear death" It is not difficult to avoid death, gentleman, ; it is much more difficult to avoid wickedness, for it runs faster than death."
-3) Socrates foretells what will happen after his death:
-	1) More people will question. He's actually been holding them back. They will be even more difficult to deal with because they are younger and will be more annoying
-4) Socrates invites his friends who chose to acquit him to discuss. He apparantly had a reveleation
-	1) His personal daemon who always pestered him was quiet all the way through
-5) The silence of he daemon seems to suggest that death may be a blessing:
-	1) either death is nothingness and no perception: a total sleep. Sleep is good.
-	2) If death leads to the underworld, then he welcomes it too for there are the true jurymen: heroes of the past. What a blessing to be in the company of other great people like Hesiod and Homer.
-6) "a good man cannot be harmed either in life or in death"
-7) He does not see death as bad thing so he is not angry with his coonvictors. But they do deserve blame because they believe doing so hurts Socrates and their intent to inflict harm is wrong.
-8) As a final request, he asks everyone to question his sons as he has questioned them
-9) "Now the hour to part has come. I go to die, you go to live. Which of us goes to the better lot is known to no one, except the god." (42 a)
+## Socrates is sentenced to death. The irrational fear of death
+The penalty of death is given to Socrates who believes the votes may have been tilted if he appealed to emotion. Socrates is fearless in the face of death and restates his position on death: "it is not difficult to avoid death, gentleman; it is much more difficult to avoid wickedness, for it runs faster than death" (39 b)
+
+Socrates foretells that after his death, more people will be questioning and pestering people as he has actually been holding them back. The irony is that his death will not stop the questioning but increase it. Socrates invites people to talk to him after his death
+
+But to end his speech, Socrates notes that his personal daemon who normally nags at him what not to do has been silent the entire trial which renews his conviction. He is once again convinced that death is no evil thing and proposes two outcomes of death neither of which are bad:
+1) Death is a total restful sleep of nothingness
+2) Death leads to the afterlife where he can enjoy the company of great people like the heroes of Troy, Homer, and Hesiod and question them
+He never backs off his conviction and restates his defense, a defense of philosophy itself against the toils of the physical world: "a good man cannot be harmed in either life or in death".  For this reason, Socrates is not concerned about the penalty itself. but the intent to inflict harm with this punishment is what's wrong
+
+As a final request, he asks the people of Athens to question his sons the way he has questioned them before ending
+
+"Now the hour to part has come. I to die, you to live, whichever of us goes to the better lot is known to no one, except the god" (42 a)
+
 
 # Dramatis Personae
 - Socrates
-- Meletus. Accuser on behalf of the politicians
-- Antyus. Accuser on behalf of the poets and craftsman
+- Meletus. Accuser on behalf of the poets
+- Anytus. Accuser on behalf of the politicians and craftsman
 - Chaerephon (dead). Received the prophecy from the Oracle of Delphi. 
 - Lycon. Accuser on behalf of the orators
-# Terms
-
+- Critobulus
+- Adeimantus
+- Crito
 # Propositions
 - Plato's cynicism of artists. Poets do not understand their own works as revealed to Socrates in his questioning.
 - ***The paltry state of our wisdom.*** Human Wisdom is so miniscule that to know that you know nothing is to be wise***
 - ***Socrates stance on the nature of wrongdoing.*** Wrongdoing creates more bad people who will harm you so wrongdoing is a contradiction. People therefore only do wrong out of ignorance rather than intent.
-- Pursuit of good over death
-- "I say that it is the greatest good for a man to discuss virtue every day and those other things about which you hear me conversing and testing myself and others for the unexamined life is not worth living for men" (38a)
+- ***What is good and right supersedes material concerns and what actually harms a person***. True harm damages our understanding and knowledge of what's good and right. "a good man cannot be harmed in either life or in death"
+
+- ***Wisdom supersedes material concerns of our mortal coil*** "I say that it is the greatest good for a man to discuss virtue every day and those other things about which you hear me conversing and testing myself and others for the unexamined life is not worth living for men" (38a)
 - "Now the hour to part has come. I go to die, you go to live. Which of us goes to the better lot is known to no one, except the god." (42 a)
 
 
