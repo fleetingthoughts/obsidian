@@ -7,9 +7,7 @@ date_created:
 ---
 # Quiz
 
-[Analysis Quiz](Analysis%20Quiz.md)
-[Statistics Quiz](Statistics%20Quiz.md)
-[Linear Algebra Quiz](Linear%20Algebra%20Quiz.md)
+[Quiz](Quiz.md)
 [Philosophy Quiz](Philosophy%20Quiz.md)
 
 
