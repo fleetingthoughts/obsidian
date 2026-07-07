@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Republic.md",
+                "file": "Philosophy 2026-07-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Republic"
+              "title": "Philosophy 2026-07-06"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Fleeting.md",
+                "file": "Listening repertoire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Fleeting"
+              "title": "Listening repertoire"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,38 +247,38 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ee281d5459f3553b",
+  "active": "dc5656dd4e4a231e",
   "lastOpenFiles": [
+    "_Fleeting.md",
+    "Calculus 2026-07-06.md",
     "Textbooks.base",
+    "Philosophy 2026-07-13.md",
+    "Philosophy 2026-07-06.md",
+    "Calculus 2026-07-13.md",
+    "/Philosophy 2026-07-13.md",
+    "/Philosophy 2026-07-06.md",
+    "/Calculus 2026-07-13.md",
+    "/Calculus 2026-07-06.md",
     "The Republic.md",
+    "The Republic - Book 1.md",
+    "Theory and Reality - 5 Kuhn and Normal Science.md",
+    "Listening repertoire.md",
+    "Proof of the Steinitz exchange lemma.md",
+    "Philosophy Quiz.md",
+    "Theory and Reality - Introduction to the Philosophy of Science.md",
+    "Projects.base",
+    "Quiz.md",
+    "/_Fleeting.md",
+    "/The Republic - Book 6.md",
+    "/The Republic - Book 1.md",
+    "/The Apology.md",
+    "/Quiz.md",
+    "/Philosophy Quiz.md",
     "The Republic - Book 6.md",
     "The Republic - Book 5.md",
-    "Projects.base",
-    "Calculus Quiz 2026-06-29.md",
-    "_Fleeting.md",
-    "Math Quiz 2026-06-29.md",
-    "Philosophy Quiz 2026-06-29.md",
-    "/_Fleeting.md",
-    "/The Republic - Book 5.md",
-    "/The Republic - Book 6.md",
-    "/The Apology.md",
     "/Projects.base",
-    "The Republic - Book 1.md",
-    "Untitled 1.md",
     "Pasted image 20260628101921.png",
     "Pasted image 20260628101808.png",
-    "Listening repertoire.md",
-    "(Schumann) Kinderszenen Of Foreign Lands and People Op. 15 No. 1.md",
-    "(Mozart) Sonata No. 16 in C major, K. 545 (1st Movement).md",
-    "(Chopin) Prelude in F major, Op. 28, No. 13.md",
-    "(Chopin) Prelude in D-flat major, Op. 28, No. 15.md",
-    "(Chopin) Prelude in C minor, Op. 28, No. 20.md",
-    "(Chopin) Prelude in A minor Op.28 No.2.md",
-    "/彩雲追月 (任光).md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "/Untitled 1.md",
-    "/Theory and Reality - 8 The Challenge from Sociology of Science.md",
     "/Piano Repertoire.base",
     "/Pasted image 20260628101921.png",
     "/Pasted image 20260628101808.png",
