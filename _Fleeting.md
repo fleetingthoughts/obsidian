@@ -7,7 +7,7 @@ date_created:
 ---
 # Quiz
 
-[Quiz](Quiz.md)
+[Calculus 2026-07-06](Calculus%202026-07-06.md)
 [Philosophy 2026-07-06](Philosophy%202026-07-06.md)
 
 
