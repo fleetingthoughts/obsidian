@@ -8,7 +8,7 @@ date_created:
 # Quiz
 
 [Quiz](Quiz.md)
-[Philosophy Quiz](Philosophy%20Quiz.md)
+[Philosophy 2026-07-06](Philosophy%202026-07-06.md)
 
 
 - Have a clear image of what you want to achieve: 
