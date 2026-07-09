@@ -5,13 +5,8 @@ tags:
   - fleeting
 date_created:
 ---
-# Quiz
+# 
 
-[Calculus 2026-07-06](Calculus%202026-07-06.md)
-[Calculus 2026-07-13](Calculus%202026-07-13.md)
-[Philosophy 2026-07-06](Philosophy%202026-07-06.md)
-[analysis quiz 2026-07-14](analysis%20quiz%202026-07-14.md)
-[analysis quiz 2026-07-06](analysis%20quiz%202026-07-06.md)
 
 
 - Have a clear image of what you want to achieve: 
