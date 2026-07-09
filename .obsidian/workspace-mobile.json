@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy 2026-07-06.md",
+                "file": "Calculus 2026-07-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Philosophy 2026-07-06"
+              "title": "Calculus 2026-07-06"
             }
           },
           {
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,35 +247,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "dc5656dd4e4a231e",
+  "active": "ee281d5459f3553b",
   "lastOpenFiles": [
-    "_Fleeting.md",
+    "analysis quiz 2026-07-14.md",
+    "analysis quiz 2026-07-06.md",
+    "(Every W,S,M) Statistics.md",
+    "(Every U,W,S) Analysis - Abbott.md",
+    "(Every U,F,R) Real Analysis.md",
+    "(Every S,R,M) Lin Alg.md",
+    "(Every M,R,U) Lin Alg.md",
+    "(Every F,W,U) Calc - Courant.md",
+    "(Every F,S,W) Calc.md",
+    "/analysis quiz 2026-07-14.md",
+    "/analysis quiz 2026-07-06.md",
+    "/(Every W,S,M) Statistics.md",
+    "/(Every U,W,S) Analysis - Abbott.md",
+    "/(Every U,F,R) Real Analysis.md",
+    "/(Every S,R,M) Lin Alg.md",
+    "/(Every M,R,U) Lin Alg.md",
+    "/(Every F,W,U) Calc - Courant.md",
+    "/(Every F,S,W) Calc.md",
     "Calculus 2026-07-06.md",
+    "_Fleeting.md",
+    "Philosophy 2026-07-06.md",
     "Textbooks.base",
     "Philosophy 2026-07-13.md",
-    "Philosophy 2026-07-06.md",
     "Calculus 2026-07-13.md",
     "/Philosophy 2026-07-13.md",
     "/Philosophy 2026-07-06.md",
     "/Calculus 2026-07-13.md",
-    "/Calculus 2026-07-06.md",
-    "The Republic.md",
-    "The Republic - Book 1.md",
-    "Theory and Reality - 5 Kuhn and Normal Science.md",
-    "Listening repertoire.md",
-    "Proof of the Steinitz exchange lemma.md",
-    "Philosophy Quiz.md",
-    "Theory and Reality - Introduction to the Philosophy of Science.md",
     "Projects.base",
-    "Quiz.md",
-    "/_Fleeting.md",
-    "/The Republic - Book 6.md",
-    "/The Republic - Book 1.md",
-    "/The Apology.md",
-    "/Quiz.md",
-    "/Philosophy Quiz.md",
-    "The Republic - Book 6.md",
-    "The Republic - Book 5.md",
     "/Projects.base",
     "Pasted image 20260628101921.png",
     "Pasted image 20260628101808.png",
