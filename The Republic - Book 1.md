@@ -6,6 +6,7 @@ tags:
 date_created: 2026-06-20
 parent: "[[The Republic]]"
 ---
+We 
 
 1) Socrates, Cephalus, and Polemarchus address [Simonides' Riddle of Justice](Simonides'%20Riddle%20of%20Justice.md):
 	- Justice is only useful for useless things

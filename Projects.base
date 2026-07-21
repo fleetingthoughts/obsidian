@@ -21,6 +21,8 @@ views:
       - milestones
       - real sections
     sort:
+      - property: formula.Progress
+        direction: DESC
       - property: formula.Benchmark progress
         direction: DESC
       - property: milestones

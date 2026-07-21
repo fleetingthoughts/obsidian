@@ -14,7 +14,7 @@ status: ongoing
 rating out of 10:
 parent: "[[_MOC Science and Math]]"
 project: study
-deadline: 2026-12-30
+deadline:
 milestones: "78"
 real sections: "78"
 ---
