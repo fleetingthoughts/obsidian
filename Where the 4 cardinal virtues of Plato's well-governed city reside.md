@@ -4,7 +4,6 @@ tags:
 date_created: 2026-07-22
 ---
 
-
 2) Now we've completed our city, because it is virtuous, it must have 4 things: wisdom, courage, modesty, and justice. We search for justice by process of elimination, once we've found 3 out of the 4, the remaining goodness of our city must be justice.
 3) The wisdom in a city is classified by whether the rules have them or not. Wisdom is in the smallest part
 	1) The good counsel of ordinary craftsman do not influence the governing of a city so it cannot be in the populace.
