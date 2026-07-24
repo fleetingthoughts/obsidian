@@ -11,8 +11,10 @@ Socrates completes his construction of a well-governed city and searches for the
 2) ***The search for 4 cardinal virtues in the city.*** Wisdom is with the rulers, courage is the preservation of our values and education, moderation is a harmony between all three classes. By process of elimination, the last thing required of a well-governed city must then be justice: the adherence of each individual to their respective role in the city.
 3) ***The city's model is a consequence of the model of the human individual soul. The 3 parts of the soul and the 3 classes in a city***
 4)  ***The model of a well-governed city is a reflection of its individuals. We connect our propositions on the virtues in a city to the human soul to show that the model of the human soul is exemplified in the city.***
-5) ***The answer to Glaucon's question: what is justice in the city and consequently the individual.***
-6) ***The questions of from the sons of Ariston to be answered by this model of the human soul.***
+5) ***The principle of non-contradiction and a definition of relations between absolutes and particulars of the absolute.*** Socrates lays down two foundational definitions that align with conventional usage of language to argue for the three parts of the soul
+6) ***The tripartite soul.***  
+7) ***The answer to Glaucon's question: what is justice in the city and consequently the individual.*** The questions of from the sons of Ariston to be answered by this model of the human soul.
+8) ***Testing our definition of justice.*** Socrates produces several examples to see how our model of justice applies to practical scenarios.
 # Plato completes his description of the republic
 Spurned by Adeimantus' rebuttal as to how Socrates can justify the seemingly ascetic lifestyle of the guardian, Socrates finishes the construction of his well-governed city by arguing for the [tactical advantage of a city's moderate lifestyle](Plato's%20justification%20for%20a%20guardian's%20moderate%20lifestyle%20and%20its%20tactical%20advantage.md). The justification is in maximizing the happiness of the group which Socrates aligns with the individual's self-interest in [Book 5](The%20Republic%20-%20Book%205.md)
 # The search for justice in the city
