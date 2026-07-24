@@ -1,7 +1,8 @@
 {
   "settings": {
     "flashcardTags": [
-      "#micro"
+      "#micro",
+      "#macro"
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
@@ -15,7 +16,7 @@
     "clozePatterns": [
       "==[123;;]answer[;;hint]=="
     ],
-    "singleLineCardSeparator": "::",
+    "singleLineCardSeparator": "?",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",

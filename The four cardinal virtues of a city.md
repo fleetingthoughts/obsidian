@@ -5,9 +5,9 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-What are the 4 cardinal virtues of a city and how does Socrates argue where they reside. There is something special in the way Socrates argues for where justice resides.
+What are the 4 cardinal virtues of a city and how does Socrates argue where they reside and the special way he argues for where justice resides?
 
-#long/philosophy/republic
+#macro/philosophy/republic
 
 
 
