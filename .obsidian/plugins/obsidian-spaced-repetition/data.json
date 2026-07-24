@@ -30,15 +30,15 @@
     "reviewReminderBounceDock": true,
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#macro/math",
-      "#macro/liberaled",
+      "#short",
+      "#long",
       ""
     ],
     "noteTagsToIgnore": [],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
-    "openRandomNote": false,
+    "openRandomNote": true,
     "autoNextNote": false,
     "showFileMenuReviewOptions": true,
     "deleteTagsOnSchedulingDataDeletion": false,
