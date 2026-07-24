@@ -1,10 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#micro",
-      "#macro/math",
-      "#macro/liberaled",
-      ""
+      "#micro"
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
@@ -33,7 +30,8 @@
     "reviewReminderBounceDock": true,
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review",
+      "#macro/math",
+      "#macro/liberaled",
       ""
     ],
     "noteTagsToIgnore": [],
