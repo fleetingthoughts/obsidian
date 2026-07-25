@@ -7,6 +7,6 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-What analogy with respect to sight and hearing does Socrates make to explain what Good is?
+How does Socrates distinguish the Forms from Good with respect to opiners (505d)? What analogy with respect to sight and hearing does Socrates make to explain what Good is?
 #### Notes
 
