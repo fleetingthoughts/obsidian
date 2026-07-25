@@ -16,9 +16,9 @@
     "clozePatterns": [
       "==[123;;]answer[;;hint]=="
     ],
-    "singleLineCardSeparator": "?",
+    "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
-    "multilineCardSeparator": "Source::",
+    "multilineCardSeparator": "Source:",
     "multilineReversedCardSeparator": "??",
     "multilineCardEndMarker": "",
     "enableReviewReminders": false,
