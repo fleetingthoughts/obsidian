@@ -4,9 +4,9 @@ tags:
   - "#flashcard"
   - real_analysis
   - stephen_abbot
-  - macro/math
+  - macro/math/abbott/2
 date_created: 2026-07-24
 ---
-text here
+State the logical statement of the algebraic limit theorem and prove it. Is it a equivalent statement?
 #### Notes
 
