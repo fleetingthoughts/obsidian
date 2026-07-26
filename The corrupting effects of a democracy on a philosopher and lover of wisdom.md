@@ -5,7 +5,7 @@ tags:
   - micro/philosophy/republic/book6
 date_created: 2026-07-24
 ---
-According to Socrates, how does the mass in a democracy enforce the societal mechanisms (492b) that shape the kind ofskills are favored (492d-493d)?
+According to Socrates, how does the mass in a democracy enforce the societal mechanisms (492b) that shape the kind of skills are favored (492d-493d)?
 
 What does Socrates call this person that possesses the skills that are favored and describe this person. 
 
