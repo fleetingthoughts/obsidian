@@ -7,6 +7,12 @@ tags:
   - "#micro/philosophy/republic/book4"
 date_created: 2026-07-24
 ---
-Socrates makes several analogies to illustrate the principle of non-contradiction. How does he use the principle to argue for the structure of the human soul.
+Socrates makes several analogies to illustrate the principle of non-contradiction. Explain the analogies he makes to demonstrate the principle. How does he apply this principle to distinguish the relation between things and the relation of particular of those things?
 #### Notes
+Socrates defines a specific way of distinguishing and defining classes and their subclasses that aligns with our conventional use of language to eventually distinguish the subclasses of the soul.
+He illustrates the principle of non-contradiction with the following analogies (436b–439a):
+- A man at rest but with his arms moving
+He illustrates the relation between things and differentiates it from the relation of particulars with the following:
+- The relation of a knowledgeable person to a less knowledgeable person, but the knowledge of medicine is an entirely different comparison
+- The thirst for drink vs the thirst for a hot drink or the thirst for a cold drink.
 
