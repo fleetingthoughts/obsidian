@@ -7,7 +7,7 @@ tags:
   - plato
 date_created: 2026-07-24
 ---
-After explaining his model of a well-governed and city and why it is so difficult to set up, walk through the hypothetical scenario he explains in which such a city can be formed from a (502a-504e).
+After explaining his model of a well-governed city and why it is so difficult to set up, walk through the hypothetical scenario he explains in which such a city can be formed from an existing one (502a-504e).
 
 How does this lead to his next set of arguments about the nature of the Good.
 #### Notes

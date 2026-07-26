@@ -5,6 +5,10 @@ tags:
   - macro/philosophy/republic/book6
 date_created: 2026-07-24
 ---
-In the beginning of Book 6, Socrates finishes his 3rd wave of argument and argues why the philosopher is the best to rule his model of a city. With his definition of the [Socrates' definition of a philosopher](Socrates'%20definition%20of%20a%20philosopher.md), how does he argue that they the best to rule his model of the well-governed city?
+In the beginning of Book 6, Socrates finishes his 3rd wave of argument and argues why the philosopher-kings must rule. With his [definition of a philosopher](Socrates'%20definition%20of%20a%20philosopher.md), how does he argue that philosophers best rule the city.
 #### Notes
+Socrates provides several reasons (484b–487a):
+- Under the presumption that understanding the forms is what leads to ruling. Philosophers can grasp the forms and so they know what is always true. He illustrates this with the analogy of a blind man
+- Philosophers naturally possess all the 4 cardinal virtues
+
 
