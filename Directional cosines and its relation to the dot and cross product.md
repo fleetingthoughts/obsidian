@@ -1,0 +1,15 @@
+---
+parent:
+tags:
+  - "#flashcard"
+  - micro/math/courant_cal1/ch4
+date_created: 2026-07-24
+---
+Define the following:
+- Positional vector $\mathbf{R}=(a,b)$
+- The direction cosines of the angle with the positive $x$-axis
+- The dot and cross product of two vectors in terms of their elements
+- The magnitude of a vector
+Use these definitions to then determine a relationship between the dot product and cross product with the angle $\theta$ between any two vectors $\mathbf{R}$ and $\mathbf{R^*}$ and their magnitudes.  
+#### Notes
+
