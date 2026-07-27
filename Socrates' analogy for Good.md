@@ -7,7 +7,10 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-How does Socrates distinguish the Forms from Good with respect to opiners (505d)? What does he admit before attempting to explain what Good is. What analogy with respect to sight and hearing does Socrates make to explain what Good is?
+One of the biggest analogies Socrates makes in Book 6 is the analogy for what Good is:
+- How does Socrates distinguish the Forms from Good with respect to opiners (505d)? 
+- What does he admit before attempting to explain what Good is (506d-507a) 
+- What analogy with respect to sight and hearing does Socrates make to explain what Good is?
 #### Notes
 - ***The conventional understanding of good as distinguished from other virtues (505d).*** Socrates points out that people will happily settle for the _appearance_ (opinion) of justice or fairness, but when it comes to the Good, no one wants the appearance—everyone demands the absolute reality of what is truly good
 - Socrates admits that he can only give a small imitative example of Good and that his explanation may be incomplete
