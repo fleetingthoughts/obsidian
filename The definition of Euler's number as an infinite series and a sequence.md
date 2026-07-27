@@ -13,6 +13,7 @@ Provide two definitions of Euler's number:
 With these two definitions answer the following:
 - Show that both definitions converge.
 - With the definition of Euler's number as an infinite series, produce an upper bound if a partial sum is used to approximate its value.
+- Prove the irrationality of Euler's number.
 - Show that the two definitions of Euler's number converge to same number.
 #### Notes
 
