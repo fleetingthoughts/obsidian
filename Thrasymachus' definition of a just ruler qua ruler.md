@@ -7,6 +7,6 @@ tags:
   - plato
 date_created: 2026-07-24
 ---
-Following the defusal of his first definition? How does Thrasymachus amend his proposition of justice? How does Socrates rebut this definition as well with respect to conventional definitions of virtue and ruling as a virtue
+Synthesize Socrates' refutation of Thrasymachus' cynical definition of justice by the ruler qua ruler using his [Socrates definition of virtue](Socrates%20definition%20of%20virtue%20in%20The%20Republic.md)
 #### Notes
 
