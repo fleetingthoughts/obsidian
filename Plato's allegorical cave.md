@@ -4,6 +4,7 @@ tags:
   - "#flashcard"
   - micro/philosophy/republic/book7
   - the_republic
+  - plato
 date_created: 2026-07-24
 ---
 Walk through Socrates' analogy of the cave that begins Book 7:

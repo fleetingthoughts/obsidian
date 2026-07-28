@@ -6,7 +6,9 @@ tags:
 date_created: 2026-06-20
 parent: "[[The Republic - Book 1]]"
 ---
-
+Following the dialogue with Cephalus, the 2nd major dialogue happens:
+- Who takes over the argument after Cephalus
+#### Notes
 ### Does justice follow Simonides' definition: Justice is giving a man what he is owed.
 1) Polemarchus interjects and says this must be the case as it is Simonides' definition of justice
 2) Socrates refutes by counterexample where such a situation is obviously wrong: giving a mad man his weapon back. 

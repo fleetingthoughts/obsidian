@@ -4,6 +4,7 @@ tags:
   - "#flashcard"
   - the_republic
   - micro/philosophy/republic/book7
+  - plato
 date_created: 2026-07-24
 ---
 In Book 6, Socrates introduced the [the divided line analogy](Socrates'%20analogy%20of%20the%20divided%20line%20and%20its%20relation%20with%20Good.md) and calls out 4 segments. He then classifies these 4 areas into two [cognitive faculties](Socrates'%20initial%20conception%20of%20the%20forms%20and%20his%20definition%20of%20our%20cognitive%20faculties..md). What is this classification?
