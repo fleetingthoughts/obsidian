@@ -7,6 +7,6 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-Outline the 3rd and final reformulation of justice that Thrasymachus makes and Socrates' rebuttal to one of the definitions he makes before fully counter arguing his proposition.
+Outline Thrasymachus' third and final formulation of justice and Socrates' rebuttal.
 #### Notes
 
