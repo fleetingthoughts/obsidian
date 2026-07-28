@@ -3,11 +3,14 @@ tags:
   - plato
   - philosophy
   - the_republic
+  - micro/philosophy/republic/book1
 date_created: 2026-06-20
 parent: "[[The Republic - Book 1]]"
 ---
 Following the dialogue with Cephalus, the 2nd major dialogue happens:
 - Who takes over the argument after Cephalus
+- How does he amend Cephalus' argument? What are the two propositions about justice made?
+- How does Socrates rebut each proposition?
 #### Notes
 ### Does justice follow Simonides' definition: Justice is giving a man what he is owed.
 1) Polemarchus interjects and says this must be the case as it is Simonides' definition of justice
