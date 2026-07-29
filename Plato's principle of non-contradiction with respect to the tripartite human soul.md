@@ -7,7 +7,7 @@ tags:
   - "#micro/philosophy/republic/book4"
 date_created: 2026-07-24
 ---
-Socrates makes several analogies to illustrate the principle of non-contradiction. Explain the analogies he makes to demonstrate the principle. How does he apply this principle to distinguish the relation between things and the relation of particular of those things?
+Socrates makes several analogies to illustrate the principle of non-contradiction in Book 4. Explain the analogies he makes to demonstrate the principle. 
 #### Notes
 Socrates defines a specific way of distinguishing and defining classes and their subclasses that aligns with our conventional use of language to eventually distinguish the subclasses of the soul.
 He illustrates the principle of non-contradiction with the following analogies (436b–439a):

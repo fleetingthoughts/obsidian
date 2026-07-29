@@ -4,15 +4,13 @@ tags:
   - "#flashcard"
   - the_republic
   - plato
-  - "#micro/philosophy/republic/book4"
+  - "#macro/philosophy/republic/book4"
 date_created: 2026-07-24
 sr-due: 2026-07-25
 sr-interval: 1
 sr-ease: 230
 ---
-How does Adeimantus rebut Socrates' model for the lifestyle of soldiers in the ideal city?
-What happens if we indulge in the happiness of the the singular group of guardians (419a–421c)?
-What analogy does Socrates make to illustrate his argument?
+Outline Socrates argument and analogy against Adeimantus' rebuttal in the beginning of Book 4 against Socrates' proposition for the modest lifestyle of the guardians.
 #### Notes
-
+(419a–421c)
 

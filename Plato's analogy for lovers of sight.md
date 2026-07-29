@@ -7,6 +7,6 @@ tags:
   - micro/philosophy/republic/book5
 date_created: 2026-07-24
 ---
-State Socrates definition and criteria for the power of something (dynamis). What motivates him to create this definition.
+State Socrates' analogy for a lover of sights in Book 5
 #### Notes
 

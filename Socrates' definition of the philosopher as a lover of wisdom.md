@@ -7,6 +7,6 @@ tags:
   - micro/philosophy/republic/book5
 date_created: 2026-07-24
 ---
-In his 3rd wave of arguments, Socrates defines what it means to be a philosopher and lays the logical foundations. How does he define the true lover of something and what is the philosopher a lover of? What other class of people does he distinguish the philosopher from with this definition (474c–475b)?
+State Socrates definition to love something. What does he define the philosopher to be a lover of and other class of people does he distinguish the philosopher from with this definition 
 #### Notes
-The philosopher is a lover of wisdom and he distinguishes it from the lover of sights
+The philosopher is a lover of wisdom and he distinguishes it from the lover of sights (474c–475b)?

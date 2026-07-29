@@ -4,9 +4,10 @@ tags:
   - "#flashcard"
   - the_republic
   - macro/philosophy/republic/book4
+  - plato
 date_created: 2026-07-24
 ---
-In searching for the 4 cardinal virtues, Justice was identified by process of elimination, but what additional arguments does Socrates make to assert that his proposition of justice is separate from the other 3 cardinal virtues
+State Socrates' definition of wisdom and how he argues where it resides in a well-governed city and how it relates to the human soul
 #### Notes
 Socrates argues that justice is distinct from the other 3 cardinal virtues through 2 criteria:
 1) Whether it is required for a city to be well-governed
