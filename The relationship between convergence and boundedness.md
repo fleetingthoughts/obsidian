@@ -2,11 +2,12 @@
 parent: "[[Understanding Analysis - 2.3 The Algebraic and Order Limit Theorems]]"
 tags:
   - "#flashcard"
-  - real_analysis
+  - math
   - stephen_abbot
-  - macro/math/abbott/ch2
+  - real_analysis
+  - micro/math/abbott/ch2
 date_created: 2026-07-24
 ---
-State the logical statement of the algebraic limit theorem and prove it. Is it a equivalent statement?
+State the relationship between a convergence sequence and its boundedness and prove it.
 #### Notes
 
