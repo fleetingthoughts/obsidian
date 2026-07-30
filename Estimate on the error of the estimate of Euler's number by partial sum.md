@@ -7,7 +7,6 @@ tags:
   - richard_courant
 date_created: 2026-07-24
 ---
-
  With the definition of Euler's number as an infinite series, produce an upper bound if a partial sum is used to approximate its value.
 #### Notes
 
