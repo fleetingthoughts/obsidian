@@ -8,7 +8,7 @@ tags:
   - micro/math/courant_calc1/ch1
 date_created:
 ---
-State Bernoulli's inequality and how can it be used to determine the limits of the following for $n \in mathbb{N}$:
+State Bernoulli's inequality and how can it be used to determine the limits of the following for $n \in \mathbb{N}$:
 - $\sqrt[n]{n}$ 
 - $\alpha^n$, for $|\alpha| <1$
 #### Notes

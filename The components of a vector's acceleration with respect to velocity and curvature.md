@@ -4,7 +4,7 @@ tags:
   - "#flashcard"
   - richard_courant
   - calculus
-  - micro/math/courant_cal1/ch4
+  - micro/math/courant_calc1/ch4
 date_created: 2026-07-24
 ---
 Define the limit and derivative of a vector, then derive the formula for the derivative of a vector in terms of the differentiation of its elements.
