@@ -45,24 +45,13 @@
             "id": "ee281d5459f3553b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Listening repertoire.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Projects.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Listening repertoire"
+              "icon": "lucide-table",
+              "title": "Projects"
             }
           }
         ],
@@ -249,6 +238,9 @@
   },
   "active": "ee281d5459f3553b",
   "lastOpenFiles": [
+    "Listening repertoire.md",
+    "/Projects.base",
+    "/Introduction to Mathematical Statistics 8th ed. - Hogg, McKean, Craig.md",
     "Philosophy 2026-07-14.md",
     "Philosophy 2026-07-07.md",
     "(Every U,F,R) Real Analysis - Problems.md",
@@ -273,11 +265,8 @@
     "/(Every M,R,U) Lin Alg.md",
     "/(Every F,W,U) Calc - Courant.md",
     "/(Every F,S,W) Calc.md",
-    "Calculus 2026-07-06.md",
-    "_Fleeting.md",
     "Textbooks.base",
     "Projects.base",
-    "/Projects.base",
     "Pasted image 20260628101921.png",
     "Pasted image 20260628101808.png",
     "/Piano Repertoire.base",
