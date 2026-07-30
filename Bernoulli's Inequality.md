@@ -1,13 +1,17 @@
 ---
-parent:
+parent: "[[Introduction to Calculus I by Fritz and Courant - 1.6 Limits of a Sequence]]"
 tags:
   - "#math"
   - math_tricks
   - math_toolbox
   - "#inequalities"
-  - "#lemma"
+  - micro/math/courant_calc1/ch1
 date_created:
 ---
+State Bernoulli's inequality and how can it be used to determine the limits of the following for $n \in \mathbb{N}$:
+- $\sqrt[n]{n}$ 
+- $\alpha^n$, for $|\alpha| <1$
+#### Notes
 The following is a lemma of the [Binomial Theorem](Binomial%20Theorem.md). 
 ***Lemma (lower bound on binomials).*** If $h$ is a positive number and $n$ is a natural number, then:
 $$1+nh\le (1+h)^n$$
