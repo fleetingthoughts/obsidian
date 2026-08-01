@@ -5,6 +5,9 @@ tags:
   - micro/philosophy/republic/book6
 date_created: 2026-07-24
 ---
+text here
+#### Notes
+
 According to Socrates, how does the mass in a democracy enforce the societal mechanisms (492b) that favor specific skills (492d-493d)? What skills are favored and the kind of person who practices these skills
 
 What premise does Socrates assert about the masses' ability to know forms (493e) and what does that say about the kind of [cognitive faculties.](Plato's%20description%20of%20the%20forms.md) that are favored. What does Socrates compare the masses to?

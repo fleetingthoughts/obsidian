@@ -10,5 +10,6 @@ In the beginning of Book 6, Socrates finishes his 3rd wave of argument and argue
 Socrates provides several reasons (484b–487a):
 - Under the presumption that understanding the forms is what leads to ruling. Philosophers can grasp the forms and so they know what is always true. He illustrates this with the analogy of a blind man
 - Philosophers naturally possess all the 4 cardinal virtues
+- When human desires are channeled intensely toward one specific thing, like a diverted stream toward the pleasure of the soul, they are proportionally drained away from all other things, specifically the pleasures of the body (485d). Therefore, a true philosopher's desires are starved of physical luxury and wealth, making them naturally moderate by default (485e).
 
 
