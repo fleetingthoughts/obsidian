@@ -7,7 +7,7 @@ tags:
 date_created: 2026-06-20
 parent: "[[The Republic - Book 1]]"
 ---
-Following the dialogue with Cephalus, the 2nd major dialogue happens. Walk through the amendment the new interlocutor makes to Cephalus' definition of justice by interpreting the writings of a famous literary figure.
+How does Polemarchus attempt to rescue the utility of justice in peacetime, specifically regarding contracts, money, and property?
 #### Notes
 ### Does justice follow Simonides' definition: Justice is giving a man what he is owed.
 1) Polemarchus interjects and says this must be the case as it is Simonides' definition of justice
