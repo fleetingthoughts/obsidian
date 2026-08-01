@@ -7,7 +7,7 @@ tags:
   - "#micro/philosophy/republic/book4"
 date_created: 2026-07-24
 ---
-Socrates argues that there are two things that a guardian must not permit into the city to protect the virtue of its citizens and how can they enforce this.
+Socrates's evaluation of how wealth and poverty structurally affect both the craftsmen and the integrity of the city.
 #### Notes
 The soldiers must protect the city against wealth and luxury for they taint virtue (421d–422a). To do so, they must also limit the size of the city.
 

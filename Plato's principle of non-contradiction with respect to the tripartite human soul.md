@@ -7,8 +7,10 @@ tags:
   - "#micro/philosophy/republic/book4"
 date_created: 2026-07-24
 ---
-Socrates makes several analogies to illustrate the principle of non-contradiction in Book 4. Explain the analogies he makes to demonstrate the principle. 
+State the fundamental logical axiom Socrates establishes before attempting to divide the human soul into parts and the analogies he makes
 #### Notes
+The same thing will not be willing to do or suffer opposites with respect to the same part and in relation to the same thing at the same time (436b). (e.g., A top spinning on a fixed axis is moving its circumference, but stands still with respect to its center)
+
 Socrates defines a specific way of distinguishing and defining classes and their subclasses that aligns with our conventional use of language to eventually distinguish the subclasses of the soul.
 He illustrates the principle of non-contradiction with the following analogies (436b–439a):
 - A man at rest but with his arms moving
