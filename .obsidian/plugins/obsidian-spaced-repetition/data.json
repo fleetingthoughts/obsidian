@@ -1,8 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#micro",
-      "#macro"
+      ""
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
@@ -66,7 +65,7 @@
     "openViewInNewTabMobile": false,
     "useCustomHotkeys": false,
     "useCalloutsForSchedulingComments": false,
-    "algorithm": "SM-2-OSR",
+    "algorithm": "FSRS",
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
