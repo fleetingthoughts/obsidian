@@ -1,12 +1,13 @@
 {
   "settings": {
     "flashcardTags": [
-      ""
+      "#micro",
+      "#macro"
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
-    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardCardOrder": "NewFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertClozePatternsToInputs": false,
     "convertHighlightsToClozes": true,
