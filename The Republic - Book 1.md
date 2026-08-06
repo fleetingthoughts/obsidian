@@ -8,7 +8,7 @@ parent: "[[The Republic]]"
 ---
 We 
 
-1) Socrates, Cephalus, and Polemarchus address [Simonides' Riddle of Justice](Simonides'%20Riddle%20of%20Justice.md):
+1) Socrates, Cephalus, and Polemarchus address [Justice as the Art of Contract and Preservation (Polemarchus)](Justice%20as%20the%20Art%20of%20Contract%20and%20Preservation%20(Polemarchus).md):
 	- Justice is only useful for useless things
 2) 
 The plot is outlined as follows:
@@ -67,7 +67,7 @@ The plot is outlined as follows:
 	4) Justice is virtue of the soul as carried over from 20). therefore justice supports a good life. THIS IS VERY UNCONVINCING FOR ME. If we agree that justice is virtue and human excellence from 20), that does not mean it is the virtue of the soul specifically. There seems to be another underlying assumption that the virtue of the soul requires human excellence. In 20), we were looking at human excellence towards other people and "getting the better of the like or unlike",  Socrates seems to make a direct 1:1 translation of human excellence between people to individual human excellence
 24) At the end aporia: Socrates humbly compares himself to a glutton who grabs at what he can letting go of what he was currently holding. He initially intended to define justice but had let go of that argument to refute Thrasymachus' defintion of justice.
 # Terms
-1) Socrates, Cephalus, and Polemarchus address [Simonides' Riddle of Justice](Simonides'%20Riddle%20of%20Justice.md):
+1) Socrates, Cephalus, and Polemarchus address [Justice as the Art of Contract and Preservation (Polemarchus)](Justice%20as%20the%20Art%20of%20Contract%20and%20Preservation%20(Polemarchus).md):
 	- Justice is only useful for useless things
 2) 
 

@@ -7,12 +7,12 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-After outlining what education is and the contents and subjects required for a proper education, Socrates provides a timeline for what must be studied at each stage of a philosophic soul's life:
-- First and foremost, what are the 3 prerequisites to engage in this study? One of them is kind of funny.
-- What is studied in each age bracket?
-- What are the dangers Socrates outlines in deviating from this timeline? What can it result in?
-- What analogies does Socrates give regarding the aforementioned dangers?
-- What does Socrates say about the suitable age for education with respect to Solon's advice?
-- What does Socrates say about a compulsory education?
+The strict chronological phases of testing and education required to produce a fully realized philosopher-king.
 #### Notes
-
+- **Age 20:** Following compulsory physical gymnastic, the best youths are selected to synthesize their childhood studies into a comprehensive overview of kinship and reality (537b-c).
+    
+- **Age 30:** The most steadfast are tested again and introduced to five years of rigorous, exclusive dialectical study (537d, 539e).
+    
+- **Age 35:** They are compelled to descend back into the cave to hold military and political offices for fifteen years, gaining practical experience and resisting temptations (539e).
+    
+- **Age 50:** The survivors look upon the Idea of the Good and spend the rest of their lives alternating between philosophy and the necessary drudgery of ruling the city, ultimately departing for the Isles of the Blessed (540a-b).

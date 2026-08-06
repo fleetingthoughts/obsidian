@@ -6,12 +6,10 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-Following his analogy of the cave in Book 7, Socrates uses it to explain what education truly is:
-- What definition of education does he rebut?
-- Using his analogy, what act does one perform in the allegorical cave when they are educated
-Socrates also describes the virtues being exercised:
-- With respect to education, he classifies the virtues into two categories? What are they and which virtues are considered more "divine" and why? What examples of each does he give?
-- Which of these two categories are honed during this ultimate education involving The Good
-- What dangers does he allude to when this virtue is honed? He provides a fuller explanation later in the book.
+Following his analogy of the cave in Book 7, Socrates explains what education isn't and what education really is.
 #### Notes
-
+- **Premise:** The instrument of learning (the intellect) is already present within the soul of each person, much like an eye that already possesses sight (518c).
+    
+- **Pivot:** An eye cannot be turned away from the dark and toward the light without turning the entire body (518c).
+    
+- **Conclusion:** Therefore, education is the "art of turning around," requiring the entire soul to be turned away from the realm of becoming until it can endure the brilliant light of being and the Good (518c-d).
