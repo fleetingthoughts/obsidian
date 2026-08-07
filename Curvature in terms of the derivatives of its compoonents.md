@@ -9,7 +9,5 @@ tags:
 date_created: 2026-07-24
 ---
 Define the curvature as a derivative of the angle with the positive x-axis. Derive the formula the curvature in terms of the derivative of its $x$ and $y$ components
-
-Define the radius of curvature
 #### Notes
 
