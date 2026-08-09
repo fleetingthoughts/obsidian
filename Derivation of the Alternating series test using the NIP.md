@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 2.6 The Cauchy Criterion]]"
 tags:
   - "#flashcard"
+  - macro/math/abbott/ch2
 date_created: 2026-07-24
 ---
 Derive the alternating series test using the Nested Interval Property
