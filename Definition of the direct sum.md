@@ -5,6 +5,8 @@ tags:
   - micro/math/friedberg/ch1
 date_created: 2026-07-24
 ---
-Provide the definition of a vector space being the direct sum of two subspaces.
+Define the direct sum of subspaces $W_1$ and $W_2$ for a vector space $V$
 #### Notes
-
+$V = W_1 \oplus W_2$ if:
+1) $W_1 \cap W_2 = \{0\}$ 
+2) and $W_1 + W_2 = V$

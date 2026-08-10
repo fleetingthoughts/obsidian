@@ -2,6 +2,7 @@
 parent:
 tags:
   - "#flashcard"
+  - macro/math/abbot/ch3
 date_created: 2026-07-24
 ---
 Prove that the set $L$ of all limit points of any set $A \subseteq \mathbf{R}$ is closed and use this to prove that the closure of a set $A$ is the smallest closed set that contains $A$.
