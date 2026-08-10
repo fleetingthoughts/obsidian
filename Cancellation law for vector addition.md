@@ -9,4 +9,4 @@ date_created: 2026-07-24
 ---
 State and prove the cancellation law for vector addition
 #### Notes
-
+Hypothesis: $x + z = y + z$ for vectors $x, y, z \in V$. Conclusion: $x = y$.
