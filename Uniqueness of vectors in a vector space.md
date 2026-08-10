@@ -7,6 +7,6 @@ tags:
   - arnold_friedberg
 date_created: 2026-07-24
 ---
-Prove that the additive inverse of a given vector in a vector space is unique.
+State which vectors are unique given any vector $v \in V$ for a vector space $V$.
 #### Notes
-
+The additive inverse and the zero vector are unique.
