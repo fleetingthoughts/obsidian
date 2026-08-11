@@ -19,7 +19,7 @@ Refer to the figure below. Given the acceleration vector, velocity vector, and t
 - **Derivative Definition:** The instantaneous rate of change vector: $\frac{d\mathbf{R}}{dt} = \lim_{\Delta t \to 0} \frac{\mathbf{R}(t + \Delta t) - \mathbf{R}(t)}{\Delta t}$.
 - **Element-wise Derivation:** Let $\mathbf{R}(t) = x(t)\mathbf{i} + y(t)\mathbf{j} + z(t)\mathbf{k}$. Because the limit operator distributes linearly and the standard basis vectors are constant:$$\frac{d\mathbf{R}}{dt} = \lim_{\Delta t \to 0} \left( \frac{x(t+\Delta t)-x(t)}{\Delta t} \right)\mathbf{i} + \lim_{\Delta t \to 0} \left( \frac{y(t+\Delta t)-y(t)}{\Delta t} \right)\mathbf{j} + \dots$$$$\dot{\mathbf{R}}(t) = \dot{x}(t)\mathbf{i} + \dot{y}(t)\mathbf{j} + \dot{z}(t)\mathbf{k}$$
 
-**Acceleration Components (Ref: image_cb47b8.png)**
+	**Acceleration Components**
 - **Tangential Acceleration ($a_T$):** The projection of the acceleration vector $\ddot{\mathbf{R}}$ onto the velocity vector $\dot{\mathbf{R}}$. It measures the rate of change of the _magnitude_ of velocity (speed).
 - **Normal Acceleration ($a_N$):** The orthogonal component of acceleration perpendicular to the velocity, directed inward toward the center of curvature. It measures the rate of change of the _direction_ of velocity.
 **Kinematic Derivations & Significance**
