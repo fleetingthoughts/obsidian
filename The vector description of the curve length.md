@@ -1,5 +1,5 @@
 ---
-parent:
+parent: "[[Introduction to Calculus I by Fritz and Courant - 4.3 Vectors in Two Dimensions]]"
 tags:
   - "#flashcard"
   - micro/math/courant_calc1/ch4

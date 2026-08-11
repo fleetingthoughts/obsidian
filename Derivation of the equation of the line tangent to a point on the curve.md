@@ -2,7 +2,7 @@
 parent: "[[Introduction to Calculus I by Fritz and Courant - 4.1 Theory of Plane Curves (d-e).]]"
 tags:
   - "#flashcard"
-  - micro/math/courant_calc1/ch4
+  - macro/math/courant_calc1/ch4
   - math
   - richard_courant
   - calculus
