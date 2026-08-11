@@ -19,9 +19,64 @@ Refer to the figure below. Given the acceleration vector, velocity vector, and t
 - **Derivative Definition:** The instantaneous rate of change vector: $\frac{d\mathbf{R}}{dt} = \lim_{\Delta t \to 0} \frac{\mathbf{R}(t + \Delta t) - \mathbf{R}(t)}{\Delta t}$.
 - **Element-wise Derivation:** Let $\mathbf{R}(t) = x(t)\mathbf{i} + y(t)\mathbf{j} + z(t)\mathbf{k}$. Because the limit operator distributes linearly and the standard basis vectors are constant:$$\frac{d\mathbf{R}}{dt} = \lim_{\Delta t \to 0} \left( \frac{x(t+\Delta t)-x(t)}{\Delta t} \right)\mathbf{i} + \lim_{\Delta t \to 0} \left( \frac{y(t+\Delta t)-y(t)}{\Delta t} \right)\mathbf{j} + \dots$$$$\dot{\mathbf{R}}(t) = \dot{x}(t)\mathbf{i} + \dot{y}(t)\mathbf{j} + \dot{z}(t)\mathbf{k}$$
 
-	**Acceleration Components**
-- **Tangential Acceleration ($a_T$):** The projection of the acceleration vector $\ddot{\mathbf{R}}$ onto the velocity vector $\dot{\mathbf{R}}$. It measures the rate of change of the _magnitude_ of velocity (speed).
-- **Normal Acceleration ($a_N$):** The orthogonal component of acceleration perpendicular to the velocity, directed inward toward the center of curvature. It measures the rate of change of the _direction_ of velocity.
-**Kinematic Derivations & Significance**
-- **Tangential to Velocity Magnitude:** Let $v = \Vert{}\dot{\mathbf{R}}\Vert{}$ represent speed. The tangential component is the direct scalar time-derivative of this speed: $a_T = \dot{v}$. From the given angle $\gamma$, $a_T = \Vert{}\ddot{\mathbf{R}}\Vert{} \cos \gamma$. _Significance:_ Captures pure scalar acceleration along the path trajectory without altering direction.
-- **Normal to Curvature:** The normal component acts as a function of the path's instantaneous curvature $\kappa$ and the square of the speed: $a_N = \kappa v^2$. From the given angle $\gamma$, $a_N = \Vert{}\ddot{\mathbf{R}}\Vert{} \sin \gamma$. _Significance:_ Quantifies the centripetal acceleration required to steer the vector strictly along the geometric curve.
+### Tangential and Normal Acceleration (Scalar Derivation)
+
+Let the instantaneous direction of motion be defined by the angle of inclination $\phi$, and let $v = \frac{ds}{dt}$ be the speed. Adopting the notation from the text, let $\gamma$ be the angle formed by the total acceleration magnitude $a$ with the instantaneous direction of motion.
+
+The tangential component of acceleration is thus the projection $a \cos \gamma$, and the normal component is the projection $a \sin \gamma$.
+
+#### 1. Velocity Components
+
+The Cartesian velocity components are expressed using the speed and the angle of inclination $\phi$:
+
+$$\dot{x} = v \cos \phi$$
+
+$$\dot{y} = v \sin \phi$$
+
+#### 2. Acceleration Components
+
+Differentiating with respect to time $t$ yields the acceleration components:
+
+$$\ddot{x} = \dot{v} \cos \phi - v \dot{\phi} \sin \phi$$
+
+$$\ddot{y} = \dot{v} \sin \phi + v \dot{\phi} \cos \phi$$
+
+#### 3. Tangential Component ($a \cos \gamma$)
+
+The tangential component is the projection of the acceleration onto the direction of motion. We multiply the components by $\cos \phi$ and $\sin \phi$:
+
+$$a \cos \gamma = \ddot{x} \cos \phi + \ddot{y} \sin \phi$$
+
+$$a \cos \gamma = (\dot{v} \cos \phi - v \dot{\phi} \sin \phi)\cos \phi + (\dot{v} \sin \phi + v \dot{\phi} \cos \phi)\sin \phi$$
+
+$$a \cos \gamma = \dot{v}\cos^2 \phi - v \dot{\phi} \sin \phi \cos \phi + \dot{v}\sin^2 \phi + v \dot{\phi} \sin \phi \cos \phi$$
+
+$$a \cos \gamma = \dot{v}(\cos^2 \phi + \sin^2 \phi)$$
+
+$$a \cos \gamma = \dot{v} = \frac{dv}{dt}$$
+
+#### 4. Normal Component ($a \sin \gamma$)
+
+The normal component is the projection perpendicular to the motion. We multiply by $-\sin \phi$ and $\cos \phi$:
+
+$$a \sin \gamma = -\ddot{x} \sin \phi + \ddot{y} \cos \phi$$
+
+$$a \sin \gamma = -(\dot{v} \cos \phi - v \dot{\phi} \sin \phi)\sin \phi + (\dot{v} \sin \phi + v \dot{\phi} \cos \phi)\cos \phi$$
+
+$$a \sin \gamma = -\dot{v}\sin\phi\cos\phi + v\dot{\phi}\sin^2 \phi + \dot{v}\sin\phi\cos\phi + v\dot{\phi}\cos^2 \phi$$
+
+$$a \sin \gamma = v\dot{\phi}(\sin^2 \phi + \cos^2 \phi)$$
+
+$$a \sin \gamma = v\dot{\phi}$$
+
+#### 5. Relation to Curvature ($\kappa$)
+
+Curvature is the rate of change of the angle of inclination with respect to arc length: $\kappa = \frac{d\phi}{ds}$.
+
+Using the chain rule:
+
+$$\dot{\phi} = \frac{d\phi}{dt} = \frac{d\phi}{ds} \frac{ds}{dt} = \kappa v$$
+
+Substituting this into the normal component formula yields the final result:
+
+$$a \sin \gamma = v(\kappa v) = \kappa v^2$$
