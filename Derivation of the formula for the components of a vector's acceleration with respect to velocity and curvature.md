@@ -34,19 +34,13 @@ $$\dot{x} = v \cos \phi$$
 $$\dot{y} = v \sin \phi$$
 
 #### 2. Acceleration Components
-
 Differentiating with respect to time $t$ yields the acceleration components:
-
 $$\ddot{x} = \dot{v} \cos \phi - v \dot{\phi} \sin \phi$$
-
 $$\ddot{y} = \dot{v} \sin \phi + v \dot{\phi} \cos \phi$$
 
 #### 3. Tangential Component ($a \cos \gamma$)
-
 The tangential component is the projection of the acceleration onto the direction of motion. We multiply the components by $\cos \phi$ and $\sin \phi$:
-
 $$a \cos \gamma = \ddot{x} \cos \phi + \ddot{y} \sin \phi$$
-
 $$a \cos \gamma = (\dot{v} \cos \phi - v \dot{\phi} \sin \phi)\cos \phi + (\dot{v} \sin \phi + v \dot{\phi} \cos \phi)\sin \phi$$
 
 $$a \cos \gamma = \dot{v}\cos^2 \phi - v \dot{\phi} \sin \phi \cos \phi + \dot{v}\sin^2 \phi + v \dot{\phi} \sin \phi \cos \phi$$
@@ -58,25 +52,14 @@ $$a \cos \gamma = \dot{v} = \frac{dv}{dt}$$
 #### 4. Normal Component ($a \sin \gamma$)
 
 The normal component is the projection perpendicular to the motion. We multiply by $-\sin \phi$ and $\cos \phi$:
-
 $$a \sin \gamma = -\ddot{x} \sin \phi + \ddot{y} \cos \phi$$
-
 $$a \sin \gamma = -(\dot{v} \cos \phi - v \dot{\phi} \sin \phi)\sin \phi + (\dot{v} \sin \phi + v \dot{\phi} \cos \phi)\cos \phi$$
-
-$$a \sin \gamma = -\dot{v}\sin\phi\cos\phi + v\dot{\phi}\sin^2 \phi + \dot{v}\sin\phi\cos\phi + v\dot{\phi}\cos^2 \phi$$
-
-$$a \sin \gamma = v\dot{\phi}(\sin^2 \phi + \cos^2 \phi)$$
-
+$$a \sin \gamma = -\dot{v}\sin\phi\cos\phi + v\dot{\phi}\sin^2 \phi + \dot{v}\sin\phi\cos\phi + v\dot{\phi}\cos^2 \phi$$$$a \sin \gamma = v\dot{\phi}(\sin^2 \phi + \cos^2 \phi)$$
 $$a \sin \gamma = v\dot{\phi}$$
 
 #### 5. Relation to Curvature ($\kappa$)
 
 Curvature is the rate of change of the angle of inclination with respect to arc length: $\kappa = \frac{d\phi}{ds}$.
-
 Using the chain rule:
-
-$$\dot{\phi} = \frac{d\phi}{dt} = \frac{d\phi}{ds} \frac{ds}{dt} = \kappa v$$
-
-Substituting this into the normal component formula yields the final result:
-
+$$\dot{\phi} = \frac{d\phi}{dt} = \frac{d\phi}{ds} \frac{ds}{dt} = \kappa v$$Substituting this into the normal component formula yields the final result:
 $$a \sin \gamma = v(\kappa v) = \kappa v^2$$
