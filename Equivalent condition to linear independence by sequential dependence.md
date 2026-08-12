@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 1.5 Linear Dependence and Linear Independence]]"
 tags:
   - "#flashcard"
-  - micro/math/abbott/ch1
+  - micro/math/friedberg/ch1
 date_created: 2026-07-24
 ---
 State the equivalent condition that characterizes linear dependence in terms of the **predecessors** of vectors in a sequence.
