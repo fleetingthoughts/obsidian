@@ -2,7 +2,7 @@
 parent: "[[Understanding Analysis - 3.2 Open and Closed Sets]]"
 tags:
   - "#flashcard"
-  - macro/math/abott/ch3
+  - macro/math/abbott/ch3
 date_created: 2026-07-24
 ---
 If $x$ is a limit point of $A \cup B$, prove that $x$ is either a limit point of $A$ or $B$ or both

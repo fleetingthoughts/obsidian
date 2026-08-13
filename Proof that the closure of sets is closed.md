@@ -2,7 +2,7 @@
 parent: "[[Understanding Analysis - 3.2 Open and Closed Sets]]"
 tags:
   - "#flashcard"
-  - macro/math/
+  - macro/math/abbott/ch3
 date_created: 2026-07-24
 ---
 Prove that the definition of closure, $A \cup L$,  is closed where $L$ is the set of all limit points of $A$
