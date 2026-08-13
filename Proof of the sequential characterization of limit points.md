@@ -2,7 +2,7 @@
 parent: "[[Understanding Analysis - 3.2 Open and Closed Sets]]"
 tags:
   - "#flashcard"
-  - macro/math/abbot/ch3
+  - macro/math/abbott/ch3
 date_created: 2026-07-24
 ---
 Prove that $x$ is a limit point of a set $A \subseteq \mathbb{R}$ if and only if there exists a sequence in $A$ that converges to $x$.

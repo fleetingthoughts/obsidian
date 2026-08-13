@@ -2,7 +2,7 @@
 parent: "[[Understanding Analysis - 3.2 Open and Closed Sets]]"
 tags:
   - "#flashcard"
-  - macro/math/abbot/ch3
+  - macro/math/abbott/ch3
 date_created: 2026-07-24
 ---
 Prove that the arbitrary union of open sets whether it is an infinite or finite union is also open

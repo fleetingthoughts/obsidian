@@ -2,7 +2,7 @@
 parent: "[[Understanding Analysis - 3.2 Open and Closed Sets]]"
 tags:
   - "#flashcard"
-  - macro/math/abbot/ch3
+  - macro/math/abbott/ch3
 date_created: 2026-07-24
 ---
 Prove that the finite intersection of open sets is open and which part of the proof requires the union to be finite.
