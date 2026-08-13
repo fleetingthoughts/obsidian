@@ -5,7 +5,7 @@ tags:
   - micro/philosophy/republic/book2
 date_created: 2026-07-24
 ---
-How does Socrates describe the nature of the guardian and what does Socrates compare it to? What does the nature of the Guardian necessitate in their education?
+How does Socrates describe the paradoxical nature of the guardian and what does Socrates compare it to? What does the nature of the Guardian necessitate in their education?
 #### Notes
 **Arguments on the Guardian Disposition**
 - **Physical Traits Required:** Sharp senses, speed, and strength (375a).
