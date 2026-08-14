@@ -5,6 +5,6 @@ tags:
   - micro/math/friedberg/ch2
 date_created: 2026-07-24
 ---
-If a linear transformation $T$ is one-to-one, a subset $S$ of the domain is linearly independent if and only if its mapped image $T(S)$ is linearly independent in the codomain.
+Define the **Restriction of $T$ to $W$**.
 #### Notes
-
+Let $W$ be a $T$-invariant subspace of $V$. The restriction function $T_W:W \to W$ is defined by $T_W(x) = T(x)$ for all $x \in W$.
