@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[The Republic - Book 3]]"
 tags:
   - "#flashcard"
+  - micro/philosophy/republic/book3
 date_created: 2026-07-24
 ---
 What are the three mechanisms of "unwilling deprivation" of true opinions that rulers must be tested against?
