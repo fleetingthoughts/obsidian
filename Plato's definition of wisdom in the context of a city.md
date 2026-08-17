@@ -1,5 +1,5 @@
 ---
-parent:
+parent: "[[The Republic - Book 4]]"
 tags:
   - "#flashcard"
   - micro/math/abb
