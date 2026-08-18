@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 2.5 The Change of Coordinate Matrix]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-17"
+  - macro/math/friedberg/ch2
+date_created: 2026-08-17
 ---
 Prove that the change of coordinate matrices from $\beta$ to $\beta'$ satisfies the following:
 1) It is invertible

@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 2.4 Invertibility and Isomorphisms]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-17"
+  - macro/math/friedberg/ch2
+date_created: 2026-08-17
 ---
 Prove that a linear transformation $T$ is invertible if and only if its matrix representation is invertible as well.
 #### Notes
