@@ -5,7 +5,7 @@ tags:
   - micro/philosophy/republic/book6
 date_created: 2026-07-24
 ---
-Describe the sociological phenomenon that occurs when the true philosophic natures are corrupted and leave philosophy abandoned.
+What occurs when the philosophic life is abandoned by true philosophers, and how does Socrates describe the resulting intellectual offspring?
 #### Notes
-When true philosophers are exiled, unworthy men with imperfect, mutilated souls leap out of the mechanical arts into philosophy to claim its magnificent station (495c–d). They are likened to a bald-headed, newly enriched bronze worker dressing up to marry his master's daughter, and they beget only bastard, ordinary sophisms (495e–496a).
+**Argued Position.**<br>• _Premise_: When true, noble natures are driven into exile or corrupted, philosophy is left abandoned and unconsummated, leaving its high-status station vacant (495c).<br>• _Argument_: Because philosophy retains a magnificent reputation compared to other manual arts, unworthy, mutilated workers (such as a little bald bronze-smith newly rich and dressed like a bridegroom) leap from their mechanical crafts into philosophy (495d–e). Since their souls are distorted and crippled by mechanical occupations, it is argued that they can only generate counterfeit, base notions fit to be called "sophisms," lacking any true prudence (Book 6, 495e–496a).
 
