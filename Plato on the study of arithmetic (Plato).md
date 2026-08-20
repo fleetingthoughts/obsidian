@@ -5,7 +5,7 @@ tags:
   - micro/philosophy/republic/book7
 date_created: 2026-07-24
 ---
-The mechanism by which contradictory sense perceptions force the soul to abandon the visible realm and summon the intellect through calculation.
+How does the study of number and calculation (_arithmetike_) systematically draw the soul from Becoming to Being?
 #### Notes
 - **Premise:** Some sensible objects (like a finger) appear adequately to the senses and do not summon the intellect, but others report simultaneous contradictions, such as the exact same object feeling both hard and soft, or heavy and light (523a-524a).
     

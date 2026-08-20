@@ -7,12 +7,6 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-The strict chronological phases of testing and education required to produce a fully realized philosopher-king.
+What is the chronological timeline and educational sequence for the perfect guardians
 #### Notes
-- **Age 20:** Following compulsory physical gymnastic, the best youths are selected to synthesize their childhood studies into a comprehensive overview of kinship and reality (537b-c).
-    
-- **Age 30:** The most steadfast are tested again and introduced to five years of rigorous, exclusive dialectical study (537d, 539e).
-    
-- **Age 35:** They are compelled to descend back into the cave to hold military and political offices for fifteen years, gaining practical experience and resisting temptations (539e).
-    
-- **Age 50:** The survivors look upon the Idea of the Good and spend the rest of their lives alternating between philosophy and the necessary drudgery of ruling the city, ultimately departing for the Isles of the Blessed (540a-b).
+**Premise.** Socrates establishes the chronological educational timeline:<br>1. **Childhood**: Play-based preparatory mathematics and observation of war on horseback (Book 7, 536d–537a).<br>2. **Ages 18–20**: Compulsory physical gymnastic training, excluding all study (Book 7, 537a–b).<br>3. **Ages 20–30**: Integration of mathematical studies into a unified overview of Being (Book 7, 537b–c).<br>4. **Ages 30–35**: Intense testing and training in Dialectic (Book 7, 537d–539e).<br>5. **Ages 35–50**: Return to the "cave" to rule in military and administrative offices (Book 7, 539e–540a).<br>6. **Age 50+**: Contemplation of the Good itself, ruling in turn as a necessary duty, and eventual retirement to the Isles of the Blessed (Book 7, 540a–c).
