@@ -2,6 +2,7 @@
 parent:
 tags:
   - "#flashcard"
+  - micro/p
 date_created: 2026-07-24
 ---
 How does Socrates use the analogy of the sun and sight to illustrate the role of Good in our knowing and knowledge
