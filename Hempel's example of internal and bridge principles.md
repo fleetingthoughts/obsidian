@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 6 Theories and Theoretical Explanation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 What are the internal and bridge principles involved in the kinetic theory's explanation of Boyle's law $P \propto 1/V$?
 #### Notes

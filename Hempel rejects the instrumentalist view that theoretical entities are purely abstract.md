@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 6 Theories and Theoretical Explanation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 How does the instrumentalist use the underdetermination of theories by data to deny the existence of theoretical entities, and what is Hempel's counter-argument?
 #### Notes

@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 6 Theories and Theoretical Explanation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 What are the definitions of, and distinction between, internal principles and bridge principles in the formulation of a scientific theory?
 #### Notes

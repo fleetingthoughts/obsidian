@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 6 Theories and Theoretical Explanation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 Why are bridge principles logically indispensable for both the explanatory power and the testability of a scientific theory?
 #### Notes

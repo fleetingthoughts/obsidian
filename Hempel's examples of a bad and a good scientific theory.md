@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 6 Theories and Theoretical Explanation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 Why does Hempel reject the neovitalistic explanation of biological directiveness (entelechies or vital forces) as a valid scientific theory and why Newton's theory of gravitation a good scientific theory
 #### Notes

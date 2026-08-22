@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 6 Theories and Theoretical Explanation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 How does Bohr's explanation of Balmer's spectral formula demonstrate that bridge principles do not always connect theoretical entities directly to directly observable everyday things?
 #### Notes

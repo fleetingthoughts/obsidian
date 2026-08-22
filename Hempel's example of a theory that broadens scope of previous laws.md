@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 6 Theories and Theoretical Explanation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 How does Newtonian gravitation illustrate that a superior theory corrects, rather than simply deduces, previously established empirical laws like Kepler's and Galileo's laws?
 #### Notes
