@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[The Republic - Book 9]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-21"
+  - micro/philosophy/republic/book9
+date_created: 2026-08-21
 ---
 What is the mathematical calculation Socrates uses to quantify the difference in pleasure between the Kingly and Tyrannic lives?
 #### Notes

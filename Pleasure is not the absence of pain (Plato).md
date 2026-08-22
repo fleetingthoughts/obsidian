@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[The Republic - Book 9]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-21"
+  - micro/philosophy/republic/book9
+date_created: 2026-08-21
 ---
 Why is the pleasure of non-philosophers argued to be a mere "shadow painting" (_skiagraphia_) and not true pleasure?
 #### Notes
