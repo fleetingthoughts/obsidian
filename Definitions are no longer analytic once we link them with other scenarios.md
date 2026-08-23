@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 7 Concept Formation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 Why do interpretative sentences that provide criteria for overlapping operational methods (e.g., mercury and alcohol thermometers) combine stipulative and descriptive functions and no longer become analytic statements.
 #### Notes

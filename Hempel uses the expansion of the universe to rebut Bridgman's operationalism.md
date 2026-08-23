@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 7 Concept Formation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 How does Hempel refute Bridgman's claim that the hypothesis of a universal, undetectable doubling of all distances every 24 hours is "operationally meaningless"?
 #### Notes

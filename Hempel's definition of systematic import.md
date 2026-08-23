@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 7 Concept Formation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 How does Hempel define the **systematic import** of a scientific concept, and what metaphor does he use to represent it?
 #### Notes

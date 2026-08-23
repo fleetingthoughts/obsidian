@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 7 Concept Formation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 What is the logical consequence of a formal definition in terms of translatability, and how does Willard Van Orman Quine summarize this concept?
 #### Notes

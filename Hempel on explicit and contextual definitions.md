@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 7 Concept Formation]]"
 tags:
   - "#flashcard"
+  - micro/philosophy/philosophy_of_natural_science
 date_created: 2026-08-22
 ---
 What is the difference between an explicit definition and a contextual definition (interpretation) in Hempel's analysis of theoretical terms?

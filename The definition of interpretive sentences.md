@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 7 Concept Formation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 What are "interpretative sentences" in a scientific theory, and why are they necessary for theoretical terms?
 #### Notes

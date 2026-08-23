@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Philosophy of Natural Science - 7 Concept Formation]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-22"
+  - micro/philosophy/philosophy_of_natural_science
+date_created: 2026-08-22
 ---
 What is Bridgman's Maxim regarding different operational procedures (e.g., tactual vs. optical length), and why does Hempel reject it?
 #### Notes
