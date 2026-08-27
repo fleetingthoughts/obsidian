@@ -9,7 +9,8 @@ date_created: 2026-07-24
 ---
 Given a bounded set $A$ and a subset $B \subseteq A$, show that $sup(B)\leq sup(A)$.
 #### Notes
-et $M = \sup(A)$. By definition of supremum, $M$ is an upper bound for $A$, so $x \leq M$ for all $x \in A$. 
+et $M = \sup(A)$. By definition of supremum, $M$ is an upper bound for $A$, so $x \leq M$ for all $x \in A$.
+<!--SR:!fsrs,2026-08-27T14:06:44.602Z,0,2.3065,2.11810397,1,1,0,1,2026-08-27T13:56:44.602Z--> 
 
 Since $B \subseteq A$, any element $b \in B$ must also belong to $A$, which implies $b \leq M$ for all $b \in B$. 
 
