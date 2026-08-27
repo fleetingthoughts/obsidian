@@ -7,4 +7,4 @@ date_created: 2026-07-24
 ---
 If a linear transformation $T$ is one-to-one, a subset $S$ of the domain is linearly independent if and only if its mapped image $T(S)$ is linearly independent in the codomain.
 #### Notes
-
+If a linear transformation $T$ is one-to-one, a subset $S$ of the domain is linearly independent if and only if its mapped image $T(S)$ is linearly independent in the codomain.

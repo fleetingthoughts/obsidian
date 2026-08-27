@@ -5,6 +5,6 @@ tags:
   - micro/math/friedberg/ch1
 date_created: 2026-07-24
 ---
-State the definition for a vector $v\in V$ to be called a linear combination of vectors in a nonempty set $S \subseteq V$. 
+What is the definition of a linear combination of a subset $S \subseteq V$.
 #### Notes
-
+A vector $v = a_1 u_1 + \dots + a_n u_n$ where $u_i \in S$ are vectors and $a_i \in F$ are scalars. Note that it is a finite number of vectors from $S$.

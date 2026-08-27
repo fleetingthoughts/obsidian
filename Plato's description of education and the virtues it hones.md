@@ -6,7 +6,7 @@ tags:
   - the_republic
 date_created: 2026-07-24
 ---
-Following his analogy of the cave in Book 7, Socrates explains what education isn't and what education really is.
+How does Socrates' definition of education (_paideia_) contrast with the sophists' model of instruction?
 #### Notes
 - **Premise:** The instrument of learning (the intellect) is already present within the soul of each person, much like an eye that already possesses sight (518c).
     

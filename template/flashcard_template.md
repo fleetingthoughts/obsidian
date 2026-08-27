@@ -2,7 +2,7 @@
 parent:
 tags:
   - "#flashcard"
-date_created: 2026-07-24
+date_created: "{{date}}"
 ---
 text here
 #### Notes

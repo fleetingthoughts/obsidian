@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "dc5656dd4e4a231e",
+            "id": "9d8a9a886515ff88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2026-07-06.md",
+                "file": "The definition of the cut property of real numbers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,35 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calculus 2026-07-06"
-            }
-          },
-          {
-            "id": "ee281d5459f3553b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "___Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "___Home"
+              "title": "The definition of the cut property of real numbers"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,8 +234,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ee281d5459f3553b",
+  "active": "9d8a9a886515ff88",
   "lastOpenFiles": [
+    "___Home.md",
     "Why the philosopher is the only competent judge of the best pleasures.md",
     "Why the calculated part of the soul required for true pleasures.md",
     "Variety in testing is superior to quantity of testing (Hempel).md",
@@ -285,7 +262,6 @@
     "The tyrant is consumed by fear and is poverty-ridden (Plato).md",
     "The tyrant does not do what it wants.md",
     "The two requirements of a scientific theory (Hempel).md",
-    "The two requirements for a scientific explanation (Hempel).md",
     "Projects.base",
     "Pasted image 20260726234230.png",
     "/template",
