@@ -1,5 +1,5 @@
 ---
-parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 2.1 Linear Transformations, Null Spaces, and Ranges]]"
+parent:
 tags:
   - "#flashcard"
   - micro/math/friedberg/ch2

@@ -5,7 +5,7 @@ tags:
   - micro/philosophy/republic/book2
 date_created: 2026-07-24
 ---
-What is the first law (model) concerning the gods that poets must follow, and what does he conclude.
+What foundational premises does Socrates make regarding the Goodness of God and its implications with respect to literature
 #### Notes
 The two premises are as follows:
 - God is good and following his Book 1 argument: good cannot do harm.

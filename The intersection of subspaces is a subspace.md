@@ -5,8 +5,6 @@ tags:
   - micro/math/friedberg/ch1
 date_created: 2026-07-24
 ---
-What are the exact hypotheses and conclusion for the intersection of subspaces?
+State the condition for an intersection of subspaces to be a valid subspace and prove it.
 #### Notes
-Hypothesis: Any intersection of subspaces of a vector space $V$. 
 
-Conclusion: The intersection is a subspace of $V$.

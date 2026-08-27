@@ -9,7 +9,6 @@ parent: "[[The Republic - Book 1]]"
 ---
 How does Polemarchus attempt to rescue the utility of justice in peacetime, specifically regarding contracts, money, and property?
 #### Notes
-The definition is modified to state that a friend is one who both seems to be, and actually is, good, while an enemy is one who both seems to be, and actually is, bad; consequently, it is just to do good to the friend if he is good, and harm to the enemy if he is bad (Book 1, 334e–335b).
 ### Does justice follow Simonides' definition: Justice is giving a man what he is owed.
 1) Polemarchus interjects and says this must be the case as it is Simonides' definition of justice
 2) Socrates refutes by counterexample where such a situation is obviously wrong: giving a mad man his weapon back. 

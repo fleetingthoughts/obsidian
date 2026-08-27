@@ -1,5 +1,5 @@
 ---
-parent: "[[The Republic - Book 1]]"
+parent:
 tags:
   - "#flashcard"
   - micro/philosophy/republic/book1

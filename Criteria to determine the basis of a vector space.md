@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 1.6 Bases and Dimension]]"
 tags:
   - "#flashcard"
-  - macro/math/friedberg/ch1
+  - micro/math/friedberg/ch1
 date_created: 2026-07-24
 ---
 If vector space $V$ has a dimension $n$, prove that any set of of $n$ independent vectors is a basis for $V$.

@@ -5,7 +5,7 @@ tags:
   - math
   - macro
   - real_analysis
-  - macro/math/abbott/ch1
+  - macro/math/abbot/ch1
 date_created: 2026-07-24
 ---
 Prove that the set of real numbers are uncountable

@@ -2,7 +2,7 @@
 parent: "[[Understanding Analysis - 1.3 The Axiom of Completeness]]"
 tags:
   - "#flashcard"
-  - macro/math/abbott/ch1
+  - micro/math/abbott/ch1
   - real_analysis
   - stephen_abbot
 date_created: 2026-07-24

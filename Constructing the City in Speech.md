@@ -5,6 +5,7 @@ tags:
   - micro/philosophy/republic/book2
 date_created: 2026-07-24
 ---
-What is the methodological justification for Socrates' proposal to analyze justice in a city before analyzing it in an individual?
+What core method is employed by Socrates that motivates the Republic and what motivated him to even do so to begin with
 #### Notes
-If men with weak vision are asked to read small letters from afar, and they notice the same letters are written in a larger size on a larger surface, they would read the larger ones first and then check if the small ones are identical (Book 2, 368d). Since a city is larger than a single man, justice will be written in "larger letters" and be easier to observe closely in the city's structure (Book 2, 368e).
+- **Isomorphism (Big vs. Small Letters):** Justice exists in an individual man and in a whole city (368e). Because a city is bigger than one man, justice will be larger in the bigger place and easier to observe closely (368e–369a).
+- **Methodological Premise:** By watching a city coming into being in speech, we will also see its justice and injustice coming into being (369a)

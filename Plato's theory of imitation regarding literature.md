@@ -18,5 +18,3 @@ Human nature is minted in such "small coins" (395b) that a man cannot imitate ma
     - The "Chryses" example: Homer "hides himself" by adopting the priest’s persona, showing how imitation bypasses the simple report (393a–394a).
     - The "small coin" argument: A soul cannot maintain metaphysical unity while imitating manifold objects (395a–b).
 - **Connective Tissue:** The expulsion of the poet leads naturally to the non-verbal elements of education: music and rhythm.
-
-Continuous practice of imitation (_mimesis_) from youth onwards becomes deeply established as second nature, shaping a person’s physical habits, vocal expressions, and underlying thought processes, potentially leading to the actual adoption of the base traits being imitated (Book 3, 395c–d).
