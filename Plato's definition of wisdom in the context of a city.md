@@ -2,7 +2,7 @@
 parent: "[[The Republic - Book 4]]"
 tags:
   - "#flashcard"
-  - micro/math/abb
+  - micro/philosophy/republic/book4
 date_created: "{{date-2y:YYYY-MM-DD}}"
 ---
 What is the epistemic definition of Civic Wisdom (_Sophia_) in the Kallipolis, and in which class does it reside?
