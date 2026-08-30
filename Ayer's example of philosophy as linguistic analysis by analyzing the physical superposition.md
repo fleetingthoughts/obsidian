@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Language Truth & Logic - 2 The Function of Philosophy]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-29"
+  - micro/philosophy/truth_language_and_logic
+date_created: 2026-08-29
 ---
 How does logical analysis dissolve the apparently necessary physical fact that "a material thing cannot be in two places at once"?
 #### Notes

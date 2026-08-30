@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Language Truth & Logic - 2 The Function of Philosophy]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-29"
+  - micro/philosophy/truth_language_and_logic
+date_created: 2026-08-29
 ---
 How does Alfred Ayer unravel the pseudo-factual statement "Relations are not particulars, but universals," and what does it reveal about philosophical questions regarding abstract entities?
 #### Notes

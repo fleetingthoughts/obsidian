@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Language Truth & Logic - 2 The Function of Philosophy]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-29"
+  - micro/philosophy/truth_language_and_logic
+date_created: 2026-08-29
 ---
 What is the precise epistemological status of philosophical propositions in Ayer's framework, and how do they differ from both scientific hypotheses and lexicographical entries?
 #### Notes

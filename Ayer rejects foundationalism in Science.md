@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Language Truth & Logic - 2 The Function of Philosophy]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-29"
+  - micro/philosophy/truth_language_and_logic
+date_created: 2026-08-29
 ---
 Why does Ayer argue that attempting to build an _a priori_ deductive system out of purely analytic tautologies fails to produce a genuine system of knowledge about the universe?
 #### Notes

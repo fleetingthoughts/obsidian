@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Language Truth & Logic - 2 The Function of Philosophy]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-29"
+  - micro/philosophy/truth_language_and_logic
+date_created: 2026-08-29
 ---
 What is the logical basis for Ayer's assertion that pure deductive logic operating solely on immediate sense-experience cannot yield knowledge of unobserved events or external reality?
 #### Notes

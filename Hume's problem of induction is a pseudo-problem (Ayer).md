@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Language Truth & Logic - 2 The Function of Philosophy]]"
 tags:
   - "#flashcard"
-date_created: "2026-08-29"
+  - micro/philosophy/truth_language_and_logic
+date_created: 2026-08-29
 ---
 Why does Alfred Ayer classify the traditional philosophical attempt to provide an _a priori_ logical justification for scientific induction as a fictitious pseudo-problem?
 #### Notes
