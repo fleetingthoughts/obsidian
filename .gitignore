@@ -1,4 +1,10 @@
 .obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+.obsidian/workspace
 .obsidian/core-plugins.json
 <<<<<<< HEAD
 
