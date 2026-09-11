@@ -8,3 +8,4 @@ date_created: 2026-07-24
 Define the **Restriction of $T$ to $W$**.
 #### Notes
 Let $W$ be a $T$-invariant subspace of $V$. The restriction function $T_W:W \to W$ is defined by $T_W(x) = T(x)$ for all $x \in W$.
+<!--SR:!fsrs,2026-09-19T14:53:11.559Z,8,8.2956,1,2,1,0,0,2026-09-11T14:53:11.559Z-->

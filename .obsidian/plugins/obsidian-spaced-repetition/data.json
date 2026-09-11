@@ -7,8 +7,8 @@
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
-    "flashcardCardOrder": "NewFirstRandom",
-    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "flashcardCardOrder": "EveryCardRandomDeckAndCard",
+    "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertClozePatternsToInputs": false,
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
@@ -83,7 +83,7 @@
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
     "preferredLocale": "-"
   },
-  "buryDate": "2026-08-21",
+  "buryDate": "2026-09-11",
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {

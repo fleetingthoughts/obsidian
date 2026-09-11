@@ -10,6 +10,7 @@ What is the first law (model) concerning the gods that poets must follow, and wh
 The two premises are as follows:
 - God is good and following his Book 1 argument: good cannot do harm.
 This results in censorship of common tropes in literature to prevent corruption of the youth:
+<!--SR:!fsrs,2026-09-11T14:50:00.023Z,0,0.212,6.4133,1,1,0,0,2026-09-11T14:49:00.023Z-->
 
 **The First Theological Model / Law: God is Cause Only of Good (379a–380c)**
 

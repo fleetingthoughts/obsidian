@@ -14,3 +14,4 @@ How does Socrates describe the paradoxical nature of the guardian and what does 
     - _Observation:_ The disposition of noble dogs is to be as gentle as can be with familiars and acquaintances, and the opposite with strangers (375e).
     - _Argument:_ The dog distinguishes friendly from hostile looks by having learned the one and being ignorant of the other (376a–b).
     - _Conclusion:_ Because it defines what is its own by knowledge and what is alien by ignorance, the dog is a "lover of learning" (philosophic) (376b). Therefore, a fit guardian must by nature be **philosophic, spirited, swift, and strong** (376b–c).
+<!--SR:!fsrs,2026-09-19T14:41:29.835Z,8,8.2956,1,2,1,0,0,2026-09-11T14:41:29.835Z-->

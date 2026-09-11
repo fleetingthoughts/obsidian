@@ -12,6 +12,7 @@ What does Socrates argue must be censored from literature pertaining to the unde
 - **Expunging the Lexicon of Fear:** Specific "terrible and fearful names" must be deleted: Cocytus, Styx, "those below," and "the withered dead" (387b–c).
 - **The Prohibition of Heroic Lamentation:** Deletion of verses depicting Achilles or Priam—a near offspring of the gods—wailing, rolling in dung, or entreating others (388a–c).
 **Assumed Premises (Unargued)**
+<!--SR:!fsrs,2026-09-11T14:46:50.740Z,0,2.3065,2.11810397,1,1,0,1,2026-09-11T14:36:50.740Z-->
 
 - **The Aesthetic Paradox:** Aesthetic excellence in poetry increases the danger of its psychological impact; beauty acts as a conduit for the "shiver" that softens the soul (387b–c).
 

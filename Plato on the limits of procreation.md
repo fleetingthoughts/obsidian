@@ -13,3 +13,4 @@ What age limits does Socrates impose on the procreation between men and women an
 - Socrates compares his rules on reproduction to Glaucon's socially acceptable selective dog breeding hobby (459a–b).
 - Women and men are only allowed to procreate within the age limits of 20-40 and 30-55 (460e–461a)
 - Children who are born without respecting the rules must be euthanized.
+<!--SR:!fsrs,2026-09-11T14:56:46.021Z,0,2.3065,2.11810397,1,1,0,1,2026-09-11T14:46:46.021Z-->

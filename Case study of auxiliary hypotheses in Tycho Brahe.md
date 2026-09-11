@@ -8,3 +8,4 @@ date_created: 2026-08-22
 How does Tycho Brahe’s historical rejection of the Copernican heliocentric model illustrate the logical danger of overlooking unstated auxiliary assumptions?
 #### Notes
 **Nature of Proposition: Historical Case Example.** Brahe observed no stellar parallax and concluded that the Copernican hypothesis (H) was false. However, the test implication of observable stellar parallax (I) was derived only in conjunction with the unstated auxiliary hypothesis (A) that the fixed stars are close enough to Earth for their parallax to be detected by Brahe's naked-eye instruments. Since A was actually false because the stars are vastly more remote than assumed, Brahe's rejection of heliocentrism was logically invalid. (_Philosophy of Natural Science_, Chapter 3, pp. 23-24)
+<!--SR:!fsrs,2026-09-19T14:53:59.982Z,8,8.2956,1,2,1,0,0,2026-09-11T14:53:59.982Z-->

@@ -8,3 +8,4 @@ date_created: 2026-08-29
 State the rigorous epsilon-delta definition for the functional limit $\lim_{x\to c} f(x) = L$, where $c$ is a limit point of the domain $A$.
 #### Notes
 For all $\epsilon > 0$, there exists a $\delta > 0$ such that whenever $0 < \vert{}x - c\vert{} < \delta$ and $x \in A$, it follows that $\vert{}f(x) - L\vert{} < \epsilon$.
+<!--SR:!fsrs,2026-09-19T14:57:20.676Z,8,8.2956,1,2,1,0,0,2026-09-11T14:57:20.676Z-->
