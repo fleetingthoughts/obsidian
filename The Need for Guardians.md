@@ -10,3 +10,4 @@ Why does the introduction of war necessitate a specialized class of guardians ra
 - **Warfare is an Art (****Techne****):** Based on the principle of specialization ("one man, one art"), warfare requires tools, training, and full-time diligence (374b–e).
 - **Need for a Specialized Class:** An army of **Guardians** must be chosen to fight for the city's wealth and survival (374e)
 Because of the Principle of Specialization, it is impossible for one man to do a fine job in many arts (Book 2, 374a). Since the struggle for victory in war is a matter of great art, requiring the most extensive training, leisure, and diligence, no citizen can pick up a shield and instantly become an adequate combatant while practicing another craft (Book 2, 374b–e).
+<!--SR:!fsrs,2026-09-21T15:44:49.792Z,8,8.2956,1,2,1,0,0,2026-09-13T15:44:49.792Z-->

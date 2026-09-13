@@ -8,3 +8,4 @@ date_created: 2026-07-24
 What are the two components of a Guardians education that Socrates identifies and what necessitates them from his [description of the Guardians](Plato%20on%20the%20paradoxical%20nature%20of%20guardians.md).
 #### Notes
 Music and Gymnastics are required due to the spirited and calm parts of the soldier
+<!--SR:!fsrs,2026-09-21T15:51:26.048Z,8,8.2956,1,2,1,0,0,2026-09-13T15:51:26.048Z-->

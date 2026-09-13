@@ -13,6 +13,7 @@ Knowledge is initially defined as knowing the forms, but to provide a more primi
 - First, he defines **powers** (_dynameis_) generally as things defined by **what they depend on** (their objects) and **what they accomplish**.
 - Second, he gets the opponent to agree that **knowledge is an infallible power** ("that which doesn't make mistakes"), while **opinion is fallible** ("that which does make mistakes").
 - Third, he establishes the foundational definition: **"Knowledge is presumably dependent on what is, to know of what is that it is and how it is"** (knowledge is the power directed at absolute, unchanging Being).
+<!--SR:!fsrs,2026-09-21T15:42:17.819Z,8,8.2956,1,2,1,0,0,2026-09-13T15:42:17.819Z-->
 
 At this stage in the argument, **the word "Form" has not even been used to define the object of knowledge.** The definition is simply: _Knowledge is the infallible grasp of what purely is_.
 
