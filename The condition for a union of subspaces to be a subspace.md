@@ -8,6 +8,7 @@ date_created: 2026-07-24
 State the condition for the union of two subspaces to be a subspace
 #### Notes
 Let $V$ be a vector space and $W_1, W_2$ be subspaces of $V$. The union $W_1 \cup W_2$ is a subspace of $V$ if and only if one subspace is contained within the other, meaning either $W_1 \subseteq W_2$ or $W_2 \subseteq W_1$.
+<!--SR:!fsrs,2026-09-13T14:49:29.671Z,0,2.3065,2.11810397,1,1,0,1,2026-09-13T14:39:29.671Z-->
 
 ### Rigorous proof
 

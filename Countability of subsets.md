@@ -8,4 +8,4 @@ date_created: 2026-07-24
 State: Countability of Subsets
 #### Notes
 If $A \subseteq B$ and $B$ is countable, then $A$ is either countable or finite.
-<!--SR:!fsrs,2026-08-27T14:07:03.061Z,0,2.3065,2.11810397,1,1,0,1,2026-08-27T13:57:03.061Z-->
+<!--SR:!fsrs,2026-11-08T14:47:12.974Z,56,55.94675846,1,2,2,0,0,2026-09-13T14:47:12.974Z-->
