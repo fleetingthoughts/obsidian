@@ -9,3 +9,4 @@ State the proposition regarding the countability of perfect sets
 #### Notes
 - _Statement:_ A nonempty perfect set is uncountable.
 - _Boundary Conditions and Constraints:_ The set $P$ must be nonempty, closed, and contain no isolated points, which means that every element of $P$ is a limit point of $P$.
+<!--SR:!fsrs,2026-09-22T21:22:59.335Z,8,8.2956,1,2,1,0,0,2026-09-14T21:22:59.335Z-->

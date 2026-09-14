@@ -8,6 +8,7 @@ date_created: 2026-07-24
 Characterize the linear independence of a set by its finite subsets.
 #### Notes
 Let $V$ be a vector space over a field and $S$ be a subset of $V$ (which may be infinite). The set $S$ is linearly independent if and only if **every finite subset of $S$ is linearly independent**.
+<!--SR:!fsrs,2026-09-22T21:21:20.422Z,8,8.2956,1,2,1,0,0,2026-09-14T21:21:20.422Z-->
 
 ### Rigorous proof
 

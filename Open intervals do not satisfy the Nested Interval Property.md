@@ -10,5 +10,5 @@ date_created: 2026-07-24
 ---
 Prove why open intervals do not satisfy the nested interval property.
 #### Notes
-<!--SR:!fsrs,2026-09-04T13:56:16.552Z,8,8.2956,1,2,1,0,0,2026-08-27T13:56:16.552Z-->
+<!--SR:!fsrs,2026-12-29T21:29:07.981Z,106,105.54093396,1,2,2,0,0,2026-09-14T21:29:07.981Z-->
 

@@ -8,3 +8,4 @@ date_created: 2026-07-24
 How can the rank of a linear transformation be used to determine invertibility?
 #### Notes
 Let $V$ and $W$ be finite-dimensional vector spaces of equal dimension. A linear transformation $T: V \to W$ is invertible if and only if $\text{rank}(T) = \dim(V)$.
+<!--SR:!fsrs,2026-09-22T21:33:31.164Z,8,8.2956,1,2,1,0,0,2026-09-14T21:33:31.164Z-->
