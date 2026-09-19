@@ -7,7 +7,7 @@
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
-    "flashcardCardOrder": "EveryCardRandomDeckAndCard",
+    "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertClozePatternsToInputs": false,
     "convertHighlightsToClozes": true,
