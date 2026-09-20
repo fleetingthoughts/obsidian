@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 1.5 Cardinality]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-19"
+  - micro/math/abbott/ch1
+date_created: 2026-09-19
 ---
 Define a transcendental number.
 #### Notes

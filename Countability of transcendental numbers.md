@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 1.5 Cardinality]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-19"
+  - micro/math/abbott/ch1
+date_created: 2026-09-19
 ---
 What can we say about the countability of the transcendental numbers and prove it.
 #### Notes
