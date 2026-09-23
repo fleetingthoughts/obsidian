@@ -12,7 +12,7 @@ Define the curvature as a derivative of the angle with the positive x-axis. Deri
 #### Notes
 **Curvature by Tangent Angle**
 - **Definition:** Curvature $\kappa$ is the instantaneous rate of change of the tangent angle $\phi$ (relative to the positive $x$-axis) with respect to the arc length $s$: $\kappa = \frac{d\phi}{ds}$.
-<!--SR:!fsrs,2026-09-13T14:55:15.666Z,0,2.3065,2.11810397,1,1,0,1,2026-09-13T14:45:15.666Z-->
+<!--SR:!fsrs,2026-09-23T15:21:10.399Z,0,16.01975499,4.75285849,1,2,0,1,2026-09-23T15:15:10.399Z-->
 
 **Derivation from Parametric Components**
 - **1. Tangent Angle:** The slope relates to the parametric components via $\tan \phi = \frac{dy}{dx} = \frac{y'}{x'}$.

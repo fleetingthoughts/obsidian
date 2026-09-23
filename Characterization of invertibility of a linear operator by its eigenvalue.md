@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 5.1 Eigenvalues and Eigenvectors]]"
 tags:
   - "#flashcard"
-  - macro/math/abbott/ch5
+  - micro/math/friedberg/ch5
 date_created: 2026-09-19
 ---
 Prove that a linear operator $T$ on a finite-dimensional vector space $V$ is invertible if and only if zero is not an eigenvalue of $T$.

@@ -7,8 +7,8 @@ date_created: 2026-07-24
 ---
 Derive the formula for the curvature of a curve defined by a position vector $\bf{R}(t)$
 #### Notes
-- **1. Velocity and Unit Tangent:** The velocity vector is $\mathbf{R}'(t) = v(t)\mathbf{T}(t)$, where speed is $v(t) = \Vert{}\mathbf{R}'(t)\Vert{} = \frac{ds}{dt}$.
-<!--SR:!fsrs,2026-09-13T14:39:31.019Z,0,1.2931,5.11217071,1,1,0,0,2026-09-13T14:33:31.019Z-->
+$$\kappa = \frac{\Vert{}\mathbf{v} \times \mathbf{a}\Vert{}}{v^3} = \frac{\Vert{}\mathbf{R}'(t) \times \mathbf{R}''(t)\Vert{}}{\Vert{}\mathbf{R}'(t)\Vert{}^3}$$
+<!--SR:!fsrs,2026-09-23T15:24:49.343Z,0,13.23618877,5.10228691,1,2,0,1,2026-09-23T15:14:49.343Z-->
     
 - **2. Acceleration Vector:** Differentiating velocity using the product rule yields acceleration: $\mathbf{R}''(t) = v'(t)\mathbf{T}(t) + v(t)\mathbf{T}'(t)$.
     

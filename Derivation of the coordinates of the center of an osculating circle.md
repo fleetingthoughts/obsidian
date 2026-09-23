@@ -8,6 +8,7 @@ date_created: 2026-07-24
 Derive the coordinates for the center of an osculating circle.
 #### Notes
 - **1. Define Tangent Angle:** For a curve $y = f(x)$ at point $(x, y)$, the tangent angle $\phi$ relates to the first derivative via $\tan \phi = y'$.
+<!--SR:!fsrs,2026-09-23T15:19:51.680Z,0,0.212,6.4133,1,1,0,0,2026-09-23T15:18:51.680Z-->
     
 - **2. Normal Components:** By geometric properties, the horizontal and vertical projection components of the unit normal vector are $-\sin \phi = -\frac{y'}{\sqrt{1+(y')^2}}$ and $\cos \phi = \frac{1}{\sqrt{1+(y')^2}}$.
     

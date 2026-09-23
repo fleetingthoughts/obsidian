@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 5.1 Eigenvalues and Eigenvectors]]"
 tags:
   - "#flashcard"
-  - macro/math/abbott/ch5
+  - micro/math/friedberg/ch5
 date_created: 2026-09-19
 ---
 Prove if a diagonalizable matrix $A$ has only one distinct eigenvalue $\lambda$, then $A$ is a scalar matrix.

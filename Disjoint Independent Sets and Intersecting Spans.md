@@ -8,7 +8,7 @@ date_created: 2026-07-24
 Let $S_1$ and $S_2$ be disjoint, linearly independent subsets of a vector space $V$. State and prove the condition regarding the intersection of their spans that is equivalent to the union $S_1 \cup S_2$ being linearly independent
 #### Notes
 The union $S_1 \cup S_2$ is linearly independent if and only if $\text{span}(S_1) \cap \text{span}(S_2) = \{0\}$.
-<!--SR:!fsrs,2026-09-13T14:49:23.528Z,0,2.3065,2.11810397,1,1,0,1,2026-09-13T14:39:23.528Z-->
+<!--SR:!fsrs,2026-10-18T15:25:01.633Z,25,25.10871981,2.11121424,2,2,0,0,2026-09-23T15:25:01.633Z-->
 
 $$\text{span}(S_1) \cap \text{span}(S_2) = \{0\}$$
 

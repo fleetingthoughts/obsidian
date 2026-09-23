@@ -13,3 +13,4 @@ Define the osculating circle and what order of contact does it make with a curve
 - **Definition:** The circle that best approximates a curve at a specific point $P$, sharing the exact same tangent and curvature at that point.
 - **Properties:** Its radius is $R = \frac{1}{\kappa}$ (where $\kappa$ is the curvature of the curve at $P$), and its center lies along the principal normal vector.
 - **Order of Contact:** It makes **second-order contact** with the curve. This indicates that the circle and the curve share the same position, first derivative (tangent/slope), and second derivative (curvature/concavity) at point $P$
+<!--SR:!fsrs,2026-10-01T15:18:18.338Z,8,8.2956,1,2,1,0,0,2026-09-23T15:18:18.338Z-->

@@ -8,6 +8,7 @@ date_created: 2026-07-24
 Given a vector space $V$ and subsets $S_1,S_2 \subseteq V$, state the relation between $span(S_1 \cap S_2)$  and the intersection of the spans and prove it.
 #### Notes
 Let $V$ be a vector space over a field $F$, and let $S_1$ and $S_2$ be subsets of $V$. The relation between the span of their intersection and the intersection of their individual spans is that the span of the intersection is always a subset of the intersection of the spans:
+<!--SR:!fsrs,2026-09-23T15:27:20.787Z,0,0.212,6.4133,1,1,0,0,2026-09-23T15:26:20.787Z-->
 
 $$\text{span}(S_1 \cap S_2) \subseteq \text{span}(S_1) \cap \text{span}(S_2)$$
 Let $v$ be an arbitrary vector in $\text{span}(S_1 \cap S_2)$.

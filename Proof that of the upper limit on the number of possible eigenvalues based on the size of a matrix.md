@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 5.1 Eigenvalues and Eigenvectors]]"
 tags:
   - "#flashcard"
-  - macro/math/abbott/ch5
+  - micro/math/friedberg/ch5
 date_created: 2026-09-19
 ---
 Prove that the characteristic polynomial of an $n \times n$ matrix has a degree of $n$ and that the matrix has at most $n$ distinct eigenvalues?

@@ -9,4 +9,4 @@ State the arc length in polar coordinates.
 #### Notes
 $$s = \int_{\theta_a}^{\theta_b} \sqrt{\left(\frac{dx}{d\theta}\right)^2 + \left(\frac{dy}{d\theta}\right)^2} \, d\theta$$
 $$s = \int_{\theta_a}^{\theta_b} \sqrt{r^2 + (r')^2} \, d\theta$$
-<!--SR:!fsrs,2026-09-14T21:34:47.632Z,0,0.212,6.4133,1,1,0,0,2026-09-14T21:33:47.632Z-->
+<!--SR:!fsrs,2026-09-23T15:20:59.015Z,0,2.27337778,7.60420977,1,2,0,0,2026-09-23T15:14:59.015Z-->
