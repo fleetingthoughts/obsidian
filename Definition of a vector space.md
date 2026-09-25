@@ -11,6 +11,7 @@ State the definition of a vector space and the axioms it must satisfy
 A vector space (or linear space) over a field $F$ (such as the real numbers $\mathbb{R}$ or complex numbers $\mathbb{C}$) is a non-empty set $V$ of objects, called vectors, equipped with two operations:
 - **Vector addition:** A rule that assigns to any two vectors $u, v \in V$ a third vector in $V$, denoted as $u + v$.
 - **Scalar multiplication:** A rule that assigns to any scalar $c \in F$ and any vector $v \in V$ a new vector in $V$, denoted as $cv$.
+<!--SR:!fsrs,2026-10-03T22:58:29.612Z,8,8.2956,1,2,1,0,0,2026-09-25T22:58:29.612Z-->
 
 _(Note: The requirement that $u + v$ and $cv$ must always result in a vector that is also within the set $V$ is known as **closure**. While sometimes listed as the first two axioms, closure is inherently required by the definition of these mathematical operations.)_
 ## The axioms

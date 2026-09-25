@@ -7,4 +7,5 @@ date_created: 2026-07-24
 ---
 State the equivalent condition that characterizes linear dependence in terms of the **predecessors** of vectors in a sequence.
 #### Notes
-A set $S\{u_{1}u_{2},\dots,u_{n}\}$ is linearly dependent if and only if $u_1=0$ or $u_{k+1}\in span(\{u_1,...,u_{k+1}\})$ 
+A set $S\{u_{1}u_{2},\dots,u_{n}\}$ is linearly dependent if and only if $u_1=0$ or $u_{k+1}\in span(\{u_1,...,u_{k+1}\})$
+<!--SR:!fsrs,2026-10-03T22:48:23.660Z,8,8.2956,1,2,1,0,0,2026-09-25T22:48:23.660Z--> 

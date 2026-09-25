@@ -9,6 +9,7 @@ Prove that the basis of a vector space has a unique number of vectors.
 #### Notes
 Let $\beta$ be a finite basis for $V$ containing $n$ vectors, and let $\gamma$ be any other basis for $V$.
 1. Finiteness of $\gamma$Show by contradiction that $\gamma$ cannot contain more than $n$ vectors. If $\gamma$ contained more than $n$ vectors, we could select a subset $S \subseteq \gamma$ of $n+1$ vectors. Since $S$ is linearly independent and $\beta$ generates $V$, the Replacement Theorem would force $n+1 \le n$, which is a contradiction. Thus, $\gamma$ must be finite, containing some integer $m$ vectors.
+<!--SR:!fsrs,2026-10-03T22:59:36.128Z,8,8.2956,1,2,1,0,0,2026-09-25T22:59:36.128Z-->
 
 2. Upper Bound ($m \le n$)Since $\gamma$ is a linearly independent set with $m$ vectors and $\beta$ is a generating set with $n$ vectors, the Replacement Theorem implies $m \le n$.
 
