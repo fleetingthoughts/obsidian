@@ -9,10 +9,13 @@ Let $g: \mathbf{R} \to \mathbf{R}$ be an arbitrary function and let $A, B \subse
 - State the exact relationship between the preimage of the intersection, $g^{-1}(A \cap B)$, and the intersection of the preimages. 
 - State the exact relationship between the preimage of the union, $g^{-1}(A \cup B)$, and the union of the preimages.
 
-How does it differ from the image of an intersection of sets?
+given a function $g:A\to B$, how does the preimage differ from the image of an intersection of sets?
 #### Notes
-$g^{-1}(A \cap B) = g^{-1}(A) \cap g^{-1}(B)$. 
-- **Forward Inclusion ($\subseteq$):** Let $x \in g^{-1}(A \cap B)$. By definition of the preimage, $g(x) \in A \cap B$.
+$g^{-1}(A \cap B) = g^{-1}(A) \cap g^{-1}(B)$.
+- **Forward Inclusion ($\subseteq$):** Let $x \in g^{-1}(A \cap B)$. By definition of the preimage, $g(x) \in A \cap B$. Converse is proved similarly
+
+The image does not preserve the intersection: $g(A \cap B) \subseteq g(A) \cap g(B)$
+<!--SR:!fsrs,2026-10-04T21:14:04.917Z,8,8.2956,1,2,1,0,0,2026-09-26T21:14:04.917Z-->
     
 - By definition of intersection, $g(x) \in A$ and $g(x) \in B$.
     

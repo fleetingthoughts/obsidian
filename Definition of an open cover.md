@@ -8,4 +8,4 @@ date_created: 2026-07-24
 What is the formal definition of an open cover for a set $A \subseteq \mathbb{R}$?
 #### Notes
 An open cover for $A$ is a collection of open sets $\{O_\lambda : \lambda \in \Lambda\}$ whose union contains $A$; that is, $A \subseteq \bigcup_{\lambda \in \Lambda} O_\lambda$.
-<!--SR:!fsrs,2026-09-19T14:53:47.457Z,8,8.2956,1,2,1,0,0,2026-09-11T14:53:47.457Z-->
+<!--SR:!fsrs,2026-12-31T21:04:59.773Z,96,95.50778479,1,2,2,0,0,2026-09-26T21:04:59.773Z-->
