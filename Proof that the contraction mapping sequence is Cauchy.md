@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 4.3 Continuous Functions]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-27"
+  - micro/math/abbott/ch4
+date_created: 2026-09-27
 ---
 Prove: For a contraction mapping $f : \mathbf{R} \to \mathbf{R}$ with constant $0 < c < 1$ and any $y_1 \in \mathbf{R}$, the sequence defined by $y_{n+1} = f(y_n)$ is a Cauchy sequence.
 #### Notes

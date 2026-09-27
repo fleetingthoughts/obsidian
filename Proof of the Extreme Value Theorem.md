@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 4.3 Continuous Functions]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-27"
+  - micro/math/abbott/ch4
+date_created: 2026-09-27
 ---
 Prove: If $f : K \to \mathbf{R}$ is continuous on a compact set $K \subseteq \mathbf{R}$, then $f$ attains a maximum and a minimum value on $K$.
 #### Notes

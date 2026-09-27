@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 4.3 Continuous Functions]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-26"
+  - micro/math/abbott/ch4
+date_created: 2026-09-26
 ---
 State the sequential criterion for a function $f : A \to \mathbf{R}$ to fail to be uniformly continuous.
 #### Notes

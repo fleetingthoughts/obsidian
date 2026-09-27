@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 4.3 Continuous Functions]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-27"
+  - micro/math/abbott/ch4
+date_created: 2026-09-27
 ---
 Let $f: A \to B$ and $g: B \to \mathbb{R}$. If $\lim_{x \to c} f(x) = q$, $\lim_{y \to q} g(y) = L$, and $f(x) \neq q$ for all $x \neq c$ in some neighborhood of $c$, then $\lim_{x \to c} g(f(x)) = L$
 #### Notes

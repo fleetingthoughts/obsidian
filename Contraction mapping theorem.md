@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 4.3 Continuous Functions]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-27"
+  - micro/math/abbott/ch4
+date_created: 2026-09-27
 ---
 State the Contraction mapping theorem for a function $f : \mathbf{R} \to \mathbf{R}$
 #### Notes

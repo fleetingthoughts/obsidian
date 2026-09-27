@@ -1,8 +1,9 @@
 ---
-parent:
+parent: "[[Understanding Analysis - 4.3 Continuous Functions]]"
 tags:
   - "#flashcard"
-date_created: "2026-09-27"
+  - micro/math/abbott/ch4
+date_created: 2026-09-27
 ---
 Prove: A function $f : A \to \mathbf{R}$ fails to be uniformly continuous on $A$ if and only if there exists $\epsilon_0 > 0$ and sequences $(x_n), (y_n) \subseteq A$ satisfying $\lim \vert{}x_n - y_n\vert{} = 0$ while $\vert{}f(x_n) - f(y_n)\vert{} \ge \epsilon_0$.
 #### Notes
