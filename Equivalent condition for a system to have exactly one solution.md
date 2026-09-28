@@ -5,6 +5,6 @@ tags:
   - micro/math/abbott/ch3
 date_created: 2026-09-28
 ---
-What is the dimension of the solution space of a homogeneous system of $m$ linear equations in $n$ unknowns with coefficient matrix $A$?
+State the necessary and sufficient condition on an $n \times n$ coefficient matrix $A$ for the system $Ax = b$ to have exactly one solution.
 #### Notes
-$n - \text{rank}(A)$.
+$A$ must be invertible.

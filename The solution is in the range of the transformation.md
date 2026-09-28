@@ -5,6 +5,6 @@ tags:
   - micro/math/abbott/ch3
 date_created: 2026-09-28
 ---
-What is the dimension of the solution space of a homogeneous system of $m$ linear equations in $n$ unknowns with coefficient matrix $A$?
+Let $A$ be the $m \times n$ coefficient matrix of a linear system. What rank condition on $A$ guarantees the system is consistent for every vector $b \in F^m$?
 #### Notes
-$n - \text{rank}(A)$.
+$\text{rank}(A) = m$.
