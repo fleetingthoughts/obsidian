@@ -1,5 +1,5 @@
 ---
-parent: "[[Understanding Analysis - 4.3 Continuous Functions]]"
+parent: "[[Understanding Analysis - 4.4 Continuous Functions on Compact Sets]]"
 tags:
   - "#flashcard"
   - micro/math/abbott/ch4
