@@ -10,7 +10,7 @@ date_created: 2026-07-24
 State the condition for two cosets $v_1 + W$ and $v_2 + W$ to be equal.
 #### Notes
 Let $V$ be a vector space and $W$ be a subspace of $V$. Two cosets $v_1 + W$ and $v_2 + W$ are equal ($v_1 + W = v_2 + W$) if and only if: $$v_1 - v_2 \in W$$
-<!--SR:!fsrs,2026-09-30T15:08:18.468Z,7,6.78515227,5.20002037,2,2,0,0,2026-09-23T15:08:18.468Z-->
+<!--SR:!fsrs,2026-11-09T03:08:34.842Z,39,39.18191553,3.58131923,2,3,0,0,2026-10-01T03:08:34.842Z-->
 
 $$v_1 - v_2 \in W$$
 

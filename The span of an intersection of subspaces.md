@@ -7,8 +7,16 @@ date_created: 2026-07-24
 ---
 Given a vector space $V$ and subsets $S_1,S_2 \subseteq V$, state the relation between $span(S_1 \cap S_2)$  and the intersection of the spans and prove it.
 #### Notes
-Let $V$ be a vector space over a field $F$, and let $S_1$ and $S_2$ be subsets of $V$. The relation between the span of their intersection and the intersection of their individual spans is that the span of the intersection is always a subset of the intersection of the spans:
-<!--SR:!fsrs,2026-09-29T22:43:25.650Z,4,4.37161444,5.20002037,2,2,0,0,2026-09-25T22:43:25.650Z-->
+For subsets $S_1, S_2 \subseteq V$, the relation between $\text{span}(S_1 \cap S_2)$ and the intersection of their spans is:
+   $$\text{span}(S_1 \cap S_2) \subseteq \text{span}(S_1) \cap \text{span}(S_2)$$
+
+Assume: Let $v \in \text{span}(S_1 \cap S_2)$.
+Expand: By definition of span, $v$ can be written as a finite linear combination: $v = c_1u_1 + c_2u_2 + \dots + c_ku_k$, where each vector $u_i \in S_1 \cap S_2$.
+Separate: By the definition of set intersection, every $u_i$ is an element of $S_1$, and every $u_i$ is an element of $S_2$.
+Evaluate Span 1: Because $v$ is a linear combination of vectors entirely contained in $S_1$, it follows that $v \in \text{span}(S_1)$.
+Evaluate Span 2: Because $v$ is a linear combination of vectors entirely contained in $S_2$, it follows that $v \in \text{span}(S_2)$.
+Conclude: Since $v \in \text{span}(S_1)$ and $v \in \text{span}(S_2)$, therefore $v \in \text{span}(S_1) \cap \text{span}(S_2)$.
+<!--SR:!fsrs,2026-10-19T03:07:15.475Z,18,17.65630407,5.19004872,2,3,0,0,2026-10-01T03:07:15.475Z-->
 
 $$\text{span}(S_1 \cap S_2) \subseteq \text{span}(S_1) \cap \text{span}(S_2)$$
 Let $v$ be an arbitrary vector in $\text{span}(S_1 \cap S_2)$.

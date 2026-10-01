@@ -8,4 +8,4 @@ date_created: 2026-07-24
 Define the Lagrange Polynomials.
 #### Notes
 Let $c_0, c_1, \dots, c_n$ be distinct scalars in a field $F$. The associated Lagrange polynomials $f_0, f_1, \dots, f_n \in P_n(F)$ are defined by $f_i(x) = \prod_{k=0, k \neq i}^{n} \frac{x - c_k}{c_i - c_k}$. They satisfy the foundational Kronecker delta property $f_i(c_j) = \delta_{ij}$.
-<!--SR:!fsrs,2026-09-26T21:08:45.476Z,0,3.24941173,6.74045952,1,2,0,0,2026-09-26T21:02:45.476Z-->
+<!--SR:!fsrs,2026-10-20T03:08:48.790Z,19,18.62249994,5.63650136,2,3,0,0,2026-10-01T03:08:48.790Z-->
