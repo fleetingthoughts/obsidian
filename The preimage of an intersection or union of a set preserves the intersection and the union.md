@@ -13,6 +13,7 @@ given a function $g:A\to B$, how does the preimage differ from the image of an i
 #### Notes
 $g^{-1}(A \cap B) = g^{-1}(A) \cap g^{-1}(B)$.
 - **Forward Inclusion ($\subseteq$):** Let $x \in g^{-1}(A \cap B)$. By definition of the preimage, $g(x) \in A \cap B$. Converse is proved similarly
+<!--SR:!fsrs,2026-10-09T23:10:27.864Z,8,8.2956,1,2,1,0,0,2026-10-01T23:10:27.864Z-->
 
 The image does not preserve the intersection: $g(A \cap B) \subseteq g(A) \cap g(B)$
 <!--SR:!fsrs,2026-10-04T21:14:04.917Z,8,8.2956,1,2,1,0,0,2026-09-26T21:14:04.917Z-->

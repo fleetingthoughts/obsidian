@@ -8,6 +8,7 @@ date_created: 2026-09-27
 Prove: If $f : K \to \mathbf{R}$ is continuous on a compact set $K \subseteq \mathbf{R}$, then $f$ attains a maximum and a minimum value on $K$.
 #### Notes
 - Apply the Preservation of Compact Sets to establish $f(K)$ is closed and bounded.
+<!--SR:!fsrs,2026-10-09T23:11:07.470Z,8,8.2956,1,2,1,0,0,2026-10-01T23:11:07.470Z-->
     
 - Define $\alpha = \sup f(K)$ and $\beta = \inf f(K)$, which exist by completeness since $f(K)$ is bounded.
     

@@ -8,6 +8,7 @@ date_created: 2026-09-29
 Prove: Let $f : [a, b] \to \mathbf{R}$ be continuous. If $f(a) < 0 < f(b)$, then there exists a point $c \in (a, b)$ where $f(c) = 0$.
 #### Notes
 - Initialize $I_0 = [a, b]$. Bisect $I_0$ at the midpoint $z$, selecting the half where the function changes sign to form $I_1$.
+<!--SR:!fsrs,2026-10-09T23:10:42.717Z,8,8.2956,1,2,1,0,0,2026-10-01T23:10:42.717Z-->
     
 - Inductively construct nested closed intervals $I_n = [a_n, b_n]$ satisfying $f(a_n) < 0 \le f(b_n)$ with lengths tending to 0.
     

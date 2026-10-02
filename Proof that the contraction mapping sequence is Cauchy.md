@@ -8,6 +8,7 @@ date_created: 2026-09-27
 Prove: For a contraction mapping $f : \mathbf{R} \to \mathbf{R}$ with constant $0 < c < 1$ and any $y_1 \in \mathbf{R}$, the sequence defined by $y_{n+1} = f(y_n)$ is a Cauchy sequence.
 #### Notes
 - Observe that successive differences decay geometrically: $\vert{}y_{n+1} - y_n\vert{} \le c\vert{}y_n - y_{n-1}\vert{} \le \dots \le c^{n-1}\vert{}y_2 - y_1\vert{}$.
+<!--SR:!fsrs,2026-10-09T23:11:00.346Z,8,8.2956,1,2,1,0,0,2026-10-01T23:11:00.346Z-->
     
 - For $m > n$, use the triangle inequality to bound $\vert{}y_m - y_n\vert{}$ by a geometric series: $\sum_{k=n}^{m-1} c^{k-1}\vert{}y_2 - y_1\vert{}$.
     

@@ -8,3 +8,4 @@ date_created: 2026-09-29
 State the Intermediate value theorem.
 #### Notes
 $f : [a, b] \to \mathbf{R}$ be continuous. If $L$ is a real number satisfying $f(a) < L < f(b)$ or $f(a) > L > f(b)$, then there exists a point $c \in (a, b)$ where $f(c) = L$.
+<!--SR:!fsrs,2026-10-09T23:10:49.473Z,8,8.2956,1,2,1,0,0,2026-10-01T23:10:49.473Z-->

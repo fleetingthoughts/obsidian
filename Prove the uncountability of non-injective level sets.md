@@ -12,3 +12,4 @@ Let $g$ be continuous on an interval $A$. Let $F = \{x \in A : g(x) = g(y) \text
 - For any $y$ strictly between $k$ and $M$, apply the Intermediate value theorem to $[x_1, c]$ and $[c, x_2]$.
 - Obtain distinct $z_1 \in (x_1, c)$ and $z_2 \in (c, x_2)$ with $g(z_1) = y = g(z_2)$.
 - Conclude every value $y \in (k, M)$ produces a distinct pair in $F$, making $F$ uncountable.
+<!--SR:!fsrs,2026-10-09T23:10:56.223Z,8,8.2956,1,2,1,0,0,2026-10-01T23:10:56.223Z-->
