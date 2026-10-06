@@ -8,4 +8,4 @@ date_created: 2026-07-24
 Given a vector space $V$ and a set $S \subseteq V$, state what it means for $span(S)$ to be the smallest subspace.
 #### Notes
 $\text{span}(S)$ is a subspace of $V$ that contains $S$. Moreover, any subspace of $V$ that contains $S$ must also contain $\text{span}(S)$.
-<!--SR:!fsrs,2026-10-01T15:25:08.547Z,8,8.2956,1,2,1,0,0,2026-09-23T15:25:08.547Z-->
+<!--SR:!fsrs,2026-12-17T06:03:16.664Z,75,75.34793403,1,2,2,0,0,2026-10-03T06:03:16.664Z-->

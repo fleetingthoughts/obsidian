@@ -8,6 +8,7 @@ date_created: 2026-07-24
 State and derive the Rational Root theorem and its implication for determining the rationality of a number
 #### Notes
 - **Statement:** If a polynomial $P(x) = a_nx^n + a_{n-1}x^{n-1} + \dots + a_1x + a_0$ with integer coefficients has a rational root $x = \frac{p}{q}$ (where $p$ and $q$ are coprime integers), then $p$ divides the constant term $a_0$ and $q$ divides the leading coefficient $a_n$.
+<!--SR:!fsrs,2026-10-03T06:06:57.617Z,0,1.2931,5.11217071,1,1,0,0,2026-10-03T06:00:57.617Z-->
     
 - **Derivation 1 (Substitution):** Set $P(\frac{p}{q}) = 0$ and multiply the entire equation by $q^n$ to clear the denominators:
 $$a_np^n + a_{n-1}p^{n-1}q + \dots + a_1pq^{n-1} + a_0q^n = 0$$

@@ -4,7 +4,10 @@
       "#micro",
       "#macro"
     ],
-    "flashcardTagsToIgnore": [],
+    "flashcardTagsToIgnore": [
+      "#micro/philosophy",
+      "#micro/math/courant"
+    ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
     "flashcardCardOrder": "DueFirstRandom",
@@ -83,7 +86,7 @@
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
     "preferredLocale": "-"
   },
-  "buryDate": "2026-10-02",
+  "buryDate": "2026-10-06",
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {

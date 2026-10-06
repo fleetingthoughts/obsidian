@@ -17,6 +17,7 @@ Prove: The set of all algebraic numbers is countable.
 - Express the set of all algebraic numbers as the union $\bigcup_{n=1}^{\infty} A_n$.
 - Apply the theorem that a countable union of countable sets is countable.
 **Front:** Prove: The set of all transcendental numbers is uncountable.
+<!--SR:!fsrs,2026-10-11T06:02:21.264Z,8,8.2956,1,2,1,0,0,2026-10-03T06:02:21.264Z-->
 
 **Back:**
 1. State that the set of real numbers $\mathbf{R}$ is the union of algebraic and transcendental numbers.

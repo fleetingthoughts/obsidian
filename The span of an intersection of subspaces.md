@@ -9,6 +9,7 @@ Given a vector space $V$ and subsets $S_1,S_2 \subseteq V$, state the relation b
 #### Notes
 For subsets $S_1, S_2 \subseteq V$, the relation between $\text{span}(S_1 \cap S_2)$ and the intersection of their spans is:
    $$\text{span}(S_1 \cap S_2) \subseteq \text{span}(S_1) \cap \text{span}(S_2)$$
+<!--SR:!fsrs,2026-10-11T06:03:22.197Z,8,8.2956,1,2,1,0,0,2026-10-03T06:03:22.197Z-->
 
 Assume: Let $v \in \text{span}(S_1 \cap S_2)$.
 Expand: By definition of span, $v$ can be written as a finite linear combination: $v = c_1u_1 + c_2u_2 + \dots + c_ku_k$, where each vector $u_i \in S_1 \cap S_2$.

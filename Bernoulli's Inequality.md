@@ -15,7 +15,7 @@ State Bernoulli's inequality and how can it be used to determine the limits of t
 The following is a lemma of the [Binomial Theorem](Binomial%20Theorem.md).
 ***Lemma (lower bound on binomials).*** If $h$ is a positive number and $n$ is a natural number, then:
 $$1+nh\le (1+h)^n$$
-<!--SR:!fsrs,2026-09-13T14:53:08.931Z,0,1.2931,5.11217071,1,1,0,0,2026-09-13T14:47:08.931Z-->
+<!--SR:!fsrs,2026-11-02T06:00:43.321Z,30,29.73165514,3.4641143,2,2,0,0,2026-10-03T06:00:43.321Z-->
 
 The inequality follows trivially from the binomial formula as $1+nh$ is just the first two terms of the full summation. More generally, we can refine the lower bound further with a greater lower bound by adding on more terms from the binomial theorem for example:
 $$\frac{n(n-1)}{2}h^2+1+nh \le (1+h)^n$$

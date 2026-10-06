@@ -9,4 +9,4 @@ State the hypotheses and conclusion for the **Subspace Property of Linear Transf
 #### Notes
 **Hypotheses:** Let $V, W$ be vector spaces and $T:V \to W$ be linear.
 **Conclusion:** $N(T)$ is a subspace of $V$, and $R(T)$ is a subspace of $W$.
-<!--SR:!fsrs,2026-09-19T14:40:05.723Z,8,8.2956,1,2,1,0,0,2026-09-11T14:40:05.723Z-->
+<!--SR:!fsrs,2027-01-28T05:54:48.855Z,117,117.20020563,1,2,2,0,0,2026-10-03T05:54:48.855Z-->

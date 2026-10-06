@@ -8,6 +8,7 @@ date_created: 2026-09-23
 Prove that every matrix has a rank normal form. Let $A$ be an $m \times n$ matrix of rank $r$. By a finite number of elementary row and column operations, $A$ can be transformed into $D = \begin{pmatrix} I_r & O_1 \\ O_2 & O_3 \end{pmatrix}$.
 #### Notes
 - Handle base cases: $A = O$ is trivial; for $m = 1$, shift a non-zero element to $(1,1)$, scale to 1, and clear the row.
+<!--SR:!fsrs,2026-10-11T05:59:38.648Z,8,8.2956,1,2,1,0,0,2026-10-03T05:59:38.648Z-->
     
 - Assume $m > 1$ and proceed by induction on $m$.
     
