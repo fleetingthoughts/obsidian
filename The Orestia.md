@@ -1,7 +1,7 @@
 ---
 parent:
 author: Aeschylus, Robert Fagles (Translator)
-edition:
+edition: " ‎Bilingual"
 original publisher:
 reprint publisher: Penguin Classics
 original publication year:
