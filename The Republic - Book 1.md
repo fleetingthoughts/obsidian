@@ -3,7 +3,7 @@ tags:
   - philosophy
   - plato
   - socrates
-date_created: 2026-06-20
+date_created: 2021-06-20
 parent: "[[The Republic]]"
 ---
 We 
