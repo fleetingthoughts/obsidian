@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.1 Inner Products and Norms]]"
 tags:
   - "#flashcard"
-  - micro/math/abbott/ch6
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 State the necessary and sufficient condition for a norm $\vert{}\cdot\vert{}_V$ on a real vector space to be induced by an inner product.

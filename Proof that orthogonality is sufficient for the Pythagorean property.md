@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.1 Inner Products and Norms]]"
 tags:
   - "#flashcard"
-  - micro/math/abbott/ch6
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: If $x$ and $y$ are orthogonal in an inner product space, $\vert{}x + y\vert{}^2 = \vert{}x\vert{}^2 + \vert{}y\vert{}^2$.

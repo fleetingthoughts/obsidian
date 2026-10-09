@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.1 Inner Products and Norms]]"
 tags:
   - "#flashcard"
-  - micro/math/abbott/ch6
+  - micro/math/friedberg/ch6
 date_created: 2026-10-04
 ---
 State the four axioms defining an inner product on a vector space $V$ over $F$ (where $F$ is $\mathbb{R}$ or $\mathbb{C}$).
