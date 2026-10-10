@@ -1,19 +1,19 @@
 ---
 parent:
-author: Aeschylus, Robert Fagles (Translator)
-edition: " ‎Bilingual"
+author: Sophocles
+edition: " ‎First Edition"
 original publisher:
 reprint publisher: Penguin Classics
 original publication year:
 edition publication year: Feb. 7 1984
-isbn-13: 978-0140443332
-cover: https://m.media-amazon.com/images/I/81aDp9Z3V6L._AC_UF1000,1000_QL80_.jpg
+isbn-13: " ‎ 978-0140444254"
+cover: https://m.media-amazon.com/images/I/81OQtTY348L._SL1500_.jpg
 tags:
-  - aeschylus
   - book
   - ancient_greek
-  - tragedy
   - drama
+  - tragedy
+  - sophocles
 status:
 rating out of 10:
 date_created: 2025-12-29
