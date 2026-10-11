@@ -8,7 +8,7 @@ date_created: 2026-09-19
 Prove: If $f_1, f_2, \dots, f_n$ are continuous functions, then $g(x) = \max\{f_1(x), f_2(x), \dots, f_n(x)\}$ is a continuous function.
 #### Notes
 - Establish the base case $n=2$ by expressing $\max\{f_1(x), f_2(x)\}$ using the algebraic identity $\frac{1}{2}[(f_1(x)+f_2(x)) + \vert{}f_1(x)-f_2(x)\vert{}]$.
-<!--SR:!fsrs,2026-10-04T21:20:01.389Z,8,8.2956,1,2,1,0,0,2026-09-26T21:20:01.389Z-->
+<!--SR:!fsrs,2026-10-11T03:55:56.336Z,0,1.50292748,7.02698957,3,2,1,0,2026-10-11T03:45:56.336Z-->
     
 - Apply the Algebraic Continuity Theorem to verify the continuity of the sum and difference of continuous functions.
     

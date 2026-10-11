@@ -9,4 +9,4 @@ Provide a proposition that is an equivalent characterization of the connectednes
 #### Notes
 - _Statement:_ A set $E \subseteq \mathbf{R}$ is connected if and only if, for all nonempty disjoint sets $A$ and $B$ satisfying $E = A \cup B$, there always exists a convergent sequence $(x_n) \to x$ with $(x_n)$ contained in one of $A$ or $B$, and $x$ an element of the other.
 - _Boundary Conditions and Constraints:_ This condition must hold across every possible partition of $E$ into two nonempty disjoint subsets $A$ and $B$.
-<!--SR:!fsrs,2026-10-09T06:09:56.531Z,6,6.26155683,5.20002037,2,2,0,0,2026-10-03T06:09:56.531Z-->
+<!--SR:!fsrs,2026-11-03T03:42:43.230Z,23,23.34772595,5.19004872,2,3,0,0,2026-10-11T03:42:43.230Z-->

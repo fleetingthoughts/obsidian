@@ -12,3 +12,4 @@ What are the five equivalent characterizations of the completeness of $\mathbb{R
 - The Bolzano-Weierstrass Theorem (BW)
 - The Nested Interval Property (NIP) — _Requires the Archimedean Property_
 - The Cauchy Criterion (CC) — _Requires the Archimedean Property_
+<!--SR:!fsrs,2026-10-19T03:52:54.320Z,8,8.2956,1,2,1,0,0,2026-10-11T03:52:54.320Z-->

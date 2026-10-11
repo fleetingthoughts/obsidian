@@ -11,7 +11,7 @@ $K$ is compact if any of the 3 condition are met:
 - $K$ is compact (every open cover of $K$ has a finite subcover).
 - $K$ is closed and bounded.
 - $K$ is sequentially compact (every sequence in $K$ has a subsequence that converges to a point in $K$).
-<!--SR:!fsrs,2026-10-04T21:17:27.793Z,8,8.2956,1,2,1,0,0,2026-09-26T21:17:27.793Z-->
+<!--SR:!fsrs,2026-12-05T03:44:16.084Z,55,54.86091838,1,2,2,0,0,2026-10-11T03:44:16.084Z-->
     
 - $K$ is closed and bounded.
     
