@@ -14,7 +14,7 @@ rating out of 10:
 parent:
 date_created: 2025-12-14
 project: study
-deadline:
+deadline: 2027-04-30
 milestones: "70"
 real sections: "70"
 ---

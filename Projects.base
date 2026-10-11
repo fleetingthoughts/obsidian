@@ -21,15 +21,17 @@ views:
       - milestones
       - real sections
     sort:
-      - property: formula.Progress
-        direction: DESC
       - property: formula.Benchmark progress
-        direction: DESC
-      - property: milestones
         direction: DESC
       - property: deadline
         direction: ASC
+      - property: formula.Progress
+        direction: DESC
+      - property: milestones
+        direction: DESC
     columnSize:
       file.name: 451
       formula.Progress: 106
       formula.Benchmark progress: 158
+  - type: cards
+    name: View
