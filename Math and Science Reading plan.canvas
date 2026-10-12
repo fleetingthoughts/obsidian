@@ -24,7 +24,8 @@
 		{"id":"11d8069b2b09f841","x":955,"y":100,"width":250,"height":60,"type":"text","text":"Differential Equations - Strogatz"},
 		{"id":"58abdf089536aeec","x":955,"y":0,"width":275,"height":55,"type":"text","text":"Differential Equations by Paul Blanchard"},
 		{"id":"41fdfe4f572ccd26","x":635,"y":-5,"width":250,"height":60,"type":"text","text":"Munkres Topology"},
-		{"id":"2c91ef13a4d16803","x":-610,"y":-5,"width":250,"height":60,"type":"text","text":"Analysis - Pugh"}
+		{"id":"2c91ef13a4d16803","x":-610,"y":-5,"width":250,"height":60,"type":"text","text":"Analysis - Pugh"},
+		{"id":"d921f5ad6ac3183d","x":-330,"y":70,"width":250,"height":60,"type":"text","text":"Number theory - Rosen"}
 	],
 	"edges":[
 		{"id":"4dba8a87dc3bc5b7","fromNode":"76adabf247ebf43c","fromSide":"bottom","toNode":"33b53b8cf453f5f0","toSide":"top"},
