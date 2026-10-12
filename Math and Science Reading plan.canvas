@@ -15,22 +15,29 @@
 		{"id":"c3e19cc8fd9d1ee7","x":-610,"y":-270,"width":250,"height":60,"type":"text","text":"[Understanding Analysis 2nd ed. - Abbot, Stephen](Understanding%20Analysis%202nd%20ed.%20-%20Abbot,%20Stephen.md)"},
 		{"id":"7d90f1c2d69a0067","x":4,"y":-271,"width":243,"height":61,"type":"text","text":"[Linear Algebra - Friedberg, Insel, and Spence](Linear%20Algebra%20-%20Friedberg,%20Insel,%20and%20Spence.md)"},
 		{"id":"03340e878a882f52","x":-610,"y":-183,"width":250,"height":60,"type":"text","text":"Multivariable Calculus - Hubbard"},
-		{"id":"f2c5aab97cbb6c42","x":955,"y":-85,"width":250,"height":60,"type":"text","text":"George simmons - Differential Equations"},
 		{"id":"e93161cee77273c6","x":635,"y":-178,"width":250,"height":60,"type":"text","text":"Geometry Revisited - Coexeter"},
 		{"id":"1a3fe07e83c976a3","x":-3,"y":-95,"width":250,"height":60,"type":"text","text":"Michael Artin - Algebra\n"},
 		{"id":"7d4a47e54f02c760","x":-610,"y":-90,"width":250,"height":60,"type":"text","text":"Terrence Tao - Analysis 1"},
 		{"id":"4768a8c4fb014c90","x":315,"y":-90,"width":250,"height":60,"type":"text","text":"Introduction to Probability - Blitzstein"},
-		{"id":"0015c8d6714c7d13","x":-950,"y":-5,"width":250,"height":50,"type":"text","text":"Classical Mechanics - John R. Taylor"},
-		{"id":"11d8069b2b09f841","x":955,"y":100,"width":250,"height":60,"type":"text","text":"Differential Equations - Strogatz"},
-		{"id":"58abdf089536aeec","x":955,"y":0,"width":275,"height":55,"type":"text","text":"Differential Equations by Paul Blanchard"},
-		{"id":"41fdfe4f572ccd26","x":635,"y":-5,"width":250,"height":60,"type":"text","text":"Munkres Topology"},
 		{"id":"2c91ef13a4d16803","x":-610,"y":-5,"width":250,"height":60,"type":"text","text":"Analysis - Pugh"},
-		{"id":"d921f5ad6ac3183d","x":-330,"y":70,"width":250,"height":60,"type":"text","text":"Number theory - Rosen"}
+		{"id":"d921f5ad6ac3183d","x":-330,"y":70,"width":250,"height":60,"type":"text","text":"Number theory - Rosen"},
+		{"id":"0015c8d6714c7d13","x":-950,"y":70,"width":250,"height":50,"type":"text","text":"Classical Mechanics - John R. Taylor"},
+		{"id":"d134f4c79fa1922c","type":"text","text":"5th\nPhase\n","x":-1080,"y":70,"width":117,"height":50},
+		{"id":"d95e22bb4a9c75dd","type":"text","text":"6th\nPhase\n","x":-1080,"y":160,"width":117,"height":50},
+		{"id":"11d8069b2b09f841","x":955,"y":180,"width":250,"height":60,"type":"text","text":"Differential Equations - Strogatz"},
+		{"id":"8721f65d430cfb92","x":-610,"y":150,"width":250,"height":60,"type":"text","text":"Tao Analysis 2"},
+		{"id":"41fdfe4f572ccd26","x":635,"y":75,"width":250,"height":60,"type":"text","text":"Munkres Topology"},
+		{"id":"8dab2b48e96aee8e","x":635,"y":180,"width":250,"height":60,"type":"text","text":"Munkres Analysis on Manifolds"},
+		{"id":"5ed42ef8ca9549a3","x":1280,"y":-340,"width":230,"height":55,"type":"text","text":"Discrete Math (and P vs NP)"},
+		{"id":"f2c5aab97cbb6c42","x":955,"y":0,"width":250,"height":60,"type":"text","text":"George simmons - Differential Equations"},
+		{"id":"67d16bc98b316e51","x":1260,"y":-95,"width":250,"height":55,"type":"text","text":"Concrete Mathematics -Donald Knuth"},
+		{"id":"17337b20e9cdd6b1","x":1260,"y":10,"width":250,"height":60,"type":"text","text":"Introduction to Algorithms - cormen"}
 	],
 	"edges":[
 		{"id":"4dba8a87dc3bc5b7","fromNode":"76adabf247ebf43c","fromSide":"bottom","toNode":"33b53b8cf453f5f0","toSide":"top"},
 		{"id":"b7b035500b666fc9","fromNode":"c86a322062b2e712","fromSide":"bottom","toNode":"c3e19cc8fd9d1ee7","toSide":"top"},
 		{"id":"eef3fc746e938db2","fromNode":"21f17abc0a9c4857","fromSide":"bottom","toNode":"7d90f1c2d69a0067","toSide":"top"},
-		{"id":"a92648c8c438e578","fromNode":"c3e19cc8fd9d1ee7","fromSide":"bottom","toNode":"03340e878a882f52","toSide":"top"}
+		{"id":"a92648c8c438e578","fromNode":"c3e19cc8fd9d1ee7","fromSide":"bottom","toNode":"03340e878a882f52","toSide":"top"},
+		{"id":"fd66e1f66064ac0d","fromNode":"33b53b8cf453f5f0","fromSide":"bottom","toNode":"d921f5ad6ac3183d","toSide":"top"}
 	]
 }
