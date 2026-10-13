@@ -30,8 +30,9 @@
 		{"id":"eea9c7c2425a7a05","x":-610,"y":-10,"width":250,"height":60,"type":"text","text":"Stein and Shakarchi - complex Analysis"},
 		{"id":"8dab2b48e96aee8e","x":635,"y":280,"width":250,"height":60,"type":"text","text":"Munkres Analysis on Manifolds"},
 		{"id":"41fdfe4f572ccd26","x":635,"y":185,"width":250,"height":60,"type":"text","text":"Munkres Topology"},
-		{"id":"e93161cee77273c6","x":635,"y":-90,"width":250,"height":60,"type":"text","text":"Geometry Revisited - Coexeter"},
-		{"id":"03340e878a882f52","x":-640,"y":-183,"width":310,"height":60,"type":"text","text":"Multivariable Calculus - Hubbard + Real Analysis- Pugh"}
+		{"id":"03340e878a882f52","x":-640,"y":-183,"width":310,"height":55,"type":"text","text":"Multivariable Calculus - Hubbard + "},
+		{"id":"e93161cee77273c6","x":635,"y":-178,"width":250,"height":60,"type":"text","text":"Geometry Revisited - Coexeter"},
+		{"id":"68a3adf394c67f9e","x":635,"y":-90,"width":250,"height":60,"type":"text","text":"Munkres - Topology"}
 	],
 	"edges":[
 		{"id":"4dba8a87dc3bc5b7","fromNode":"76adabf247ebf43c","fromSide":"bottom","toNode":"33b53b8cf453f5f0","toSide":"top"},
