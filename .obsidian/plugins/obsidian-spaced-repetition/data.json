@@ -10,7 +10,7 @@
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
-    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardCardOrder": "NewFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertClozePatternsToInputs": false,
     "convertHighlightsToClozes": true,
