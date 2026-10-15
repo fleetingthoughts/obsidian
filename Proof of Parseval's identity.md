@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Let $\{v_1, v_2, \dots, v_n\}$ be an orthonormal basis for a finite-dimensional inner product space $V$. For any $x, y \in V$,

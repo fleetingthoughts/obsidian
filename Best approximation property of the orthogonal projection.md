@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Let $W$ be a finite-dimensional subspace of an inner product space $V$, let $y \in V$, and let $u \in W$ be the orthogonal projection of $y$ on $W$. State the best approximation inequality for $x \in W$ and the condition for equality.

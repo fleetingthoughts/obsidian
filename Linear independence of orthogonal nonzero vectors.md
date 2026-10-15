@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: If $S = \{v_1, v_2, \dots, v_k\}$ is an orthogonal subset of nonzero vectors in an inner product space $V$, then $S$ is linearly independent.

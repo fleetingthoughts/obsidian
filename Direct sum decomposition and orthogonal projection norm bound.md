@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Let $W$ be a finite-dimensional subspace of an inner product space $V$. Then $V = W \oplus W^\perp$, and the projection $T: V \to V$ on $W$ along $W^\perp$ satisfies $N(T) = W^\perp$ and $\Vert{}T(y)\Vert{} \le \Vert{}y\Vert{}$ for all $y \in V$.

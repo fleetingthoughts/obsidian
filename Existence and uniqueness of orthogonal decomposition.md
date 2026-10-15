@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Let $W$ be a finite-dimensional subspace of an inner product space $V$, and let $y \in V$. Then there exist unique vectors $u \in W$ and $z \in W^\perp$ such that $y = u + z$. Furthermore, if $\{v_1, v_2, \dots, v_k\}$ is an orthonormal basis for $W$, then

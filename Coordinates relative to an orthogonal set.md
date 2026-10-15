@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Let $S = \{v_1, v_2, \dots, v_k\}$ be an orthogonal set of nonzero vectors in an inner product space $V$. Express any $y \in \text{span}(S)$ as a linear combination of the vectors in $S$.

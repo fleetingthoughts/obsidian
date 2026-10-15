@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Let $V$ be an inner product space and $S = \{w_1, w_2, \dots, w_n\}$ be a linearly independent subset of $V$. Define $S' = \{v_1, v_2, \dots, v_n\}$ by $v_1 = w_1$ and $$v_k = w_k - \sum_{j=1}^{k-1} \frac{\langle w_k, v_j \rangle}{\Vert{}v_j\Vert{}^2} v_j \quad \text{for } 2 \le k \le n.$$

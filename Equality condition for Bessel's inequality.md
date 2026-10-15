@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Let $S = \{v_1, v_2, \dots, v_n\}$ be an orthonormal subset of an inner product space $V$. For $x \in V$, $\Vert{}x\Vert{}^2 = \sum_{i=1}^n \vert{}\langle x, v_i \rangle\vert{}^2$ if and only if $x \in \text{span}(S)$.

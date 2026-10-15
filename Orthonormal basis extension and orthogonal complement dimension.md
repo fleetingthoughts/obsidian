@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Suppose $S = \{v_1, v_2, \dots, v_k\}$ is an orthonormal set in an $n$-dimensional inner product space $V$. Then: (a) $S$ can be extended to an orthonormal basis $\{v_1, v_2, \dots, v_k, v_{k+1}, \dots, v_n\}$ for $V$. (b) If $W = \text{span}(S)$, then $S_1 = \{v_{k+1}, v_{k+2}, \dots, v_n\}$ is an orthonormal basis for $W^\perp$. (c) If $W$ is any subspace of $V$, then $\dim(V) = \dim(W) + \dim(W^\perp)$.

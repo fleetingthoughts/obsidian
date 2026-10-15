@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Let $V$ be an inner product space and $S = \{v_1, v_2, \dots, v_k\}$ be an orthogonal subset of $V$ consisting of nonzero vectors. If $y \in \text{span}(S)$, then

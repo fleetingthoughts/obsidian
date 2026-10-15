@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: Let $\beta$ be a basis for a subspace $W$ of an inner product space $V$. A vector $z \in V$ lies in $W^\perp$ if and only if $\langle z, v \rangle = 0$ for all $v \in \beta$.

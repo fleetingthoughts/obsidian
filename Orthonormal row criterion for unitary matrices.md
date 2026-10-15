@@ -1,7 +1,8 @@
 ---
-parent:
+parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 6.2 The Gram-Schmidt Orthogonalization Process and Orthogonal Complements]]"
 tags:
   - "#flashcard"
+  - micro/math/friedberg/ch6
 date_created: 2022-08-25
 ---
 Prove: For $A \in \mathcal{M}_{n \times n}(\mathbb{C})$, $AA^* = I$ if and only if the rows of $A$ form an orthonormal basis for $\mathbb{C}^n$.
