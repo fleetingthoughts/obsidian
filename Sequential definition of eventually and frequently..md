@@ -10,4 +10,5 @@ date_created: 2026-07-24
 ---
 Define what it means for a sequence $(a_n)$ to eventually be in a set $A \subseteq \mathbb{R}$ vs frequently in a set and which one is the stronger statement.
 #### Notes
+<!--SR:!fsrs,2026-10-28T22:46:24.625Z,8,8.2956,1,2,1,0,0,2026-10-20T22:46:24.625Z-->
 
