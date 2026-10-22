@@ -9,7 +9,10 @@ date_created: 2026-07-24
 ---
 Given a sequence $(a_n)$, what propositions solely about its subsequences are sufficient  for the divergence or convergence of $(a_n)$.
 #### Notes
-## 1. Propositions Sufficient for Convergence
+The sequence $(a_n)$ contains a divergent subsequence.
+
+The sequence $(a_n)$ contains two subsequences converging to distinct limits.
+<!--SR:!fsrs,2026-10-30T01:35:03.198Z,8,8.2956,1,2,1,0,0,2026-10-22T01:35:03.198Z-->
 
 * **Universal Subsequential Convergence:** A sequence $(a_n)$ converges to a limit $L$ if and only if **every** subsequence of $(a_n)$ converges to $L$.
 * **Even and Odd Subsequences:** If both the subsequence of even-indexed terms ($a_{2k}$) and the subsequence of odd-indexed terms ($a_{2k-1}$) converge to the *same* limit $L$, then the full sequence $(a_n)$ converges to $L$.

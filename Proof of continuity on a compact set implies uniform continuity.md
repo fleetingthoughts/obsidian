@@ -5,7 +5,7 @@ tags:
   - micro/math/abbott/ch4
 date_created: 2026-09-27
 ---
-Prove: A function that is continuous on a compact set $K$ is uniformly continuous on $K$. **Back:**
+Prove: A function that is continuous on a compact set $K$ is uniformly continuous on $K$.
 #### Notes
 - Assume for contradiction $f$ is continuous but fails to be uniformly continuous.
     

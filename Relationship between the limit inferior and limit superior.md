@@ -10,7 +10,8 @@ date_created: 2026-07-24
 ---
 State and prove the universal relationship between the limit inferior and limit superior
 #### Notes
-**Statement of the Universal Relationship** For any bounded real sequence $(a_n)$, the limit inferior is always less than or equal to the limit superior:
+For any bounded real sequence $(a_n)$, the limit inferior is always less than or equal to the limit superior:
+<!--SR:!fsrs,2026-10-30T01:43:08.423Z,8,8.2956,1,2,1,0,0,2026-10-22T01:43:08.423Z-->
 
   
 

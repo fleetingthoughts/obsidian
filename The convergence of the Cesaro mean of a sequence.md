@@ -10,7 +10,13 @@ date_created: 2026-07-24
 ---
 Define the Cesaro mean of a sequence $(a_n)$ and what propositions can we make relating the convergence of the sequence of Cesaro means and the convergence of the sequence
 #### Notes
-Based on the prompt in image_dc8a96.png, here is the definition and the core propositions relating the two forms of convergence:
+1. Write the difference $c_n - L = \frac{1}{n} \sum_{k=1}^n (a_k - L)$.
+2. Fix $\epsilon > 0$. Choose $N \in \mathbb{N}$ such that $\vert{}a_k - L\vert{} < \frac{\epsilon}{2}$ for all $k > N$.
+3. Split the sum into two parts: $k \le N$ and $k > N$.
+4. Bound the second sum strictly by $\frac{n-N}{n} \frac{\epsilon}{2} < \frac{\epsilon}{2}$.
+5. Observe the first sum is a fixed finite value divided by $n$; choose $M > N$ such that this term is bounded by $\frac{\epsilon}{2}$ for all $n > M$.
+6. Conclude $\vert{}c_n - L\vert{} < \epsilon$ for all $n > M$.
+<!--SR:!fsrs,2026-10-30T01:42:41.963Z,8,8.2956,1,2,1,0,0,2026-10-22T01:42:41.963Z-->
 
 **Definition of the Cesàro Mean**
 For a given sequence $(a_n)$, the sequence of its Cesàro means, typically denoted as $(c_n)$, is defined as the arithmetic average of the first $n$ terms of the sequence:

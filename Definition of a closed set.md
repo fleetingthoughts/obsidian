@@ -8,3 +8,4 @@ date_created: 2026-07-24
 What is the definition of a closed set $F \subseteq \mathbf{R}$?
 #### Notes
 A set $F \subseteq \mathbf{R}$ is closed if it contains its limit points.
+<!--SR:!fsrs,2026-10-30T01:56:35.313Z,8,8.2956,1,2,1,0,0,2026-10-22T01:56:35.313Z-->

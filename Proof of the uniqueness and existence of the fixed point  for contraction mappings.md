@@ -10,6 +10,7 @@ Prove: If $f : \mathbf{R} \to \mathbf{R}$ is a contraction mapping and $(y_n)$ i
 If $f : \mathbf{R} \to \mathbf{R}$ is a contraction mapping with fixed point $y$, then for any arbitrary $x \in \mathbf{R}$, the sequence $(x, f(x), f(f(x)), \dots)$ converges to $y$.
 #### Notes
 - Existence: Take the limit of the recurrence $y_{n+1} = f(y_n)$. By the continuity of $f$, $\lim y_{n+1} = f(\lim y_n)$, establishing $y = f(y)$.
+<!--SR:!fsrs,2026-10-30T01:43:57.315Z,8,8.2956,1,2,1,0,0,2026-10-22T01:43:57.315Z-->
     
 - Uniqueness: Assume two fixed points $y$ and $z$. Then $\vert{}y - z\vert{} = \vert{}f(y) - f(z)\vert{} \le c\vert{}y - z\vert{}$.
     

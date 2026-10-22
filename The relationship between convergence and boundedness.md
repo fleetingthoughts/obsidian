@@ -10,7 +10,12 @@ date_created: 2026-07-24
 ---
 State the relationship between a convergence sequence and its boundedness and prove it.
 #### Notes
-### Relationship Between a Convergent Sequence and Boundedness
+1. Let $(a_n)$ converge to $L$ and set $\epsilon = 1$.
+2. Invoke convergence to find $N \in \mathbb{N}$ such that $\vert{}a_n - L\vert{} < 1$ for all $n \ge N$.
+3. Apply the reverse triangle inequality to establish $\vert{}a_n\vert{} < \vert{}L\vert{} + 1$ for $n \ge N$.
+4. Define $M = \max\{\vert{}a_1\vert{}, \vert{}a_2\vert{}, \dots, \vert{}a_{N-1}\vert{}, \vert{}L\vert{} + 1\}$.
+5. Conclude $\vert{}a_n\vert{} \le M$ for all $n \in \mathbb{N}$, satisfying the definition of a bounded sequence.
+<!--SR:!fsrs,2026-10-30T01:40:56.994Z,8,8.2956,1,2,1,0,0,2026-10-22T01:40:56.994Z-->
 
 * **Relationship:** Every convergent sequence is bounded. *(Note: The converse is false; a bounded sequence is not necessarily convergent, such as $a_n = (-1)^n$)*.
 
