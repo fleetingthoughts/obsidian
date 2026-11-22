@@ -14,6 +14,6 @@ tags:
   - philosophy
 status:
 rating out of 10:
-date_created: 2025-12-29
+date_created: 2022-12-29
 ---
 

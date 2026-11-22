@@ -16,6 +16,6 @@ isbn-13: "9780140275360"
 cover: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/71FVVdj9w4L._SL1500_.jpg
 status:
 rating out of 10:
-date_created: 2025-12-29
+date_created: 2022-12-29
 ---
 

@@ -6,7 +6,7 @@ tags:
   - philosophy
   - science
   - "#book"
-date_created: 12/28/2025
+date_created: 12/28/2022
 author: Peter-Godfrey Smith
 edition: 1st
 original publication year: "2009"

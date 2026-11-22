@@ -15,7 +15,7 @@ tags:
   - philosophy
 status:
 rating out of 10:
-date_created: 2025-12-29
+date_created: 2022-12-29
 ---
 My motivations for reading this book comes from [Peter-Godfrey Smith's introductory book to the philosophy of science](Theory%20and%20Reality%20-%20Introduction%20to%20the%20Philosophy%20of%20Science.md) where he cites Hempel's work as an introduction to the logical positivists/empiricists. Philosophy of Natural Science was quoted in the suggested readings at the end of Chapter 2 to be a (former) classic introduction to the topic. While many of the views have been criticized, abandoned, and considered dead, such as the covering law model in this book, I think there is use in examining what is largely seen as one of the first pushes into what we now call the modern philosophy of science and understand how it was explained and why it failed. Additionally while views may have failed, there are still concepts and ideas that more current fields have taken from logical positivism, such as [Unificationism refining the covering law model](Theory%20and%20Reality%20-%2013%20Explanation.md) so there is still value to be extracted in the ideas even if the overall concept was deemed a failure.
 

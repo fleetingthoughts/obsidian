@@ -14,7 +14,7 @@ tags:
   - plato
 status:
 rating out of 10:
-date_created: 2025-12-29
+date_created: 2022-12-29
 ---
 The Apology lays out the core ideas of Socrates' raison d'etre. Socrates' defense against the accusations is not a defense on his own material person, but rather to the act of philosophizing itself and its transcendence from the material concerns like death, wealth, and reputation.
 # Outline

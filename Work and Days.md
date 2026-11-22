@@ -14,6 +14,6 @@ isbn-13: "9780872201798"
 cover: https://m.media-amazon.com/images/I/71vlOxl3qLL._AC_UF1000,1000_QL80_.jpg
 status:
 rating out of 10:
-date_created: 2025-12-29
+date_created: 2022-12-29
 ---
 

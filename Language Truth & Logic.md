@@ -15,6 +15,6 @@ tags:
   - logical_empiricism
 status:
 rating out of 10:
-date_created: "{{date:YYYY-MM-DD}}"
+date_created: 2022-12-29
 ---
 
