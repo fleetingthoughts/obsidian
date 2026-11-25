@@ -8,3 +8,4 @@ date_created: 2022-08-25
 Let $f: [a, b] \to \mathbb{R}$ be bounded and let $P \subseteq Q$ be partitions of $[a, b]$. State the inequality relating the upper and lower sums of $P$ and $Q$.
 #### Notes
 $L(f, P) \le L(f, Q) \le U(f, Q) \le U(f, P)$.
+<!--SR:!fsrs,2026-12-03T22:15:41.652Z,8,8.2956,1,2,1,0,0,2026-11-25T22:15:41.652Z-->

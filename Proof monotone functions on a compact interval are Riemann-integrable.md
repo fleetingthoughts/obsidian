@@ -8,6 +8,7 @@ date_created: 2022-08-25
 Prove: If $f: [a, b] \to \mathbb{R}$ is bounded and monotonically increasing on $[a, b]$, then $f$ is Riemann-integrable on $[a, b]$.
 #### Notes
 - **Uniform partition construction:** Assume $f(a) \lt f(b)$ (otherwise $f$ is constant) and let $P_n$ be the uniform partition of $[a, b]$ with $\Delta x_k = \frac{b - a}{n}$.
+<!--SR:!fsrs,2026-12-03T22:04:31.147Z,8,8.2956,1,2,1,0,0,2026-11-25T22:04:31.147Z-->
     
 - **Endpoint extrema:** Monotonicity implies $m_k = f(x_{k-1})$ and $M_k = f(x_k)$ on every subinterval $[x_{k-1}, x_k]$.
     
