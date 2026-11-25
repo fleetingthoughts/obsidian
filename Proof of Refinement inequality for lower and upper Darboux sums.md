@@ -8,6 +8,7 @@ date_created: 2022-08-25
 Prove: Let $f: [a, b] \to \mathbb{R}$ be bounded and let $P, Q$ be partitions of $[a, b]$. If $P \subseteq Q$, then $L(f, P) \le L(f, Q)$ and $U(f, P) \ge U(f, Q)$.
 #### Notes
 - **Single-point reduction:** Adjoin one point $z \in (x_{k-1}, x_k)$ to $P$ and split the interval length as $x_k - x_{k-1} = (x_k - z) + (z - x_{k-1})$.
+<!--SR:!fsrs,2026-12-03T21:51:30.155Z,8,8.2956,1,2,1,0,0,2026-11-25T21:51:30.155Z-->
     
 - **Subinterval infima comparison:** Define $m_k' = \inf_{x \in [z, x_k]} f(x)$ and $m_k'' = \inf_{x \in [x_{k-1}, z]} f(x)$; subset inclusion of domains yields $m_k \le m_k'$ and $m_k \le m_k''$.
     

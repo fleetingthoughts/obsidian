@@ -5,7 +5,7 @@ tags:
   - micro/math/abbott/ch7
 date_created: 2022-08-25
 ---
-Prove: If $f: [a, b] \to \mathbb{R}$ is monotone increasing on $[a, b]$, then $f$ is Riemann-integrable on $[a, b]$.
+Prove: If $f: [a, b] \to \mathbb{R}$ is bounded and monotonically increasing on $[a, b]$, then $f$ is Riemann-integrable on $[a, b]$.
 #### Notes
 - **Uniform partition construction:** Assume $f(a) \lt f(b)$ (otherwise $f$ is constant) and let $P_n$ be the uniform partition of $[a, b]$ with $\Delta x_k = \frac{b - a}{n}$.
     
