@@ -8,6 +8,7 @@ date_created: 2022-08-25
 Prove: If $f: [a, b] \to \mathbb{R}$ is continuous on $[a, b]$, then $f$ is Riemann-integrable on $[a, b]$.
 #### Notes
 - **Uniform continuity:** Compactness of $[a, b]$ ensures $f$ is bounded and uniformly continuous; given $\epsilon \gt 0$, choose $\delta \gt 0$ such that $\vert{}x - y\vert{} \lt \delta \implies \vert{}f(x) - f(y)\vert{} \lt \frac{\epsilon}{b - a}$.
+<!--SR:!fsrs,2026-11-25T22:28:10.183Z,0,0.212,6.4133,1,1,0,0,2026-11-25T22:27:10.183Z-->
     
 - **Mesh control:** Select a partition $P = \{x_0, x_1, \dots, x_n\}$ of $[a, b]$ with $\Delta x_k = x_k - x_{k-1} \lt \delta$ for all $k$.
     
