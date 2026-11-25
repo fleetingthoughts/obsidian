@@ -8,3 +8,4 @@ date_created: 2022-08-25
 Prove: If $f: [a, b] \to \mathbb{R}$ is bounded and for every $\epsilon \gt 0$ there exists a partition $P_\epsilon$ of $[a, b]$ with $U(f, P_\epsilon) - L(f, P_\epsilon) \lt \epsilon$, then $f$ is Riemann-integrable on $[a, b]$.
 #### Notes
 By definition of $U(f)$ and $L(f)$, $0 \le U(f) - L(f) \le U(f, P_\epsilon) - L(f, P_\epsilon) \lt \epsilon$. Since $\epsilon \gt 0$ is arbitrary, $U(f) = L(f)$.
+<!--SR:!fsrs,2026-12-03T21:39:57.489Z,8,8.2956,1,2,1,0,0,2026-11-25T21:39:57.489Z-->

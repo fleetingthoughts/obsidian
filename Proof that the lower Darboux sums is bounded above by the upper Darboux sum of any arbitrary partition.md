@@ -11,3 +11,4 @@ Prove: Let $f: [a, b] \to \mathbb{R}$ be bounded. For any two partitions $P_1$ a
 - **Lower refinement bound:** Apply the refinement inequality to $P_1 \subseteq Q$ to obtain $L(f, P_1) \le L(f, Q)$.
 - **Same-partition comparison:** Use $m_k \le M_k$ on every subinterval of $Q$ to establish $L(f, Q) \le U(f, Q)$.
 - **Upper refinement bound and transitivity:** Apply the refinement inequality to $P_2 \subseteq Q$ to get $U(f, Q) \le U(f, P_2)$, chaining into $L(f, P_1) \le L(f, Q) \le U(f, Q) \le U(f, P_2)$.
+<!--SR:!fsrs,2026-11-25T21:47:40.616Z,0,2.3065,2.11810397,1,1,0,1,2026-11-25T21:37:40.616Z-->
