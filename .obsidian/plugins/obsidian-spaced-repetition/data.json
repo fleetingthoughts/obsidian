@@ -6,11 +6,11 @@
     ],
     "flashcardTagsToIgnore": [
       "#micro/philosophy",
-      "#micro/math/courant"
+      "#micro/math/courant_calc1"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
-    "flashcardCardOrder": "NewFirstRandom",
+    "flashcardCardOrder": "NewFirstSequential",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertClozePatternsToInputs": false,
     "convertHighlightsToClozes": true,
