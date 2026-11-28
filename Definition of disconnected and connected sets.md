@@ -8,3 +8,4 @@ date_created: 2026-09-11
 Define a disconnected and connected set
 #### Notes
 A set $E \subseteq \mathbf{R}$ is disconnected if it can be written as $E = A \cup B$, where $A$ and $B$ are nonempty separated sets. A set that is not disconnected is called a connected set.
+<!--SR:!fsrs,2026-12-06T05:19:12.522Z,8,8.2956,1,2,1,0,0,2026-11-28T05:19:12.522Z-->
