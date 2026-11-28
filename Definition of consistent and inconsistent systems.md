@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 3.3 Systems of Linear Equations - Theoretical Aspects]]"
 tags:
   - "#flashcard"
-  - micro/math/abbott/ch3
+  - micro/math/friedberg/ch3
 date_created: 2026-09-27
 ---
 Define a consistent system of linear equations and an inconsistent system.

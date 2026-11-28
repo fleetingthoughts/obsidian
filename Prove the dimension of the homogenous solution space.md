@@ -2,7 +2,7 @@
 parent: "[[Linear Algebra by Friedberg, Insel, and Spence - 3.3 Systems of Linear Equations - Theoretical Aspects]]"
 tags:
   - "#flashcard"
-  - micro/math/abbott/ch3
+  - micro/math/friedberg/ch3
 date_created: 2026-09-28
 ---
 Prove: Let $Ax = 0$ be a homogeneous system of $m$ linear equations in $n$ unknowns over a field $F$, and let $K$ be its solution set. Then $\text{dim}(K) = n - \text{rank}(A)$
