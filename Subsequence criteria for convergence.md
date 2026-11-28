@@ -10,6 +10,7 @@ date_created: 2026-07-24
 Given a sequence $(a_n)$, what propositions solely about its subsequences are sufficient  for the divergence or convergence of $(a_n)$.
 #### Notes
 The sequence $(a_n)$ contains a divergent subsequence.
+<!--SR:!fsrs,2026-12-06T04:38:29.130Z,8,8.2956,1,2,1,0,0,2026-11-28T04:38:29.130Z-->
 
 The sequence $(a_n)$ contains two subsequences converging to distinct limits.
 <!--SR:!fsrs,2026-10-30T01:35:03.198Z,8,8.2956,1,2,1,0,0,2026-10-22T01:35:03.198Z-->
